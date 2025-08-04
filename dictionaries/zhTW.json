@@ -1,0 +1,1304 @@
+{
+  "nav": {
+    "home": "首頁",
+    "combinePdf": "合併PDF",
+    "blog": "部落格",
+    "selectLanguage": "選擇語言"
+  },
+  "home": {
+    "title": "線上合併PDF檔案 - 免費、快速、安全",
+    "description": "使用GabungPDF.id輕鬆合併PDF！免費、快速、安全的線上工具，幾秒鐘內合併PDF檔案。無需註冊。",
+    "mergeNow": "立即合併PDF",
+    "sec1Para": "在當今快節奏的數位世界中，高效管理文件對於個人和專業任務都至關重要。一個常見的需求是將<strong>多個PDF檔案合併</strong>成一個流暢的文件。無論您是在準備報告、整理發票還是共享多個檔案，合併PDF都可以節省時間並保持文件井然有序。",
+    "SecH1": "為什麼要合併PDF檔案？",
+    "SecH1P1": "將多個PDF檔案合併為一個文件具有許多優勢。以下是您應該考慮使用PDF合併工具的原因：",
+    "SecH1UlLi1": "<strong>組織和效率：</strong>發送單個合併的PDF而不是多個檔案簡化了共享和審閱過程。",
+    "SecH1UlLi2": "<strong>減少檔案混亂：</strong>合併PDF減少了您需要管理的檔案數量。",
+    "SecH1UlLi3": "<strong>專業演示：</strong>統一的PDF看起來精緻和專業。",
+    "SecH1UlLi4": "<strong>跨平台相容性：</strong>PDF具有通用相容性，確保您的合併文件可以在任何裝置上檢視。",
+    "steps": {
+      "title": "如何免費線上合併PDF檔案",
+      "intro": "使用像gabungPDF.id這樣的線上工具使合併PDF變得簡單易用。以下是輕鬆<strong>合併PDF</strong>檔案的分步指南：",
+      "items": [
+        {
+          "title": "步驟1：造訪gabungPDF.id",
+          "desc": "導航到gabungPDF.id，這是一個免費的線上工具，旨在幫助您在幾秒鐘內<strong>合併PDF</strong>檔案。"
+        },
+        {
+          "title": "步驟2：上傳您的PDF檔案",
+          "desc": "點擊上傳檔案按鈕選擇要合併的PDF。您可以一次上傳多個檔案。"
+        },
+        {
+          "title": "步驟3：排列檔案",
+          "desc": "上傳後，您可以拖放檔案以按所需順序排列它們。"
+        },
+        {
+          "title": "步驟4：合併和下載",
+          "desc": "排列檔案後，點擊合併按鈕。工具將<strong>合併PDF</strong>檔案為單個文件。"
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "為什麼選擇gabungPDF.id？",
+      "points": [
+        {
+          "title": "<strong>無需安裝：</strong>",
+          "desc": "與桌面軟體不同，gabungPDF.id完全線上工作。"
+        },
+        {
+          "title": "<strong>免費且安全：</strong>",
+          "desc": "該工具免費使用，沒有隱藏費用。"
+        },
+        {
+          "title": "<strong>跨裝置相容性：</strong>",
+          "desc": "無論您使用Mac、Windows、iOS還是Android裝置。"
+        },
+        {
+          "title": "<strong>多語言支援：</strong>",
+          "desc": "該平台支援全球用戶。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "使用線上PDF合併器的好處",
+      "items": [
+        {
+          "title": "<strong>可訪問性：</strong>",
+          "desc": "您可以從任何有網路連接的裝置<strong>合併PDF</strong>檔案。"
+        },
+        {
+          "title": "<strong>速度：</strong>",
+          "desc": "合併過程只需幾秒鐘，即使對於大檔案也是如此。"
+        },
+        {
+          "title": "<strong>無成本：</strong>",
+          "desc": "許多線上工具，包括gabungPDF.id，都是完全免費的。"
+        },
+        {
+          "title": "<strong>用戶友好：</strong>",
+          "desc": "不需要技術技能，初學者和專業人士都可以使用。"
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "為SEO優化您的合併PDF",
+      "intro": "如果您為專業或行銷目的創建PDF，為搜尋引擎優化它們可以增加其可見性。",
+      "items": [
+        {
+          "title": "1. 使用描述性檔案名稱",
+          "desc": "在上傳到gabungPDF.id之前，用描述性、關鍵詞豐富的名稱重新命名您的檔案。"
+        },
+        {
+          "title": "2. 添加元數據",
+          "desc": "在您的PDF中包含標題、作者和關鍵詞等元數據。"
+        },
+        {
+          "title": "3. 優化文字內容",
+          "desc": "確保您的PDF包含可搜尋的文字而不是掃描圖像。"
+        },
+        {
+          "title": "4. 包含內部連結",
+          "desc": "如果您的PDF是網站的一部分，請包含相關頁面的連結。"
+        },
+        {
+          "title": "5. 使用標題和結構",
+          "desc": "用清晰的標題（H1、H2等）和邏輯結構組織您的PDF。"
+        },
+        {
+          "title": "6. 壓縮以加快載入速度",
+          "desc": "大型PDF會減慢載入時間，這會對SEO產生負面影響。"
+        },
+        {
+          "title": "7. 為圖像添加替代文字",
+          "desc": "如果您的PDF包含圖像，請添加帶有相關關鍵詞的替代文字描述。"
+        },
+        {
+          "title": "8. 在您的網站上託管PDF",
+          "desc": "將合併的PDF上傳到您的網站並為其創建專用登陸頁面。"
+        },
+        {
+          "title": "9. 追蹤PDF檢視次數",
+          "desc": "使用Google Analytics等工具追蹤用戶如何與您的PDF互動。"
+        },
+        {
+          "title": "10. 推廣您的PDF",
+          "desc": "在社交媒體、電子郵件通訊和相關線上社群上分享您的PDF。"
+        }
+      ]
+    },
+    "useCases": {
+      "title": "合併PDF的常見用例",
+      "items": [
+        {
+          "title": "<strong>商業報告：</strong>",
+          "desc": "將報告的多個部分（如文字、圖表和圖像）合併為單個PDF以便於共享。"
+        },
+        {
+          "title": "<strong>學術項目：</strong>",
+          "desc": "學生可以<strong>合併PDF</strong>將研究論文、筆記和參考文獻編譯成一個文件。"
+        },
+        {
+          "title": "<strong>法律文件：</strong>",
+          "desc": "律師經常將合約、協議和證據合併為單個PDF以簡化審查。"
+        },
+        {
+          "title": "<strong>行銷材料：</strong>",
+          "desc": "通過將圖像和文字檔案合併為一個有凝聚力的PDF來創建專業小冊子。"
+        },
+        {
+          "title": "<strong>個人使用：</strong>",
+          "desc": "將掃描的文件、收據或照片合併為一個PDF以進行存檔或共享。"
+        }
+      ]
+    },
+    "comparison": {
+      "title": "將gabungPDF.id與其他工具進行比較",
+      "intro": "雖然gabungPDF.id是合併PDF的首選，但Adobe Acrobat、iLovePDF和PDF2Go等其他工具也提供類似功能。",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id：</strong>",
+          "desc": "免費，無需註冊，支援多種檔案格式，處理後刪除檔案以保護隱私。"
+        },
+        {
+          "title": "<strong>Adobe Acrobat：</strong>",
+          "desc": "提供免費的線上合併器，但需要登入才能使用高級功能。"
+        },
+        {
+          "title": "<strong>iLovePDF：</strong>",
+          "desc": "具有壓縮和轉換等附加功能的強大工具，但某些功能需要高級訂閱。"
+        },
+        {
+          "title": "<strong>PDF2Go：</strong>",
+          "desc": "支援複雜檔案和大頁數，但免費版本可能有檔案大小限制。"
+        }
+      ]
+    },
+    "tips": {
+      "title": "無縫PDF合併體驗的提示",
+      "items": [
+        {
+          "title": "<strong>檢查檔案相容性：</strong>",
+          "desc": "確保所有檔案都是PDF或支援的格式（例如JPG、PNG）。"
+        },
+        {
+          "title": "<strong>預覽您的檔案：</strong>",
+          "desc": "在合併之前查看檔案的順序和內容以避免錯誤。"
+        },
+        {
+          "title": "<strong>使用安全平台：</strong>",
+          "desc": "選擇像gabungPDF.id這樣優先考慮隱私並在處理後刪除檔案的工具。"
+        },
+        {
+          "title": "<strong>測試輸出：</strong>",
+          "desc": "打開合併的PDF以確認佈局和內容在共享之前是正確的。"
+        }
+      ]
+    },
+    "ConclusionH1": "結論",
+    "conclusion": "合併PDF檔案是簡化文件管理的簡單而強大的方法。無論您是組織報告的專業人士、編譯研究的學生，還是歸檔個人文件的人，像gabungPDF.id這樣的工具都可以輕鬆免費線上<strong>合併PDF</strong>檔案。"
+  },
+  "combinePdf": {
+    "title": "合併PDF檔案",
+    "dragDrop": "將PDF檔案拖放至此處",
+    "clickBrowse": "或點擊以選擇檔案",
+    "selectFiles": "選擇檔案",
+    "maxSize": "每個檔案最大容量：50MB",
+    "combineButton": "合併PDF",
+    "filesCount": "PDF檔案數",
+    "S1H1": "PDF合併：如何合併PDF檔案—免費技巧",
+    "S1P1": "在現代數位時代，PDF檔案（可攜式文件格式）已成為分享和儲存文件的必備工具。與Microsoft Word或Google Docs的DOC檔案不同，PDF能在任何裝置和作業系統上保持其格式不變，使其成為專業和個人使用的理想選擇——無論是報告、簡報還是表單。",
+    "S1P2": "然而，處理PDF檔案有時會很複雜，尤其是在需要合併多個檔案時。在本指南中，我們將說明為何需要合併PDF，如何使用我們的免費工具輕鬆合併，以及如何簡化您的文件管理流程。",
+    "S2H1": "PDF檔案為何獨特且通用",
+    "S2P1": "PDF設計用於確保文件格式在任何裝置或軟體上都能準確顯示。不同於依賴系統設定（如字體或作業系統）的DOC檔案，PDF格式固定，保證字體、版面及圖片不變，這使其非常適合合約、履歷或電子書等專業文件。",
+    "S2P2": "這種穩定性使PDF在網際網路文件交換中非常流行。寄送商業提案或歸檔重要資料時，PDF能確保文件顯示如同建立時一樣。然而，這也使得編輯或合併PDF檔案較為困難，需專門軟體。幸運的是，我們的免費線上工具簡化了這一流程，讓您無需安裝昂貴軟體即可輕鬆合併PDF。",
+    "combine_pdf_files": {
+      "intro": "為何需要合併PDF檔案？",
+      "para": "合併PDF是許多專業人士、學生及其他使用者的常見需求。以下是一些適用場景：",
+      "items": [
+        {
+          "title": "製作大型報告：",
+          "desc": "如果您有多個報告或章節分散在不同PDF檔案中，可以合併為一個文件，便於分享和檢視。"
+        },
+        {
+          "title": "掃描文件歸檔：",
+          "desc": "掃描的文件如收據或表格，通常需要合併為一個檔案以便管理。"
+        },
+        {
+          "title": "簡化簡報：",
+          "desc": "將來自不同PDF的投影片或章節合併，提高簡報的專業性。"
+        },
+        {
+          "title": "方便分享：",
+          "desc": "與其寄送多個檔案，寄送一個合併後的PDF即可一次分享所有內容。"
+        }
+      ],
+      "para2": "與DOC檔案不同，從掃描的PDF中複製貼上文字通常很困難，尤其是沒有OCR技術的情況下。我們的免費工具解決了這個問題：您可同時合併最多20個檔案，無需付費軟體或專業知識。"
+    },
+    "stepbystep": {
+      "intro": "如何合併PDF檔案——分步指南",
+      "para": "我們簡便的線上工具讓PDF合併快速高效。無論合併2個還是20個檔案，都無需安裝或註冊，依照以下步驟操作即可：",
+      "items": [
+        {
+          "title": "步驟1：上傳PDF檔案",
+          "desc": "在我們平台點擊「選擇檔案」按鈕，從裝置中選取檔案，或者使用拖曳功能一次上傳多個檔案，方便快捷。"
+        },
+        {
+          "title": "步驟2：調整檔案順序",
+          "desc": "上傳後，檔案會按合併順序顯示，頂部為第一個檔案，依序排列。您可以拖動調整檔案順序。"
+        },
+        {
+          "title": "步驟3：合併並下載",
+          "desc": "確認無誤後，點擊「合併PDF」，系統會自動生成合併檔案並啟動下載。快速安全，無需安裝任何額外軟體。"
+        }
+      ],
+      "intro2": "想合併更多檔案？",
+      "para2": "沒問題！我們支援批次處理。合併第一批檔案後下載結果，然後將其與其他PDF一起上傳繼續合併，重複操作直到完成所有檔案的合併。",
+      "intro3": "重要提示：請在1小時內下載",
+      "para3": "為了保護您的資料安全，合併後的檔案只在伺服器上保存1小時，之後自動刪除，以釋放空間並保護隱私。"
+    },
+    "benefits": {
+      "intro": "我們免費PDF合併工具的優勢",
+      "para": "我們的服務專注於簡單、便捷和高效，以下是為何選擇我們的理由：",
+      "items": [
+        {
+          "title": "無需安裝：",
+          "desc": "與傳統PDF編輯器不同，我們的服務完全線上，支援任何連網裝置。"
+        },
+        {
+          "title": "免費且無使用限制：",
+          "desc": "一次最多合併20個PDF檔案，完全免費，無需訂閱。"
+        },
+        {
+          "title": "操作介面直覺：",
+          "desc": "拖曳功能及簡潔設計，適合所有用戶輕鬆上手。"
+        },
+        {
+          "title": "快速處理：",
+          "desc": "合併過程僅需幾秒，節省您的寶貴時間。"
+        },
+        {
+          "title": "安全保障：",
+          "desc": "您的檔案在處理後1小時內自動刪除，保障隱私安全。"
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "何時需要合併PDF檔案？",
+      "para": "合併PDF在許多場合都很有用，以下是一些典型案例：",
+      "items": [
+        {
+          "title": "專業人士：",
+          "desc": "將發票、合約和提案合併為一個PDF，方便寄送給客戶或同事。"
+        },
+        {
+          "title": "學生和教師：",
+          "desc": "合併筆記、課程論文或文章，便於學習或提交。"
+        },
+        {
+          "title": "法律及行政文件：",
+          "desc": "合併掃描的表格或合約，便於歸檔或法律用途。"
+        },
+        {
+          "title": "創意專案：",
+          "desc": "將草圖、作品集或分鏡表合併為一個文件，方便展示或評審。"
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "PDF使用小貼士",
+      "para": "為了獲得最佳合併效果，請注意以下建議：",
+      "items": [
+        {
+          "title": "檢查檔案順序：",
+          "desc": "確保檔案按正確順序排列，避免混淆。"
+        },
+        {
+          "title": "優化檔案大小：",
+          "desc": "如果PDF包含大量圖片或圖形，建議先壓縮以減少檔案大小。"
+        },
+        {
+          "title": "使用清晰的檔名：",
+          "desc": "為檔案命名（例如：Bao_cao_Chuong1.pdf）以便識別。"
+        },
+        {
+          "title": "備份原始檔案：",
+          "desc": "保留原檔案副本，以便需要修改或重新合併時使用。"
+        },
+        {
+          "title": "嘗試其他工具：",
+          "desc": "如需編輯、轉換或壓縮PDF，可試試我們平台上的其他免費服務。"
+        }
+      ]
+    },
+    "why_choose": "為什麼選擇我們的工具而非付費軟體？",
+    "why_choose_para": "付費PDF編輯器如Adobe Acrobat提供更多進階功能，但我們的免費工具已滿足大多數用戶需求。無需付費或訂閱，即可輕鬆合併檔案。Gabung PDF.id適合從小企業到學生的各類用戶，提供專業效果且使用簡單。",
+    "why_choose_para2": "我們的平台優化了速度與便利性。無論您使用電腦、平板還是手機，都能隨時隨地無縫合併PDF，兼容性強。對重視速度和可靠性且不願複雜學習的用戶而言，這是理想選擇。",
+    "conclusion": "總結",
+    "conclusion_para": "合併PDF檔案無需複雜或昂貴。透過我們的免費線上工具，您可以一次合併多達20個檔案，輕鬆調整順序，並在幾秒內下載合成文件。無論是準備報告、歸檔掃描文件，還是製作簡報，我們的服務都能簡化流程，無需安裝或專業技能。"
+  },
+  "blog": {
+    "title": "PDF技巧、教學和指南",
+    "description": "通過專家指南、實用技巧和分步教學掌握PDF管理。學習如何更高效地處理文件。",
+    "searchPlaceholder": "搜尋文章、教學和指南...",
+    "articles": "文章",
+    "readers": "讀者",
+    "available": "可用",
+    "featuredArticle": "特色文章",
+    "mostPopular": "本週最受歡迎",
+    "readArticle": "閱讀文章",
+    "readFull": "閱讀完整文章",
+    "minRead": "分鐘閱讀",
+    "featureblog": {
+      "title": "本週最受歡迎",
+      "subtitle": "⭐ 精選文章",
+      "featuredArticle": {
+        "date": "2025年7月2日",
+        "author": "管理員",
+        "category": "精選文章",
+        "headline": "GabungPDF.id：最簡單的 PDF 合併工具",
+        "excerpt": "使用 GabungPDF.id 輕鬆合併 PDF 文件，這是免費的線上 PDF 合併工具。數秒內安全合併 PDF，無需安裝任何軟體。立即提升工作效率！",
+        "readTime": "閱讀時間：3 分鐘",
+        "buttonName": "閱讀完整文章"
+      }
+    },
+    "blogsPage": {
+      "cards": [
+        {
+          "BlogImage": "/Blog1Image.webp",
+          "date": "2025年6月2日",
+          "author": "管理員",
+          "category": null,
+          "headline": "GabungPDF.id：結合 PDF 文件的終極工具",
+          "headlineLink": "/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "excerpt": "使用 GabungPDF.id 輕鬆結合 PDF 文件，這是您免費的線上 PDF 合併工具。數秒內安全合併 PDF，無需安裝軟體。立即體驗！",
+          "readTime": "閱讀時間 3 分鐘",
+          "readMoreText": "blog.readArticle",
+          "slug": "gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "detail": {
+            "intro": "在 GabungPDF.id，我們設計了一個使用者友善的線上工具，讓您輕鬆結合 PDF 文件。無論您是技術達人還是新手，我們的平台都適合所有人。以下是 GabungPDF.id 脫穎而出的原因：",
+            "features": [
+              {
+                "title": "免費且易於使用",
+                "description": "無需訂閱或隱藏費用，只需上傳並合併。"
+              },
+              {
+                "title": "無需安裝軟體",
+                "description": "我們的工具完全在線運行，節省您裝置的空間。"
+              },
+              {
+                "title": "快速且安全",
+                "description": "數秒內合併 PDF，強大加密保障您的檔案安全。"
+              },
+              {
+                "title": "使用者友善介面",
+                "description": "拖放操作，輕鬆點擊即可合併檔案。"
+              }
+            ],
+            "intro2": "準備好簡化您的文件管理了嗎？我們將逐步引導您如何使用我們的 PDF 合併工具快速合併檔案。",
+            "how_to_use": {
+              "title": "如何使用 GabungPDF.id 合併 PDF 文件",
+              "paragraph": "使用 GabungPDF.id 合併 PDF 文件就像 1-2-3 一樣簡單。請按照以下步驟，快速建立完整且專業的 PDF 文件：",
+              "steps": [
+                {
+                  "title": "上傳您的檔案",
+                  "description": "前往 https://gabungpdf.id/ 並點擊「上傳」按鈕，從您的裝置選取要合併的 PDF 文件。您可以一次上傳多個檔案。"
+                },
+                {
+                  "title": "排列順序",
+                  "description": "拖放檔案，按照您希望的順序重新排序，確保最終文件邏輯清晰。"
+                },
+                {
+                  "title": "合併並下載",
+                  "description": "點擊「合併 PDF」按鈕，我們的工具會將您的檔案合併為一個。完成後，即可立即下載新的 PDF 檔案。"
+                }
+              ],
+              "note": "就是這麼簡單！不需要繁瑣設定或技術知識。無論您要合併兩個還是二十個檔案，GabungPDF.id 都能輕鬆應對。"
+            },
+            "benefits": {
+              "title": "使用線上 PDF 合併工具的好處",
+              "paragraph": "選擇 GabungPDF.id 這類線上 PDF 合併工具，相較於傳統軟體或手動方法，有多項優勢。以下是我們脫穎而出的原因：",
+              "items": [
+                {
+                  "title": "節省時間",
+                  "description": "使用桌面軟體手動合併 PDF 不僅費時，還常需昂貴授權。GabungPDF.id 可讓您在任何連網裝置上於數秒內完成合併 — 不論是筆電、平板或手機。"
+                },
+                {
+                  "title": "安全檔案處理",
+                  "description": "擔心隱私嗎？我們的平台採用先進加密技術，確保合併過程中您的檔案安全。下載完合併檔案後，我們將自動從伺服器刪除您的檔案。"
+                },
+                {
+                  "title": "經濟實惠",
+                  "description": "為什麼還要為昂貴的 PDF 編輯軟體付費？GabungPDF.id 完全免費，特別適合學生、自由工作者及中小企業。"
+                },
+                {
+                  "title": "跨平台兼容",
+                  "description": "無論是 Windows、macOS、iOS 還是 Android，我們的線上合併工具皆能順暢使用，不必擔心相容性問題。"
+                }
+              ]
+            },
+            "optimization_tips": {
+              "title": "優化合併後 PDF 的小技巧",
+              "paragraph": "為了更好使用合併後的 PDF，建議參考以下技巧：",
+              "tips": [
+                {
+                  "title": "檢查檔案順序",
+                  "description": "合併前請確認 PDF 排列順序正確，避免重來一次。"
+                },
+                {
+                  "title": "優化檔案大小",
+                  "description": "若您的 PDF 包含大尺寸圖片，建議先壓縮以降低最終檔案大小。"
+                },
+                {
+                  "title": "清楚命名檔案",
+                  "description": "為 PDF 檔案使用具描述性的名稱，方便日後辨識。"
+                },
+                {
+                  "title": "預覽最終成果",
+                  "description": "合併完成後，請檢視最終 PDF，確認一切無誤。"
+                }
+              ],
+              "paragraph2": "透過 GabungPDF.id，您可自信地合併 PDF，同時保留品質與整潔。"
+            },
+            "audience": {
+              "title": "誰適合使用 GabungPDF.id？",
+              "paragraph": "我們的 PDF 合併工具適合各類使用者，包括：",
+              "users": [
+                {
+                  "type": "學生",
+                  "description": "將講義、作業或研究報告合併為單一檔案。"
+                },
+                {
+                  "type": "專業人士",
+                  "description": "將報告、提案或合約合併，提升溝通效率。"
+                },
+                {
+                  "type": "中小企業",
+                  "description": "整理發票、收據或行銷資料為單一文件。"
+                },
+                {
+                  "type": "自由工作者",
+                  "description": "將作品集、發票或專案交付物合併給客戶。"
+                }
+              ],
+              "paragraph2": "無論您的需求為何，GabungPDF.id 都是您處理 PDF 的可靠夥伴。"
+            },
+            "why_choose_us": {
+              "title": "為何選擇 GabungPDF.id？",
+              "paragraph": "眾多工具中，GabungPDF.id 為何是最佳 PDF 合併選擇？以下是我們的優勢：",
+              "reasons": [
+                {
+                  "title": "快速",
+                  "description": "零學習門檻，直接上傳、合併與下載。"
+                },
+                {
+                  "title": "穩定可靠",
+                  "description": "穩定表現，無當機或錯誤。"
+                },
+                {
+                  "title": "全天候可用",
+                  "description": "隨時隨地 24/7 皆可使用。"
+                }
+              ],
+              "paragraph2": "別再浪費時間於繁瑣或不穩的工具，立即試用 GabungPDF.id，體驗最輕鬆的 PDF 合併方式。"
+            },
+            "conclusion": {
+              "title": "結論：使用 GabungPDF.id 簡化您的工作流程",
+              "paragraph": "合併 PDF 文件不必再煩惱。透過 GabungPDF.id，您可輕鬆合併 PDF，節省時間並保持文件有序。我們免費、安全且易於使用的工具，適合所有希望簡化工作流程的人。不論是報告、筆記還是合約，我們的工具皆能帶來專業成果。準備好開始了嗎？",
+              "cta": {
+                "text": "造訪 gabungpdf.id/combine-pdf",
+                "link": "https://gabungpdf.id/combine-pdf"
+              },
+              "Remaingparagraph": "現在就用幾下滑鼠點擊完成 PDF 合併。GabungPDF.id，讓您今天起輕鬆管理所有文件 — 您的最佳 PDF 合併工具！"
+            }
+          }
+        },
+        {
+          "BlogImage": "/FeatureBlogImage.webp",
+          "date": "2025年7月2日",
+          "author": "Admin User",
+          "category": "精選文章",
+          "headline": "GabungPDF.id：結合 PDF 文件的最簡單方法",
+          "excerpt": "使用 GabungPDF.id 輕鬆結合 PDF 文件，這是一個免費的線上 PDF 合併工具。數秒內安全合併 PDF，無需安裝任何軟體，立即提升工作效率！",
+          "readTime": "閱讀時間 3 分鐘",
+          "buttonName": "閱讀完整文章",
+          "slug": "gabungpdfid-the-easiest-way-to-combine-pdf-files",
+          "detail": {
+            "intro": "在這個時間就是金錢的時代，有效管理文件能帶來巨大的改變。不論是處理多份報告、整理客戶合約，或是整合專案資料，可靠的 PDF 合併工具都能徹底改善您的工作流程。GabungPDF.id 就是這樣一個免費、線上的工具，能快速無縫地合併 PDF 文件。本文將介紹 GabungPDF.id 如何幫助您輕鬆合併 PDF，以及為何它是專業人士、學生與企業的首選解決方案。",
+            "why_merge_pdf": {
+              "title": "為什麼要合併 PDF 文件？",
+              "paragraph": "PDF 是專業文件分享的首選格式，但同時處理多個檔案卻會拖慢進度。將 PDF 合併為單一文件，能節省時間、減少混亂並提升組織效率。以下是您可能需要合併 PDF 的幾個原因：",
+              "reasons": [
+                {
+                  "title": "簡化分享",
+                  "description": "只需傳送一個檔案，而不是多個附件，讓協作更簡單。"
+                },
+                {
+                  "title": "組織文件",
+                  "description": "將發票、表單或筆記整合成單一、易於存取的 PDF。"
+                },
+                {
+                  "title": "專業展示",
+                  "description": "將簡報、講義與筆記合併成一份完整且精緻的文件。"
+                },
+                {
+                  "title": "簡化歸檔",
+                  "description": "整合相關檔案，提升儲存與搜尋效率。"
+                }
+              ],
+              "note": "使用 GabungPDF.id，您只需幾個點擊即可完成 PDF 合併，讓文件管理更輕鬆。"
+            },
+            "features": {
+              "title": "GabungPDF 有什麼優勢？",
+              "paragraph": "在 GabungPDF.id，我們打造了一款快速、免費且人人可用的工具。不論您使用桌機、平板或智慧型手機，我們的 PDF 合併工具都能輕鬆提供專業成果。以下是使用者喜愛 GabungPDF.id 的原因：",
+              "items": [
+                {
+                  "title": "完全免費",
+                  "description": "無需訂閱、無隱藏費用，直接使用即可。"
+                },
+                {
+                  "title": "無需安裝軟體",
+                  "description": "線上工具，無需下載，即刻使用。"
+                },
+                {
+                  "title": "安全處理",
+                  "description": "您的檔案經過加密保護，使用完畢後即自動刪除。"
+                },
+                {
+                  "title": "直覺設計",
+                  "description": "簡潔介面，讓所有人都能輕鬆合併 PDF。"
+                }
+              ],
+              "next": "準備好提升工作效率了嗎？一起來了解如何使用我們的 PDF 合併工具吧！"
+            },
+            "how_to_use": {
+              "title": "如何使用 GabungPDF.id 合併 PDF 文件",
+              "paragraph": "使用 GabungPDF 合併 PDF 非常簡單，無需任何技術背景。請按照以下步驟操作：",
+              "steps": [
+                {
+                  "title": "上傳您的 PDF",
+                  "description": "前往 https://gabungpdf.id/ 選擇您要合併的 PDF 文件。您可以一次上傳多個檔案。"
+                },
+                {
+                  "title": "按需求排序",
+                  "description": "透過拖曳功能，依照您想要的順序排列檔案。"
+                },
+                {
+                  "title": "合併並下載",
+                  "description": "點擊「合併 PDF」，我們的工具會將檔案整合成單一 PDF。立即下載完成的檔案。"
+                }
+              ],
+              "note": "就是這麼簡單！不論您是要合併兩份還是數十份檔案，GabungPDF.id 都能確保流程順暢、無煩惱。"
+            },
+            "top_benefits": {
+              "title": "使用 GabungPDF.id 的主要好處",
+              "paragraph": "選擇 GabungPDF.id 這樣的線上 PDF 合併工具，將帶來前所未有的便利與效率。以下是我們脫穎而出的原因：",
+              "items": [
+                {
+                  "title": "節省時間與精力",
+                  "description": "手動合併或使用複雜軟體令人頭痛，GabungPDF.id 幫您數秒完成，節省寶貴時間。"
+                },
+                {
+                  "title": "強化安全性",
+                  "description": "我們重視您的隱私，平台採用安全加密，合併完成後自動刪除檔案。"
+                },
+                {
+                  "title": "節省成本",
+                  "description": "不必投資昂貴軟體，GabungPDF.id 完全免費，最適合學生、自由工作者與小型企業。"
+                },
+                {
+                  "title": "跨平台支援",
+                  "description": "只要有瀏覽器，不論 Windows、macOS、iOS 或 Android，隨時隨地都能合併 PDF。"
+                }
+              ]
+            },
+            "audience": {
+              "title": "誰適合使用 GabungPDF.id？",
+              "paragraph": "我們的 PDF 合併工具適用於各種需求：",
+              "users": [
+                {
+                  "type": "學生",
+                  "description": "整合學習資料、報告或研究論文成單一檔案，方便提交。"
+                },
+                {
+                  "type": "商務專業人士",
+                  "description": "合併合約、提案或報告，方便與客戶溝通。"
+                },
+                {
+                  "type": "自由工作者",
+                  "description": "建立精美作品集，或整合發票方便交付客戶。"
+                },
+                {
+                  "type": "小型企業",
+                  "description": "整理收據、行銷或法律文件成單一 PDF。"
+                }
+              ],
+              "note": "不論您的身份，GabungPDF.id 都能輕鬆簡化您的文件管理。"
+            },
+            "pro_tips": {
+              "title": "專業 PDF 合併小技巧",
+              "paragraph": "為了更有效率使用您的 PDF 合併工具，請記住以下建議：",
+              "tips": [
+                {
+                  "title": "事先規劃檔案順序",
+                  "description": "先行安排好檔案順序，節省時間。"
+                },
+                {
+                  "title": "壓縮大型檔案",
+                  "description": "上傳前先壓縮檔案，提升處理速度。"
+                },
+                {
+                  "title": "仔細檢查結果",
+                  "description": "預覽合併後的 PDF，確認符合需求。"
+                },
+                {
+                  "title": "將 GabungPDF.id 加入書籤",
+                  "description": "方便隨時快速存取，隨時使用。"
+                }
+              ]
+            },
+            "why_stand_out": {
+              "title": "GabungPDF.id 為何與眾不同",
+              "paragraph": "市面上的 PDF 合併工具不勝枚舉，GabungPDF.id 憑藉簡單、快速與穩定性脫穎而出。不需註冊或下載，隨時隨地立即使用。我們對安全的承諾，確保您的檔案始終受保護。不要讓零散的 PDF 拖慢您的效率，立即造訪 https://gabungpdf.id/ 體驗最快速的 PDF 合併方式。"
+            },
+            "conclusion": {
+              "title": "結論：使用 GabungPDF.id 簡化您的文件管理",
+              "paragraph": "管理多份 PDF 不必再成為負擔。GabungPDF.id 幫您快速、安全、免費地合併 PDF 文件。我們用戶友好的設計，無論是學生、專業人士或企業主，都能有效提升效率。告別混亂的文件，迎向有條理又專業的 PDF。立即造訪 gabungpdf.id/combine-pdf 體驗最快的 PDF 合併流程，今天就開始簡化您的工作吧！"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "將多個PDF檔案合併為一個文件的最簡單方法。快速、安全且完全免費使用。",
+    "contact": "聯絡我們：",
+    "quickLinks": "快速連結",
+    "privacyPolicy": "隱私政策",
+    "termsOfService": "服務條款",
+    "allRights": "版權所有"
+  },
+  "privacy": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "目錄",
+        "items": [
+          {
+            "icon": "👁️",
+            "label": "概覽",
+            "target": "Overview"
+          },
+          {
+            "icon": "📊",
+            "label": "我們收集的信息",
+            "target": "information-collection"
+          },
+          {
+            "icon": "🔧",
+            "label": "我們如何使用您的信息",
+            "target": "how-we-use"
+          },
+          {
+            "icon": "🗄️",
+            "label": "數據保留與刪除",
+            "target": "data-retention"
+          },
+          {
+            "icon": "🤝",
+            "label": "數據共享",
+            "target": "data-sharing"
+          },
+          {
+            "icon": "🔒",
+            "label": "數據安全",
+            "target": "data-security"
+          },
+          {
+            "icon": "🌍",
+            "label": "國際數據傳輸",
+            "target": "international-transfers"
+          },
+          {
+            "icon": "⚖️",
+            "label": "您的權利",
+            "target": "your-rights"
+          },
+          {
+            "icon": "🔗",
+            "label": "第三方連結",
+            "target": "third-party-links"
+          },
+          {
+            "icon": "👶",
+            "label": "兒童隱私",
+            "target": "children"
+          },
+          {
+            "icon": "🔄",
+            "label": "政策變更",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "聯繫我們",
+            "target": "contact"
+          }
+        ]
+      },
+      "privacySummary": {
+        "title": "隱私摘要",
+        "points": [
+          "檔案於 1 小時內自動刪除",
+          "我們不儲存您的文件",
+          "僅收集最少數據",
+          "端對端加密"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "Overview",
+        "icon": "👁️",
+        "title": "概覽",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "在 www.gabungpdf.id（“本網站”），由 Gabung PDF（“我們”）運營，我們致力於保護您的隱私。本隱私政策解釋了當您使用我們的 PDF 合併服務時，我們如何收集、使用和保護您的資訊。使用本網站，即表示您同意本隱私政策。"
+          },
+          {
+            "type": "highlight",
+            "title": "我們的核心原則：",
+            "text": "我們僅為提供服務而處理您的檔案，並於 1 小時內自動刪除。我們不會在必要的處理期限之外存取、查看或儲存您的檔案內容。"
+          }
+        ]
+      },
+      {
+        "id": "information-collection",
+        "icon": "📊",
+        "title": "我們收集的信息",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "用戶上傳的檔案",
+            "text": "當您使用我們的服務時，您會上傳 PDF 檔案以進行合併。這些檔案可能包含個人資訊，但我們不會在臨時處理所需時間之外存取、查看或儲存其內容。"
+          },
+          {
+            "type": "subsection",
+            "title": "自動收集的數據",
+            "text": "我們可能收集非個人資訊，例如：",
+            "list": [
+              "設備資訊（如瀏覽器類型、作業系統、IP 位址）",
+              "使用數據（如造訪頁面、停留時間及服務互動）"
+            ]
+          },
+          {
+            "type": "subsection",
+            "title": "Cookies 與追蹤技術",
+            "text": "我們可能使用 cookies 或類似技術改善您的體驗並分析網站使用情況。您可透過瀏覽器設定管理 cookies 偏好。"
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "icon": "🔧",
+        "title": "我們如何使用您的信息",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "提供服務",
+            "text": "我們僅為合併您的 PDF 檔案並提供下載鏈結而處理您的檔案。"
+          },
+          {
+            "type": "subsection",
+            "title": "網站改進",
+            "text": "我們使用非個人數據（例如使用統計數據）來分析並改進網站功能與效能。"
+          },
+          {
+            "type": "subsection",
+            "title": "法律遵循",
+            "text": "如法律要求或為保護我們的權利、安全或財產，我們可能使用或披露資訊。"
+          }
+        ]
+      },
+      {
+        "id": "data-retention",
+        "icon": "🗄️",
+        "title": "數據保留與刪除",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "已上傳的檔案",
+            "text": "所有上傳的 PDF 檔案及其合併結果將於 1 小時內自我們伺服器自動刪除。我們不保留您的檔案副本。"
+          },
+          {
+            "type": "subsection",
+            "title": "其他數據",
+            "text": "非個人數據（例如使用統計數據）可能會在必要期間內保留，以改進網站或符合法律義務。"
+          }
+        ]
+      },
+      {
+        "id": "data-sharing",
+        "icon": "🤝",
+        "title": "數據共享",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "不與第三方共享",
+            "text": "除法律要求或保護我們權益外，我們不出售、共享或轉讓您的上傳檔案或個人資訊予第三方。"
+          },
+          {
+            "type": "subsection",
+            "title": "服務提供者",
+            "text": "我們可能使用第三方服務提供者（如託管或分析服務）營運本網站。這些提供者受保密義務約束，僅能代我們處理資料。"
+          }
+        ]
+      },
+      {
+        "id": "data-security",
+        "icon": "🔒",
+        "title": "數據安全",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "我們採取合理的技術與組織措施以保護您的數據免遭未經授權存取、遺失或濫用。然而，任何線上服務均無法保證絕對安全。"
+          }
+        ]
+      },
+      {
+        "id": "international-transfers",
+        "icon": "🌍",
+        "title": "國際數據傳輸",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "若您位於印尼以外地區，您的數據可能被轉移至印尼或我們伺服器或服務供應商所在其他國家進行處理。我們確保此類傳輸具備適當保障措施。"
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "icon": "⚖️",
+        "title": "您的權利",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "根據您所在地，您可能擁有以下數據保護法律所賦予的權利："
+          },
+          {
+            "type": "list",
+            "items": [
+              "查詢或請求刪除您的資料",
+              "反對或限制某些數據處理"
+            ]
+          },
+          {
+            "type": "highlight",
+            "text": "欲行使這些權利，請聯絡 admin@gabungpdf.id。請注意，由於我們於 1 小時內刪除檔案，可能無法提供任何個人資料。"
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "icon": "🔗",
+        "title": "第三方連結",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "本網站可能包含第三方網站的連結。我們不對該等網站的隱私措施或內容承擔責任。"
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "icon": "👶",
+        "title": "兒童隱私",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "本網站不適用於 18 歲以下使用者。我們不會有意收集兒童個人資訊。"
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "政策變更",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "我們可能不時更新本隱私政策。變更將於此頁公布並更新“最後更新日期”。"
+          },
+          {
+            "type": "highlight",
+            "text": "您於變更後繼續使用本網站，即視為接受更新後的隱私政策。"
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "聯繫我們",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "如對本隱私政策有疑問，請聯絡 admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "我們的隱私承諾",
+      "desc": "我們非常重視您的隱私。以下是使我們的服務值得信賴的原因：",
+      "points": [
+        {
+          "title": "自動刪除",
+          "desc": "檔案會在 1 小時內自動刪除"
+        },
+        {
+          "title": "加密傳輸",
+          "desc": "所有上傳都使用安全的 HTTPS 加密"
+        },
+        {
+          "title": "不讀取檔案",
+          "desc": "我們從不存取或閱讀您的檔案內容"
+        },
+        {
+          "title": "不分享",
+          "desc": "您的檔案絕不會與第三方分享"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "有疑問嗎？",
+      "description": "我們隨時協助解答任何有關隱私的疑慮或問題。",
+      "links": [
+        {
+          "label": "服務條款",
+          "href": "/terms-of-service",
+          "icon": "📄"
+        },
+        {
+          "label": "聯繫我們團隊",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Terms": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "目錄",
+        "items": [
+          {
+            "icon": "✅",
+            "label": "條款接受",
+            "target": "acceptance"
+          },
+          {
+            "icon": "🔧",
+            "label": "網站使用",
+            "target": "use-of-site"
+          },
+          {
+            "icon": "📁",
+            "label": "使用者檔案",
+            "target": "user-files"
+          },
+          {
+            "icon": "©️",
+            "label": "智慧財產權",
+            "target": "intellectual-property"
+          },
+          {
+            "icon": "⚠️",
+            "label": "責任限制",
+            "target": "limitation-liability"
+          },
+          {
+            "icon": "⚖️",
+            "label": "賠償責任",
+            "target": "indemnification"
+          },
+          {
+            "icon": "🚫",
+            "label": "終止",
+            "target": "termination"
+          },
+          {
+            "icon": "🏛️",
+            "label": "適用法律",
+            "target": "governing-law"
+          },
+          {
+            "icon": "🔄",
+            "label": "條款更改",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "聯絡我們",
+            "target": "contact"
+          }
+        ]
+      },
+      "termsSummary": {
+        "title": "條款摘要",
+        "points": [
+          "免費 PDF 合併服務",
+          "使用者需年滿 18 歲",
+          "檔案於 1 小時內刪除",
+          "僅可用於合法用途"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "acceptance",
+        "icon": "✅",
+        "title": "條款接受",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "歡迎使用 www.gabungpdf.id（「本網站」），此服務由 Gabung PDF（「我們」）提供。本服務條款（「條款」）規範您對本網站及其 PDF 合併服務的使用。使用或瀏覽本網站，即表示您同意遵守這些條款。"
+          },
+          {
+            "type": "highlight",
+            "title": "重要聲明：",
+            "text": "若您不同意這些條款，請勿使用本網站。"
+          }
+        ]
+      },
+      {
+        "id": "use-of-site",
+        "icon": "🔧",
+        "title": "網站使用",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "使用資格",
+            "text": "您必須年滿 18 歲或具備訂立本條款之法律能力，方可使用本網站。"
+          },
+          {
+            "type": "subsection",
+            "title": "允許用途",
+            "text": "本網站允許您上傳 PDF 檔案，將其合併為單一 PDF，並下載結果。您僅可出於合法目的並遵守本條款使用本網站。"
+          },
+          {
+            "type": "subsection",
+            "title": "禁止用途",
+            "text": "您不得：",
+            "list": [
+              "上傳包含病毒、惡意程式或其他有害程式碼的檔案",
+              "使用本網站以違反任何適用法律、法規或第三方權利",
+              "企圖干擾、破壞或逆向工程本網站之功能",
+              "未經我們事先書面同意，將本網站用於商業目的"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "user-files",
+        "icon": "📁",
+        "title": "使用者檔案",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "暫時處理",
+            "text": "上傳的檔案僅用於合併 PDF 處理，並於處理後 1 小時內自動從我們的伺服器刪除。我們不會超出此期限保存或保留您的檔案。"
+          },
+          {
+            "type": "subsection",
+            "title": "您的責任",
+            "text": "您對所上傳檔案的內容負全部責任。您必須確認您擁有該檔案的上傳與處理權利，且該檔案不侵犯任何第三方權利（例如：著作權、商標權）。"
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "icon": "©️",
+        "title": "智慧財產權",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "網站內容",
+            "text": "本網站所有內容，包括文字、圖像、標誌及軟體，均為我們所有或已獲授權，並受智慧財產權法律保障。"
+          },
+          {
+            "type": "subsection",
+            "title": "使用者內容",
+            "text": "您保留所上傳檔案的所有權利。上傳檔案即表示您授權我們有限、非獨佔、免權利金之許可，僅為提供 PDF 合併服務使用。"
+          }
+        ]
+      },
+      {
+        "id": "limitation-liability",
+        "icon": "⚠️",
+        "title": "責任限制",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "免責聲明",
+            "text": "本網站按「現狀」提供，不作任何明示或暗示之保證，包括但不限於適售性、特定用途適用性或不侵權等保證。"
+          },
+          {
+            "type": "subsection",
+            "title": "責任上限",
+            "text": "在法律允許的範圍內，對於因您使用本網站而產生的任何間接、附帶、特殊或後果性損害，即使事先已被告知可能發生該等損害，我們亦不承擔任何責任。"
+          },
+          {
+            "type": "subsection",
+            "title": "服務中斷",
+            "text": "我們不保證本網站之不間斷或無誤運作，亦不對任何延誤、中斷或資料遺失負責。"
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "icon": "⚖️",
+        "title": "賠償責任",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "您同意因您使用本網站、上傳檔案或違反本條款所引起之任何索賠、損失或損害（包括法律費用），對我們提供賠償並使其免受損害。"
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "icon": "🚫",
+        "title": "終止",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "如您違反本條款，或基於其他原因，我們可自行決定暫停或終止您對本網站之使用，無需事先通知。"
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "icon": "🏛️",
+        "title": "適用法律",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "本條款受印尼法律管轄，不考慮法律衝突原則。凡因本條款所引起之任何爭議，應提交印尼法院解決。"
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "條款更改",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "我們可能不時更新本條款。相關變更將於本頁面公布，並更新「最後更新日期」。"
+          },
+          {
+            "type": "highlight",
+            "text": "您在變更後繼續使用本網站，即表示接受已更新的條款。"
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "聯絡我們",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "如您對本條款有任何疑問，請聯繫 admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "主要協議要點",
+      "desc": "在使用我們的服務時，請了解您的權利與責任。",
+      "points": [
+        {
+          "title": "公平使用",
+          "desc": "負責任且合法地使用我們的服務"
+        },
+        {
+          "title": "您的檔案",
+          "desc": "您保留所有上傳檔案的所有權"
+        },
+        {
+          "title": "禁止濫用",
+          "desc": "禁止的使用將導致服務終止"
+        },
+        {
+          "title": "有限責任",
+          "desc": "服務以「現狀」提供，不提供任何保證"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "有疑問嗎？",
+      "description": "我們隨時協助您解答關於條款或服務的任何疑慮。",
+      "links": [
+        {
+          "label": "隱私政策",
+          "href": "/privacy-policy",
+          "icon": "🔒"
+        },
+        {
+          "label": "聯絡法律團隊",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Content": {
+    "Policy": {
+      "title": "隱私政策",
+      "desc": "我們致力於保護您的隱私並確保您的檔案安全。了解當您使用我們的 PDF 合併服務時，我們如何收集、使用及保護您的資訊。",
+      "Updated": "最後更新：",
+      "date": "2025年6月6日"
+    },
+    "Terms": {
+      "title": "服務條款",
+      "desc": "這些條款規範您使用我們的 PDF 合併服務。請在使用本網站前仔細閱讀。",
+      "Updated": "最後更新：",
+      "date": "2025年6月6日"
+    }
+  },
+  "MiniFooter": {
+    "heading": "準備好安全合併您的 PDF 嗎？",
+    "subheading": "體驗我們以隱私為重點的 PDF 合併服務，讓您安心無憂。",
+    "button": "立即合併 PDF"
+  },
+  "Seo": {
+    "Home": {
+      "title": "免費線上合併PDF - 輕鬆快速合併PDF檔案",
+      "description": "使用 GabungPDF.id 免費線上合併PDF文件。簡單易用的PDF合併工具，無需安裝，無需註冊。立即輕鬆合併PDF！"
+    },
+    "CombinePdf": {
+      "title": "免費線上合併PDF檔案 - 快速又簡單的PDF合併器",
+      "description": "使用 GabungPDF.id 免費線上合併PDF。快速且易於使用的PDF合併工具，無需註冊或安裝。立即合併PDF檔案！"
+    },
+    "Blog": {
+    "title": "合併PDF部落格：PDF合併技巧與指南",
+    "description": "探索Gabung PDF的部落格，獲取有關合併PDF的專家技巧、教學和簡化PDF任務的工具。立即閱讀以獲取見解！"
+  },
+    "Blog1": {
+      "title": "最簡單的合併PDF方法｜合併PDF",
+      "description": "使用 Gabung PDF 發現最簡單的合併PDF方法。免費、快速、使用者友善的PDF合併工具。快來試試看！"
+    },
+    "Blog2": {
+      "title": "終極PDF合併工具｜合併PDF",
+      "description": "Gabung PDF 是線上合併PDF檔案的終極工具。快速、安全、免費。立即輕鬆合併PDF！"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF 隱私政策｜安全的PDF合併",
+      "description": "閱讀 Gabung PDF 的隱私政策，了解我們如何在安全合併PDF時保護您的資料。立即了解更多。"
+    },
+    "TermsAndCondition": {
+      "title": "Gabung PDF 服務條款｜PDF合併",
+      "description": "查看 Gabung PDF 的服務條款，了解如何使用我們免費且安全的線上PDF合併工具。立即瞭解我們的政策。"
+    }
+  }
+}

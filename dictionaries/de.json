@@ -1,0 +1,1305 @@
+{
+  "nav": {
+    "home": "Startseite",
+    "combinePdf": "PDF Kombinieren",
+    "blog": "Blog",
+    "selectLanguage": "Sprache Auswählen"
+  },
+  "home": {
+    "title": "PDF-Dateien Online Kombinieren - Kostenlos, Schnell und Sicher",
+    "description": "Kombinieren Sie PDFs einfach mit GabungPDF.id! Kostenloses, schnelles und sicheres Online-Tool zum Zusammenführen von PDF-Dateien in Sekunden. Keine Registrierung erforderlich.",
+    "mergeNow": "PDFs Jetzt Zusammenführen",
+    "sec1Para": "In der heutigen schnelllebigen digitalen Welt ist die effiziente Verwaltung von Dokumenten für persönliche und berufliche Aufgaben von entscheidender Bedeutung. Ein häufiger Bedarf ist das <strong>Kombinieren von PDF-Dateien</strong> zu einem einzigen, optimierten Dokument.",
+    "SecH1": "Warum PDF-Dateien Kombinieren?",
+    "SecH1P1": "Das Kombinieren mehrerer PDF-Dateien zu einem Dokument bietet zahlreiche Vorteile. Hier ist, warum Sie die Verwendung eines PDF-Zusammenführungstools in Betracht ziehen sollten:",
+    "SecH1UlLi1": "<strong>Organisation und Effizienz:</strong> Anstatt mehrere Dateien zu senden, vereinfacht eine einzige zusammengeführte PDF das Teilen und Überprüfen.",
+    "SecH1UlLi2": "<strong>Reduzierung von Datei-Unordnung:</strong> Das Zusammenführen von PDFs reduziert die Anzahl der Dateien, die Sie verwalten müssen.",
+    "SecH1UlLi3": "<strong>Professionelle Präsentation:</strong> Eine einheitliche PDF sieht poliert und professionell aus.",
+    "SecH1UlLi4": "<strong>Plattformübergreifende Kompatibilität:</strong> PDFs sind universell kompatibel.",
+    "SecH1EndPara": "Mit einem Tool wie <strong>gabungPDF.id</strong> können Sie PDFs schnell zusammenführen, ohne Software installieren oder sich für ein Konto registrieren zu müssen.",
+    "steps": {
+      "title": "Wie Man PDF-Dateien Online Kostenlos Zusammenführt",
+      "intro": "Die Verwendung eines Online-Tools wie gabungPDF.id macht das Zusammenführen von PDFs unkompliziert und zugänglich.",
+      "items": [
+        {
+          "title": "Schritt 1: Besuchen Sie gabungPDF.id",
+          "desc": "Navigieren Sie zu gabungPDF.id, einem kostenlosen Online-Tool, das entwickelt wurde, um Ihnen beim <strong>Zusammenführen von PDF-Dateien</strong> in Sekunden zu helfen."
+        },
+        {
+          "title": "Schritt 2: Laden Sie Ihre PDF-Dateien Hoch",
+          "desc": "Klicken Sie auf die Schaltfläche \"Dateien Hochladen\", um die PDFs auszuwählen, die Sie kombinieren möchten."
+        },
+        {
+          "title": "Schritt 3: Ordnen Sie die Dateien An",
+          "desc": "Nach dem Hochladen können Sie die Dateien per Drag & Drop in Ihre gewünschte Reihenfolge bringen."
+        },
+        {
+          "title": "Schritt 4: Zusammenführen und Herunterladen",
+          "desc": "Nach dem Anordnen Ihrer Dateien klicken Sie auf die Schaltfläche \"Kombinieren\". Das Tool wird <strong>PDF-Dateien zusammenführen</strong> zu einem einzigen Dokument."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Warum gabungPDF.id Wählen?",
+      "points": [
+        {
+          "title": "<strong>Keine Installation Erforderlich:</strong>",
+          "desc": "Im Gegensatz zu Desktop-Software funktioniert gabungPDF.id vollständig online."
+        },
+        {
+          "title": "<strong>Kostenlos und Sicher:</strong>",
+          "desc": "Das Tool ist kostenlos zu verwenden, ohne versteckte Gebühren."
+        },
+        {
+          "title": "<strong>Geräteübergreifende Kompatibilität:</strong>",
+          "desc": "Ob Sie Mac, Windows, iOS oder Android verwenden."
+        },
+        {
+          "title": "<strong>Mehrsprachige Unterstützung:</strong>",
+          "desc": "Die Plattform unterstützt Benutzer weltweit."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Vorteile der Verwendung eines Online-PDF-Zusammenführers",
+      "items": [
+        {
+          "title": "<strong>Zugänglichkeit:</strong>",
+          "desc": "Sie können <strong>PDF-Dateien zusammenführen</strong> von jedem Gerät mit Internetverbindung."
+        },
+        {
+          "title": "<strong>Geschwindigkeit:</strong>",
+          "desc": "Der Zusammenführungsprozess dauert Sekunden, auch bei großen Dateien."
+        },
+        {
+          "title": "<strong>Kostenlos:</strong>",
+          "desc": "Viele Online-Tools sind völlig kostenlos."
+        },
+        {
+          "title": "<strong>Benutzerfreundlich:</strong>",
+          "desc": "Keine technischen Fähigkeiten erforderlich."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Optimierung Ihrer Zusammengeführten PDFs für SEO",
+      "intro": "Wenn Sie PDFs für professionelle oder Marketing-Zwecke erstellen, kann deren Optimierung für Suchmaschinen ihre Sichtbarkeit erhöhen.",
+      "items": [
+        {
+          "title": "1. Verwenden Sie Beschreibende Dateinamen",
+          "desc": "Bevor Sie Ihr PDF zu gabungPDF.id hochladen, benennen Sie Ihre Dateien mit beschreibenden, schlüsselwortreichen Namen um."
+        },
+        {
+          "title": "2. Fügen Sie Metadaten Hinzu",
+          "desc": "Fügen Sie Metadaten wie Titel, Autor und Schlüsselwörter in Ihr PDF ein."
+        },
+        {
+          "title": "3. Optimieren Sie Textinhalt",
+          "desc": "Stellen Sie sicher, dass Ihr PDF durchsuchbaren Text anstatt gescannter Bilder enthält."
+        },
+        {
+          "title": "4. Fügen Sie Interne Links Hinzu",
+          "desc": "Wenn Ihr PDF Teil einer Website ist, fügen Sie Links zu relevanten Seiten hinzu."
+        },
+        {
+          "title": "5. Verwenden Sie Überschriften und Struktur",
+          "desc": "Organisieren Sie Ihr PDF mit klaren Überschriften und einer logischen Struktur."
+        },
+        {
+          "title": "6. Komprimieren für Schnelleres Laden",
+          "desc": "Große PDFs können Ladezeiten verlangsamen."
+        },
+        {
+          "title": "7. Fügen Sie Alt-Text zu Bildern Hinzu",
+          "desc": "Wenn Ihr PDF Bilder enthält, fügen Sie Alt-Text-Beschreibungen hinzu."
+        },
+        {
+          "title": "8. Hosten Sie PDFs auf Ihrer Website",
+          "desc": "Laden Sie Ihr zusammengeführtes PDF auf Ihre Website hoch und erstellen Sie eine dedizierte Landingpage."
+        },
+        {
+          "title": "9. Verfolgen Sie PDF-Ansichten",
+          "desc": "Verwenden Sie Tools wie Google Analytics, um zu verfolgen, wie Benutzer mit Ihren PDFs interagieren."
+        },
+        {
+          "title": "10. Bewerben Sie Ihr PDF",
+          "desc": "Teilen Sie Ihr PDF in sozialen Medien, E-Mail-Newslettern und relevanten Online-Communities."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Häufige Anwendungsfälle für das Zusammenführen von PDFs",
+      "items": [
+        {
+          "title": "<strong>Geschäftsberichte:</strong>",
+          "desc": "Kombinieren Sie mehrere Abschnitte eines Berichts in eine einzige PDF zum einfachen Teilen."
+        },
+        {
+          "title": "<strong>Akademische Projekte:</strong>",
+          "desc": "Studenten können Forschungsarbeiten, Notizen und Referenzen zusammenführen."
+        },
+        {
+          "title": "<strong>Rechtsdokumente:</strong>",
+          "desc": "Anwälte führen oft Verträge, Vereinbarungen und Belege zusammen."
+        },
+        {
+          "title": "<strong>Marketing-Materialien:</strong>",
+          "desc": "Erstellen Sie professionelle Broschüren durch Kombinieren von Bildern und Textdateien."
+        },
+        {
+          "title": "<strong>Persönliche Nutzung:</strong>",
+          "desc": "Führen Sie gescannte Dokumente, Belege oder Fotos zusammen."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Vergleich von gabungPDF.id mit Anderen Tools",
+      "intro": "Während gabungPDF.id eine Top-Wahl für das Zusammenführen von PDFs ist, bieten andere Tools ähnliche Funktionalität.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Kostenlos, keine Registrierung, unterstützt mehrere Dateiformate."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Bietet einen kostenlosen Online-Zusammenführer, erfordert aber Anmeldung für erweiterte Funktionen."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Ein robustes Tool mit zusätzlichen Funktionen wie Komprimierung und Konvertierung."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Unterstützt komplexe Dateien und große Seitenzahlen."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Tipps für eine Reibungslose PDF-Zusammenführungserfahrung",
+      "items": [
+        {
+          "title": "<strong>Überprüfen Sie Dateikompatibilität:</strong>",
+          "desc": "Stellen Sie sicher, dass alle Dateien im PDF- oder unterstützten Format vorliegen."
+        },
+        {
+          "title": "<strong>Vorschau Ihrer Dateien:</strong>",
+          "desc": "Überprüfen Sie die Reihenfolge und den Inhalt Ihrer Dateien vor dem Zusammenführen."
+        },
+        {
+          "title": "<strong>Verwenden Sie Sichere Plattformen:</strong>",
+          "desc": "Wählen Sie Tools wie gabungPDF.id, die Privatsphäre priorisieren."
+        },
+        {
+          "title": "<strong>Testen Sie die Ausgabe:</strong>",
+          "desc": "Öffnen Sie die zusammengeführte PDF, um zu bestätigen, dass Layout und Inhalt korrekt sind."
+        }
+      ]
+    },
+    "ConclusionH1": "Fazit",
+    "conclusion": "Das Zusammenführen von PDF-Dateien ist eine einfache, aber mächtige Methode zur Optimierung Ihrer Dokumentenverwaltung. Ob Sie ein Profi sind, der Berichte organisiert, ein Student, der Forschung zusammenstellt, oder jemand, der persönliche Dokumente archiviert, Tools wie gabungPDF.id machen es einfach, <strong>PDF-Dateien online kostenlos zu kombinieren</strong>. Beginnen Sie heute mit gabungPDF.id, um <strong>PDF-Dateien mühelos zusammenzuführen</strong> und die Kontrolle über Ihre digitalen Dokumente zu übernehmen!"
+  },
+  "combinePdf": {
+    "title": "PDF-Dateien kombinieren",
+    "dragDrop": "Ziehe PDF-Dateien hierher oder",
+    "clickBrowse": "klicke, um zu suchen",
+    "selectFiles": "Dateien auswählen",
+    "maxSize": "Maximale Größe pro Datei: 50 MB",
+    "combineButton": "PDFs kombinieren",
+    "filesCount": "PDFs",
+    "S1H1": "PDFs kombinieren: Wie man PDF-Dateien kombiniert - Ein Tipp, um PDFs kostenlos zu zusammenzuführen",
+    "S1P1": "In der heutigen digitalen Welt sind PDF-Dateien (Portable Document Format) zu einem unverzichtbaren Bestandteil des Teilens und Speicherns von Dokumenten geworden. Im Gegensatz zu herkömmlichen DOC-Dateien, die in Microsoft Word oder Google Docs erstellt werden, behalten PDFs auf allen Geräten und Betriebssystemen ihr Format bei. Diese universelle Kompatibilität macht sie ideal für den beruflichen und persönlichen Gebrauch, sei es für das Teilen von Berichten, Präsentationen oder Formularen online.",
+    "S1P2": "Das Arbeiten mit PDFs kann jedoch manchmal herausfordernd sein, insbesondere wenn du mehrere PDF-Dateien zu einem zusammenhängenden Dokument kombinieren musst. In diesem Leitfaden erklären wir, warum das Kombinieren von PDFs wichtig ist, wie man PDFs kostenlos mit unserem benutzerfreundlichen Tool zusammenführt und welche Vorteile du durch die Vereinfachung deines Dokumentenmanagements hast.",
+    "S2H1": "Warum PDFs einzigartig und vielseitig sind",
+    "S2P1": "PDFs sind so konzipiert, dass sie das genaue Aussehen eines Dokuments bewahren, unabhängig vom Gerät oder der Software, mit der es angezeigt wird. Im Gegensatz zu DOC-Dateien, die auf systemspezifischen Einstellungen wie installierten Schriftarten oder Betriebssystemkonfigurationen basieren, funktionieren PDFs wie statische Bilder. Dies gewährleistet, dass Schriftarten, Layouts und Grafiken konsistent bleiben, wodurch sie ideal für professionelle Dokumente wie Verträge, Lebensläufe oder E-Books sind.",
+    "S2P2": "Diese Konsistenz ist der Grund, warum PDFs weit verbreitet sind, um Dokumente über das Internet zu teilen. Egal, ob du einen Geschäftsbericht oder wichtige Aufzeichnungen archivierst, PDFs stellen sicher, dass der Empfänger das Dokument genau so sieht, wie es beabsichtigt war. Diese Eigenschaft macht es jedoch schwieriger, PDFs zu bearbeiten oder zu kombinieren, als mit DOC-Dateien zu arbeiten. Ohne spezielle Software können Aufgaben wie das Hinzufügen von Seiten oder das Zusammenführen mehrerer PDFs entmutigend erscheinen. Glücklicherweise vereinfacht unser kostenloses Online-Tool den Prozess und ermöglicht es dir, PDFs mühelos zu kombinieren, ohne zusätzliche Software zu benötigen.",
+    "combine_pdf_files": {
+      "intro": "Warum PDF-Dateien kombinieren?",
+      "para": "Das Kombinieren von PDF-Dateien ist eine häufige Notwendigkeit für Fachleute, Studenten und alle, die mehrere Dokumente verwalten. Hier sind einige Szenarien, in denen das Zusammenführen von PDFs nützlich ist:",
+      "items": [
+        {
+          "title": "Erstellung umfassender Berichte:",
+          "desc": "Wenn du mehrere PDF-Berichte oder Kapitel hast, macht es das Kombinieren zu einem einzigen Dokument einfacher, sie zu teilen und zu überprüfen."
+        },
+        {
+          "title": "Archivierung gescannter Dokumente:",
+          "desc": "Gesannte PDFs, wie Quittungen oder Formulare, müssen oft in einer Datei zusammengeführt werden, um sie besser zu organisieren."
+        },
+        {
+          "title": "Präsentationen optimieren:",
+          "desc": "Das Kombinieren von Folien oder Abschnitten aus verschiedenen PDFs zu einer zusammenhängenden Präsentation verbessert Klarheit und Professionalität."
+        },
+        {
+          "title": "Dateifreigabe vereinfachen:",
+          "desc": "Anstatt mehrere Dateien zu senden, reduziert das Zusammenführen von PDFs in einer Datei die Verwirrung und stellt sicher, dass alle Informationen in einem einzigen, leicht zugänglichen Dokument enthalten sind."
+        }
+      ],
+      "para2": "Im Gegensatz zu DOC-Dateien, bei denen du einfach Inhalte kopieren und einfügen kannst, erfordern PDFs spezifische Tools, um sie zu kombinieren oder zu bearbeiten. Zum Beispiel ist das Kopieren von Text aus einem gescannten PDF oft unmöglich ohne optische Zeichenerkennung (OCR)-Software. Unser kostenloser PDF-Kombiner beseitigt diese Hürden und ermöglicht es dir, bis zu 20 PDFs gleichzeitig zu kombinieren, ohne teure Software oder technische Kenntnisse zu benötigen."
+    },
+    "stepbystep": {
+      "intro": "So kombinierst du PDF-Dateien kostenlos: Schritt-für-Schritt-Anleitung",
+      "para": "Unser benutzerfreundliches Online-Tool macht das Kombinieren von PDFs schnell und effizient. Egal, ob du zwei oder bis zu 20 Dateien kombinierst, der Prozess ist einfach und erfordert keine Installation oder Abonnement. Folge diesen Schritten, um deine PDFs nahtlos zusammenzuführen:",
+      "items": [
+        {
+          "title": "Schritt 1: Lade deine PDF-Dateien hoch",
+          "desc": "Um zu beginnen, klicke auf den 'DATEIEN HOCHLADEN'-Button in der Benutzeroberfläche unseres Tools. Wähle die gewünschten PDF-Dateien von deinem Gerät aus. Alternativ kannst du auch deine PDFs in den angegebenen Bereich 'Ziehe deine Dateien hierher' ziehen und ablegen. Diese Funktion ist besonders hilfreich, wenn du mit mehreren Dateien arbeitest, da sie Zeit spart und den Prozess vereinfacht."
+        },
+        {
+          "title": "Schritt 2: Ordne deine PDFs an",
+          "desc": "Sobald deine Dateien hochgeladen sind, zeigt dir unser Tool eine Warteschlange der Dateien an. Die Reihenfolge der Dateien in dieser Warteschlange bestimmt die Struktur des kombinierten PDFs. Das erste PDF in der Liste wird oben im endgültigen Dokument erscheinen, das zweite folgt dann und so weiter. Um sicherzustellen, dass die Reihenfolge korrekt ist, kannst du Dateien in der Warteschlange einfach per Drag-and-Drop neu anordnen."
+        },
+        {
+          "title": "Schritt 3: Kombiniere und lade herunter",
+          "desc": "Wenn du mit der Reihenfolge zufrieden bist, klicke auf den Button KOMBINIEREN. Unser System wird sofort alle hochgeladenen PDFs in einer einzigen Datei zusammenführen. Nach Abschluss des Vorgangs beginnt das kombinierte PDF automatisch mit dem Herunterladen auf dein Gerät. Der gesamte Prozess ist schnell, sicher und erfordert keine zusätzliche Software."
+        }
+      ],
+      "intro2": "Mehr PDFs kombinieren",
+      "para2": "Möchtest du noch mehr PDFs zusammenführen? Kein Problem! Unser Tool ermöglicht es dir, zusätzliche Dateien in Chargen zu kombinieren. Nachdem du deinen ersten Satz PDFs zusammengeführt hast, lade die kombinierte Datei herunter. Lade dann dieses neu erstellte PDF zusammen mit allen weiteren PDFs hoch, die du hinzufügen möchtest. Wiederhole den Vorgang, indem du erneut auf KOMBINIEREN klickst, um ein noch größeres Dokument zu erstellen. Du kannst diesen Prozess so oft wiederholen, wie du möchtest, um alle deine Dateien einzubeziehen.",
+      "intro3": "Wichtiger Hinweis: Lade innerhalb einer Stunde herunter",
+      "para3": "Um eine reibungslose Erfahrung zu gewährleisten, lade dein kombiniertes PDF innerhalb einer Stunde nach dem Zusammenführen herunter. Wenn du dies nicht tust, löscht das System die Dateien und du musst sie erneut hochladen, um den Vorgang zu starten. Diese Funktion hilft, die Sicherheit zu gewährleisten und den Serverplatz für andere Benutzer freizugeben."
+    },
+    "benefits": {
+      "intro": "Vorteile der Verwendung unseres kostenlosen PDF-Kombiners",
+      "para": "Unser Tool wurde mit Einfachheit, Zugänglichkeit und Effizienz im Hinterkopf entwickelt. Hier sind einige Gründe, warum es die beste Wahl zum Kombinieren von PDFs ist:",
+      "items": [
+        {
+          "title": "Keine Softwareinstallation erforderlich:",
+          "desc": "Im Gegensatz zu traditionellen PDF-Editoren ist unser Tool vollständig webbasiert, sodass du es von jedem Gerät mit einer Internetverbindung aus aufrufen kannst."
+        },
+        {
+          "title": "Kostenlos und unbegrenzt nutzbar:",
+          "desc": "Kombiniere bis zu 20 PDFs gleichzeitig kostenlos, ohne Kosten oder Abonnement. Für größere Projekte kannst du mehrere Chargen kombinieren, wie oben beschrieben."
+        },
+        {
+          "title": "Benutzerfreundliche Oberfläche:",
+          "desc": "Die Drag-and-Drop-Funktionalität und das intuitive Design machen es sowohl für Anfänger als auch für Profis einfach."
+        },
+        {
+          "title": "Schnelle Verarbeitung:",
+          "desc": "Unser Tool kombiniert PDFs in wenigen Sekunden, was dir Zeit und Aufwand spart."
+        },
+        {
+          "title": "Sicher und zuverlässig:",
+          "desc": "Deine Dateien werden sicher verarbeitet und nach einer Stunde von unseren Servern gelöscht, sodass deine Daten privat bleiben."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Wann solltest du PDFs kombinieren?",
+      "para": "Das Zusammenführen von PDFs ist eine wertvolle Fähigkeit in verschiedenen Situationen. Hier sind einige häufige Anwendungsfälle:",
+      "items": [
+        {
+          "title": "Geschäftsprofis:",
+          "desc": "Kombiniere Rechnungen, Verträge oder Angebote in einem einzigen Dokument, um sie einfach mit Kunden oder Kollegen zu teilen."
+        },
+        {
+          "title": "Studenten und Lehrende:",
+          "desc": "Führe Vorlesungsnotizen, Forschungsarbeiten oder Aufgaben in einer Datei zusammen, um sie für Präsentationen oder Lernmaterialien zu vereinfachen."
+        },
+        {
+          "title": "Rechtliche und administrative Aufgaben:",
+          "desc": "Organisiere gescannte Dokumente wie Verträge oder Formulare in einer einzigen PDF-Datei zum Archivieren oder für rechtliche Zwecke."
+        },
+        {
+          "title": "Kreative Projekte:",
+          "desc": "Führe Designentwürfe, Portfolios oder Storyboards zu einer zusammenhängenden PDF zusammen, um Präsentationen oder Kundenfeedback zu sammeln."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Tipps für die Arbeit mit PDFs",
+      "para": "Um das Beste aus deiner PDF-Kombinationserfahrung herauszuholen, beachte diese zusätzlichen Tipps:",
+      "items": [
+        {
+          "title": "Überprüfe die Dateireihenfolge:",
+          "desc": "Überprüfe immer die Reihenfolge deiner PDFs, bevor du sie kombinierst, um späteres Umordnen der Seiten zu vermeiden."
+        },
+        {
+          "title": "Optimiere die Dateigröße:",
+          "desc": "Wenn deine PDFs große Bilder oder Grafiken enthalten, ziehe in Betracht, sie vor dem Hochladen zu komprimieren, um die endgültige Dateigröße zu reduzieren."
+        },
+        {
+          "title": "Verwende beschreibende Dateinamen:",
+          "desc": "Benenne deine PDFs mit klaren, beschreibenden Namen (z. B. Report_Section1.pdf), um während des Zusammenführens organisiert zu bleiben."
+        },
+        {
+          "title": "Mache Sicherungskopien der Originaldateien:",
+          "desc": "Bewahre Kopien deiner Original-PDFs auf, falls du später Änderungen vornehmen oder sie erneut zusammenführen musst."
+        },
+        {
+          "title": "Entdecke zusätzliche Tools:",
+          "desc": "Wenn du PDFs bearbeiten, konvertieren oder komprimieren musst, sieh dir andere kostenlose Tools auf unserer Plattform für eine vollständige Dokumentenmanagementlösung an."
+        }
+      ]
+    },
+    "why_choose": "Warum solltest du unser Tool anstelle kostenpflichtiger Alternativen wählen?",
+    "why_choose_para": "Während kostenpflichtige PDF-Editoren wie Adobe Acrobat erweiterte Funktionen bieten, bietet unser kostenloses Tool eine kostengünstige Lösung für die meisten Benutzer. Du musst nicht in teure Software oder Abonnements investieren, um PDFs zu kombinieren. Gabung PDF.id ist für kleine Unternehmen, Studenten und alle zugänglich, die professionelle Ergebnisse ohne Komplexität benötigen.",
+    "why_choose_para2": "Darüber hinaus ist unsere Plattform auf Geschwindigkeit und Benutzerfreundlichkeit optimiert. Egal, ob du einen Desktop-Computer, ein Tablet oder ein Smartphone verwendest, du kannst PDFs unterwegs ohne Kompatibilitätsprobleme kombinieren. Diese Flexibilität macht unser Tool ideal für Benutzer, die schnelle, zuverlässige Ergebnisse ohne eine steile Lernkurve suchen.",
+    "conclusion": "Fazit",
+    "conclusion_para": "Das Kombinieren von PDF-Dokumenten muss nicht kompliziert oder teuer sein. Mit unserem kostenlosen, webbasierten PDF-Kombiner kannst du bis zu 20 PDFs gleichzeitig zusammenführen, sie problemlos neu anordnen und eine einzige, zusammenhängende Datei in wenigen Sekunden herunterladen. Egal, ob du Berichte organisierst, gescannte Dokumente archivierst oder Präsentationen vorbereitest, unser Tool vereinfacht den Prozess, ohne dass zusätzliche Software oder technische Fähigkeiten erforderlich sind."
+  },
+  "blog": {
+    "title": "PDF-Tipps, Tutorials & Anleitungen",
+    "description": "Meistern Sie PDF-Management mit Expertenanleitungen, praktischen Tipps und Schritt-für-Schritt-Tutorials.",
+    "searchPlaceholder": "Artikel, Tutorials und Anleitungen suchen...",
+    "articles": "Artikel",
+    "readers": "Leser",
+    "available": "Verfügbar",
+    "featuredArticle": "Hauptartikel",
+    "mostPopular": "Beliebteste Diese Woche",
+    "readArticle": "Artikel Lesen",
+    "readFull": "Vollständigen Artikel Lesen",
+    "minRead": "Min. Lesezeit",
+    "featureblog": {
+      "title": "Diese Woche am beliebtesten",
+      "subtitle": "⭐ Empfohlener Artikel",
+      "featuredArticle": {
+        "date": "2. Juli 2025",
+        "author": "Admin Benutzer",
+        "category": "Empfohlener Artikel",
+        "headline": "GabungPDF.id: Der einfachste Weg, PDF-Dateien zusammenzuführen",
+        "excerpt": "Führen Sie PDF-Dateien mühelos mit GabungPDF.id zusammen, dem kostenlosen Online-PDF-Tool. PDFs sicher in Sekunden zusammenführen, keine Software erforderlich. Steigern Sie jetzt Ihre Produktivität!",
+        "readTime": "3 Min. Lesezeit",
+        "buttonName": "Vollständigen Artikel lesen"
+      }
+    },
+    "blogsPage": {
+      "cards": [
+        {
+          "BlogImage": "/Blog1Image.webp",
+          "date": "2. Juni 2025",
+          "author": "Admin Benutzer",
+          "category": null,
+          "headline": "GabungPDF.id: Das ultimative Tool zum Zusammenführen von PDF-Dateien",
+          "headlineLink": "/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "excerpt": "Kombinieren Sie PDF-Dateien mühelos mit GabungPDF.id, Ihrem kostenlosen Online-PDF-Tool. PDFs sicher in Sekunden zusammenführen – keine Software erforderlich. Testen Sie unser Tool.",
+          "readTime": "3 Min. Lesezeit",
+          "readMoreText": "blog.readArticle",
+          "slug": "gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "detail": {
+            "intro": "Bei GabungPDF.id haben wir ein benutzerfreundliches, webbasiertes Tool entwickelt, das Ihnen hilft, PDF-Dateien mühelos zu kombinieren. Egal, ob Sie technisch versiert oder ein Anfänger sind – unsere Plattform ist für alle gemacht. Hier erfahren Sie, warum GabungPDF.id der beste PDF-Zusammenführer ist:",
+            "features": [
+              {
+                "title": "Kostenlos und zugänglich",
+                "description": "Keine Abonnements oder versteckten Gebühren – einfach hochladen und zusammenführen."
+              },
+              {
+                "title": "Keine Softwareinstallation",
+                "description": "Unser Tool funktioniert vollständig online und spart Speicherplatz auf Ihrem Gerät."
+              },
+              {
+                "title": "Schnell und sicher",
+                "description": "PDFs in Sekunden mit robuster Verschlüsselung zusammenführen, um Ihre Dateien zu schützen."
+              },
+              {
+                "title": "Benutzerfreundliche Oberfläche",
+                "description": "Dateien per Drag & Drop mit wenigen Klicks zusammenführen."
+              }
+            ],
+            "intro2": "Bereit, Ihr Dokumentenmanagement zu vereinfachen? So einfach funktioniert unser PDF-Tool in wenigen Schritten:",
+            "how_to_use": {
+              "title": "So kombinieren Sie PDF-Dateien mit GabungPDF.id",
+              "paragraph": "Das Zusammenführen von PDFs mit GabungPDF.id ist kinderleicht. Befolgen Sie diese Schritte, um ein sauberes, fertiges PDF-Dokument zu erstellen:",
+              "steps": [
+                {
+                  "title": "Ihre Dateien hochladen",
+                  "description": "Besuchen Sie https://gabungpdf.id/ und klicken Sie auf die Schaltfläche „Hochladen“. Wählen Sie die PDF-Dateien von Ihrem Gerät aus, die Sie zusammenführen möchten. Sie können mehrere Dateien gleichzeitig hochladen."
+                },
+                {
+                  "title": "Reihenfolge festlegen",
+                  "description": "Ziehen Sie die Dateien per Drag & Drop in die gewünschte Reihenfolge, damit Ihr fertiges Dokument logisch aufgebaut ist."
+                },
+                {
+                  "title": "Zusammenführen und herunterladen",
+                  "description": "Klicken Sie auf „PDF zusammenführen“ und unser Tool erstellt aus Ihren Dateien ein einziges PDF. Nach Abschluss können Sie Ihr neues PDF sofort herunterladen."
+                }
+              ],
+              "note": "Das war’s! Keine komplizierten Einstellungen oder technisches Wissen erforderlich. Egal, ob Sie zwei oder zwanzig Dateien zusammenführen – GabungPDF.id macht es einfach."
+            },
+            "benefits": {
+              "title": "Vorteile der Verwendung eines Online-PDF-Tools",
+              "paragraph": "Ein Online-PDF-Tool wie GabungPDF.id bietet viele Vorteile gegenüber herkömmlicher Software oder manuellen Methoden. Hier erfahren Sie, warum unser Tool ein echter Gamechanger ist:",
+              "items": [
+                {
+                  "title": "Zeit sparen",
+                  "description": "PDFs manuell oder mit Desktop-Software zusammenzuführen, kostet Zeit und oft teure Lizenzen. Mit GabungPDF.id können Sie PDFs in Sekunden von jedem Gerät mit Internetzugang zusammenführen – egal ob Laptop, Tablet oder Smartphone."
+                },
+                {
+                  "title": "Sichere Dateibehandlung",
+                  "description": "Sorgen um Datenschutz? Unsere Plattform verwendet moderne Verschlüsselung, damit Ihre Dateien während des Prozesses sicher bleiben. Nach dem Download werden Ihre Dateien von unseren Servern gelöscht."
+                },
+                {
+                  "title": "Kostengünstige Lösung",
+                  "description": "Warum teure PDF-Software kaufen? GabungPDF.id ist komplett kostenlos – ideal für Studierende, Freelancer und kleine Unternehmen, die PDFs ohne hohe Kosten zusammenführen möchten."
+                },
+                {
+                  "title": "Plattformübergreifende Kompatibilität",
+                  "description": "Ob Windows, macOS, iOS oder Android – unser webbasiertes PDF-Tool funktioniert reibungslos auf allen Plattformen. Kompatibilitätsprobleme? Fehlanzeige."
+                }
+              ]
+            },
+            "optimization_tips": {
+              "title": "Tipps zur Optimierung Ihrer zusammengeführten PDFs",
+              "paragraph": "Holen Sie das Beste aus Ihren zusammengeführten PDFs heraus mit diesen Tipps:",
+              "tips": [
+                {
+                  "title": "Dateireihenfolge prüfen",
+                  "description": "Ordnen Sie Ihre PDFs vor dem Zusammenführen in der gewünschten Reihenfolge, um spätere Korrekturen zu vermeiden."
+                },
+                {
+                  "title": "Dateigröße optimieren",
+                  "description": "Wenn Ihre PDFs große Bilder enthalten, komprimieren Sie diese vor dem Hochladen, um die endgültige Dateigröße zu reduzieren."
+                },
+                {
+                  "title": "Dateien klar benennen",
+                  "description": "Vergeben Sie beschreibende Namen, damit Ihre PDFs später leicht zuzuordnen sind."
+                },
+                {
+                  "title": "Ausgabe überprüfen",
+                  "description": "Überprüfen Sie das fertige PDF nach dem Zusammenführen, um sicherzustellen, dass alles korrekt aussieht."
+                }
+              ],
+              "paragraph2": "Mit GabungPDF.id können Sie PDF-Dateien problemlos kombinieren und dabei Qualität und Übersichtlichkeit bewahren."
+            },
+            "audience": {
+              "title": "Wer profitiert von GabungPDF.id?",
+              "paragraph": "Unser PDF-Tool ist für eine Vielzahl von Nutzern gedacht, darunter:",
+              "users": [
+                {
+                  "type": "Studierende",
+                  "description": "Kombinieren Sie Vorlesungsunterlagen, Hausarbeiten oder Forschungsdokumente in einer einzigen Datei."
+                },
+                {
+                  "type": "Berufstätige",
+                  "description": "Berichte, Angebote oder Verträge für eine reibungslose Kommunikation zusammenführen."
+                },
+                {
+                  "type": "Kleine Unternehmen",
+                  "description": "Rechnungen, Quittungen oder Marketingmaterialien in einem Dokument organisieren."
+                },
+                {
+                  "type": "Freelancer",
+                  "description": "Portfolios, Rechnungen oder Projektergebnisse für Kunden kombinieren."
+                }
+              ],
+              "paragraph2": "Ganz gleich, was Sie brauchen – GabungPDF.id ist Ihr zuverlässiger Partner rund um PDF-Dateien."
+            },
+            "why_choose_us": {
+              "title": "Warum GabungPDF.id anderen PDF-Tools überlegen ist",
+              "paragraph": "Es gibt viele Tools, aber warum ist GabungPDF.id die beste Wahl zum Zusammenführen von PDFs? Das unterscheidet uns:",
+              "reasons": [
+                {
+                  "title": "Schnelligkeit",
+                  "description": "Keine Einarbeitung – einfach hochladen, zusammenführen und herunterladen."
+                },
+                {
+                  "title": "Zuverlässigkeit",
+                  "description": "Stabile Leistung ohne Abstürze oder Fehler."
+                },
+                {
+                  "title": "Verfügbarkeit",
+                  "description": "Rund um die Uhr weltweit verfügbar."
+                }
+              ],
+              "paragraph2": "Verschwenden Sie keine Zeit mit komplizierter Software oder unzuverlässigen Tools. Probieren Sie GabungPDF.id noch heute aus – der einfachste Weg, PDF-Dateien zusammenzuführen."
+            },
+            "conclusion": {
+              "title": "Fazit: Optimieren Sie Ihre Dokumente mit GabungPDF.id",
+              "paragraph": "Das Zusammenführen von PDFs muss keine lästige Aufgabe sein. Mit GabungPDF.id können Sie PDF-Dateien schnell und sicher zusammenführen und dabei Ordnung in Ihren Dokumenten halten. Unser kostenloses, sicheres und benutzerfreundliches Tool steigert Ihre Produktivität – egal ob Sie Student, Profi oder Unternehmer sind. Verabschieden Sie sich von Dokumentenchaos und begrüßen Sie übersichtliche, professionelle PDFs. Testen Sie GabungPDF.id jetzt unter gabungpdf.id/combine-pdf – der schnellste Weg zum Zusammenführen von PDFs. Vereinfachen Sie noch heute Ihren Workflow!",
+              "cta": {
+                "text": "Besuchen Sie gabungpdf.id/combine-pdf",
+                "link": "https://gabungpdf.id/combine-pdf"
+              },
+              "Remaingparagraph": "Jetzt PDF-Dateien mit nur wenigen Klicks zusammenführen. Vereinfachen Sie Ihr Dokumentenmanagement noch heute mit GabungPDF.id – Ihrem ultimativen PDF-Tool!"
+            }
+          }
+        },
+        {
+          "BlogImage": "/FeatureBlogImage.webp",
+          "date": "2. Juli 2025",
+          "author": "Admin Benutzer",
+          "category": "Empfohlener Artikel",
+          "headline": "GabungPDF.id: Der einfachste Weg, PDF-Dateien zu kombinieren",
+          "excerpt": "Kombinieren Sie PDF-Dateien mühelos mit GabungPDF.id, dem kostenlosen Online-PDF-Kombinierer. PDFs sicher in wenigen Sekunden zusammenfügen, keine Software erforderlich. Steigern Sie jetzt Ihre Produktivität!",
+          "readTime": "3 Min. Lesezeit",
+          "buttonName": "Vollständigen Artikel lesen",
+          "slug": "gabungpdfid-the-easiest-way-to-combine-pdf-files",
+          "detail": {
+            "intro": "In einer Welt, in der Zeit Geld ist, kann ein effizienter Umgang mit Dokumenten den Unterschied machen. Ganz gleich, ob Sie mehrere Berichte verwalten, Kundenverträge organisieren oder Projektdateien zusammenstellen – ein zuverlässiges PDF-Kombinationstool kann Ihren Arbeitsablauf transformieren. Hier kommt GabungPDF.id ins Spiel – ein kostenloses Online-Tool, das PDF-Dateien schnell und nahtlos zusammenfügt. In diesem Artikel zeigen wir Ihnen, wie GabungPDF.id Ihnen hilft, PDF-Dateien mühelos zu kombinieren und warum es die ultimative Lösung für Profis, Studenten und Unternehmen ist.",
+            "why_merge_pdf": {
+              "title": "Warum PDF-Dateien zusammenfügen?",
+              "paragraph": "PDFs sind das bevorzugte Format für den Austausch professioneller Dokumente, aber der Umgang mit mehreren Dateien kann mühsam sein. Das Zusammenfügen von PDFs in ein einziges, übersichtliches Dokument spart Zeit, reduziert Unordnung und verbessert die Organisation. Hier sind einige Gründe, warum Sie PDF-Dateien kombinieren sollten:",
+              "reasons": [
+                {
+                  "title": "Teilen vereinfachen",
+                  "description": "Senden Sie eine Datei anstelle mehrerer Anhänge für eine einfachere Zusammenarbeit."
+                },
+                {
+                  "title": "Dokumente organisieren",
+                  "description": "Rechnungen, Formulare oder Notizen in einem leicht zugänglichen PDF zusammenfassen."
+                },
+                {
+                  "title": "Professionelle Präsentationen",
+                  "description": "Folien, Handouts und Notizen in einem einzigen, professionellen Dokument zusammenfassen."
+                },
+                {
+                  "title": "Archivierung vereinfachen",
+                  "description": "Verwandte Dateien für eine effiziente Speicherung und Wiederauffindbarkeit zusammenführen."
+                }
+              ],
+              "note": "Mit GabungPDF.id können Sie PDF-Dateien mit nur wenigen Klicks kombinieren und Ihre Dokumentenverwaltung vereinfachen."
+            },
+            "features": {
+              "title": "Was macht GabungPDF zum besten PDF-Kombinierer?",
+              "paragraph": "Bei GabungPDF.id haben wir ein Tool entwickelt, das schnell, kostenlos und für jeden zugänglich ist. Egal, ob Sie von einem Desktop, Tablet oder Smartphone arbeiten – unser PDF-Kombinierer liefert professionelle Ergebnisse ohne Aufwand. Deshalb lieben Nutzer GabungPDF.id:",
+              "items": [
+                {
+                  "title": "Komplett kostenlos",
+                  "description": "Keine Abos, keine versteckten Kosten – einfach zusammenfügen und herunterladen."
+                },
+                {
+                  "title": "Keine Software erforderlich",
+                  "description": "Unser webbasiertes Tool funktioniert sofort – kein Download nötig."
+                },
+                {
+                  "title": "Sichere Verarbeitung",
+                  "description": "Ihre Dateien sind durch Verschlüsselung geschützt und werden nach der Nutzung gelöscht."
+                },
+                {
+                  "title": "Intuitives Design",
+                  "description": "Eine einfache Benutzeroberfläche macht das Kombinieren von PDFs für alle zugänglich."
+                }
+              ],
+              "next": "Bereit, Ihre Produktivität zu steigern? Hier erfahren Sie, wie Sie mit unserem PDF-Kombinierer in wenigen Minuten PDF-Dateien zusammenführen."
+            },
+            "how_to_use": {
+              "title": "So verwenden Sie GabungPDF.id zum Zusammenfügen von PDF-Dateien",
+              "paragraph": "Das Kombinieren von PDFs mit GabungPDF ist unkompliziert und erfordert keine technischen Vorkenntnisse. Folgen Sie einfach diesen Schritten:",
+              "steps": [
+                {
+                  "title": "PDFs hochladen",
+                  "description": "Besuchen Sie https://gabungpdf.id/ und wählen Sie die PDF-Dateien aus, die Sie zusammenführen möchten. Sie können mehrere Dateien gleichzeitig hochladen."
+                },
+                {
+                  "title": "Nach Bedarf anordnen",
+                  "description": "Ordnen Sie Ihre Dateien mit der Drag-and-Drop-Funktion in der gewünschten Reihenfolge an."
+                },
+                {
+                  "title": "Zusammenfügen und speichern",
+                  "description": "Klicken Sie auf „PDF zusammenführen“ und unser Tool erstellt eine einzige Datei. Laden Sie Ihr neues PDF sofort herunter."
+                }
+              ],
+              "note": "So einfach ist es! Ob Sie zwei oder mehrere Dateien zusammenführen – GabungPDF.id garantiert einen reibungslosen, unkomplizierten Prozess."
+            },
+            "top_benefits": {
+              "title": "Die wichtigsten Vorteile von GabungPDF.id",
+              "paragraph": "Die Wahl eines Online-PDF-Kombinierers wie GabungPDF.id bietet unschlagbare Bequemlichkeit und Effizienz. Hier ist, warum unser Tool herausragt:",
+              "items": [
+                {
+                  "title": "Zeit und Mühe sparen",
+                  "description": "PDFs manuell oder mit komplexer Software zusammenzuführen kann mühsam sein. Mit GabungPDF.id erledigen Sie es in Sekunden und haben mehr Zeit für Wichtigeres."
+                },
+                {
+                  "title": "Erhöhte Sicherheit",
+                  "description": "Ihre Privatsphäre hat für uns höchste Priorität. Unsere Plattform verwendet sichere Verschlüsselung während des Vorgangs und löscht Ihre Dateien danach von unseren Servern."
+                },
+                {
+                  "title": "Kostenlose Lösung",
+                  "description": "Warum teure PDF-Software kaufen? GabungPDF.id ist zu 100 % kostenlos und ideal für Studenten, Freelancer und kleine Unternehmen."
+                },
+                {
+                  "title": "Universeller Zugriff",
+                  "description": "Unser Tool funktioniert auf jedem Gerät mit Browser – egal ob Windows, macOS, iOS oder Android. PDFs jederzeit und überall zusammenführen."
+                }
+              ]
+            },
+            "audience": {
+              "title": "Wer sollte GabungPDF.id verwenden?",
+              "paragraph": "Unser PDF-Kombinierer ist vielseitig genug, um eine Vielzahl von Anforderungen zu erfüllen:",
+              "users": [
+                {
+                  "type": "Studenten",
+                  "description": "Zusammenführung von Lernunterlagen, Aufsätzen oder Forschungsarbeiten für eine einfache Abgabe."
+                },
+                {
+                  "type": "Geschäftsprofis",
+                  "description": "Zusammenführung von Verträgen, Angeboten oder Berichten für eine reibungslose Kommunikation mit Kunden."
+                },
+                {
+                  "type": "Freelancer",
+                  "description": "Erstellung von professionellen Portfolios oder Zusammenführung von Rechnungen für Kunden."
+                },
+                {
+                  "type": "Kleine Unternehmen",
+                  "description": "Organisation von Quittungen, Marketingmaterialien oder rechtlichen Dokumenten in einem PDF."
+                }
+              ],
+              "note": "Unabhängig von Ihrer Rolle vereinfacht GabungPDF.id das Dokumentenmanagement mühelos."
+            },
+            "pro_tips": {
+              "title": "Profi-Tipps für das Zusammenfügen von PDFs",
+              "paragraph": "Um das Beste aus Ihrem PDF-Kombinierer herauszuholen, beachten Sie diese Tipps:",
+              "tips": [
+                {
+                  "title": "Reihenfolge der Dateien planen",
+                  "description": "Ordnen Sie PDFs vor dem Zusammenführen logisch, um Zeit zu sparen."
+                },
+                {
+                  "title": "Große Dateien komprimieren",
+                  "description": "Reduzieren Sie die Dateigröße vor dem Hochladen für eine schnellere Verarbeitung."
+                },
+                {
+                  "title": "Ausgabe überprüfen",
+                  "description": "Überprüfen Sie Ihr zusammengeführtes PDF, um sicherzustellen, dass es Ihren Anforderungen entspricht."
+                },
+                {
+                  "title": "GabungPDF.id speichern",
+                  "description": "Setzen Sie unsere Website als Lesezeichen für schnellen Zugriff, wann immer Sie PDF-Dateien kombinieren müssen."
+                }
+              ]
+            },
+            "why_stand_out": {
+              "title": "Warum GabungPDF.id unter PDF-Kombinierern herausragt",
+              "paragraph": "Bei der Vielzahl an verfügbaren PDF-Kombinierern besticht GabungPDF.id durch Einfachheit, Geschwindigkeit und Zuverlässigkeit. Im Gegensatz zu anderen Tools, die Anmeldungen oder Downloads erfordern, ist unsere Plattform sofort einsatzbereit. Darüber hinaus garantiert unser Sicherheitsversprechen, dass Ihre Dateien stets geschützt sind. Lassen Sie sich nicht von verstreuten PDFs ausbremsen. Besuchen Sie https://gabungpdf.id/ und entdecken Sie den einfachsten Weg, PDF-Dateien zusammenzuführen."
+            },
+            "conclusion": {
+              "title": "Fazit: Optimieren Sie Ihre Dokumente mit GabungPDF.id",
+              "paragraph": "Mehrere PDFs zu verwalten, muss keine Herausforderung sein. Mit GabungPDF.id kombinieren Sie PDF-Dateien schnell, sicher und kostenlos. Unser benutzerfreundlicher PDF-Kombinierer steigert Ihre Produktivität – egal ob Student, Profi oder Unternehmer. Verabschieden Sie sich vom Dokumentenchaos und begrüßen Sie organisierte, professionelle PDFs. Probieren Sie GabungPDF.id jetzt unter gabungpdf.id/combine-pdf aus und erleben Sie den schnellsten Weg, PDF-Dateien zu kombinieren. Optimieren Sie noch heute Ihren Workflow!"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "Der einfachste Weg, mehrere PDF-Dateien zu einem Dokument zu kombinieren. Schnell, sicher und völlig kostenlos zu verwenden.",
+    "contact": "Kontaktieren Sie uns:",
+    "quickLinks": "Schnelle Links",
+    "privacyPolicy": "Datenschutzrichtlinie",
+    "termsOfService": "Nutzungsbedingungen",
+    "allRights": "Alle Rechte vorbehalten"
+  },
+  "privacy": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Inhaltsverzeichnis",
+        "items": [
+          {
+            "icon": "👁️",
+            "label": "Übersicht",
+            "target": "Overview"
+          },
+          {
+            "icon": "📊",
+            "label": "Von uns erhobene Informationen",
+            "target": "information-collection"
+          },
+          {
+            "icon": "🔧",
+            "label": "Wie wir Ihre Informationen verwenden",
+            "target": "how-we-use"
+          },
+          {
+            "icon": "🗄️",
+            "label": "Datenspeicherung und -löschung",
+            "target": "data-retention"
+          },
+          {
+            "icon": "🤝",
+            "label": "Datenweitergabe",
+            "target": "data-sharing"
+          },
+          {
+            "icon": "🔒",
+            "label": "Datensicherheit",
+            "target": "data-security"
+          },
+          {
+            "icon": "🌍",
+            "label": "Internationale Datenübertragungen",
+            "target": "international-transfers"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Ihre Rechte",
+            "target": "your-rights"
+          },
+          {
+            "icon": "🔗",
+            "label": "Links von Drittanbietern",
+            "target": "third-party-links"
+          },
+          {
+            "icon": "👶",
+            "label": "Datenschutz für Kinder",
+            "target": "children"
+          },
+          {
+            "icon": "🔄",
+            "label": "Änderungen an dieser Richtlinie",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Kontaktieren Sie uns",
+            "target": "contact"
+          }
+        ]
+      },
+      "privacySummary": {
+        "title": "Datenschutzzusammenfassung",
+        "points": [
+          "Dateien werden innerhalb von 1 Stunde gelöscht",
+          "Wir speichern Ihre Dokumente nicht",
+          "Minimale Datenerhebung",
+          "Ende-zu-Ende-Verschlüsselung"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "Overview",
+        "icon": "👁️",
+        "title": "Übersicht",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Auf www.gabungpdf.id (\"die Website\"), betrieben von Gabung PDF (\"wir\", \"uns\" oder \"unser\"), verpflichten wir uns, Ihre Privatsphäre zu schützen. Diese Datenschutzrichtlinie erklärt, wie wir Ihre Informationen erfassen, verwenden und schützen, wenn Sie unseren PDF-Zusammenführungsdienst nutzen. Durch die Nutzung der Website stimmen Sie dieser Datenschutzrichtlinie zu."
+          },
+          {
+            "type": "highlight",
+            "title": "Unser Grundprinzip:",
+            "text": "Wir verarbeiten Ihre Dateien ausschließlich zur Bereitstellung unseres Dienstes und löschen sie automatisch innerhalb einer Stunde. Wir greifen nicht auf den Inhalt Ihrer Dateien zu, prüfen ihn nicht und speichern ihn auch nicht über diesen Zeitraum hinaus."
+          }
+        ]
+      },
+      {
+        "id": "information-collection",
+        "icon": "📊",
+        "title": "Von uns erhobene Informationen",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Vom Nutzer hochgeladene Dateien",
+            "text": "Wenn Sie unseren Dienst nutzen, laden Sie PDF-Dateien hoch, um diese zusammenzuführen. Diese Dateien können personenbezogene Daten enthalten, aber wir greifen nicht auf den Inhalt Ihrer Dateien zu, prüfen oder speichern diesen nicht länger als für die vorübergehende Verarbeitung erforderlich."
+          },
+          {
+            "type": "subsection",
+            "title": "Automatisch erhobene Daten",
+            "text": "Wir können nicht-personenbezogene Daten erfassen, wie z. B.:",
+            "list": [
+              "Geräteinformationen (z. B. Browsertyp, Betriebssystem, IP-Adresse)",
+              "Nutzungsdaten (z. B. besuchte Seiten, Verweildauer auf der Website, Interaktionen mit dem Dienst)"
+            ]
+          },
+          {
+            "type": "subsection",
+            "title": "Cookies und Tracking",
+            "text": "Wir können Cookies oder ähnliche Technologien verwenden, um Ihre Erfahrung zu verbessern und die Nutzung der Website zu analysieren. Sie können Ihre Cookie-Einstellungen in Ihrem Browser verwalten."
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "icon": "🔧",
+        "title": "Wie wir Ihre Informationen verwenden",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Dienstbereitstellung",
+            "text": "Wir verarbeiten Ihre hochgeladenen PDF-Dateien ausschließlich, um sie zu einer einzigen PDF-Datei zusammenzuführen und einen Download-Link bereitzustellen."
+          },
+          {
+            "type": "subsection",
+            "title": "Verbesserung der Website",
+            "text": "Wir nutzen nicht-personenbezogene Daten (z. B. Nutzungsstatistiken), um die Funktionalität und Leistung der Website zu analysieren und zu verbessern."
+          },
+          {
+            "type": "subsection",
+            "title": "Rechtliche Anforderungen",
+            "text": "Wir können Informationen verwenden oder offenlegen, wenn dies gesetzlich vorgeschrieben ist oder um unsere Rechte, Sicherheit oder unser Eigentum zu schützen."
+          }
+        ]
+      },
+      {
+        "id": "data-retention",
+        "icon": "🗄️",
+        "title": "Datenspeicherung und -löschung",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Hochgeladene Dateien",
+            "text": "Alle hochgeladenen PDF-Dateien und die daraus resultierende zusammengeführte PDF werden innerhalb von einer (1) Stunde nach der Verarbeitung automatisch von unseren Servern gelöscht. Wir bewahren keine Kopien Ihrer Dateien auf."
+          },
+          {
+            "type": "subsection",
+            "title": "Andere Daten",
+            "text": "Nicht-personenbezogene Daten (z. B. Nutzungsstatistiken) können so lange aufbewahrt werden, wie es zur Verbesserung der Website oder zur Erfüllung gesetzlicher Verpflichtungen erforderlich ist."
+          }
+        ]
+      },
+      {
+        "id": "data-sharing",
+        "icon": "🤝",
+        "title": "Datenweitergabe",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Keine Weitergabe an Dritte",
+            "text": "Wir verkaufen, teilen oder übertragen Ihre hochgeladenen Dateien oder personenbezogenen Daten nicht an Dritte, es sei denn, dies ist gesetzlich vorgeschrieben oder zum Schutz unserer Rechte notwendig."
+          },
+          {
+            "type": "subsection",
+            "title": "Dienstleister",
+            "text": "Wir können Drittanbieter (z. B. Hosting- oder Analysedienste) einsetzen, um die Website zu betreiben. Diese Anbieter sind zur Vertraulichkeit verpflichtet und dürfen Daten nur in unserem Auftrag verarbeiten."
+          }
+        ]
+      },
+      {
+        "id": "data-security",
+        "icon": "🔒",
+        "title": "Datensicherheit",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Wir setzen angemessene technische und organisatorische Maßnahmen ein, um Ihre Daten vor unbefugtem Zugriff, Verlust oder Missbrauch zu schützen. Allerdings ist kein Online-Dienst vollkommen sicher, und wir können keine absolute Sicherheit garantieren."
+          }
+        ]
+      },
+      {
+        "id": "international-transfers",
+        "icon": "🌍",
+        "title": "Internationale Datenübertragungen",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Wenn Sie sich außerhalb Indonesiens befinden, können Ihre Daten nach Indonesien oder in andere Länder übertragen und dort verarbeitet werden, in denen unsere Server oder Dienstleister ansässig sind. Wir gewährleisten angemessene Schutzmaßnahmen für solche Übertragungen."
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "icon": "⚖️",
+        "title": "Ihre Rechte",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Abhängig von Ihrem Standort haben Sie möglicherweise Rechte nach den geltenden Datenschutzgesetzen, wie zum Beispiel:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Zugriff auf Ihre Daten oder deren Löschung verlangen",
+              "Der Verarbeitung bestimmter Daten widersprechen oder diese einschränken"
+            ]
+          },
+          {
+            "type": "highlight",
+            "text": "Um diese Rechte auszuüben, kontaktieren Sie uns unter admin@gabungpdf.id. Bitte beachten Sie, dass wir Dateien innerhalb einer Stunde löschen und möglicherweise keine personenbezogenen Daten mehr zur Verfügung haben."
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "icon": "🔗",
+        "title": "Links von Drittanbietern",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Die Website kann Links zu Websites Dritter enthalten. Für deren Datenschutzpraktiken oder Inhalte übernehmen wir keine Verantwortung."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "icon": "👶",
+        "title": "Datenschutz für Kinder",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Die Website ist nicht für Nutzer unter 18 Jahren bestimmt. Wir sammeln nicht wissentlich personenbezogene Daten von Kindern."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Änderungen an dieser Richtlinie",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Wir können diese Datenschutzrichtlinie von Zeit zu Zeit aktualisieren. Änderungen werden auf dieser Seite mit einem aktualisierten „Zuletzt aktualisiert“-Datum veröffentlicht."
+          },
+          {
+            "type": "highlight",
+            "text": "Ihre fortgesetzte Nutzung der Website nach Änderungen gilt als Zustimmung zu den aktualisierten Datenschutzrichtlinien."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Kontaktieren Sie uns",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Wenn Sie Fragen zu dieser Datenschutzrichtlinie haben, kontaktieren Sie uns bitte unter admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Unser Datenschutzversprechen",
+      "desc": "Wir nehmen Ihre Privatsphäre ernst. Das macht unseren Service vertrauenswürdig:",
+      "points": [
+        {
+          "title": "Automatisches Löschen",
+          "desc": "Dateien werden innerhalb von 1 Stunde automatisch gelöscht"
+        },
+        {
+          "title": "Verschlüsselte Übertragung",
+          "desc": "Alle Uploads verwenden sichere HTTPS-Verschlüsselung"
+        },
+        {
+          "title": "Kein Datei-Einblick",
+          "desc": "Wir greifen niemals auf Ihre Dateien zu oder lesen deren Inhalte"
+        },
+        {
+          "title": "Kein Teilen",
+          "desc": "Ihre Dateien werden niemals mit Dritten geteilt"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Haben Sie Fragen?",
+      "description": "Wir helfen Ihnen gerne bei Fragen zum Datenschutz.",
+      "links": [
+        {
+          "label": "Nutzungsbedingungen",
+          "href": "/terms-of-service",
+          "icon": "📄"
+        },
+        {
+          "label": "Kontaktieren Sie unser Team",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Terms": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Inhaltsverzeichnis",
+        "items": [
+          {
+            "icon": "✅",
+            "label": "Annahme der Bedingungen",
+            "target": "acceptance"
+          },
+          {
+            "icon": "🔧",
+            "label": "Nutzung der Website",
+            "target": "use-of-site"
+          },
+          {
+            "icon": "📁",
+            "label": "Benutzerdateien",
+            "target": "user-files"
+          },
+          {
+            "icon": "©️",
+            "label": "Geistiges Eigentum",
+            "target": "intellectual-property"
+          },
+          {
+            "icon": "⚠️",
+            "label": "Haftungsbeschränkung",
+            "target": "limitation-liability"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Freistellung",
+            "target": "indemnification"
+          },
+          {
+            "icon": "🚫",
+            "label": "Beendigung",
+            "target": "termination"
+          },
+          {
+            "icon": "🏛️",
+            "label": "Anwendbares Recht",
+            "target": "governing-law"
+          },
+          {
+            "icon": "🔄",
+            "label": "Änderungen der Bedingungen",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Kontaktieren Sie uns",
+            "target": "contact"
+          }
+        ]
+      },
+      "termsSummary": {
+        "title": "Zusammenfassung der Bedingungen",
+        "points": [
+          "Kostenloser PDF-Kombinationsdienst",
+          "Nur für Nutzer ab 18 Jahren",
+          "Dateien werden innerhalb von 1 Stunde gelöscht",
+          "Nur für gesetzlich erlaubte Zwecke verwenden"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "acceptance",
+        "icon": "✅",
+        "title": "Annahme der Bedingungen",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Willkommen bei www.gabungpdf.id (\"die Website\"), einem Dienst von Gabung PDF (\"wir\", \"uns\" oder \"unser\"). Diese Nutzungsbedingungen (\"Bedingungen\") regeln Ihre Nutzung der Website und des PDF-Kombinationsdienstes. Durch den Zugriff oder die Nutzung der Website stimmen Sie diesen Bedingungen zu."
+          },
+          {
+            "type": "highlight",
+            "title": "Wichtige Vereinbarung:",
+            "text": "Wenn Sie diesen Bedingungen nicht zustimmen, nutzen Sie bitte die Website nicht."
+          }
+        ]
+      },
+      {
+        "id": "use-of-site",
+        "icon": "🔧",
+        "title": "Nutzung der Website",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Berechtigung",
+            "text": "Sie müssen mindestens 18 Jahre alt sein oder rechtsfähig sein, um diesen Bedingungen zuzustimmen und die Website nutzen zu dürfen."
+          },
+          {
+            "type": "subsection",
+            "title": "Zulässige Nutzung",
+            "text": "Die Website ermöglicht es Ihnen, PDF-Dateien hochzuladen, zu kombinieren und das Ergebnis herunterzuladen. Sie dürfen die Website nur für gesetzlich zulässige Zwecke und gemäß diesen Bedingungen nutzen."
+          },
+          {
+            "type": "subsection",
+            "title": "Unzulässige Nutzung",
+            "text": "Sie dürfen nicht:",
+            "list": [
+              "Dateien hochladen, die Viren, Malware oder anderen schädlichen Code enthalten",
+              "Die Website nutzen, um geltendes Recht, Vorschriften oder Rechte Dritter zu verletzen",
+              "Versuchen, die Funktionalität der Website zu stören, zu unterbrechen oder zurückzuentwickeln",
+              "Die Website ohne unsere vorherige schriftliche Zustimmung zu kommerziellen Zwecken nutzen"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "user-files",
+        "icon": "📁",
+        "title": "Benutzerdateien",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Temporäre Verarbeitung",
+            "text": "Hochgeladene Dateien werden verarbeitet, um PDF-Dateien zu kombinieren, und innerhalb von einer (1) Stunde nach der Verarbeitung automatisch von unseren Servern gelöscht. Wir speichern oder behalten Ihre Dateien nicht darüber hinaus."
+          },
+          {
+            "type": "subsection",
+            "title": "Ihre Verantwortung",
+            "text": "Sie sind allein verantwortlich für den Inhalt der von Ihnen hochgeladenen Dateien. Sie müssen sicherstellen, dass Sie das Recht haben, diese Dateien hochzuladen und zu verarbeiten, und dass sie keine Rechte Dritter verletzen (z. B. Urheberrechte, Markenrechte)."
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "icon": "©️",
+        "title": "Geistiges Eigentum",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Website-Inhalte",
+            "text": "Alle Inhalte der Website, einschließlich Texte, Grafiken, Logos und Software, gehören uns oder sind lizenziert und durch geistige Eigentumsrechte geschützt."
+          },
+          {
+            "type": "subsection",
+            "title": "Benutzerinhalte",
+            "text": "Sie behalten das Eigentum an den von Ihnen hochgeladenen Dateien. Durch das Hochladen der Dateien gewähren Sie uns eine eingeschränkte, nicht-exklusive, gebührenfreie Lizenz, Ihre Dateien ausschließlich zum Zwecke der Bereitstellung des PDF-Kombinationsdienstes zu verarbeiten."
+          }
+        ]
+      },
+      {
+        "id": "limitation-liability",
+        "icon": "⚠️",
+        "title": "Haftungsbeschränkung",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Keine Garantie",
+            "text": "Die Website wird \"wie sie ist\" ohne jegliche ausdrückliche oder stillschweigende Garantien bereitgestellt, einschließlich der Garantien der Marktgängigkeit, der Eignung für einen bestimmten Zweck oder der Nichtverletzung von Rechten."
+          },
+          {
+            "type": "subsection",
+            "title": "Haftungsgrenze",
+            "text": "Soweit gesetzlich zulässig, haften wir nicht für indirekte, beiläufige, besondere oder Folgeschäden, die aus Ihrer Nutzung der Website entstehen, selbst wenn wir auf die Möglichkeit solcher Schäden hingewiesen wurden."
+          },
+          {
+            "type": "subsection",
+            "title": "Dienstunterbrechungen",
+            "text": "Wir garantieren keinen unterbrechungsfreien oder fehlerfreien Zugang zur Website und haften nicht für Verzögerungen, Ausfallzeiten oder Datenverluste."
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "icon": "⚖️",
+        "title": "Freistellung",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Sie erklären sich damit einverstanden, uns von allen Ansprüchen, Verlusten oder Schäden, einschließlich Anwaltskosten, schadlos zu halten, die sich aus Ihrer Nutzung der Website, Ihren hochgeladenen Dateien oder Ihrem Verstoß gegen diese Bedingungen ergeben."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "icon": "🚫",
+        "title": "Beendigung",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Wir können nach eigenem Ermessen Ihren Zugang zur Website ohne Vorankündigung sperren oder beenden, wenn Sie gegen diese Bedingungen verstoßen oder aus einem anderen Grund."
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "icon": "🏛️",
+        "title": "Anwendbares Recht",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Diese Bedingungen unterliegen dem Recht von Indonesien unter Ausschluss von kollisionsrechtlichen Bestimmungen. Alle Streitigkeiten aus diesen Bedingungen werden vor den Gerichten in Indonesien entschieden."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Änderungen der Bedingungen",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Wir können diese Bedingungen von Zeit zu Zeit aktualisieren. Änderungen werden auf dieser Seite mit einem aktualisierten \"Zuletzt aktualisiert\"-Datum veröffentlicht."
+          },
+          {
+            "type": "highlight",
+            "text": "Ihre fortgesetzte Nutzung der Website nach Änderungen gilt als Zustimmung zu den aktualisierten Bedingungen."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Kontaktieren Sie uns",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Wenn Sie Fragen zu diesen Bedingungen haben, kontaktieren Sie uns bitte unter admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Wichtige Vereinbarungspunkte",
+      "desc": "Verstehen Sie Ihre Rechte und Pflichten bei der Nutzung unseres Dienstes.",
+      "points": [
+        {
+          "title": "Faire Nutzung",
+          "desc": "Nutzen Sie unseren Dienst verantwortungsvoll und gesetzeskonform"
+        },
+        {
+          "title": "Ihre Dateien",
+          "desc": "Sie behalten das Eigentum an allen hochgeladenen Dateien"
+        },
+        {
+          "title": "Kein Missbrauch",
+          "desc": "Verbotene Nutzungen führen zur Beendigung des Dienstes"
+        },
+        {
+          "title": "Begrenzte Haftung",
+          "desc": "Der Dienst wird „wie besehen“ ohne Gewährleistungen bereitgestellt"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Haben Sie Fragen?",
+      "description": "Wir helfen Ihnen gerne bei Fragen zu unseren Bedingungen oder Dienstleistungen.",
+      "links": [
+        {
+          "label": "Datenschutzrichtlinie",
+          "href": "/privacy-policy",
+          "icon": "🔒"
+        },
+        {
+          "label": "Kontakt zum Rechtsteam",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Content": {
+    "Policy": {
+      "title": "Datenschutzerklärung",
+      "desc": "Wir verpflichten uns, Ihre Privatsphäre zu schützen und die Sicherheit Ihrer Dateien zu gewährleisten. Erfahren Sie, wie wir Ihre Informationen sammeln, verwenden und schützen, wenn Sie unseren PDF-Zusammenführungsdienst nutzen.",
+      "Updated": "Zuletzt aktualisiert:",
+      "date": "6. Juni 2025"
+    },
+    "Terms": {
+      "title": "Nutzungsbedingungen",
+      "desc": "Diese Bedingungen regeln Ihre Nutzung unseres PDF-Zusammenführungsdienstes. Bitte lesen Sie sie sorgfältig durch, bevor Sie unsere Website verwenden.",
+      "Updated": "Zuletzt aktualisiert:",
+      "date": "6. Juni 2025"
+    }
+  },
+  "MiniFooter": {
+    "heading": "Bereit, Ihre PDFs sicher zusammenzuführen?",
+    "subheading": "Erleben Sie unseren datenschutzorientierten PDF-Zusammenführungsdienst mit vollständiger Sicherheit.",
+    "button": "PDFs jetzt zusammenführen"
+  },
+  "Seo": {
+    "Home": {
+      "title": "PDFs online kostenlos zusammenführen – PDF-Dateien einfach & schnell zusammenfügen",
+      "description": "Kombinieren Sie PDF-Dokumente online kostenlos mit GabungPDF.id. Einfach zu bedienendes PDF-Tool, keine Installation, keine Registrierung erforderlich. Jetzt PDFs zusammenführen!"
+    },
+    "CombinePdf": {
+      "title": "PDF-Dateien online kostenlos zusammenführen – Schnelles & einfaches PDF-Tool",
+      "description": "Kombinieren Sie PDFs online kostenlos mit GabungPDF.id. Schnelles und benutzerfreundliches Tool ohne Registrierung oder Installation. PDFs jetzt zusammenführen!"
+    },
+    "Blog": {
+    "title": "PDFs Zusammenführen Blog: Tipps & Anleitungen",
+    "description": "Entdecken Sie den Gabung PDF-Blog für Expertentipps zum PDF-Merging, Tutorials und Tools zur Vereinfachung Ihrer PDF-Aufgaben. Lesen Sie jetzt für wertvolle Einblicke!"
+  },
+    "Blog1": {
+      "title": "Der einfachste Weg, PDF-Dateien zu kombinieren | PDFs zusammenführen",
+      "description": "Entdecken Sie den einfachsten Weg, PDF-Dateien mit Gabung PDF zu kombinieren. Kostenloses, schnelles und benutzerfreundliches Tool für nahtloses PDF-Zusammenführen. Jetzt ausprobieren!"
+    },
+    "Blog2": {
+      "title": "Das ultimative Tool zum Kombinieren von PDFs | PDFs zusammenführen",
+      "description": "Gabung PDF ist das ultimative Tool zum Online-Zusammenführen von PDF-Dateien. Schnell, sicher und kostenlos. Führen Sie PDFs noch heute mühelos zusammen!"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF Datenschutzrichtlinie | Sicheres PDF-Zusammenführen",
+      "description": "Lesen Sie die Datenschutzrichtlinie von Gabung PDF, um zu erfahren, wie wir Ihre Daten beim sicheren Online-Zusammenführen von PDFs schützen. Jetzt mehr erfahren."
+    },
+    "TermsAndCondition": {
+      "title": "Gabung PDF Nutzungsbedingungen | PDF-Zusammenführung",
+      "description": "Lesen Sie die Nutzungsbedingungen von Gabung PDF für die Nutzung unseres kostenlosen, sicheren Online-Tools zur PDF-Zusammenführung. Verstehen Sie noch heute unsere Richtlinien."
+    }
+  }
+}

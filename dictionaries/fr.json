@@ -1,0 +1,1305 @@
+{
+  "nav": {
+    "home": "Accueil",
+    "combinePdf": "Combiner PDF",
+    "blog": "Blog",
+    "selectLanguage": "Sélectionner la Langue"
+  },
+  "home": {
+    "title": "Combiner des Fichiers PDF en Ligne - Gratuit, Rapide et Sécurisé",
+    "description": "Combinez facilement des PDFs avec GabungPDF.id ! Outil gratuit, rapide et sécurisé en ligne pour fusionner des fichiers PDF en secondes. Aucune inscription requise.",
+    "mergeNow": "Fusionner les PDFs Maintenant",
+    "sec1Para": "Dans le monde numérique rapide d'aujourd'hui, gérer efficacement les documents est crucial pour les tâches personnelles et professionnelles. Un besoin commun est de <strong>combiner des fichiers PDF</strong> en un seul document simplifié.",
+    "SecH1": "Pourquoi Combiner des Fichiers PDF ?",
+    "SecH1P1": "Combiner plusieurs fichiers PDF en un document offre de nombreux avantages. Voici pourquoi vous devriez considérer utiliser un outil de fusion PDF :",
+    "SecH1UlLi1": "<strong>Organisation et Efficacité :</strong> Au lieu d'envoyer plusieurs fichiers, un seul PDF fusionné simplifie le partage et la révision.",
+    "SecH1UlLi2": "<strong>Réduction de l'Encombrement des Fichiers :</strong> Fusionner des PDFs réduit le nombre de fichiers que vous devez gérer.",
+    "SecH1UlLi3": "<strong>Présentation Professionnelle :</strong> Un PDF unifié paraît poli et professionnel.",
+    "SecH1UlLi4": "<strong>Compatibilité Multi-plateforme :</strong> Les PDFs sont universellement compatibles.",
+    "SecH1EndPara": "Avec un outil comme <strong>gabungPDF.id</strong>, vous pouvez fusionner des PDF rapidement, sans avoir besoin d'installer un logiciel ou de vous inscrire pour un compte.",
+    "steps": {
+      "title": "Comment Fusionner des Fichiers PDF en Ligne Gratuitement",
+      "intro": "Utiliser un outil en ligne comme gabungPDF.id rend la fusion de PDFs simple et accessible.",
+      "items": [
+        {
+          "title": "Étape 1 : Visitez gabungPDF.id",
+          "desc": "Naviguez vers gabungPDF.id, un outil gratuit en ligne conçu pour vous aider à <strong>fusionner des fichiers PDF</strong> en secondes."
+        },
+        {
+          "title": "Étape 2 : Téléchargez vos Fichiers PDF",
+          "desc": "Cliquez sur le bouton \"Télécharger des Fichiers\" pour sélectionner les PDFs que vous voulez combiner."
+        },
+        {
+          "title": "Étape 3 : Organisez les Fichiers",
+          "desc": "Une fois téléchargés, vous pouvez glisser-déposer les fichiers pour les organiser dans votre ordre désiré."
+        },
+        {
+          "title": "Étape 4 : Fusionnez et Téléchargez",
+          "desc": "Après avoir organisé vos fichiers, cliquez sur le bouton \"Combiner\". L'outil va <strong>fusionner les fichiers PDF</strong> en un seul document."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Pourquoi Choisir gabungPDF.id ?",
+      "points": [
+        {
+          "title": "<strong>Aucune Installation Requise :</strong>",
+          "desc": "Contrairement aux logiciels de bureau, gabungPDF.id fonctionne entièrement en ligne."
+        },
+        {
+          "title": "<strong>Gratuit et Sécurisé :</strong>",
+          "desc": "L'outil est gratuit à utiliser, sans frais cachés."
+        },
+        {
+          "title": "<strong>Compatibilité Multi-appareils :</strong>",
+          "desc": "Que vous utilisiez Mac, Windows, iOS ou Android."
+        },
+        {
+          "title": "<strong>Support Multilingue :</strong>",
+          "desc": "La plateforme supporte les utilisateurs du monde entier."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Avantages d'Utiliser un Fusionneur PDF en Ligne",
+      "items": [
+        {
+          "title": "<strong>Accessibilité :</strong>",
+          "desc": "Vous pouvez <strong>fusionner des fichiers PDF</strong> depuis n'importe quel appareil avec une connexion internet."
+        },
+        {
+          "title": "<strong>Vitesse :</strong>",
+          "desc": "Le processus de fusion prend des secondes, même pour de gros fichiers."
+        },
+        {
+          "title": "<strong>Sans Coût :</strong>",
+          "desc": "Beaucoup d'outils en ligne sont complètement gratuits."
+        },
+        {
+          "title": "<strong>Facile à Utiliser :</strong>",
+          "desc": "Aucune compétence technique requise."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Optimiser vos PDFs Fusionnés pour le SEO",
+      "intro": "Si vous créez des PDFs à des fins professionnelles ou marketing, les optimiser pour les moteurs de recherche peut augmenter leur visibilité.",
+      "items": [
+        {
+          "title": "1. Utilisez des Noms de Fichiers Descriptifs",
+          "desc": "Avant de télécharger votre PDF sur gabungPDF.id, renommez vos fichiers avec des noms descriptifs riches en mots-clés."
+        },
+        {
+          "title": "2. Ajoutez des Métadonnées",
+          "desc": "Incluez des métadonnées comme le titre, l'auteur et les mots-clés dans votre PDF."
+        },
+        {
+          "title": "3. Optimisez le Contenu Textuel",
+          "desc": "Assurez-vous que votre PDF contient du texte recherchable plutôt que des images scannées."
+        },
+        {
+          "title": "4. Incluez des Liens Internes",
+          "desc": "Si votre PDF fait partie d'un site web, incluez des liens vers des pages pertinentes."
+        },
+        {
+          "title": "5. Utilisez des Titres et une Structure",
+          "desc": "Organisez votre PDF avec des titres clairs et une structure logique."
+        },
+        {
+          "title": "6. Compressez pour un Chargement Plus Rapide",
+          "desc": "Les gros PDFs peuvent ralentir les temps de chargement."
+        },
+        {
+          "title": "7. Ajoutez du Texte Alternatif aux Images",
+          "desc": "Si votre PDF inclut des images, ajoutez des descriptions de texte alternatif."
+        },
+        {
+          "title": "8. Hébergez les PDFs sur votre Site Web",
+          "desc": "Téléchargez votre PDF fusionné sur votre site web et créez une page de destination dédiée."
+        },
+        {
+          "title": "9. Suivez les Vues PDF",
+          "desc": "Utilisez des outils comme Google Analytics pour suivre comment les utilisateurs interagissent avec vos PDFs."
+        },
+        {
+          "title": "10. Promouvez votre PDF",
+          "desc": "Partagez votre PDF sur les réseaux sociaux, les newsletters et les communautés en ligne pertinentes."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Cas d'Usage Communs pour Fusionner des PDFs",
+      "items": [
+        {
+          "title": "<strong>Rapports d'Entreprise :</strong>",
+          "desc": "Combinez plusieurs sections d'un rapport en un seul PDF pour un partage facile."
+        },
+        {
+          "title": "<strong>Projets Académiques :</strong>",
+          "desc": "Les étudiants peuvent fusionner des articles de recherche, des notes et des références."
+        },
+        {
+          "title": "<strong>Documents Légaux :</strong>",
+          "desc": "Les avocats fusionnent souvent des contrats, des accords et des pièces justificatives."
+        },
+        {
+          "title": "<strong>Matériaux Marketing :</strong>",
+          "desc": "Créez des brochures professionnelles en combinant des images et des fichiers texte."
+        },
+        {
+          "title": "<strong>Usage Personnel :</strong>",
+          "desc": "Fusionnez des documents scannés, des reçus ou des photos."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Comparer gabungPDF.id avec d'Autres Outils",
+      "intro": "Bien que gabungPDF.id soit un choix de premier plan pour fusionner des PDFs, d'autres outils offrent une fonctionnalité similaire.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id :</strong>",
+          "desc": "Gratuit, sans inscription, supporte plusieurs formats de fichiers."
+        },
+        {
+          "title": "<strong>Adobe Acrobat :</strong>",
+          "desc": "Offre un fusionneur gratuit en ligne mais nécessite une connexion pour les fonctionnalités avancées."
+        },
+        {
+          "title": "<strong>iLovePDF :</strong>",
+          "desc": "Un outil robuste avec des fonctionnalités supplémentaires comme la compression et la conversion."
+        },
+        {
+          "title": "<strong>PDF2Go :</strong>",
+          "desc": "Supporte les fichiers complexes et les grands nombres de pages."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Conseils pour une Expérience de Fusion PDF Sans Problème",
+      "items": [
+        {
+          "title": "<strong>Vérifiez la Compatibilité des Fichiers :</strong>",
+          "desc": "Assurez-vous que tous les fichiers sont en PDF ou dans des formats supportés."
+        },
+        {
+          "title": "<strong>Prévisualisez vos Fichiers :</strong>",
+          "desc": "Révisez l'ordre et le contenu de vos fichiers avant de fusionner."
+        },
+        {
+          "title": "<strong>Utilisez des Plateformes Sécurisées :</strong>",
+          "desc": "Choisissez des outils comme gabungPDF.id qui priorisent la confidentialité."
+        },
+        {
+          "title": "<strong>Testez la Sortie :</strong>",
+          "desc": "Ouvrez le PDF fusionné pour confirmer que la mise en page et le contenu sont corrects."
+        }
+      ]
+    },
+    "ConclusionH1": "Conclusion",
+    "conclusion": "Fusionner des fichiers PDF est un moyen simple mais puissant de rationaliser votre gestion de documents. Que vous soyez un professionnel organisant des rapports, un étudiant compilant des recherches, ou quelqu'un archivant des documents personnels, des outils comme gabungPDF.id rendent facile de <strong>combiner des fichiers PDF</strong> en ligne gratuitement. Commencez à utiliser gabungPDF.id aujourd'hui pour <strong>fusionner des fichiers PDF</strong> sans effort et prendre le contrôle de vos documents numériques !"
+  },
+  "combinePdf": {
+    "title": "Combiner des fichiers PDF",
+    "dragDrop": "Déposez vos fichiers PDF ici ou",
+    "clickBrowse": "cliquez pour sélectionner",
+    "selectFiles": "Sélectionner des fichiers",
+    "maxSize": "Taille maximale des fichiers : 50 Mo",
+    "combineButton": "Combiner les PDF",
+    "filesCount": "Fichiers PDF",
+    "S1H1": "Combinaison de fichiers PDF : Comment combiner des fichiers PDF - Astuce pour fusionner des PDF gratuitement",
+    "S1P1": "Dans le monde numérique d'aujourd'hui, les fichiers PDF (Portable Document Format) sont un moyen essentiel de partager et de stocker des documents. Contrairement aux fichiers DOC créés dans Microsoft Word ou Google Docs, les fichiers PDF conservent leur format sur tous les appareils et systèmes d'exploitation. Cette compatibilité universelle est idéale pour un usage professionnel et personnel, que ce soit pour partager des rapports, des présentations ou des formulaires en ligne.",
+    "S1P2": "Cependant, travailler avec des fichiers PDF peut parfois être compliqué, surtout si vous devez combiner plusieurs fichiers PDF en un seul document. Dans ce guide, nous allons vous expliquer pourquoi il est important de combiner des fichiers PDF, comment les fusionner gratuitement avec notre outil facile à utiliser et les avantages d'une gestion simplifiée de vos documents.",
+    "S2H1": "Pourquoi les fichiers PDF sont-ils uniques et universels ?",
+    "S2P1": "Les fichiers PDF sont conçus pour conserver l'apparence exacte d'un document, quel que soit l'appareil ou le logiciel utilisé pour l'afficher. Contrairement aux fichiers DOC qui dépendent des paramètres système tels que les polices installées ou la configuration du système d'exploitation, les fichiers PDF fonctionnent comme des images statiques. Cela garantit que les polices, la mise en page et les graphiques restent cohérents, ce qui les rend idéaux pour des documents professionnels tels que des contrats, des CV ou des e-books.",
+    "S2P2": "Cette cohérence est la raison pour laquelle les fichiers PDF sont largement utilisés pour le partage de documents en ligne. Que vous archiviez un rapport commercial ou des dossiers importants, les fichiers PDF garantissent que le destinataire verra le document exactement comme prévu. Cependant, cette caractéristique rend les modifications ou la combinaison de fichiers PDF plus difficiles que pour les fichiers DOC. Sans un logiciel spécialisé, des tâches telles que l'ajout de pages ou la fusion de plusieurs fichiers PDF peuvent sembler intimidantes. Heureusement, notre outil en ligne gratuit simplifie ce processus et vous permet de combiner des fichiers PDF facilement, sans avoir besoin de logiciels supplémentaires.",
+    "combine_pdf_files": {
+      "intro": "Pourquoi combiner des fichiers PDF ?",
+      "para": "Combiner des fichiers PDF est un besoin courant pour les professionnels, les étudiants et toute personne qui gère plusieurs documents. Voici quelques scénarios où la fusion de fichiers PDF est utile :",
+      "items": [
+        {
+          "title": "Création de rapports complexes :",
+          "desc": "Si vous avez plusieurs rapports PDF ou chapitres, les combiner en un seul document facilite leur partage et leur révision."
+        },
+        {
+          "title": "Archivage de documents numérisés :",
+          "desc": "Les fichiers PDF numérisés, comme les reçus ou les formulaires, doivent souvent être fusionnés en un seul fichier pour une meilleure organisation."
+        },
+        {
+          "title": "Optimisation des présentations :",
+          "desc": "Combiner des diapositives ou des sections de différents fichiers PDF en un seul document cohérent améliore la clarté et le professionnalisme."
+        },
+        {
+          "title": "Simplification du partage de fichiers :",
+          "desc": "Au lieu d'envoyer plusieurs fichiers, la fusion des fichiers PDF en un seul document simplifie le processus et garantit que toutes les informations sont contenues dans un fichier clair et organisé."
+        }
+      ],
+      "para2": "Contrairement aux fichiers DOC, où il suffit de copier et coller du contenu, les fichiers PDF nécessitent des outils spéciaux pour les combiner ou les modifier. Par exemple, copier du texte à partir d'un fichier PDF numérisé est souvent impossible sans utiliser un logiciel de reconnaissance optique de caractères (OCR). Notre outil gratuit de combinaison de PDF supprime ces obstacles et vous permet de fusionner jusqu'à 20 fichiers PDF simultanément, sans avoir besoin de logiciels coûteux ou de connaissances techniques."
+    },
+    "stepbystep": {
+      "intro": "Comment combiner des fichiers PDF gratuitement : Guide étape par étape",
+      "para": "Notre outil en ligne facile à utiliser rend la combinaison de fichiers PDF rapide et efficace. Que vous combiniez deux fichiers ou jusqu'à 20, le processus est simple et ne nécessite aucune installation ni abonnement. Suivez ces étapes pour fusionner facilement vos fichiers PDF :",
+      "items": [
+        {
+          "title": "Étape 1 : Téléchargez vos fichiers PDF",
+          "desc": "Pour commencer, cliquez sur le bouton 'TÉLÉCHARGER LES FICHIERS' dans l'interface de notre outil. Sélectionnez les fichiers PDF souhaités depuis votre appareil. Vous pouvez également faire glisser et déposer vos fichiers PDF dans la zone 'Déposez les fichiers ici'. Cette fonctionnalité est particulièrement utile si vous travaillez avec plusieurs fichiers, car elle vous fait gagner du temps et simplifie le processus."
+        },
+        {
+          "title": "Étape 2 : Organisez vos fichiers PDF",
+          "desc": "Une fois vos fichiers téléchargés, notre outil affichera une liste de fichiers. L'ordre des fichiers dans cette liste détermine la structure du fichier PDF fusionné. Le premier fichier PDF dans la liste apparaîtra en premier dans le document final, le second suivra, etc. Pour garantir un ordre correct, vous pouvez simplement faire glisser et déplacer les fichiers dans la liste."
+        },
+        {
+          "title": "Étape 3 : Combinez et téléchargez",
+          "desc": "Une fois que vous êtes satisfait de l'ordre des fichiers, cliquez sur le bouton 'COMBINER'. Notre système fusionnera immédiatement tous les fichiers PDF téléchargés en un seul fichier. Après la fin du processus, le fichier PDF fusionné commencera à se télécharger automatiquement sur votre appareil. Le processus entier est rapide, sécurisé et ne nécessite aucun autre logiciel."
+        }
+      ],
+      "intro2": "Combinez plusieurs fichiers PDF",
+      "para2": "Vous souhaitez combiner encore plus de fichiers PDF ? Aucun problème ! Notre outil vous permet de combiner des fichiers par lots. Après avoir téléchargé le premier fichier PDF combiné, téléchargez ce nouveau fichier avec tous les autres fichiers PDF que vous souhaitez ajouter. Répétez ce processus et cliquez à nouveau sur 'COMBINER' pour créer un document encore plus grand. Vous pouvez répéter ce processus autant de fois que nécessaire pour inclure tous vos fichiers.",
+      "intro3": "Note importante : Téléchargez votre fichier dans l'heure",
+      "para3": "Pour assurer une expérience fluide, téléchargez votre fichier PDF fusionné dans l'heure suivant sa création. Si vous ne le faites pas, le système supprimera les fichiers et vous devrez les télécharger à nouveau pour recommencer. Cette fonctionnalité aide à garantir la sécurité des données et à libérer de l'espace sur le serveur pour les autres utilisateurs."
+    },
+    "benefits": {
+      "intro": "Avantages de l'utilisation de notre outil gratuit de combinaison de PDF",
+      "para": "Notre outil a été conçu pour être simple, accessible et efficace. Voici quelques raisons pour lesquelles il constitue le meilleur choix pour combiner des fichiers PDF :",
+      "items": [
+        {
+          "title": "Pas d'installation de logiciel requise :",
+          "desc": "Contrairement aux éditeurs PDF traditionnels, notre outil est entièrement basé sur le web, ce qui vous permet d'y accéder depuis n'importe quel appareil avec une connexion internet."
+        },
+        {
+          "title": "Gratuit et illimité :",
+          "desc": "Fusionnez jusqu'à 20 fichiers PDF simultanément gratuitement, sans frais ni abonnement. Pour les projets plus importants, vous pouvez combiner plusieurs lots comme indiqué ci-dessus."
+        },
+        {
+          "title": "Interface conviviale :",
+          "desc": "La fonctionnalité de glisser-déposer et le design intuitif rendent l'utilisation facile tant pour les débutants que pour les professionnels."
+        },
+        {
+          "title": "Traitement rapide :",
+          "desc": "Notre outil fusionne les fichiers PDF en quelques secondes, vous faisant gagner du temps et de l'effort."
+        },
+        {
+          "title": "Sécurisé et fiable :",
+          "desc": "Vos fichiers sont traités de manière sécurisée et supprimés du serveur après une heure, garantissant ainsi que vos données restent privées."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Quand devez-vous combiner des fichiers PDF ?",
+      "para": "Combiner des fichiers PDF est une compétence utile dans diverses situations. Voici quelques exemples courants d'utilisation :",
+      "items": [
+        {
+          "title": "Professionnels des affaires :",
+          "desc": "Combinez des factures, des contrats ou des propositions en un seul document pour les partager facilement avec des clients ou des collègues."
+        },
+        {
+          "title": "Étudiants et enseignants :",
+          "desc": "Fusionnez des cours, des travaux de recherche ou des devoirs en un seul fichier pour des présentations ou des matériaux d'étude simplifiés."
+        },
+        {
+          "title": "Tâches juridiques et administratives :",
+          "desc": "Organisez des documents numérisés comme des contrats ou des formulaires en un seul fichier PDF pour l'archivage ou des raisons juridiques."
+        },
+        {
+          "title": "Projets créatifs :",
+          "desc": "Fusionnez des conceptions, des portfolios ou des storyboards en un seul fichier PDF cohérent pour des présentations ou des retours de clients."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Conseils pour travailler avec des fichiers PDF",
+      "para": "Pour tirer le meilleur parti de votre expérience de combinaison de PDF, gardez à l'esprit les conseils suivants :",
+      "items": [
+        {
+          "title": "Vérifiez l'ordre des fichiers :",
+          "desc": "Vérifiez toujours l'ordre de vos fichiers PDF avant de les fusionner pour éviter de devoir réorganiser les pages plus tard."
+        },
+        {
+          "title": "Optimisez la taille du fichier :",
+          "desc": "Si vos fichiers PDF contiennent de grandes images ou graphiques, pensez à les compresser avant de les télécharger pour réduire la taille finale du fichier."
+        },
+        {
+          "title": "Utilisez des noms de fichiers descriptifs :",
+          "desc": "Nommez vos fichiers PDF avec des noms clairs et descriptifs (par exemple, Rapport_Secteur1.pdf) pour rester organisé pendant la fusion."
+        },
+        {
+          "title": "Créez des copies de sauvegarde des fichiers originaux :",
+          "desc": "Enregistrez des copies de vos fichiers PDF d'origine au cas où vous auriez besoin d'y apporter des modifications ou de les fusionner à nouveau."
+        },
+        {
+          "title": "Découvrez d'autres outils :",
+          "desc": "Si vous avez besoin de modifier, convertir ou compresser des fichiers PDF, explorez nos autres outils gratuits sur notre plateforme pour une gestion complète des documents."
+        }
+      ]
+    },
+    "why_choose": "Pourquoi choisir notre outil plutôt que des alternatives payantes ?",
+    "why_choose_para": "Alors que les éditeurs PDF payants comme Adobe Acrobat offrent des fonctionnalités avancées, notre outil gratuit offre une solution abordable pour la plupart des utilisateurs. Vous n'avez pas besoin d'investir dans un logiciel coûteux ou un abonnement pour combiner des fichiers PDF. Gabung PDF.id est disponible pour les petites entreprises, les étudiants et tous ceux qui ont besoin de résultats professionnels sans la complexité.",
+    "why_choose_para2": "De plus, notre plateforme est optimisée pour la rapidité et la convivialité. Que vous utilisiez un ordinateur de bureau, une tablette ou un smartphone, vous pouvez combiner des fichiers PDF en déplacement sans soucis de compatibilité. Cette flexibilité rend notre outil idéal pour les utilisateurs à la recherche de résultats rapides et fiables sans courbe d'apprentissage abrupte.",
+    "conclusion": "Conclusion",
+    "conclusion_para": "Combiner des fichiers PDF ne doit pas être compliqué ni coûteux. Avec notre outil gratuit basé sur le web, vous pouvez fusionner jusqu'à 20 fichiers PDF à la fois, les réorganiser facilement et télécharger un fichier complet en quelques secondes. Que vous organisiez des rapports, archiviez des documents numérisés ou prépariez des présentations, notre outil simplifie tout le processus sans avoir besoin d'un autre logiciel ou de compétences techniques."
+  },
+  "blog": {
+    "title": "Conseils, Tutoriels et Guides PDF",
+    "description": "Maîtrisez la gestion PDF avec des guides d'experts, des conseils pratiques et des tutoriels étape par étape.",
+    "searchPlaceholder": "Rechercher des articles, tutoriels et guides...",
+    "articles": "Articles",
+    "readers": "Lecteurs",
+    "available": "Disponible",
+    "featuredArticle": "Article en Vedette",
+    "mostPopular": "Le Plus Populaire Cette Semaine",
+    "readArticle": "Lire l'Article",
+    "readFull": "Lire l'Article Complet",
+    "minRead": "min de lecture",
+    "featureblog": {
+      "title": "Le Plus Populaire Cette Semaine",
+      "subtitle": "⭐ Article en Vedette",
+      "featuredArticle": {
+        "date": "2 juillet 2025",
+        "author": "Utilisateur Admin",
+        "category": "Article en Vedette",
+        "headline": "GabungPDF.id : La Façon la Plus Simple de Combiner des Fichiers PDF",
+        "excerpt": "Combinez facilement des fichiers PDF avec GabungPDF.id, le combineur PDF en ligne gratuit. Fusionnez des PDF en toute sécurité en quelques secondes, sans logiciel requis. Boostez votre productivité dès maintenant !",
+        "readTime": "3 min de lecture",
+        "buttonName": "Lire l’Article Complet"
+      }
+    },
+    "blogsPage": {
+      "cards": [
+        {
+          "BlogImage": "/Blog1Image.webp",
+          "date": "2 juin 2025",
+          "author": "Utilisateur Admin",
+          "category": null,
+          "headline": "GabungPDF.id : L'Outil Ultime pour Combiner des Fichiers PDF",
+          "headlineLink": "/blog/gabungpdfid-l-outil-ultime-pour-combiner-des-fichiers-pdf",
+          "excerpt": "Combinez facilement des fichiers PDF avec GabungPDF.id, votre outil gratuit en ligne pour fusionner des PDF. Fusionnez vos PDF en toute sécurité en quelques secondes, sans logiciel requis.",
+          "readTime": "3 min de lecture",
+          "readMoreText": "blog.lireArticle",
+          "slug": "gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "detail": {
+            "intro": "Sur GabungPDF.id, nous avons conçu un outil en ligne simple et intuitif pour vous aider à combiner des fichiers PDF sans difficulté. Que vous soyez technophile ou débutant, notre plateforme est accessible à tous. Voici pourquoi GabungPDF.id se démarque comme le meilleur outil de fusion PDF :",
+            "features": [
+              {
+                "title": "Gratuit et accessible",
+                "description": "Aucun abonnement, aucun frais caché : il suffit de télécharger et de fusionner."
+              },
+              {
+                "title": "Sans installation de logiciel",
+                "description": "Notre outil fonctionne entièrement en ligne, vous économisant de l’espace sur votre appareil."
+              },
+              {
+                "title": "Rapide et sécurisé",
+                "description": "Fusionnez vos PDF en quelques secondes grâce à un chiffrement robuste pour protéger vos fichiers."
+              },
+              {
+                "title": "Interface conviviale",
+                "description": "Glissez, déposez et fusionnez vos fichiers en quelques clics."
+              }
+            ],
+            "intro2": "Prêt à simplifier la gestion de vos documents ? Voici comment utiliser notre outil pour combiner vos fichiers PDF en quelques étapes simples.",
+            "how_to_use": {
+              "title": "Comment Combiner des Fichiers PDF avec GabungPDF.id",
+              "paragraph": "Fusionner des PDF avec GabungPDF.id est aussi simple que 1-2-3. Suivez ces étapes pour créer un document PDF unique et bien structuré :",
+              "steps": [
+                {
+                  "title": "Téléchargez vos fichiers",
+                  "description": "Rendez-vous sur https://gabungpdf.id/ et cliquez sur le bouton « Télécharger ». Sélectionnez les fichiers PDF que vous souhaitez fusionner depuis votre appareil. Vous pouvez télécharger plusieurs fichiers en une fois."
+                },
+                {
+                  "title": "Organisez l'ordre",
+                  "description": "Faites glisser et déposez les fichiers pour les réorganiser selon l’ordre souhaité. Cela garantit que votre document final est bien structuré."
+                },
+                {
+                  "title": "Fusionnez et téléchargez",
+                  "description": "Cliquez sur le bouton « Fusionner PDF » et notre outil combinera vos fichiers en un seul. Une fois terminé, téléchargez immédiatement votre nouveau PDF."
+                }
+              ],
+              "note": "C’est aussi simple que ça ! Aucune configuration compliquée ou connaissance technique requise. Que vous fusionniez deux fichiers ou vingt, GabungPDF.id s’en charge sans effort."
+            },
+            "benefits": {
+              "title": "Les Avantages d'un Outil de Fusion PDF en Ligne",
+              "paragraph": "Choisir un outil de fusion PDF en ligne comme GabungPDF.id offre plusieurs avantages par rapport aux logiciels traditionnels ou aux méthodes manuelles. Voici pourquoi notre outil change la donne :",
+              "items": [
+                {
+                  "title": "Gain de temps",
+                  "description": "Fusionner des PDF manuellement via un logiciel de bureau peut prendre du temps et nécessite souvent des licences coûteuses. Avec GabungPDF.id, vous pouvez combiner vos fichiers PDF en quelques secondes depuis n'importe quel appareil connecté à Internet : ordinateur portable, tablette ou smartphone."
+                },
+                {
+                  "title": "Gestion sécurisée des fichiers",
+                  "description": "Vous êtes soucieux de la confidentialité ? Notre plateforme utilise un chiffrement avancé pour garantir la sécurité de vos fichiers pendant le processus de fusion. Une fois votre PDF téléchargé, vos fichiers sont supprimés de nos serveurs pour protéger vos données."
+                },
+                {
+                  "title": "Solution économique",
+                  "description": "Pourquoi payer pour un logiciel d’édition de PDF coûteux ? GabungPDF.id est entièrement gratuit, idéal pour les étudiants, les freelances et les petites entreprises qui souhaitent fusionner des fichiers PDF sans se ruiner."
+                },
+                {
+                  "title": "Compatibilité multiplateforme",
+                  "description": "Que vous utilisiez Windows, macOS, iOS ou Android, notre outil en ligne fonctionne parfaitement sur toutes les plateformes. Aucun problème de compatibilité."
+                }
+              ]
+            },
+            "optimization_tips": {
+              "title": "Conseils pour Optimiser vos PDF Fusionnés",
+              "paragraph": "Pour tirer le meilleur parti de vos PDF fusionnés, suivez ces conseils :",
+              "tips": [
+                {
+                  "title": "Vérifiez l’ordre des fichiers",
+                  "description": "Avant de fusionner, organisez vos PDF dans l’ordre souhaité pour éviter d’avoir à recommencer."
+                },
+                {
+                  "title": "Optimisez la taille des fichiers",
+                  "description": "Si vos PDF contiennent de grandes images, compressez-les avant de les télécharger pour réduire la taille finale du fichier."
+                },
+                {
+                  "title": "Nommez clairement vos fichiers",
+                  "description": "Utilisez des noms explicites pour vos PDF afin de pouvoir les retrouver facilement plus tard."
+                },
+                {
+                  "title": "Prévisualisez le résultat",
+                  "description": "Après la fusion, vérifiez le PDF final pour vous assurer que tout est correct."
+                }
+              ],
+              "paragraph2": "Avec GabungPDF.id, vous pouvez combiner vos fichiers PDF en toute confiance, tout en préservant leur qualité et leur organisation."
+            },
+            "audience": {
+              "title": "Qui Peut Bénéficier de GabungPDF.id ?",
+              "paragraph": "Notre outil de fusion PDF est conçu pour un large éventail d'utilisateurs, notamment :",
+              "users": [
+                {
+                  "type": "Étudiants",
+                  "description": "Combinez notes de cours, devoirs ou mémoires en un seul fichier."
+                },
+                {
+                  "type": "Professionnels",
+                  "description": "Fusionnez rapports, propositions ou contrats pour une communication simplifiée."
+                },
+                {
+                  "type": "Petites entreprises",
+                  "description": "Organisez factures, reçus ou documents marketing en un document unique."
+                },
+                {
+                  "type": "Freelances",
+                  "description": "Regroupez portfolios, factures ou livrables pour vos clients."
+                }
+              ],
+              "paragraph2": "Peu importe votre besoin, GabungPDF.id est votre partenaire de confiance pour tout ce qui concerne le PDF."
+            },
+            "why_choose_us": {
+              "title": "Pourquoi Choisir GabungPDF.id Plutôt qu'un Autre Outil de Fusion PDF ?",
+              "paragraph": "Avec autant d’outils disponibles, pourquoi GabungPDF.id est-il le meilleur choix pour fusionner des fichiers PDF ? Voici ce qui nous distingue :",
+              "reasons": [
+                {
+                  "title": "Rapidité",
+                  "description": "Aucune courbe d’apprentissage : téléchargez, fusionnez et téléchargez."
+                },
+                {
+                  "title": "Fiabilité",
+                  "description": "Performance constante sans plantages ni erreurs."
+                },
+                {
+                  "title": "Accessibilité",
+                  "description": "Disponible 24h/24, 7j/7, partout dans le monde."
+                }
+              ],
+              "paragraph2": "Ne perdez plus de temps avec des logiciels compliqués ou des outils peu fiables. Essayez GabungPDF.id dès aujourd’hui et découvrez la façon la plus simple de combiner vos PDF."
+            },
+            "conclusion": {
+              "title": "Conclusion : Simplifiez Votre Flux de Travail avec GabungPDF.id",
+              "paragraph": "Fusionner des PDF ne doit pas être une corvée. Avec GabungPDF.id, vous pouvez combiner vos fichiers PDF facilement, gagner du temps et garder vos documents bien organisés. Notre outil gratuit, sécurisé et convivial est parfait pour quiconque souhaite optimiser son flux de travail. Que vous fusionniez des rapports, des notes ou des contrats, notre outil fournit des résultats professionnels à chaque fois. Prêt à commencer ?",
+              "cta": {
+                "text": "Visitez gabungpdf.id/combine-pdf",
+                "link": "https://gabungpdf.id/combine-pdf"
+              },
+              "Remaingparagraph": "Commencez dès maintenant et combinez vos fichiers PDF en quelques clics. Simplifiez la gestion de vos documents dès aujourd’hui avec GabungPDF.id — votre outil ultime pour fusionner des PDF !"
+            }
+          }
+        },
+        {
+          "BlogImage": "/FeatureBlogImage.webp",
+          "date": "2 juillet 2025",
+          "author": "Utilisateur Admin",
+          "category": "Article en Vedette",
+          "headline": "GabungPDF.id : La Solution la Plus Simple pour Fusionner des Fichiers PDF",
+          "excerpt": "Combinez facilement des fichiers PDF avec GabungPDF.id, le combinateur de PDF en ligne gratuit. Fusionnez vos PDF en toute sécurité en quelques secondes, sans logiciel requis. Boostez votre productivité dès maintenant !",
+          "readTime": "3 min de lecture",
+          "buttonName": "Lire l'article complet",
+          "slug": "gabungpdfid-the-easiest-way-to-combine-pdf-files",
+          "detail": {
+            "intro": "Dans un monde où le temps, c’est de l’argent, gérer efficacement ses documents peut tout changer. Que vous jongliez avec plusieurs rapports, organisiez des contrats clients ou compiliez des fichiers de projets, un outil fiable pour combiner des PDF peut transformer votre façon de travailler. Voici GabungPDF.id, un outil gratuit en ligne conçu pour fusionner rapidement et facilement des fichiers PDF. Dans cet article, nous allons voir comment GabungPDF.id vous aide à fusionner vos PDF sans effort et pourquoi c’est la solution idéale pour les professionnels, les étudiants et les entreprises.",
+            "why_merge_pdf": {
+              "title": "Pourquoi Fusionner des Fichiers PDF ?",
+              "paragraph": "Les PDF sont le format de référence pour partager des documents professionnels, mais gérer plusieurs fichiers peut vous ralentir. Fusionner des PDF en un seul document clair et organisé vous fait gagner du temps, réduit le désordre et améliore l'organisation. Voici quelques raisons de fusionner vos fichiers PDF :",
+              "reasons": [
+                {
+                  "title": "Simplifier le Partage",
+                  "description": "Envoyez un seul fichier plutôt que plusieurs pièces jointes pour faciliter la collaboration."
+                },
+                {
+                  "title": "Organiser les Documents",
+                  "description": "Regroupez factures, formulaires ou notes en un seul PDF facile à consulter."
+                },
+                {
+                  "title": "Présentations Professionnelles",
+                  "description": "Fusionnez diapositives, documents et notes en un fichier soigné."
+                },
+                {
+                  "title": "Faciliter l’Archivage",
+                  "description": "Rassemblez les fichiers liés pour un stockage et une récupération plus efficaces."
+                }
+              ],
+              "note": "Avec GabungPDF.id, vous pouvez fusionner vos fichiers PDF en quelques clics, simplifiant ainsi la gestion documentaire."
+            },
+            "features": {
+              "title": "Pourquoi GabungPDF est le Meilleur Combinateur de PDF ?",
+              "paragraph": "Chez GabungPDF.id, nous avons créé un outil rapide, gratuit et accessible à tous. Que vous travailliez depuis un ordinateur, une tablette ou un smartphone, notre fusionneur de PDF offre des résultats professionnels sans contrainte. Voici pourquoi les utilisateurs adorent GabungPDF.id :",
+              "items": [
+                {
+                  "title": "Totalement Gratuit",
+                  "description": "Aucun abonnement, aucun coût caché : fusionnez et c’est tout."
+                },
+                {
+                  "title": "Sans Logiciel",
+                  "description": "Notre outil en ligne fonctionne immédiatement, sans téléchargement requis."
+                },
+                {
+                  "title": "Traitement Sécurisé",
+                  "description": "Vos fichiers sont protégés par chiffrement et supprimés après utilisation."
+                },
+                {
+                  "title": "Interface Intuitive",
+                  "description": "Une interface simple rend la fusion de PDF accessible à tous."
+                }
+              ],
+              "next": "Prêt à booster votre productivité ? Découvrez comment utiliser notre outil pour fusionner des PDF en quelques minutes."
+            },
+            "how_to_use": {
+              "title": "Comment Utiliser GabungPDF.id pour Fusionner des Fichiers PDF",
+              "paragraph": "Fusionner des PDF avec GabungPDF est simple et ne nécessite aucune compétence technique. Suivez ces étapes :",
+              "steps": [
+                {
+                  "title": "Téléchargez vos PDFs",
+                  "description": "Allez sur https://gabungpdf.id/ et sélectionnez les fichiers PDF que vous souhaitez fusionner. Vous pouvez en télécharger plusieurs à la fois depuis votre appareil."
+                },
+                {
+                  "title": "Organisez comme vous le souhaitez",
+                  "description": "Utilisez la fonction glisser-déposer pour organiser vos fichiers dans l’ordre désiré."
+                },
+                {
+                  "title": "Fusionnez et Téléchargez",
+                  "description": "Cliquez sur « Fusionner PDF » et notre outil réunira vos fichiers en un seul. Téléchargez votre PDF fusionné immédiatement."
+                }
+              ],
+              "note": "C’est aussi simple que ça ! Que vous fusionniez deux fichiers ou des dizaines, GabungPDF.id garantit une expérience fluide et sans stress."
+            },
+            "top_benefits": {
+              "title": "Avantages de l’Utilisation de GabungPDF.id",
+              "paragraph": "Choisir un combinateur de PDF en ligne comme GabungPDF.id offre une commodité et une efficacité inégalées. Voici pourquoi notre outil se démarque :",
+              "items": [
+                {
+                  "title": "Gagnez du Temps et de l’Effort",
+                  "description": "Fusionner manuellement des PDF ou utiliser des logiciels complexes peut être pénible. GabungPDF.id vous permet de combiner des PDF en quelques secondes, libérant du temps pour des tâches plus importantes."
+                },
+                {
+                  "title": "Sécurité Renforcée",
+                  "description": "Nous priorisons votre vie privée. Notre plateforme utilise un chiffrement sécurisé pour protéger vos fichiers durant la fusion et nous les supprimons après traitement."
+                },
+                {
+                  "title": "Économique",
+                  "description": "Pourquoi investir dans des logiciels coûteux ? GabungPDF.id est 100 % gratuit, idéal pour les étudiants, les freelances et les petites entreprises."
+                },
+                {
+                  "title": "Accès Universel",
+                  "description": "Notre outil fonctionne sur tout appareil disposant d’un navigateur, que ce soit Windows, macOS, iOS ou Android. Fusionnez vos PDF n’importe où, n’importe quand."
+                }
+              ]
+            },
+            "audience": {
+              "title": "Pour Qui est GabungPDF.id ?",
+              "paragraph": "Notre combinateur PDF est suffisamment polyvalent pour répondre à de nombreux besoins :",
+              "users": [
+                {
+                  "type": "Étudiants",
+                  "description": "Regroupez guides d’études, dissertations ou mémoires en un seul fichier pour une remise facilitée."
+                },
+                {
+                  "type": "Professionnels",
+                  "description": "Fusionnez contrats, propositions ou rapports pour une communication fluide avec vos clients."
+                },
+                {
+                  "type": "Freelances",
+                  "description": "Créez des portfolios soignés ou regroupez vos factures pour vos clients."
+                },
+                {
+                  "type": "Petites Entreprises",
+                  "description": "Organisez reçus, supports marketing ou documents juridiques en un seul PDF."
+                }
+              ],
+              "note": "Quel que soit votre rôle, GabungPDF.id simplifie la gestion de vos documents."
+            },
+            "pro_tips": {
+              "title": "Conseils pour Fusionner Vos PDFs Comme un Pro",
+              "paragraph": "Pour tirer le meilleur parti de votre outil de fusion PDF, gardez ces conseils à l’esprit :",
+              "tips": [
+                {
+                  "title": "Planifiez l’Ordre des Fichiers",
+                  "description": "Organisez vos PDF de façon logique avant la fusion pour gagner du temps."
+                },
+                {
+                  "title": "Compressez les Fichiers Lourds",
+                  "description": "Réduisez la taille des fichiers avant de les télécharger pour un traitement plus rapide."
+                },
+                {
+                  "title": "Vérifiez le Résultat",
+                  "description": "Prévisualisez votre PDF fusionné pour vous assurer qu’il réponde à vos attentes."
+                },
+                {
+                  "title": "Ajoutez GabungPDF.id à vos Favoris",
+                  "description": "Enregistrez notre site pour y accéder rapidement chaque fois que vous devez fusionner des fichiers PDF."
+                }
+              ]
+            },
+            "why_stand_out": {
+              "title": "Pourquoi GabungPDF.id se Démarque parmi les Fusionneurs de PDF",
+              "paragraph": "Avec d’innombrables outils disponibles, GabungPDF.id brille par sa simplicité, sa rapidité et sa fiabilité. Contrairement à d’autres outils nécessitant une inscription ou des téléchargements, notre plateforme est prête à l’emploi immédiatement. De plus, notre engagement envers la sécurité garantit la protection de vos fichiers. Ne laissez plus vos PDF éparpillés vous ralentir. Visitez https://gabungpdf.id/ et découvrez la façon la plus simple de fusionner vos fichiers PDF."
+            },
+            "conclusion": {
+              "title": "Conclusion : Simplifiez Vos Documents avec GabungPDF.id",
+              "paragraph": "Gérer plusieurs PDF ne devrait pas être compliqué. Avec GabungPDF.id, vous pouvez fusionner vos fichiers PDF rapidement, en toute sécurité et gratuitement. Notre outil convivial est conçu pour booster votre productivité, que vous soyez étudiant, professionnel ou entrepreneur. Dites adieu au chaos des documents et bonjour aux PDF organisés et professionnels. Essayez GabungPDF.id dès maintenant sur gabungpdf.id/combine-pdf et découvrez la méthode la plus rapide pour fusionner des fichiers PDF. Simplifiez votre flux de travail dès aujourd’hui !"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "Le moyen le plus facile de combiner plusieurs fichiers PDF en un document. Rapide, sécurisé et complètement gratuit à utiliser.",
+    "contact": "Contactez-nous :",
+    "quickLinks": "Liens Rapides",
+    "privacyPolicy": "Politique de Confidentialité",
+    "termsOfService": "Conditions de Service",
+    "allRights": "Tous droits réservés"
+  },
+  "privacy": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Table des matières",
+        "items": [
+          {
+            "icon": "👁️",
+            "label": "Aperçu",
+            "target": "Overview"
+          },
+          {
+            "icon": "📊",
+            "label": "Informations que nous collectons",
+            "target": "information-collection"
+          },
+          {
+            "icon": "🔧",
+            "label": "Comment nous utilisons vos informations",
+            "target": "how-we-use"
+          },
+          {
+            "icon": "🗄️",
+            "label": "Conservation et suppression des données",
+            "target": "data-retention"
+          },
+          {
+            "icon": "🤝",
+            "label": "Partage des données",
+            "target": "data-sharing"
+          },
+          {
+            "icon": "🔒",
+            "label": "Sécurité des données",
+            "target": "data-security"
+          },
+          {
+            "icon": "🌍",
+            "label": "Transferts internationaux de données",
+            "target": "international-transfers"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Vos droits",
+            "target": "your-rights"
+          },
+          {
+            "icon": "🔗",
+            "label": "Liens tiers",
+            "target": "third-party-links"
+          },
+          {
+            "icon": "👶",
+            "label": "Confidentialité des enfants",
+            "target": "children"
+          },
+          {
+            "icon": "🔄",
+            "label": "Modifications de cette politique",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Contactez-nous",
+            "target": "contact"
+          }
+        ]
+      },
+      "privacySummary": {
+        "title": "Résumé de la confidentialité",
+        "points": [
+          "Fichiers supprimés sous 1 heure",
+          "Nous ne stockons pas vos documents",
+          "Collecte minimale de données",
+          "Chiffrement de bout en bout"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "Overview",
+        "icon": "👁️",
+        "title": "Aperçu",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Sur www.gabungpdf.id (« le Site »), exploité par Gabung PDF (« nous »), nous nous engageons à protéger votre vie privée. Cette Politique de Confidentialité explique comment nous collectons, utilisons et protégeons vos informations lorsque vous utilisez notre service de fusion de PDF. En utilisant le Site, vous acceptez cette Politique de Confidentialité."
+          },
+          {
+            "type": "highlight",
+            "title": "Notre principe clé :",
+            "text": "Nous traitons vos fichiers uniquement pour fournir notre service et les supprimons automatiquement dans un délai d'une heure. Nous n'accédons pas, ne consultons pas et ne stockons pas le contenu de vos fichiers au-delà de cette période de traitement nécessaire."
+          }
+        ]
+      },
+      {
+        "id": "information-collection",
+        "icon": "📊",
+        "title": "Informations que nous collectons",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Fichiers téléchargés par l'utilisateur",
+            "text": "Lorsque vous utilisez notre service, vous téléchargez des fichiers PDF pour les fusionner. Ces fichiers peuvent contenir des informations personnelles, mais nous n'accédons pas, ne consultons pas et ne stockons pas leur contenu au-delà de la période nécessaire au traitement temporaire."
+          },
+          {
+            "type": "subsection",
+            "title": "Données collectées automatiquement",
+            "text": "Nous pouvons collecter des informations non personnelles telles que :",
+            "list": [
+              "Informations sur l'appareil (par ex. type de navigateur, système d'exploitation, adresse IP)",
+              "Données d'utilisation (par ex. pages visitées, temps passé sur le Site, interactions avec le service)"
+            ]
+          },
+          {
+            "type": "subsection",
+            "title": "Cookies et suivi",
+            "text": "Nous pouvons utiliser des cookies ou des technologies similaires pour améliorer votre expérience et analyser l'utilisation du Site. Vous pouvez gérer vos préférences en matière de cookies via les paramètres de votre navigateur."
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "icon": "🔧",
+        "title": "Comment nous utilisons vos informations",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Fourniture du service",
+            "text": "Nous traitons les fichiers PDF que vous téléchargez uniquement pour les fusionner en un fichier unique et vous fournir le lien de téléchargement."
+          },
+          {
+            "type": "subsection",
+            "title": "Amélioration du site",
+            "text": "Nous utilisons des données non personnelles (par ex. statistiques d'utilisation) pour analyser et améliorer la fonctionnalité et les performances du Site."
+          },
+          {
+            "type": "subsection",
+            "title": "Conformité légale",
+            "text": "Nous pouvons utiliser ou divulguer des informations si cela est requis par la loi ou pour protéger nos droits, notre sécurité ou nos biens."
+          }
+        ]
+      },
+      {
+        "id": "data-retention",
+        "icon": "🗄️",
+        "title": "Conservation et suppression des données",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Fichiers téléchargés",
+            "text": "Tous les fichiers PDF téléchargés et le fichier fusionné résultant sont automatiquement supprimés de nos serveurs dans un délai d'une (1) heure après traitement. Nous ne conservons pas de copies de vos fichiers."
+          },
+          {
+            "type": "subsection",
+            "title": "Autres données",
+            "text": "Les données non personnelles (par ex. statistiques d'utilisation) peuvent être conservées aussi longtemps que nécessaire pour améliorer le Site ou respecter les obligations légales."
+          }
+        ]
+      },
+      {
+        "id": "data-sharing",
+        "icon": "🤝",
+        "title": "Partage des données",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Pas de partage avec des tiers",
+            "text": "Nous ne vendons, partageons ou transférons pas vos fichiers téléchargés ni vos informations personnelles à des tiers, sauf si la loi l'exige ou pour protéger nos droits."
+          },
+          {
+            "type": "subsection",
+            "title": "Fournisseurs de services",
+            "text": "Nous pouvons utiliser des fournisseurs de services tiers (par ex. hébergement ou analyses) pour exploiter le Site. Ces fournisseurs sont soumis à des obligations de confidentialité et ne peuvent traiter les données qu'en notre nom."
+          }
+        ]
+      },
+      {
+        "id": "data-security",
+        "icon": "🔒",
+        "title": "Sécurité des données",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Nous mettons en œuvre des mesures techniques et organisationnelles raisonnables pour protéger vos données contre tout accès non autorisé, perte ou abus. Cependant, aucun service en ligne n'est totalement sécurisé et nous ne pouvons garantir une sécurité absolue."
+          }
+        ]
+      },
+      {
+        "id": "international-transfers",
+        "icon": "🌍",
+        "title": "Transferts internationaux de données",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Si vous êtes en dehors de l'Indonésie, vos données peuvent être transférées et traitées en Indonésie ou dans d'autres pays où se trouvent nos serveurs ou nos fournisseurs de services. Nous veillons à ce que des garanties appropriées soient mises en place pour ces transferts."
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "icon": "⚖️",
+        "title": "Vos droits",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "En fonction de votre localisation, vous pouvez disposer de droits en vertu des lois applicables en matière de protection des données, tels que :"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Accéder à vos données ou demander leur suppression",
+              "S'opposer ou restreindre certains traitements de données"
+            ]
+          },
+          {
+            "type": "highlight",
+            "text": "Pour exercer ces droits, contactez-nous à admin@gabungpdf.id. Notez que puisque nous supprimons les fichiers dans un délai d'une heure, il est possible que nous ne conservions aucune donnée personnelle à vous fournir."
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "icon": "🔗",
+        "title": "Liens tiers",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Le Site peut contenir des liens vers des sites tiers. Nous ne sommes pas responsables des pratiques de confidentialité ou du contenu de ces sites."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "icon": "👶",
+        "title": "Confidentialité des enfants",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Le Site n'est pas destiné aux utilisateurs de moins de 18 ans. Nous ne collectons pas sciemment d'informations personnelles auprès des enfants."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Modifications de cette politique",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Nous pouvons mettre à jour cette Politique de Confidentialité de temps en temps. Les modifications seront publiées sur cette page avec une date de « Dernière mise à jour »."
+          },
+          {
+            "type": "highlight",
+            "text": "Votre utilisation continue du Site après les modifications constitue votre acceptation de la Politique de Confidentialité mise à jour."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Contactez-nous",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Si vous avez des questions concernant cette Politique de Confidentialité, veuillez nous contacter à admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Notre engagement en matière de confidentialité",
+      "desc": "Nous prenons votre confidentialité au sérieux. Voici ce qui rend notre service digne de confiance",
+      "points": [
+        {
+          "title": "Suppression automatique",
+          "desc": "Les fichiers sont automatiquement supprimés dans l'heure"
+        },
+        {
+          "title": "Transfert chiffré",
+          "desc": "Tous les téléchargements utilisent un chiffrement HTTPS sécurisé"
+        },
+        {
+          "title": "Aucune lecture des fichiers",
+          "desc": "Nous n'accédons jamais au contenu de vos fichiers ni ne les lisons"
+        },
+        {
+          "title": "Aucun partage",
+          "desc": "Vos fichiers ne sont jamais partagés avec des tiers"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Des questions ?",
+      "description": "Nous sommes là pour répondre à toutes vos questions ou préoccupations concernant la confidentialité.",
+      "links": [
+        {
+          "label": "Conditions d'utilisation",
+          "href": "/terms-of-service",
+          "icon": "📄"
+        },
+        {
+          "label": "Contacter notre équipe",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Terms": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Table des matières",
+        "items": [
+          {
+            "icon": "✅",
+            "label": "Acceptation des Conditions",
+            "target": "acceptance"
+          },
+          {
+            "icon": "🔧",
+            "label": "Utilisation du Site",
+            "target": "use-of-site"
+          },
+          {
+            "icon": "📁",
+            "label": "Fichiers de l'Utilisateur",
+            "target": "user-files"
+          },
+          {
+            "icon": "©️",
+            "label": "Propriété Intellectuelle",
+            "target": "intellectual-property"
+          },
+          {
+            "icon": "⚠️",
+            "label": "Limitation de Responsabilité",
+            "target": "limitation-liability"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Indemnisation",
+            "target": "indemnification"
+          },
+          {
+            "icon": "🚫",
+            "label": "Résiliation",
+            "target": "termination"
+          },
+          {
+            "icon": "🏛️",
+            "label": "Droit Applicable",
+            "target": "governing-law"
+          },
+          {
+            "icon": "🔄",
+            "label": "Modifications des Conditions",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Nous Contacter",
+            "target": "contact"
+          }
+        ]
+      },
+      "termsSummary": {
+        "title": "Résumé des Conditions",
+        "points": [
+          "Service gratuit de fusion de PDF",
+          "Doit avoir plus de 18 ans pour utiliser",
+          "Fichiers supprimés sous 1 heure",
+          "Utilisation uniquement à des fins légales"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "acceptance",
+        "icon": "✅",
+        "title": "Acceptation des Conditions",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Bienvenue sur www.gabungpdf.id (\"le Site\"), un service fourni par Gabung PDF (\"nous\"). Ces Conditions d'Utilisation (\"Conditions\") régissent votre utilisation du Site et de ses services de fusion de PDF. En accédant ou en utilisant le Site, vous acceptez d'être lié par ces Conditions."
+          },
+          {
+            "type": "highlight",
+            "title": "Accord Important :",
+            "text": "Si vous n'acceptez pas ces Conditions, veuillez ne pas utiliser le Site."
+          }
+        ]
+      },
+      {
+        "id": "use-of-site",
+        "icon": "🔧",
+        "title": "Utilisation du Site",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Éligibilité",
+            "text": "Vous devez avoir au moins 18 ans ou la capacité légale de conclure ces Conditions pour utiliser le Site."
+          },
+          {
+            "type": "subsection",
+            "title": "Utilisation Autorisée",
+            "text": "Le Site vous permet de télécharger des fichiers PDF, de les fusionner en un seul PDF et de télécharger le résultat. Vous ne pouvez utiliser le Site que dans un cadre légal et conformément à ces Conditions."
+          },
+          {
+            "type": "subsection",
+            "title": "Utilisation Interdite",
+            "text": "Vous ne devez pas :",
+            "list": [
+              "Télécharger des fichiers contenant des virus, malwares ou autres codes nuisibles",
+              "Utiliser le Site pour enfreindre toute loi, réglementation ou droits de tiers",
+              "Tenter d'interférer avec, de perturber ou de rétroconcevoir le fonctionnement du Site",
+              "Utiliser le Site à des fins commerciales sans notre autorisation écrite préalable"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "user-files",
+        "icon": "📁",
+        "title": "Fichiers de l'Utilisateur",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Traitement Temporaire",
+            "text": "Les fichiers téléchargés sont traités pour fusionner les PDF et sont automatiquement supprimés de nos serveurs dans un délai d'une (1) heure après le traitement. Nous ne stockons ni ne conservons vos fichiers au-delà de cette période."
+          },
+          {
+            "type": "subsection",
+            "title": "Votre Responsabilité",
+            "text": "Vous êtes seul responsable du contenu des fichiers que vous téléchargez. Vous devez vous assurer que vous avez le droit de télécharger et de traiter ces fichiers et qu'ils ne portent pas atteinte aux droits de tiers (par ex. : droits d'auteur, marques déposées)."
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "icon": "©️",
+        "title": "Propriété Intellectuelle",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Contenu du Site",
+            "text": "Tout le contenu du Site, y compris les textes, graphiques, logos et logiciels, est notre propriété ou est concédé sous licence et est protégé par les lois sur la propriété intellectuelle."
+          },
+          {
+            "type": "subsection",
+            "title": "Contenu de l'Utilisateur",
+            "text": "Vous conservez la propriété des fichiers que vous téléchargez. En téléchargeant des fichiers, vous nous accordez une licence limitée, non-exclusive et sans redevance pour traiter vos fichiers uniquement dans le but de fournir le service de fusion de PDF."
+          }
+        ]
+      },
+      {
+        "id": "limitation-liability",
+        "icon": "⚠️",
+        "title": "Limitation de Responsabilité",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Aucune Garantie",
+            "text": "Le Site est fourni \"en l'état\" sans aucune garantie d'aucune sorte, explicite ou implicite, y compris les garanties de qualité marchande, d'adéquation à un usage particulier ou d'absence de contrefaçon."
+          },
+          {
+            "type": "subsection",
+            "title": "Limite de Responsabilité",
+            "text": "Dans la mesure maximale autorisée par la loi, nous ne sommes pas responsables des dommages indirects, accessoires, spéciaux ou consécutifs découlant de l'utilisation du Site, même si nous avons été informés de la possibilité de tels dommages."
+          },
+          {
+            "type": "subsection",
+            "title": "Interruptions de Service",
+            "text": "Nous ne garantissons pas un accès ininterrompu ou sans erreur au Site et ne sommes pas responsables des retards, interruptions ou pertes de données."
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "icon": "⚖️",
+        "title": "Indemnisation",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Vous acceptez de nous indemniser et de nous tenir à l'écart de toute réclamation, perte ou dommage, y compris les frais juridiques, découlant de votre utilisation du Site, de vos fichiers téléchargés ou de votre violation de ces Conditions."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "icon": "🚫",
+        "title": "Résiliation",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Nous pouvons suspendre ou mettre fin à votre accès au Site à notre seule discrétion, sans préavis, si vous enfreignez ces Conditions ou pour toute autre raison."
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "icon": "🏛️",
+        "title": "Droit Applicable",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ces Conditions sont régies par les lois d'Indonésie, sans tenir compte des principes de conflit de lois. Tout litige découlant de ces Conditions sera résolu devant les tribunaux indonésiens."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Modifications des Conditions",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Nous pouvons mettre à jour ces Conditions de temps à autre. Les modifications seront publiées sur cette page avec une date de \"Dernière Mise à Jour\"."
+          },
+          {
+            "type": "highlight",
+            "text": "Votre utilisation continue du Site après les modifications constitue une acceptation des Conditions mises à jour."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Nous Contacter",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Si vous avez des questions concernant ces Conditions, veuillez nous contacter à admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Points clés de l’accord",
+      "desc": "Comprendre vos droits et responsabilités lors de l’utilisation de notre service.",
+      "points": [
+        {
+          "title": "Usage équitable",
+          "desc": "Utilisez notre service de manière responsable et légale"
+        },
+        {
+          "title": "Vos fichiers",
+          "desc": "Vous conservez la propriété de tous les fichiers téléchargés"
+        },
+        {
+          "title": "Aucun abus",
+          "desc": "Les usages interdits entraîneront la résiliation du service"
+        },
+        {
+          "title": "Responsabilité limitée",
+          "desc": "Le service est fourni « tel quel » sans garanties"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Vous avez des questions ?",
+      "description": "Nous sommes là pour vous aider concernant toute question liée aux conditions ou au service.",
+      "links": [
+        {
+          "label": "Politique de Confidentialité",
+          "href": "/privacy-policy",
+          "icon": "🔒"
+        },
+        {
+          "label": "Contacter l'Équipe Juridique",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Content": {
+    "Policy": {
+      "title": "Politique de confidentialité",
+      "desc": "Nous nous engageons à protéger votre vie privée et à garantir la sécurité de vos fichiers. Découvrez comment nous collectons, utilisons et protégeons vos informations lorsque vous utilisez notre service de fusion de PDF.",
+      "Updated": "Dernière mise à jour :",
+      "date": "6 juin 2025"
+    },
+    "Terms": {
+      "title": "Conditions d'utilisation",
+      "desc": "Ces conditions régissent votre utilisation de notre service de fusion de PDF. Veuillez les lire attentivement avant d'utiliser notre site.",
+      "Updated": "Dernière mise à jour :",
+      "date": "6 juin 2025"
+    }
+  },
+  "MiniFooter": {
+    "heading": "Prêt à fusionner vos PDF en toute sécurité ?",
+    "subheading": "Découvrez notre service de fusion de PDF axé sur la confidentialité avec une tranquillité d'esprit totale.",
+    "button": "Fusionner les PDF maintenant"
+  },
+  "Seo": {
+    "Home": {
+      "title": "Combiner des PDF en Ligne Gratuitement - Fusionnez des Fichiers PDF Facilement et Rapidement",
+      "description": "Combinez des documents PDF en ligne gratuitement avec GabungPDF.id. Un outil de fusion de PDF facile à utiliser, sans installation ni inscription. Fusionnez vos PDF dès maintenant !"
+    },
+    "CombinePdf": {
+      "title": "Combiner des Fichiers PDF en Ligne Gratuitement - Fusion Rapide et Facile de PDF",
+      "description": "Combinez vos fichiers PDF en ligne gratuitement avec GabungPDF.id. Un outil de fusion rapide et facile à utiliser, sans inscription ni installation requise. Fusionnez vos PDF maintenant !"
+    },
+    "Blog": {
+    "title": "Blog Combiner PDFs : Astuces et Guides de Fusion",
+    "description": "Découvrez le blog de Gabung PDF pour des conseils d’experts sur la fusion de PDFs, des tutoriels et des outils pour simplifier vos tâches PDF. Lisez maintenant pour des idées utiles !"
+  },
+    "Blog1": {
+      "title": "La Façon la Plus Simple de Combiner des Fichiers PDF | Fusion de PDF",
+      "description": "Découvrez la manière la plus simple de combiner des fichiers PDF avec Gabung PDF. Un outil gratuit, rapide et convivial pour une fusion de PDF fluide. Essayez-le !"
+    },
+    "Blog2": {
+      "title": "L'Outil Ultime pour Combiner des PDF | Fusion de PDF",
+      "description": "Gabung PDF est l'outil ultime pour combiner des fichiers PDF en ligne. Rapide, sécurisé et gratuit. Fusionnez vos PDF sans effort dès aujourd'hui !"
+    },
+    "privacyPolicy": {
+      "title": "Politique de Confidentialité de Gabung PDF | Fusion de PDF Sécurisée",
+      "description": "Lisez la politique de confidentialité de Gabung PDF pour comprendre comment nous protégeons vos données lors de la fusion sécurisée de fichiers PDF en ligne. En savoir plus maintenant."
+    },
+    "TermsAndCondition": {
+      "title": "Conditions d'Utilisation de Gabung PDF | Fusion de PDF",
+      "description": "Consultez les conditions d'utilisation de Gabung PDF pour utiliser notre outil de fusion de PDF en ligne, gratuit et sécurisé. Comprenez nos politiques dès aujourd'hui."
+    }
+  }
+}

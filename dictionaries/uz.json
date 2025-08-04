@@ -1,0 +1,1306 @@
+{
+  "nav": {
+    "home": "Bosh sahifa",
+    "combinePdf": "PDF fayllarni birlashtirish",
+    "blog": "Blog",
+    "selectLanguage": "Tilni tanlash"
+  },
+  "home": {
+    "title": "PDF fayllarni onlayn birlashtirish – bepul, tez va xavfsiz",
+    "description": "PDF fayllarni osonlik bilan birlashtiring! GabungPDF.id bilan bepul, tez va xavfsiz onlayn vosita. Ro‘yxatdan o‘tish shart emas.",
+    "mergeNow": "PDFlarni hoziroq birlashtirish",
+    "sec1Para": "Bugungi tezkor raqamli dunyoda hujjatlarni samarali boshqarish shaxsiy va professional ishlar uchun juda muhimdir. Ko‘p hollarda <strong>PDF fayllarni birlashtirish</strong> talab etiladi. Hisobot tayyorlash, hisob-fakturalarni yig‘ish yoki bir nechta fayllarni ulashish uchun PDFlarni birlashtirish vaqtdan tejaydi hamda hujjatlarni tartibli saqlashga yordam beradi. Ushbu qo‘llanmada PDF fayllarni onlayn va bepul qanday birlashtirish, buning afzalliklari va gabungPDF.id kabi vositalar yordamida jarayonni qanday osonlashtirish haqida batafsil ma lumot beriladi. Shuningdek, PDFlarni qidiruv tizimlari uchun optimallashtirish bo‘yicha maslahatlar ham keltiriladi.",
+    "SecH1": "Nega PDF fayllarni birlashtirish kerak?",
+    "SecH1P1": "Bir nechta PDF fayllarni bitta hujjatga birlashtirishning ko‘plab foydalari bor. Quyida PDF birlashtiruvchi vositalardan foydalanish sabablarini ko‘rib chiqamiz:",
+    "SecH1UlLi1": "<strong>Tashkiliy va samarali:</strong> Bir nechta faylni yuborish o‘rniga, yagona birlashtirilgan PDF ulashish va ko‘rib chiqishni soddalashtiradi. Bu hisobotlar, shartnomalar yoki taqdimotlar yuborayotgan mutaxassislar uchun ayniqsa qulay.",
+    "SecH1UlLi2": "<strong>Fayllar tartibini kamaytirish:</strong> PDFlarni birlashtirish orqali fayllar sonini kamaytirib, hujjatlarni saqlash va topishni osonlashtiradi.",
+    "SecH1UlLi3": "<strong>Professional ko‘rinish:</strong> Yagona PDF professional va chiroyli ko‘rinadi, bu uni hamkasblar, mijozlar yoki manfaatdor tomonlarga taqdim etishda foydalidir.",
+    "SecH1UlLi4": "<strong>Keng platformalar bilan moslik:</strong> PDF formatining universalligi tufayli, birlashtirilgan hujjat har qanday qurilmada – Windows, Mac yoki mobilda – ko‘rinadi.",
+    "SecH1EndPara": "GabungPDF.id kabi vosita yordamida siz <strong>PDF fayllarni birlashtirish</strong>ni tez va oson bajarishingiz mumkin, dastur o‘rnatish yoki ro‘yxatdan o‘tish shart emas. Qanday qilishni ko‘rib chiqamiz.",
+    "steps": {
+      "title": "PDF fayllarni bepul va onlayn qanday birlashtirish",
+      "intro": "GabungPDF.id kabi onlayn vositalar yordamida PDFlarni birlashtirish juda oddiy va qulay. Quyida qadam-baqadam <strong>PDF fayllarni birlashtirish</strong> ko‘rsatmasi keltirilgan:",
+      "items": [
+        {
+          "title": "1-qadam: GabungPDF.id saytiga kirish",
+          "desc": "GabungPDF.id saytiga kiring – bu bepul va tez PDF fayllarni birlashtirish uchun mo‘ljallangan onlayn vosita. Sayt oddiy va qulay interfeysga ega, texnik bilim talab qilinmaydi."
+        },
+        {
+          "title": "2-qadam: PDF fayllarni yuklash",
+          "desc": "\"Fayllarni yuklash\" tugmasini bosib, birlashtirmoqchi bo‘lgan PDF fayllarni tanlang. Bir nechta faylni bir vaqtning o‘zida yuklash mumkin. GabungPDF.id turli formatlarni qo‘llab-quvvatlaydi, jumladan PDF va rasm fayllari. Fayl hajmi yoki soni bo‘yicha cheklov yo‘q."
+        },
+        {
+          "title": "3-qadam: Fayllarni tartiblash",
+          "desc": "Yuklangan fayllarni o‘zingiz xohlagan tartibda joylashtiring. Bu hisobot bo‘limlari yoki taqdimot bo‘limlarini mantiqiy ketma-ketlikda joylashtirish uchun qulay."
+        },
+        {
+          "title": "4-qadam: Birlashtirish va yuklab olish",
+          "desc": "Fayllarni joylashtirgandan so‘ng \"Birlashtirish\" tugmasini bosing. Vosita sifat va formatni saqlagan holda fayllarni bitta PDFga birlashtiradi. Jarayon tugagach, yakuniy faylni bitta bosish bilan yuklab oling. Juda oddiy!"
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Nega gabungPDF.id ni tanlash kerak?",
+      "points": [
+        {
+          "title": "<strong>Hech qanday o‘rnatish shart emas:</strong>",
+          "desc": "GabungPDF.id butunlay onlayn ishlaydi, shuning uchun joy va vaqtni tejaydi."
+        },
+        {
+          "title": "<strong>Bepul va xavfsiz:</strong>",
+          "desc": "Vosita foydalanish uchun bepul, yashirin to‘lovlar yo‘q. Fayllaringiz qayta ishlashdan so‘ng serverdan o‘chiriladi, shaxsiy ma lumotlaringiz himoyalangan."
+        },
+        {
+          "title": "<strong>Har qanday qurilmada ishlaydi:</strong>",
+          "desc": "Mac, Windows, iOS yoki Android – qaysi qurilmada bo‘lsangiz ham, PDF fayllarni osongina birlashtirishingiz mumkin."
+        },
+        {
+          "title": "<strong>Ko‘p tilli qo‘llab-quvvatlash:</strong>",
+          "desc": "Platforma dunyo bo‘ylab foydalanuvchilarni qo‘llab-quvvatlaydi, jumladan o‘zbek tilida ham."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Onlayn PDF birlashtirish vositalarining foydalari",
+      "items": [
+        {
+          "title": "<strong>Qulaylik:</strong>",
+          "desc": "Internetga ulangan istalgan qurilmadan PDF fayllarni birlashtirishingiz mumkin, masofadan ishlovchilar uchun ayni muddao."
+        },
+        {
+          "title": "<strong>Tezlik:</strong>",
+          "desc": "Birlashtirish jarayoni bir necha soniya davom etadi, shu bilan boshqa muhim ishlarga vaqt ajrata olasiz."
+        },
+        {
+          "title": "<strong>Bepul:</strong>",
+          "desc": "Ko‘plab onlayn vositalar, jumladan gabungPDF.id, to‘liq bepul, premium dasturlarga qaraganda arzon."
+        },
+        {
+          "title": "<strong>Foydalanuvchi uchun qulay:</strong>",
+          "desc": "Texnik bilim talab qilinmaydi, yangi boshlovchilar va mutaxassislar uchun mos."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Birlashtirilgan PDFlarni SEO uchun optimallashtirish",
+      "intro": "Agar PDF fayllarni professional yoki marketing maqsadlarida yaratmoqchi bo‘lsangiz, ularni qidiruv tizimlarida yuqori o‘rinlarga olib chiqish uchun optimallashtirish muhimdir. Quyida <strong>PDF birlashtirish</strong>, <strong>PDF fayllarni birlashtirish</strong>, va <strong>gabung PDF</strong> kabi kalit so‘zlarni qo‘shgan holda SEO bo‘yicha 10 maslahat keltirilgan:",
+      "items": [
+        {
+          "title": "1. Aniq va mazmunli fayl nomlari qo‘llang",
+          "desc": "GabungPDF.id saytiga yuklashdan oldin fayllarni kalit so‘zlarga boy va tavsiflovchi nomlar bilan nomlang. Masalan, \"document1.pdf\" o‘rniga \"biznes-hisobot-2025.pdf\" deb nomlang. Bu qidiruv tizimlariga fayl mazmunini tushunishga yordam beradi."
+        },
+        {
+          "title": "2. Metama lumotlarni qo‘shing",
+          "desc": "PDFga sarlavha, muallif va kalit so‘zlar kabi metama lumotlarni kiriting. Adobe Acrobat yoki boshqa PDF tahrir qiluvchi vositalar yordamida bu ma lumotlarni qo‘shishingiz mumkin."
+        },
+        {
+          "title": "3. Matnni optimallashtiring",
+          "desc": "PDFda matn qidiruv tizimlari tomonidan o‘qilishi uchun matnli bo‘lishi kerak, rasm sifatida emas. Kalit so‘zlarni tabiiy tarzda joylashtiring."
+        },
+        {
+          "title": "4. Ichki havolalarni qo‘shing",
+          "desc": "Agar PDF veb-sayt qismiga tegishli bo‘lsa, muhim sahifalarga havolalar joylashtiring, masalan bosh sahifa yoki PDFlarni qanday birlashtirish haqida blog postiga."
+        },
+        {
+          "title": "5. Sarlavha va tuzilmani qo‘llang",
+          "desc": "PDFni H1, H2 kabi sarlavhalar bilan to‘g‘ri tashkil qiling, bu o‘qishni osonlashtiradi va qidiruv tizimlariga mazmunni yaxshiroq tushunishga yordam beradi."
+        },
+        {
+          "title": "6. Hajmini siqib tezroq yuklanishini ta minlang",
+          "desc": "Katta hajmdagi PDFlar yuklanish vaqtini sekinlashtiradi, bu SEOga salbiy ta sir ko‘rsatadi. GabungPDF.id da birlashtirgandan so‘ng, PDFni siqish vositalaridan foydalaning."
+        },
+        {
+          "title": "7. Rasmlarga alt matn qo‘shing",
+          "desc": "Agar PDFda rasmlar bo‘lsa, ularga kalit so‘zlar bilan alt matn yozing. Bu hujjatni yanada ko‘rinarli va SEO uchun qulay qiladi."
+        },
+        {
+          "title": "8. PDFni o‘z saytingizda joylashtiring",
+          "desc": "Birlashtirilgan PDFni o‘z saytingizga yuklab, unga alohida sahifa yarating. Tavsif va yuklab olish linki bilan kalit so‘zlarni kiriting."
+        },
+        {
+          "title": "9. PDF ko‘rilishini kuzating",
+          "desc": "Google Analytics kabi vositalardan foydalanib, foydalanuvchilarning PDF bilan qanday o‘zaro aloqada ekanligini kuzating va kontentingizni yaxshilang."
+        },
+        {
+          "title": "10. PDFni targ‘ib qiling",
+          "desc": "PDFni ijtimoiy tarmoqlar, email xabarnomalar va boshqa jamoalarda ulashing. Yuklab olish va ulashish uchun chaqiriq qo‘shing."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "PDF fayllarni birlashtirishning keng tarqalgan holatlari",
+      "items": [
+        {
+          "title": "<strong>Biznes hisobotlari:</strong>",
+          "desc": "Hisobotning turli bo‘limlari, masalan matn, grafikalar va rasmlarni yagona PDFga birlashtiring."
+        },
+        {
+          "title": "<strong>Akademik loyihalar:</strong>",
+          "desc": "Talabalar tadqiqot ishlari, eslatmalar va manbalarni bitta PDFga yig‘ishi mumkin."
+        },
+        {
+          "title": "<strong>Huquqiy hujjatlar:</strong>",
+          "desc": "Advokatlar shartnomalar, kelishuvlar va ilovalarni birlashtirib ko‘rib chiqishni osonlashtiradi."
+        },
+        {
+          "title": "<strong>Marketing materiallari:</strong>",
+          "desc": "Rasm va matnlarni professional brosyuralarga birlashtiring."
+        },
+        {
+          "title": "<strong>Shaxsiy foydalanish:</strong>",
+          "desc": "Skannerlangan hujjatlar, kvitansiyalar yoki fotosuratlarni bitta PDFga birlashtiring."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "GabungPDF.id va boshqa vositalarni taqqoslash",
+      "intro": "GabungPDF.id PDF fayllarni birlashtirish uchun eng yaxshi tanlovlardan biri bo‘lsa-da, Adobe Acrobat, iLovePDF va PDF2Go kabi boshqa vositalar ham mavjud. Quyida ularning farqlari keltirilgan:",
+      "items": [
+        {
+          "title": "<strong>GabungPDF.id:</strong>",
+          "desc": "Bepul, ro‘yxatdan o‘tish shart emas, ko‘p formatlarni qo‘llab-quvvatlaydi, fayllarni qayta ishlashdan so‘ng o‘chiradi."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Bepul onlayn birlashtiruvchi mavjud, ammo ilg‘or xususiyatlar uchun tizimga kirish talab etiladi. Adobe ekotizimidan foydalanuvchilar uchun qulay."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Qisqartirish va konvertatsiya kabi qo‘shimcha xususiyatlarga ega, ammo ayrim funksiyalar pullik obunani talab qiladi."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Murakkab fayllarni va ko‘p sahifalarni qo‘llab-quvvatlaydi, bepul versiyada fayl hajmi cheklovlari bo‘lishi mumkin."
+        }
+      ]
+    },
+    "tips": {
+      "title": "PDF fayllarni muammosiz birlashtirish uchun maslahatlar",
+      "items": [
+        {
+          "title": "<strong>Fayl mosligini tekshiring:</strong>",
+          "desc": "Barcha fayllar PDF yoki qo‘llab-quvvatlanadigan formatlarda (JPG, PNG) ekanligiga ishonch hosil qiling."
+        },
+        {
+          "title": "<strong>Fayllarni oldindan ko‘rib chiqing:</strong>",
+          "desc": "Birlashtirishdan oldin fayllarning tartibi va mazmunini tekshirib chiqing."
+        },
+        {
+          "title": "<strong>Xavfsiz platformalarni tanlang:</strong>",
+          "desc": "GabungPDF.id kabi shaxsiylikni birinchi o‘ringa qo‘yadigan vositalardan foydalaning."
+        },
+        {
+          "title": "<strong>Natijani tekshiring:</strong>",
+          "desc": "Birlashtirilgan PDFni ochib, tartib va mazmun to‘g‘ri ekanligini tasdiqlang."
+        }
+      ]
+    },
+    "ConclusionH1": "Xulosa",
+    "conclusion": "PDF fayllarni birlashtirish hujjatlarni boshqarishni soddalashtirishning oddiy va samarali usulidir. Mutaxassislar, talabalar yoki shaxsiy maqsadlar uchun foydalanuvchilar gabungPDF.id kabi vositalar yordamida onlayn va bepul PDFlarni osongina birlashtirishlari mumkin. SEO bo‘yicha maslahatlarimizni qo‘llab, PDFlaringizni qidiruv tizimlarida yuqori o‘rinlarga olib chiqishingiz mumkin. GabungPDF.id bilan bugun boshlab PDF fayllarni tez va xavfsiz birlashtiring! Foydalanuvchi uchun qulay interfeys, har qanday qurilmada ishlash va ro‘yxatdan o‘tmasdan foydalanish imkoniyati bilan gabungPDF.id – tez va ishonchli yechimdir. Endi sinab ko‘ring va PDFlarni soniyalar ichida birlashtirish qulayligini his eting!"
+  },
+  "combinePdf": {
+    "title": "PDF fayllarni birlashtirish",
+    "dragDrop": "PDF fayllarni shu yerga sudrab tashlang",
+    "clickBrowse": "yoki tanlash uchun bosing",
+    "selectFiles": "Fayllarni tanlang",
+    "maxSize": "Har bir fayl hajmi: 50 MB gacha",
+    "combineButton": "PDFlarni birlashtirish",
+    "filesCount": "PDFlar",
+    "S1H1": "PDF birlashtirish: PDF fayllarni qanday birlashtirish mumkin — bepul maslahatlar",
+    "S1P1": "Zamonaviy raqamli dunyoda PDF fayllar (Portable Document Format) hujjatlarni almashish va saqlash uchun ajralmas bo‘lib qolgan. Microsoft Word yoki Google Docs kabi an anaviy DOC fayllardan farqli o‘laroq, PDF har qanday qurilmada va operatsion tizimda o‘z tartibini saqlab qoladi, bu esa uni professional va shaxsiy foydalanish uchun ideal qiladi — xoh hisobotlar bo‘lsin, taqdimotlar yoki shakllar.",
+    "S1P2": "Biroq, PDF bilan ishlash ba zida qiyin bo‘lishi mumkin, ayniqsa ko‘p fayllarni birlashtirish kerak bo‘lsa. Ushbu qo‘llanmada biz sizga nima uchun PDFlarni birlashtirish muhimligini, bizning oson va bepul vositamiz yordamida qanday qilib buni amalga oshirishni ko‘rsatamiz hamda hujjatlaringizni boshqarishni soddalashtirish usullarini tushuntiramiz.",
+    "S2H1": "Nima uchun PDF fayllar noyob va ko‘p funksiyalidir",
+    "S2P1": "PDF fayllar har qanday qurilmada yoki dasturda ochilganda hujjatning aniq ko‘rinishini saqlash uchun yaratilgan. DOC fayllardan farqli o‘laroq, ular tizim sozlamalari (masalan, shriftlar yoki operatsion tizim) ta sirida o‘zgarishsiz qoladi. Bu shriftlar, tartib va grafikalarni o‘zgartirmasdan saqlaydi, shuning uchun PDF professional hujjatlar, masalan, shartnomalar, rezyume yoki elektron kitoblar uchun juda mos keladi.",
+    "S2P2": "Ushbu barqarorlik PDFlarni internet orqali hujjat almashishda juda mashhur qiladi. Biznes takliflarini yuborishda yoki muhim ma lumotlarni arxivlashda, PDF hujjat aynan tayyorlangan ko‘rinishda saqlanadi. Biroq, bu xususiyat PDFni tahrirlash yoki birlashtirishni maxsus dasturlarsiz qiyinlashtiradi. Baxtimizga, bizning bepul onlayn vositamiz ushbu jarayonni osonlashtiradi va siz qimmat dasturlarsiz PDFlarni birlashtira olasiz.",
+    "combine_pdf_files": {
+      "intro": "Nega PDF fayllarni birlashtirish kerak?",
+      "para": "PDFlarni birlashtirish ko‘plab sohalarda, jumladan professional, talabalar va boshqa foydalanuvchilar uchun juda muhim. Mana ba zi misollar:",
+      "items": [
+        {
+          "title": "Katta hisobotlarni yaratish:",
+          "desc": "Agar sizda turli hisobotlar yoki boblar alohida PDF fayllarda bo‘lsa, ularni bitta hujjatda birlashtiring, shunda ularni osonlik bilan ko‘rish va almashish mumkin bo‘ladi."
+        },
+        {
+          "title": "Skanner qilingan hujjatlarni arxivlash:",
+          "desc": "Skanner qilingan hujjatlar, masalan, kvitansiyalar yoki shakllar, odatda bitta faylga yig‘iladi qulaylik uchun."
+        },
+        {
+          "title": "Taqdimotlarni soddalashtirish:",
+          "desc": "Turli PDFlardan slaydlar yoki bo‘limlarni birlashtirish taqdimotni yanada professional qiladi."
+        },
+        {
+          "title": "Oson almashish:",
+          "desc": "Bir nechta fayllarni yuborish o‘rniga, bitta birlashtirilgan PDF barcha materiallarni bir joyda taqdim etadi."
+        }
+      ],
+      "para2": "DOC fayllardan farqli o‘laroq, PDFdan matnni ko‘chirib olish qiyin — ayniqsa skanner qilingan hujjatlarda OCR bo‘lmasa. Bizning bepul vositamiz bu muammolarni hal qiladi: siz bir vaqtning o‘zida 20 gacha faylni birlashtira olasiz, maxsus dastur yoki ko‘nikmalarsiz."
+    },
+    "stepbystep": {
+      "intro": "PDF fayllarni qanday birlashtirish — bosqichma-bosqich qo‘llanma",
+      "para": "Bizning oddiy onlayn vositamiz PDFlarni birlashtirish jarayonini tez va samarali qiladi. Ikki yoki yigirma fayl bo‘lsa ham, hech qanday o‘rnatish yoki ro‘yxatdan o‘tmasdan buni amalga oshirishingiz mumkin. Quyidagi bosqichlarni bajarish kifoya:",
+      "items": [
+        {
+          "title": "1-qadam: PDF fayllarni yuklang",
+          "desc": "Saytimizdagi 'Fayllarni tanlash' tugmasini toping. Bosing va qurilmangizdan fayllarni tanlang yoki 'Sudrab tashlash' funksiyasidan foydalaning — bu bir nechta hujjatlar bilan ishlashni osonlashtiradi."
+        },
+        {
+          "title": "2-qadam: Fayllarning tartibini sozlang",
+          "desc": "Yuklaganingizdan so‘ng fayllar ularni birlashtirish tartibida ko‘rsatiladi. Birinchi fayl yuqorida bo‘ladi, keyin boshqalar. Tartibni o‘zgartirish uchun fayllarni sudrashing."
+        },
+        {
+          "title": "3-qadam: Birlashtirish va yuklab olish",
+          "desc": "Hammasi tayyor bo‘lgach, 'PDFlarni birlashtirish' tugmasini bosing. Tizim fayllarni birlashtiradi va tayyor hujjat avtomatik ravishda yuklab olinadi. Bu jarayon tez, xavfsiz va qo‘shimcha dasturlarsiz amalga oshadi."
+        }
+      ],
+      "intro2": "Ko‘proq fayllarni birlashtirmoqchimisiz?",
+      "para2": "Muammo yo‘q! Bizning vosita to‘plamli ishlov berishni qo‘llab-quvvatlaydi. Birinchi guruhni birlashtirib, natijani yuklab oling va uni boshqa PDFlar bilan yana yuklang. Jarayonni takrorlang, to‘liq hujjat hosil bo‘lguncha.",
+      "intro3": "Muhim: faylni 1 soat ichida yuklab oling",
+      "para3": "Xavfsizlik uchun birlashtirilgan fayl faqat 1 soat davomida mavjud bo‘ladi. Keyin u serverdan o‘chiriladi. Bu sizning ma lumotlaringiz xavfsizligini ta minlaydi va boshqa foydalanuvchilar uchun joy bo‘shatadi."
+    },
+    "benefits": {
+      "intro": "Bizning bepul PDF birlashtiruvchi vositamizning afzalliklari",
+      "para": "Bizning xizmatimiz soddalik, mavjudlik va samaradorlikka asoslangan. Shuning uchun bu eng yaxshi tanlovdir:",
+      "items": [
+        {
+          "title": "Hech qanday o‘rnatish shart emas:",
+          "desc": "An anaviy PDF muharrirlardan farqli o‘laroq, bizning xizmatimiz butunlay onlayn ishlaydi — har qanday internetga ulangan qurilmada."
+        },
+        {
+          "title": "Bepul va cheklovsiz:",
+          "desc": "Bir vaqtning o‘zida 20 tagacha PDF faylni birlashtiring — bepul, obuna talab qilinmaydi."
+        },
+        {
+          "title": "Oson interfeys:",
+          "desc": "Sudrab tashlash funksiyasi va oddiy dizayn har qanday foydalanuvchi uchun qulaylik yaratadi."
+        },
+        {
+          "title": "Tez ishlash:",
+          "desc": "Birlashtirish jarayoni bir necha soniya ichida bajariladi, bu sizning vaqtingizni tejaydi."
+        },
+        {
+          "title": "Xavfsiz:",
+          "desc": "Sizning fayllaringiz xavfsiz ishlov beriladi va 1 soat ichida o‘chiriladi — bu sizning maxfiyligingizni himoya qiladi."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Qachon PDF fayllarni birlashtirish kerak?",
+      "para": "PDFlarni birlashtirish turli holatlarda foydali bo‘ladi. Mana ba zi misollar:",
+      "items": [
+        {
+          "title": "Professional foydalanuvchilar uchun:",
+          "desc": "Hisob-kitoblar, shartnomalar va takliflarni bitta PDFda yig‘ing, shunda mijozlar yoki hamkasblarga oson yuborish mumkin."
+        },
+        {
+          "title": "Talabalar va o‘qituvchilar uchun:",
+          "desc": "Eslatmalar, tadqiqot ishlar yoki maqolalarni bitta faylda birlashtiring, o‘qish yoki topshirish uchun qulay bo‘lsin."
+        },
+        {
+          "title": "Yuridik va ma muriy hujjatlar uchun:",
+          "desc": "Skanner qilingan shakllar yoki shartnomalarni bitta PDFda birlashtiring, arxivlash yoki yuridik ishlar uchun foydalaning."
+        },
+        {
+          "title": "Ijodiy loyihalar uchun:",
+          "desc": "Eskizlar, portfoliolar yoki storyboardlarni bitta hujjatda yig‘ing, taqdimot yoki ko‘rib chiqish uchun qulay bo‘lsin."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "PDF bilan ishlash bo‘yicha maslahatlar",
+      "para": "PDFlarni birlashtirishda eng yaxshi natijalar uchun quyidagi tavsiyalarga amal qiling:",
+      "items": [
+        {
+          "title": "Fayllarning tartibini tekshiring:",
+          "desc": "Fayllar to‘g‘ri tartibda ekanligiga ishonch hosil qiling, aralashmasligi uchun."
+        },
+        {
+          "title": "Hajmni optimallashtiring:",
+          "desc": "Agar PDFda katta rasm yoki grafikalar bo‘lsa, ularni siqib fayl hajmini kamaytiring."
+        },
+        {
+          "title": "Aniq nomlardan foydalaning:",
+          "desc": "Fayllarga o‘zgacha nomlar bering (masalan: Hisobot_Bob1.pdf) shunda oson topish mumkin."
+        },
+        {
+          "title": "Asl fayllarning zaxira nusxasini saqlang:",
+          "desc": "Asl PDFlarni saqlang, kerak bo‘lsa ularni tahrirlash yoki yana birlashtirish uchun."
+        },
+        {
+          "title": "Boshqa vositalardan foydalanishni o‘rganing:",
+          "desc": "Agar tahrirlash, konvertatsiya yoki siqish kerak bo‘lsa, platformamizdagi boshqa bepul xizmatlarni ham sinab ko‘ring."
+        }
+      ]
+    },
+    "why_choose": "Nega bizning vositamizni tanlash kerak?",
+    "why_choose_para": "To‘lovli PDF muharrirlari, masalan Adobe Acrobat, qo‘shimcha funksiyalarni taklif qiladi. Ammo bizning bepul xizmatimiz ko‘pchilik foydalanuvchilar ehtiyojini qondiradi. Hech qanday to‘lov yoki obunalarsiz hujjatlarni osonlik bilan birlashtiring. Gabung PDF.id har kim uchun mavjud — kichik biznesdan tortib talabalarigacha — murakkabliksiz professional natijalar beradi.",
+    "why_choose_para2": "Bizning platformamiz tezlik va qulaylik uchun optimallashtirilgan. Kompyuter, planshet yoki smartfon bo‘lsin, har qanday joydan PDFlarni birlashtiring, moslik muammosiz. Ushbu vosita o‘rganishga ko‘p vaqt ajratishni xohlamaydiganlar uchun ideal.",
+    "conclusion": "Xulosa",
+    "conclusion_para": "PDF fayllarni birlashtirish murakkab yoki qimmat bo‘lishi shart emas. Bizning bepul onlayn vositamiz yordamida siz bir vaqtning o‘zida 20 faylni birlashtirishingiz, tartibini boshqarishingiz va tayyor PDFni bir necha soniya ichida yuklab olishingiz mumkin. Hisobot tayyorlash, skanner qilingan hujjatlarni arxivlash yoki taqdimot qilish uchun ideal — hech qanday o‘rnatish yoki maxsus ko‘nikmalar talab qilinmaydi."
+  },
+  "blog": {
+    "title": "PDF bo‘yicha maslahatlar, qo‘llanmalar va darsliklar",
+    "description": "Hujjatlarni boshqarishni mukammal o‘rganing – mutaxassis qo‘llanmalari, amaliy maslahatlar va bosqichma-bosqich darsliklar.",
+    "searchPlaceholder": "Maqolalar, qo‘llanmalar va darsliklarni qidirish...",
+    "articles": "Maqolalar",
+    "readers": "O‘quvchilar",
+    "available": "Mavjud",
+    "featuredArticle": "Tanlangan maqola",
+    "mostPopular": "Eng mashhur ushbu hafta",
+    "readArticle": "Maqolani o‘qish",
+    "readFull": "To‘liq maqolani o‘qish",
+    "popularTopics": "Mashhur mavzular",
+    "recentPosts": "So‘nggi postlar",
+    "featureblog": {
+      "title": "Haftaning Eng Mashhur Maqolasi",
+      "subtitle": "⭐ Tanlangan Maqola",
+      "featuredArticle": {
+        "date": "2025-yil 2-iyul",
+        "author": "Administrator",
+        "category": "Tanlangan Maqola",
+        "headline": "GabungPDF.id: PDF Fayllarni Birlashning Eng Oson Yo‘li",
+        "excerpt": "PDF fayllarni GabungPDF.id bilan oson birlashtiring, bu bepul onlayn PDF birlashtiruvchi vosita. Fayllaringizni bir necha soniya ichida xavfsiz birlashtiring, hech qanday dasturiy ta’minot talab qilinmaydi. Ish unumdorligini oshiring hoziroq!",
+        "readTime": "3 daqiqada o‘qiladi",
+        "buttonName": "To‘liq Maqolani O‘qish"
+      }
+    },
+    "blogsPage": {
+      "cards": [
+        {
+          "BlogImage": "/Blog1Image.webp",
+          "date": "2025-yil 2-iyun",
+          "author": "Admin foydalanuvchisi",
+          "category": null,
+          "headline": "GabungPDF.id: PDF Fayllarni Birlashtirish Uchun Eng Yaxshi Vosita",
+          "headlineLink": "/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "excerpt": "GabungPDF.id yordamida PDF fayllarni osonlik bilan birlashtiring — bu sizning bepul onlayn PDF birlashtiruvchingiz. Bir necha soniya ichida xavfsiz tarzda PDFlarni birlashtiring — dasturiy ta'minot kerak emas. Hozir sinab ko'ring!",
+          "readTime": "3 daqiqada o'qish",
+          "readMoreText": "blog.readArticle",
+          "slug": "gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "detail": {
+            "intro": "GabungPDF.id saytida biz foydalanuvchilar uchun qulay bo'lgan veb-asoslangan vositani ishlab chiqdik, u sizga PDF fayllarni osonlik bilan birlashtirishga yordam beradi. Texnik bilimga ega bo'lishingiz shart emas — bizning platformamiz barchaga mos keladi. Mana nega GabungPDF.id eng yaxshi PDF birlashtiruvchi vosita hisoblanadi:",
+            "features": [
+              {
+                "title": "Bepul va mavjud",
+                "description": "Hech qanday obuna yoki yashirin to'lovlar yo'q — shunchaki yuklang va birlashtiring."
+              },
+              {
+                "title": "Dasturiy ta'minot o'rnatish shart emas",
+                "description": "Bizning vositamiz to'liq onlayn ishlaydi, qurilmangizda joy tejaydi."
+              },
+              {
+                "title": "Tez va xavfsiz",
+                "description": "PDFlarni bir necha soniya ichida kuchli shifrlash yordamida xavfsiz tarzda birlashtiring."
+              },
+              {
+                "title": "Foydalanuvchi uchun qulay interfeys",
+                "description": "Fayllarni sudrab tashlang va bir necha marta bosish bilan birlashtiring."
+              }
+            ],
+            "intro2": "Hujjatlaringizni boshqarishni soddalashtirishga tayyormisiz? Keling, PDF fayllarni birlashtirish uchun vositamizdan qanday foydalanishni birgalikda ko'rib chiqamiz.",
+            "how_to_use": {
+              "title": "GabungPDF.id yordamida PDF Fayllarni Qanday Birlashtirish Kerak",
+              "paragraph": "GabungPDF.id yordamida PDFlarni birlashtirish juda oddiy. Quyidagi qadamlarga rioya qiling:",
+              "steps": [
+                {
+                  "title": "Fayllarni Yuklang",
+                  "description": "https://gabungpdf.id/ saytiga tashrif buyuring va “Yuklash” tugmasini bosing. Qurilmangizdan birlashtirmoqchi bo'lgan PDF fayllarni tanlang. Bir vaqtning o'zida bir nechta fayllarni yuklashingiz mumkin."
+                },
+                {
+                  "title": "Tartibni Belgilang",
+                  "description": "Fayllarni sudrab tashlab, o'zingiz xohlagan tartibda joylashtiring. Bu yakuniy hujjat mantiqiy va qulay bo'lishini ta'minlaydi."
+                },
+                {
+                  "title": "Birlashtirish va Yuklab Olish",
+                  "description": "“PDFni birlashtirish” tugmasini bosing va bizning vositamiz fayllaringizni birlashtiradi. Yakunlangach, yangi PDF-ni darhol yuklab oling."
+                }
+              ],
+              "note": "Shu bilan tamom! Murakkab sozlamalar yoki texnik bilim talab qilinmaydi. Ikki yoki yigirma fayl bo'lsin — GabungPDF.id barchasini osonlik bilan birlashtiradi."
+            },
+            "benefits": {
+              "title": "Onlayn PDF Birlashtiruvchi Vositadan Foydalanish Afzalliklari",
+              "paragraph": "GabungPDF.id kabi onlayn PDF birlashtiruvchi vositani tanlash an'anaviy dasturiy ta'minotga yoki qo'lda bajariladigan usullarga nisbatan bir qator afzalliklarga ega. Mana nega bizning vositamiz haqiqiy yordamchidir:",
+              "items": [
+                {
+                  "title": "Vaqtni Tejash",
+                  "description": "Kompyuter dasturiy ta'minotida PDFlarni qo'lda birlashtirish ko'p vaqt talab etadi va odatda qimmat litsenziyani talab qiladi. GabungPDF.id bilan siz PDF fayllarni bir necha soniya ichida internetga ulangan istalgan qurilmadan birlashtirishingiz mumkin."
+                },
+                {
+                  "title": "Xavfsiz Fayl Ishlovi",
+                  "description": "Maxfiylikdan xavotirdamisiz? Bizning platformamiz ilg'or shifrlashdan foydalanadi, shuning uchun fayllaringiz birlashtirish jarayonida xavfsiz saqlanadi. Birlashtirilgan PDF-ni yuklab olgach, biz fayllaringizni serverimizdan o'chirib tashlaymiz."
+                },
+                {
+                  "title": "Arzon Yechim",
+                  "description": "Nega qimmat PDF tahrirlash dasturiga pul to'lashingiz kerak? GabungPDF.id to'liq bepul — talabalar, freelancerlar va kichik bizneslar uchun ideal."
+                },
+                {
+                  "title": "Platformalararo Moslik",
+                  "description": "Siz Windows, macOS, iOS yoki Android-dan foydalansangiz ham, bizning onlayn PDF birlashtiruvchimiz barcha platformalarda mukammal ishlaydi. Hech qanday muvofiqlik muammosi bo'lmaydi."
+                }
+              ]
+            },
+            "optimization_tips": {
+              "title": "Birlashtirilgan PDF Fayllarni Optimallashtirish Bo'yicha Maslahatlar",
+              "paragraph": "Birlashtirilgan PDF fayllardan maksimal darajada foydalanish uchun ushbu maslahatlarni yodda tuting:",
+              "tips": [
+                {
+                  "title": "Fayllar Tartibini Tekshiring",
+                  "description": "Birlashtirishdan oldin, fayllaringiz kerakli ketma-ketlikda joylashganligiga ishonch hosil qiling."
+                },
+                {
+                  "title": "Fayl Hajmini Optimallashtiring",
+                  "description": "Agar PDF-da katta tasvirlar mavjud bo'lsa, yakuniy hajmni kamaytirish uchun yuklashdan oldin ularni siqib qo'ying."
+                },
+                {
+                  "title": "Aniq Nomi Qo'ying",
+                  "description": "Keyinchalik oson aniqlash uchun PDF fayllaringizga tushunarli nom bering."
+                },
+                {
+                  "title": "Natijani Oldindan Ko‘rib Chiqing",
+                  "description": "Birlashtirgandan so'ng, yakuniy PDF faylni tekshirib chiqing, hammasi joyida ekanligiga ishonch hosil qiling."
+                }
+              ],
+              "paragraph2": "GabungPDF.id yordamida siz PDF fayllarni sifat va tartibni saqlagan holda ishonch bilan birlashtira olasiz."
+            },
+            "audience": {
+              "title": "GabungPDF.id Kim Uchun Foydali?",
+              "paragraph": "Bizning PDF birlashtiruvchi vositamiz turli foydalanuvchilar uchun mo'ljallangan, jumladan:",
+              "users": [
+                {
+                  "type": "Talabalar",
+                  "description": "Ma'ruza yozuvlari, topshiriqlar yoki ilmiy ishlarni yagona faylga birlashtirish."
+                },
+                {
+                  "type": "Mutaxassislar",
+                  "description": "Hisobotlar, takliflar yoki shartnomalarni samarali aloqa uchun birlashtirish."
+                },
+                {
+                  "type": "Kichik bizneslar",
+                  "description": "Hisob-fakturalar, kvitansiyalar yoki marketing materiallarini bitta hujjatda tartibga solish."
+                },
+                {
+                  "type": "Freelancerlar",
+                  "description": "Portfoliolar, hisob-fakturalar yoki loyiha natijalarini mijozlar uchun birlashtirish."
+                }
+              ],
+              "paragraph2": "Qaysi ehtiyojda bo'lsangiz ham, GabungPDF.id sizning PDF bilan bog'liq barcha ishlaringizda ishonchli hamkor."
+            },
+            "why_choose_us": {
+              "title": "Nega Boshqa PDF Birlashtiruvchilardan GabungPDF.id-ni Tanlaysiz?",
+              "paragraph": "Ko'plab vositalar mavjud bo'lsa-da, GabungPDF.id nima uchun PDF fayllarni birlashtirish uchun eng yaxshi tanlov hisoblanadi? Mana bizning ustunliklarimiz:",
+              "reasons": [
+                {
+                  "title": "Tezlik",
+                  "description": "O'rganish shart emas — shunchaki yuklang, birlashtiring va yuklab oling."
+                },
+                {
+                  "title": "Ishonchlilik",
+                  "description": "Doimiy va barqaror ishlash, xatolar va nosozliklarsiz."
+                },
+                {
+                  "title": "Keng Imkoniyatlar",
+                  "description": "Dunyoning istalgan nuqtasidan 24/7 foydalanish mumkin."
+                }
+              ],
+              "paragraph2": "Murakkab dasturlar yoki ishonchsiz vositalarga vaqtingizni sarflamang. Bugunoq GabungPDF.id-ni sinab ko'ring va PDF fayllarni birlashtirishning eng oson usulini ko'ring."
+            },
+            "conclusion": {
+              "title": "Xulosa: GabungPDF.id Bilan Ishingizni Soddalashtiring",
+              "paragraph": "PDF fayllarni birlashtirish qiyin bo'lishi shart emas. GabungPDF.id yordamida siz PDF fayllarni osonlik bilan birlashtirib, vaqtingizni tejashingiz va hujjatlaringizni tartibda saqlashingiz mumkin. Bizning bepul, xavfsiz va foydalanuvchiga qulay vositamiz ish jarayonini soddalashtirishni xohlagan har bir kishi uchun mukammal. Hisobotlar, yozuvlar yoki shartnomalarni birlashtirayotgan bo'lsangiz ham, vositamiz har safar professional natijalar beradi. Boshlashga tayyormisiz?",
+              "cta": {
+                "text": "gabungpdf.id/combine-pdf saytiga tashrif buyuring",
+                "link": "https://gabungpdf.id/combine-pdf"
+              },
+              "Remaingparagraph": "Endi bir necha marta bosish bilan PDF fayllarni birlashtiring. Bugunoq GabungPDF.id yordamida hujjatlaringizni boshqarishni soddalashtiring — bu sizning mukammal PDF birlashtiruvchingiz!"
+            }
+          }
+        },
+        {
+          "BlogImage": "/FeatureBlogImage.webp",
+          "date": "Jul 2, 2025",
+          "author": "Admin User",
+          "category": "Tavsiya etilgan maqola",
+          "headline": "GabungPDF.id: PDF fayllarni birlashtirishning eng oson usuli",
+          "excerpt": "GabungPDF.id bilan PDF fayllarni oson va tez birlashtiring, bu bepul onlayn vosita. Bir necha soniyada xavfsiz PDF birlashtirish, dasturiy ta'minotsiz. Ish unumdorligingizni oshiring hoziroq!",
+          "readTime": "3 daqiqada o'qiladi",
+          "buttonName": "To'liq maqolani o'qish",
+          "slug": "gabungpdfid-the-easiest-way-to-combine-pdf-files",
+          "detail": {
+            "intro": "Vaqt - pul bo'lgan zamonda hujjatlarni samarali boshqarish muhim farq keltiradi. Bir nechta hisobotlarni yuritish, mijoz shartnomalarini tartibga solish yoki loyiha fayllarini jamlashda ishonchli PDF birlashtirgich sizning ish jarayoningizni ancha yengillashtiradi. GabungPDF.id - bu PDF fayllarni tez va silliq birlashtirish uchun mo'ljallangan bepul onlayn vosita. Ushbu maqolada GabungPDF.id qanday qilib PDF fayllarni oson va qulay tarzda birlashtirishga yordam berishini hamda nega u mutaxassislar, talabalar va bizneslar uchun eng yaxshi yechim ekanini ko'rib chiqamiz.",
+            "why_merge_pdf": {
+              "title": "Nega PDF fayllarni birlashtirish kerak?",
+              "paragraph": "PDF - professional hujjatlar bilan o'rtoqlashish uchun eng mashhur format, lekin bir nechta fayl bilan ishlash sizni sekinlashtiradi. PDF fayllarni yagona va tartibli hujjatga birlashtirish vaqtingizni tejaydi, tartibsizlikni kamaytiradi va tashkilotni yaxshilaydi. Mana PDF fayllarni birlashtirish uchun bir necha sabab:",
+              "reasons": [
+                {
+                  "title": "Ulashishni soddalashtiring",
+                  "description": "Bir nechta ilovani yuborish o'rniga bitta fayl yuboring, hamkorlik osonlashadi."
+                },
+                {
+                  "title": "Hujjatlarni tartibga soling",
+                  "description": "Hisob-fakturalar, shakllar yoki yozuvlarni bitta, oson kiriladigan PDF faylga birlashtiring."
+                },
+                {
+                  "title": "Professional taqdimotlar",
+                  "description": "Slaydlar, varaqalar va eslatmalarni yagona silliq hujjatga jamlang."
+                },
+                {
+                  "title": "Arxivlashni soddalashtiring",
+                  "description": "Tegishli fayllarni jamlab, saqlash va qidirishni osonlashtiring."
+                }
+              ],
+              "note": "GabungPDF.id bilan siz PDF fayllarni atigi bir necha bosish orqali birlashtirishingiz mumkin, hujjatlarni boshqarish nihoyatda oson."
+            },
+            "features": {
+              "title": "GabungPDF ni eng yaxshi PDF birlashtirgich qiladigan jihatlar",
+              "paragraph": "GabungPDF.id da biz hammaga qulay, tez va bepul vosita yaratdik. Ish stol kompyuteringizdan, planshetingizdan yoki smartfoningizdan foydalanayotgan bo'lsangiz ham, PDF birlashtirgichimiz professional natijalar beradi. Mana nima uchun foydalanuvchilar GabungPDF.id ni yoqtirishadi:",
+              "items": [
+                {
+                  "title": "To'liq bepul",
+                  "description": "Hech qanday obuna yoki yashirin to'lovlar yo'q — shunchaki birlashtiring va foydalaning."
+                },
+                {
+                  "title": "Dasturiy ta'minot talab qilinmaydi",
+                  "description": "Veb asosidagi vositamiz darhol ishlaydi, yuklab olish shart emas."
+                },
+                {
+                  "title": "Xavfsiz ishlov berish",
+                  "description": "Fayllaringiz shifrlash orqali himoyalangan va foydalanish tugagandan so'ng o'chiriladi."
+                },
+                {
+                  "title": "Qulay dizayn",
+                  "description": "Oddiy interfeys barcha foydalanuvchilar uchun PDF birlashtirishni osonlashtiradi."
+                }
+              ],
+              "next": "Ish unumdorligingizni oshirishga tayyormisiz? PDF birlashtirgichimizdan qanday foydalanishni bir necha daqiqada bilib oling."
+            },
+            "how_to_use": {
+              "title": "GabungPDF.id orqali PDF fayllarni qanday birlashtirish mumkin",
+              "paragraph": "GabungPDF bilan PDF birlashtirish juda oddiy va texnik bilim talab qilmaydi. Quyidagi oddiy bosqichlarni bajaring:",
+              "steps": [
+                {
+                  "title": "PDF fayllaringizni yuklang",
+                  "description": "https://gabungpdf.id/ sahifasiga o'ting va birlashtirmoqchi bo'lgan PDF fayllaringizni tanlang. Bir nechta faylni bir vaqtda yuklashingiz mumkin."
+                },
+                {
+                  "title": "Kerakli tartibda joylashtiring",
+                  "description": "Fayllarni istalgan tartibda joylashtirish uchun sudrab tashlash funksiyasidan foydalaning."
+                },
+                {
+                  "title": "Birlashtiring va saqlang",
+                  "description": "\"PDF ni birlashtirish\" tugmasini bosing va bizning vositamiz fayllaringizni yagona faylga aylantiradi. Birlashtirilgan PDF ni darhol yuklab oling."
+                }
+              ],
+              "note": "Shunchaki oson! Ikki fayldan yoki o'ndan ortiq fayldan qat'i nazar, GabungPDF.id doimo silliq va qulay tajriba taqdim etadi."
+            },
+            "top_benefits": {
+              "title": "GabungPDF.id dan foydalanishning asosiy afzalliklari",
+              "paragraph": "GabungPDF.id kabi onlayn PDF birlashtirgichni tanlash qulaylik va samaradorlikni taqdim etadi. Mana nima uchun bizning vositamiz ajralib turadi:",
+              "items": [
+                {
+                  "title": "Vaqt va kuchni tejaydi",
+                  "description": "PDF fayllarni qo'lda yoki murakkab dastur bilan birlashtirish bosh og'rig'i bo'lishi mumkin. GabungPDF.id esa bir necha soniyada fayllarni birlashtiradi va sizga muhim ishlaringizga ko'proq vaqt beradi."
+                },
+                {
+                  "title": "Yuqori xavfsizlik",
+                  "description": "Biz maxfiyligingizga ustuvor ahamiyat beramiz. Platformamiz fayllarni birlashtirish davomida shifrlash orqali himoya qiladi va ish tugagandan so'ng ularni o'chiradi."
+                },
+                {
+                  "title": "Budjetga mos",
+                  "description": "Qimmat PDF dasturlariga pul sarflashning hojati yo'q. GabungPDF.id to'liq bepul va talabalar, freelancerlar hamda kichik bizneslar uchun ideal."
+                },
+                {
+                  "title": "Har joydan kirish mumkin",
+                  "description": "Bizning vositamiz Windows, macOS, iOS yoki Android bo'ladimi, istalgan qurilmada brauzer orqali ishlaydi. PDF fayllarni istalgan joyda va vaqtda birlashtiring."
+                }
+              ]
+            },
+            "audience": {
+              "title": "Kimlar GabungPDF.id dan foydalanishi kerak?",
+              "paragraph": "Bizning PDF birlashtirgichimiz turli ehtiyojlarni qondira oladi:",
+              "users": [
+                {
+                  "type": "Talabalar",
+                  "description": "O'qish materiallari, esse yoki ilmiy ishlarni bitta faylga birlashtirib topshirishni osonlashtiring."
+                },
+                {
+                  "type": "Biznes mutaxassislari",
+                  "description": "Shartnomalar, takliflar yoki hisobotlarni birlashtirib, mijozlar bilan muloqotni soddalashtiring."
+                },
+                {
+                  "type": "Frilanserlar",
+                  "description": "Professional portfoliolar yaratish yoki hisob-fakturalarni birlashtirib mijozlarga yuboring."
+                },
+                {
+                  "type": "Kichik bizneslar",
+                  "description": "Kvitantsiyalar, marketing materiallari yoki yuridik hujjatlarni yagona PDF ga jamlang."
+                }
+              ],
+              "note": "Kim bo'lishingizdan qat'i nazar, GabungPDF.id sizga hujjatlarni boshqarishni ancha yengillashtiradi."
+            },
+            "pro_tips": {
+              "title": "PDF birlashtirishda ustozona maslahatlar",
+              "paragraph": "PDF birlashtirgichdan maksimal foyda olish uchun quyidagilarni yodda tuting:",
+              "tips": [
+                {
+                  "title": "Fayllar tartibini oldindan rejalashtiring",
+                  "description": "PDF fayllarni mantiqan tartibga soling, bu vaqtingizni tejaydi."
+                },
+                {
+                  "title": "Katta fayllarni siqib qo'ying",
+                  "description": "Yuklashdan oldin hajmini kamaytiring, shunda jarayon tezroq bo'ladi."
+                },
+                {
+                  "title": "Natijani tekshiring",
+                  "description": "Yakuniy PDF faylni oldindan ko'rib chiqing va ehtiyojlaringizga mos kelishini tekshiring."
+                },
+                {
+                  "title": "GabungPDF.id ni belgilab qo'ying",
+                  "description": "Saytimizga istalgan payt tezkor kirish uchun belgi qo'ying."
+                }
+              ]
+            },
+            "why_stand_out": {
+              "title": "GabungPDF.id boshqa PDF birlashtirgichlardan nimasi bilan ajralib turadi?",
+              "paragraph": "Ko'plab PDF birlashtirgichlar orasida GabungPDF.id soddaligi, tezligi va ishonchliligi bilan ajralib turadi. Boshqa vositalar singari ro'yxatdan o'tish yoki yuklab olish talab qilinmaydi, platformamiz darhol tayyor. Bundan tashqari, xavfsizlikka sodiqligimiz fayllaringiz doim himoyalangan bo'lishini ta'minlaydi. Tashqi fayllar sizni sekinlashtirmasin. Bugunoq https://gabungpdf.id/ saytiga tashrif buyuring va PDF fayllarni birlashtirishning eng oson yo'lini kashf eting."
+            },
+            "conclusion": {
+              "title": "Xulosa: GabungPDF.id bilan hujjatlaringizni soddalashtiring",
+              "paragraph": "Bir nechta PDF fayllarni boshqarish endi muammo emas. GabungPDF.id yordamida siz PDF fayllarni tez, xavfsiz va bepul birlashtirishingiz mumkin. Foydalanuvchi uchun qulay PDF birlashtirgichimiz talabalar, mutaxassislar va biznes egalari uchun unumdorlikni oshirishga xizmat qiladi. Tashqi fayllar tartibsizligiga xayr, professional va tartibli PDF ga salom. GabungPDF.id da hoziroq sinab ko'ring: gabungpdf.id/combine-pdf va eng tez PDF birlashtirish usulini kashf eting. Ish jarayonlaringizni bugunoq soddalashtiring!"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "Cách dễ nhất để kết hợp nhiều tệp PDF thành một tài liệu duy nhất. Nhanh chóng, bảo mật và hoàn toàn miễn phí.",
+    "contact": "Liên hệ với chúng tôi:",
+    "quickLinks": "Liên kết nhanh",
+    "privacyPolicy": "Chính sách bảo mật",
+    "termsOfService": "Điều khoản dịch vụ",
+    "allRights": "Bảo lưu mọi quyền"
+  },
+  "privacy": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Mundarija",
+        "items": [
+          {
+            "icon": "👁️",
+            "label": "Umumiy Ma’lumot",
+            "target": "Overview"
+          },
+          {
+            "icon": "📊",
+            "label": "Yig'iladigan Ma'lumotlar",
+            "target": "information-collection"
+          },
+          {
+            "icon": "🔧",
+            "label": "Ma’lumotlaringizdan Foydalanishimiz",
+            "target": "how-we-use"
+          },
+          {
+            "icon": "🗄️",
+            "label": "Ma’lumotlarni Saqlash va O‘chirish",
+            "target": "data-retention"
+          },
+          {
+            "icon": "🤝",
+            "label": "Ma’lumotlarni Ulashish",
+            "target": "data-sharing"
+          },
+          {
+            "icon": "🔒",
+            "label": "Ma’lumotlaringiz Xavfsizligi",
+            "target": "data-security"
+          },
+          {
+            "icon": "🌍",
+            "label": "Xalqaro Ma’lumotlar Uzatish",
+            "target": "international-transfers"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Sizning Huquqlaringiz",
+            "target": "your-rights"
+          },
+          {
+            "icon": "🔗",
+            "label": "Uchinchi Tomon Havolalari",
+            "target": "third-party-links"
+          },
+          {
+            "icon": "👶",
+            "label": "Bolalar Maxfiyligi",
+            "target": "children"
+          },
+          {
+            "icon": "🔄",
+            "label": "Ushbu Siyosatdagi O‘zgarishlar",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Biz bilan Bog‘lanish",
+            "target": "contact"
+          }
+        ]
+      },
+      "privacySummary": {
+        "title": "Maxfiylik Bo‘yicha Qisqacha",
+        "points": [
+          "Fayllar 1 soat ichida o‘chiriladi",
+          "Hujjatlaringizni saqlamaymiz",
+          "Minimal ma’lumot yig‘ish",
+          "Oxirigacha shifrlash (End-to-end encryption)"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "Overview",
+        "icon": "👁️",
+        "title": "Umumiy Ma’lumot",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "www.gabungpdf.id (\"Sayt\") Gabung PDF tomonidan boshqariladi (\"biz\", \"bizni\" yoki \"bizning\"). Biz sizning maxfiyligingizni himoya qilishga sodiqmiz. Ushbu Maxfiylik Siyosati siz xizmatimizdan foydalanganda qanday ma’lumotlarni yig‘ishimiz, ulardan foydalanishimiz va himoya qilishimizni tushuntiradi. Saytdan foydalanish orqali siz ushbu Maxfiylik Siyosatiga rozilik bildirgan bo‘lasiz."
+          },
+          {
+            "type": "highlight",
+            "title": "Bizning Asosiy Qoidamiz:",
+            "text": "Biz siz yuklagan fayllardan faqat xizmatimizni taqdim etish uchun foydalanamiz va ularni 1 soat ichida avtomatik ravishda o‘chiramiz. Ushbu zaruriy jarayon muddati davomida fayllaringiz mazmunini o‘qimaymiz, saqlamaymiz yoki ko‘rib chiqmaymiz."
+          }
+        ]
+      },
+      {
+        "id": "information-collection",
+        "icon": "📊",
+        "title": "Yig'iladigan Ma'lumotlar",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Foydalanuvchi Yuklagan Fayllar",
+            "text": "Xizmatimizdan foydalanganingizda siz PDF fayllarni yuklaysiz va ularni birlashtirasiz. Ushbu fayllar shaxsiy ma’lumotlarni o‘z ichiga olishi mumkin, ammo biz ulardan zaruriy vaqt mobaynida foydalanamiz, saqlamaymiz va ko‘rib chiqmaymiz."
+          },
+          {
+            "type": "subsection",
+            "title": "Avtomatik Yig‘iladigan Ma’lumotlar",
+            "text": "Biz quyidagi kabi shaxsiy bo‘lmagan ma’lumotlarni to‘plashimiz mumkin:",
+            "list": [
+              "Qurilma ma’lumoti (masalan, brauzer turi, operatsion tizim, IP-manzil)",
+              "Foydalanish ma’lumoti (masalan, ko‘rilgan sahifalar, Saytda o‘tkazilgan vaqt va xizmat bilan o‘zaro aloqalar)"
+            ]
+          },
+          {
+            "type": "subsection",
+            "title": "Cookies va Kuzatuv",
+            "text": "Biz cookies yoki shunga o‘xshash texnologiyalardan foydalanuvchi tajribasini yaxshilash va Sayt ishlatilishini tahlil qilish uchun foydalanishimiz mumkin. Siz brauzeringiz sozlamalari orqali cookies’ni boshqarishingiz mumkin."
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "icon": "🔧",
+        "title": "Ma’lumotlaringizdan Foydalanishimiz",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Xizmatni Ta’minlash",
+            "text": "Yuklangan PDF fayllaringizdan faqat ularni yagona PDF faylga birlashtirish va yuklab olish havolasini taqdim etish uchun foydalanamiz."
+          },
+          {
+            "type": "subsection",
+            "title": "Saytni Yaxshilash",
+            "text": "Shaxsiy bo‘lmagan ma’lumotlardan (masalan, foydalanish statistikasi) sayt funksionalligini va samaradorligini tahlil qilish va yaxshilash uchun foydalanamiz."
+          },
+          {
+            "type": "subsection",
+            "title": "Qonun Talablari",
+            "text": "Agar qonun talab qilsa yoki bizning huquqlarimizni, xavfsizligimizni yoki mulkimizni himoya qilish zarur bo‘lsa, biz ma’lumotlarni ishlatishimiz yoki oshkor qilishimiz mumkin."
+          }
+        ]
+      },
+      {
+        "id": "data-retention",
+        "icon": "🗄️",
+        "title": "Ma’lumotlarni Saqlash va O‘chirish",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Yuklangan Fayllar",
+            "text": "Yuklangan barcha PDF fayllar va yaratilgan yakuniy PDF fayl serverlarimizdan 1 soat ichida avtomatik tarzda o‘chiriladi. Biz fayllaringiz nusxasini saqlamaymiz."
+          },
+          {
+            "type": "subsection",
+            "title": "Boshqa Ma’lumotlar",
+            "text": "Shaxsiy bo‘lmagan ma’lumotlar (masalan, foydalanish statistikasi) Saytni yaxshilash yoki qonuniy talablar uchun zarur bo‘lgan muddatgacha saqlanishi mumkin."
+          }
+        ]
+      },
+      {
+        "id": "data-sharing",
+        "icon": "🤝",
+        "title": "Ma’lumotlarni Ulashish",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Uchinchi Tomonga Berilmaydi",
+            "text": "Biz siz yuklagan fayllar yoki shaxsiy ma’lumotlarni uchinchi tomonlarga sotmaymiz, ulashmaymiz va bermaymiz, bundan tashqari qonun talab qilganda yoki huquqlarimizni himoya qilish uchun zarur bo‘lsa."
+          },
+          {
+            "type": "subsection",
+            "title": "Xizmat Ko‘rsatuvchi Tashkilotlar",
+            "text": "Saytni ishlatish uchun biz uchinchi tomon xizmat ko‘rsatuvchilaridan (masalan, hosting yoki tahlil xizmatlari) foydalanishimiz mumkin. Ular maxfiylik shartlariga rioya qilishi va faqat bizning topshirig‘imiz asosida ma’lumotlarni qayta ishlashi shart."
+          }
+        ]
+      },
+      {
+        "id": "data-security",
+        "icon": "🔒",
+        "title": "Ma’lumotlaringiz Xavfsizligi",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Biz sizning ma’lumotlaringizni ruxsatsiz kirish, yo‘qotish yoki noto‘g‘ri foydalanishdan himoya qilish uchun oqilona texnik va tashkiliy choralarni ko‘ramiz. Biroq hech bir onlayn xizmat to‘liq xavfsiz emas va biz mutlaq xavfsizlikni kafolatlay olmaymiz."
+          }
+        ]
+      },
+      {
+        "id": "international-transfers",
+        "icon": "🌍",
+        "title": "Xalqaro Ma’lumotlar Uzatish",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Agar siz Indoneziya tashqarisida bo‘lsangiz, sizning ma’lumotlaringiz Indoneziyada yoki serverlarimiz va xizmat ko‘rsatuvchilarimiz joylashgan boshqa davlatlarda uzatilishi va qayta ishlanishi mumkin. Bunday uzatmalar uchun biz zarur xavfsizlik choralarini ko‘ramiz."
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "icon": "⚖️",
+        "title": "Sizning Huquqlaringiz",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Joylashuvingizga qarab sizda amaldagi ma’lumotlarni himoya qilish qonunlariga muvofiq quyidagi huquqlar bo‘lishi mumkin:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Ma’lumotlaringizga kirish yoki uni o‘chirishni so‘rash",
+              "Ayrim ma’lumotlarni qayta ishlashga e’tiroz bildirish yoki uni cheklash"
+            ]
+          },
+          {
+            "type": "highlight",
+            "text": "Ushbu huquqlardan foydalanish uchun admin@gabungpdf.id manziliga murojaat qiling. E’tibor bering, biz fayllarni 1 soat ichida o‘chiramiz, shuning uchun bizda siz haqingizda ma’lumot saqlanmasligi mumkin."
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "icon": "🔗",
+        "title": "Uchinchi Tomon Havolalari",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Saytda uchinchi tomon veb-saytlarga havolalar bo‘lishi mumkin. Biz ushbu saytlarning maxfiylik siyosati yoki mazmuni uchun javobgar emasmiz."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "icon": "👶",
+        "title": "Bolalar Maxfiyligi",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Ushbu sayt 18 yoshdan kichik foydalanuvchilar uchun mo‘ljallanmagan. Biz bolalardan shaxsiy ma’lumotlarni ataylab to‘plamaymiz."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Ushbu Siyosatdagi O‘zgarishlar",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Biz vaqti-vaqti bilan ushbu Maxfiylik Siyosatini yangilashimiz mumkin. O‘zgarishlar ushbu sahifada yangilangan \"Oxirgi Yangilangan Sana\" bilan e’lon qilinadi."
+          },
+          {
+            "type": "highlight",
+            "text": "Saytdan foydalanishda davom etishingiz yangilangan Maxfiylik Siyosatini qabul qilganingizni anglatadi."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Biz bilan Bog‘lanish",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Agar sizda ushbu Maxfiylik Siyosati haqida savollar bo‘lsa, biz bilan admin@gabungpdf.id manzili orqali bog‘laning."
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Maxfiylikka bo‘lgan majburiyatimiz",
+      "desc": "Biz sizning maxfiyligingizni jiddiy qabul qilamiz. Xizmatimizga ishonch hosil qiladigan jihatlar quyidagilar:",
+      "points": [
+        {
+          "title": "Avtomatik o‘chirish",
+          "desc": "Fayllar 1 soat ichida avtomatik o‘chiriladi"
+        },
+        {
+          "title": "Shifrlangan uzatish",
+          "desc": "Barcha yuklashlar xavfsiz HTTPS shifrlashidan foydalanadi"
+        },
+        {
+          "title": "Faylni o‘qimaslik",
+          "desc": "Biz hech qachon fayllaringiz mazmuniga kirmaymiz va o‘qimaymiz"
+        },
+        {
+          "title": "Ulashish yo‘q",
+          "desc": "Fayllaringiz hech qachon uchinchi tomonlarga ulashilmaydi"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Savollaringiz bormi?",
+      "description": "Biz maxfiylik masalalari yoki boshqa savollarda yordam berishga tayyormiz.",
+      "links": [
+        {
+          "label": "Xizmat Ko‘rsatish Shartlari",
+          "href": "/terms-of-service",
+          "icon": "📄"
+        },
+        {
+          "label": "Jamoamizga Murojaat Qiling",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Terms": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Мундарижа",
+        "items": [
+          {
+            "icon": "✅",
+            "label": "Қоидаларни қабул қилиш",
+            "target": "acceptance"
+          },
+          {
+            "icon": "🔧",
+            "label": "Сайтдан фойдаланиш",
+            "target": "use-of-site"
+          },
+          {
+            "icon": "📁",
+            "label": "Фойдаланувчи файллари",
+            "target": "user-files"
+          },
+          {
+            "icon": "©️",
+            "label": "Интеллектуал мулк",
+            "target": "intellectual-property"
+          },
+          {
+            "icon": "⚠️",
+            "label": "Жавобгарликни чеклаш",
+            "target": "limitation-liability"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Қоплаш мажбурияти",
+            "target": "indemnification"
+          },
+          {
+            "icon": "🚫",
+            "label": "Тугатиш",
+            "target": "termination"
+          },
+          {
+            "icon": "🏛️",
+            "label": "Қўлланиладиган қонун",
+            "target": "governing-law"
+          },
+          {
+            "icon": "🔄",
+            "label": "Қоидалардаги ўзгаришлар",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Биз билан боғланинг",
+            "target": "contact"
+          }
+        ]
+      },
+      "termsSummary": {
+        "title": "Қоидалар қисқача",
+        "points": [
+          "Бепул PDF файлларини бирлаштириш хизмати",
+          "18 ёшдан катта бўлиш шарт",
+          "Файллар 1 соат ичида ўчирилади",
+          "Фақат қонуний мақсадларда фойдаланиш"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "acceptance",
+        "icon": "✅",
+        "title": "Қоидаларни қабул қилиш",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "www.gabungpdf.id (\"Сайт\") га хуш келибсиз. Бу хизмат Gabung PDF (\"биз\", \"бизга\", ёки \"бизники\") томонидан тақдим этилади. Ушбу Хизмат кўрсатиш шартлари (\"Қоидалар\") сиз томонидан сайт ва PDF файлларини бирлаштириш хизматларидан фойдаланишингизни тартибга солади. Сайтдан фойдаланиш орқали сиз ушбу қоидаларга розилик билдирасиз."
+          },
+          {
+            "type": "highlight",
+            "title": "Муҳим шартнома:",
+            "text": "Агар сиз ушбу қоидаларга рози бўлмасангиз, сайтдан фойдаланманг."
+          }
+        ]
+      },
+      {
+        "id": "use-of-site",
+        "icon": "🔧",
+        "title": "Сайтдан фойдаланиш",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Қобилият",
+            "text": "Сайтдан фойдаланиш учун сиз камида 18 ёшда бўлишингиз ёки ушбу қоидаларни қабул қилиш ҳуқуқига эга бўлишингиз керак."
+          },
+          {
+            "type": "subsection",
+            "title": "Рухсат этилган фойдаланиш",
+            "text": "Сайт сизга PDF файлларни юклаш, уларни бирлаштириш ва натижани юклаб олиш имконини беради. Сиз сайтдан фақат қонуний мақсадларда ва ушбу қоидаларга мувофиқ фойдаланишингиз мумкин."
+          },
+          {
+            "type": "subsection",
+            "title": "Ман этилган фойдаланиш",
+            "text": "Сиз қуйидагиларни қилмаслигингиз керак:",
+            "list": [
+              "Вирус, зарарли дастур ёки бошқа хавфли код сақловчи файлларни юклаш",
+              "Ҳар қандай қонун, қоидалар ёки учинчи шахс ҳуқуқларини бузиш мақсадида сайтдан фойдаланиш",
+              "Сайт ишлаш тартибига аралашиш, унга халал бериш ёки уни қайта таҳлил қилишга уриниш",
+              "Ёзма розилигимизсиз сайтдан тижорат мақсадларида фойдаланиш"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "user-files",
+        "icon": "📁",
+        "title": "Фойдаланувчи файллари",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Вақтинча қайта ишлаш",
+            "text": "Юкланган файллар PDF бирлаштириш учун қайта ишланади ва серверларимиздан 1 соат ичида автоматик равишда ўчирилади. Биз файлларингизни ушбу муддатдан ортиқ сақламаймиз."
+          },
+          {
+            "type": "subsection",
+            "title": "Сизнинг масъулиятингиз",
+            "text": "Сиз юклаган файллар мазмуни учун тўлиқ жавобгарсиз. Сизда бу файлларни юклаш ва қайта ишлаш ҳуқуқи борлигини ҳамда улар учинчи шахс ҳуқуқларини (авторлик ҳуқуқи, савдо белгиси ва ҳ.к.) бузмаслигини таъминлашингиз шарт."
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "icon": "©️",
+        "title": "Интеллектуал мулк",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Сайт контенти",
+            "text": "Сайтдаги барча контент, жумладан, матн, графика, логотиплар ва дастурий таъминот бизга тегишли ёки лицензия асосида тақдим этилган ва интеллектуал мулк ҳуқуқлари билан ҳимояланган."
+          },
+          {
+            "type": "subsection",
+            "title": "Фойдаланувчи контенти",
+            "text": "Сиз юклаган файллар устидан эгалик ҳуқуқини сақлаб қоласиз. Файлларни юклаш орқали сиз бизга PDF бирлаштириш хизмати учун чегараланган, ғайриинҳисорий ва бепул лицензия берган бўласиз."
+          }
+        ]
+      },
+      {
+        "id": "limitation-liability",
+        "icon": "⚠️",
+        "title": "Жавобгарликни чеклаш",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Кафолат йўқ",
+            "text": "Сайт \"қандай бўлса шундай\" асосида тақдим этилади ва ҳар қандай кафолатларсиз, очиқ ёки ёпиқ, сотишга яроқлилик, муайян мақсадга мослик ёки бузмаслик бўйича кафолатлар берилмайди."
+          },
+          {
+            "type": "subsection",
+            "title": "Жавобгарлик чегараси",
+            "text": "Қонунлар рухсат этган даражада, сиз сайтдан фойдаланганингиз учун юзага келадиган ҳар қандай билвосита, тасодуфий, махсус ёки оқибатли зарарлар учун биз жавобгар эмасмиз, ҳатто улар ҳақида огоҳлантирилган бўлсак ҳам."
+          },
+          {
+            "type": "subsection",
+            "title": "Хизмат узилишлари",
+            "text": "Биз сайтдан узлуксиз ёки хатоcиз фойдаланиш кафолатини бермаймиз ва ҳеч қандай кечикишлар, тўхталишлар ёки маълумот йўқотиш учун жавобгар эмасмиз."
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "icon": "⚖️",
+        "title": "Қоплаш мажбурияти",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Сиз сайтдан фойдаланишингиз, юклаган файлларингиз ёки ушбу қоидаларни бузишингиз натижасида келиб чиққан ҳар қандай даъво, зарар ёки харажатлар (жумладан, юридик харажатлар) учун биздан зарарсиз сақлашга розисиз."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "icon": "🚫",
+        "title": "Тугатиш",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Агар сиз ушбу қоидаларни бузсангиз ёки бошқа сабабларга кўра, биз сизга огоҳлантиришсиз сайтга киришингизни ўз ихтиёримизга кўра тўхтатишимиз ёки чеклашимиз мумкин."
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "icon": "🏛️",
+        "title": "Қўлланиладиган қонун",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ушбу қоидалар Индонезия қонунларига мувофиқ бошқарилади ва қонунлар зиддияти тамойилларини ҳисобга олмайди. Қоидалардан келиб чиқадиган барча низолар Индонезия судларида ҳал этилади."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Қоидалардаги ўзгаришлар",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Биз ушбу қоидаларни вақт-вақти билан янгилашимиз мумкин. Ўзгаришлар шу саҳифада \"Охирги янгиланган\" санаси билан эълон қилинади."
+          },
+          {
+            "type": "highlight",
+            "text": "Сайтдан ўзгаришлардан кейин ҳам фойдаланишингиз янгиланган қоидаларни қабул қилиш сифатида қаралади."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Биз билан боғланинг",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Агар ушбу қоидалар бўйича саволларингиз бўлса, биз билан admin@gabungpdf.id орқали боғланинг."
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Asosiy kelishuv nuqtalari",
+      "desc": "Xizmatimizdan foydalanganda huquq va majburiyatlaringizni tushuning.",
+      "points": [
+        {
+          "title": "Adolatli foydalanish",
+          "desc": "Xizmatimizdan mas’uliyatli va qonuniy foydalaning"
+        },
+        {
+          "title": "Sizning fayllaringiz",
+          "desc": "Yuklagan barcha fayllaringiz ustidan egalik huquqi sizda qoladi"
+        },
+        {
+          "title": "Noto‘g‘ri foydalanish yo‘q",
+          "desc": "Ta’qiqlangan foydalanish xizmatdan chiqarilishiga olib keladi"
+        },
+        {
+          "title": "Cheklangan mas’uliyat",
+          "desc": "Xizmat \"shunday ekan\" tamoyili asosida kafolatsiz taqdim etiladi"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Саволларингиз борми?",
+      "description": "Қоидалар ёки хизмат тўғрисидаги саволларингиз бўлса, биз ёрдам беришга тайёрмиз.",
+      "links": [
+        {
+          "label": "Махфийлик сиёсати",
+          "href": "/privacy-policy",
+          "icon": "🔒"
+        },
+        {
+          "label": "Юридик жамоа билан боғланинг",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Content": {
+    "Policy": {
+      "title": "Maxfiylik siyosati",
+      "desc": "Biz sizning maxfiyligingizni himoya qilishga va fayllaringiz xavfsizligini ta'minlashga sodiqmiz. PDF birlashtirish xizmatimizdan foydalanganda, ma'lumotlaringizni qanday yig‘ishimiz, foydalanishimiz va himoya qilishimiz haqida bilib oling.",
+      "Updated": "Oxirgi yangilanish:",
+      "date": "2025-yil 6-iyun"
+    },
+    "Terms": {
+      "title": "Xizmat shartlari",
+      "desc": "Ushbu shartlar PDF birlashtirish xizmatimizdan foydalanishingizni tartibga soladi. Iltimos, saytimizdan foydalanishdan oldin diqqat bilan o‘qing.",
+      "Updated": "Oxirgi yangilanish:",
+      "date": "2025-yil 6-iyun"
+    }
+  },
+  "MiniFooter": {
+    "heading": "PDF fayllaringizni xavfsiz birlashtirishga tayyormisiz?",
+    "subheading": "Maxfiylikka urg‘u berilgan PDF birlashtirish xizmatimizdan to‘liq ishonch bilan foydalaning.",
+    "button": "PDF fayllarni hoziroq birlashtiring"
+  },
+  "Seo": {
+    "Home": {
+      "title": "PDF fayllarni bepul onlayn birlashtiring - Tez va oson PDF birlashtirish",
+      "description": "PDF hujjatlarni GabungPDF.id yordamida bepul onlayn birlashtiring. Oson foydalaniladigan PDF birlashtirgich, o‘rnatish va ro‘yxatdan o‘tish shart emas. Endi PDF fayllarni osongina birlashtiring!"
+    },
+    "CombinePdf": {
+      "title": "PDF fayllarni bepul onlayn birlashtiring - Tez va oson PDF birlashtirgich",
+      "description": "GabungPDF.id bilan PDF fayllarni onlayn bepul birlashtiring. Ro‘yxatdan o‘tmasdan va dastur o‘rnatmasdan foydalanish uchun tez va qulay PDF birlashtirgich. Endi birlashtiring!"
+    },
+     "Blog": {
+    "title": "PDFlarni birlashtirish blogi: PDF birlashtirish bo‘yicha maslahatlar va qo‘llanmalar",
+    "description": "Gabung PDF blogini o‘rganing va PDFlarni birlashtirish bo‘yicha mutaxassis maslahatlari, darsliklar va PDF vazifalaringizni soddalashtiruvchi vositalarni toping. Hozir o‘qing!"
+  },
+    "Blog1": {
+      "title": "PDF fayllarni birlashtirishning eng oson yo‘li | PDF birlashtiring",
+      "description": "Gabung PDF bilan PDF fayllarni birlashtirishning eng oson usulini kashf eting. Bepul, tez va foydalanuvchi uchun qulay vosita. Sinab ko‘ring!"
+    },
+    "Blog2": {
+      "title": "PDF fayllarni birlashtirish uchun eng zo'r vosita | PDF birlashtiring",
+      "description": "Gabung PDF — bu PDF fayllarni onlayn birlashtirish uchun mukammal vosita. Tez, xavfsiz va bepul. Bugunoq osongina PDF fayllarni birlashtiring!"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF Maxfiylik Siyosati | Xavfsiz PDF birlashtirish",
+      "description": "PDF fayllarni xavfsiz birlashtirayotganimizda sizning ma'lumotlaringizni qanday himoya qilishimizni tushunish uchun Gabung PDF’ning maxfiylik siyosatini o‘qing. Hozir ko‘proq bilib oling."
+    },
+    "TermsAndCondition": {
+      "title": "Gabung PDF Xizmat Ko‘rsatish Shartlari | PDF birlashtirish",
+      "description": "Bizning bepul va xavfsiz onlayn PDF birlashtirish vositamizdan foydalanish uchun Gabung PDF xizmat ko‘rsatish shartlarini ko‘rib chiqing. Siyosatlarimizni bugunoq tushuning."
+    }
+  }
+}

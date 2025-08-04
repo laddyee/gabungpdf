@@ -1,0 +1,1303 @@
+{
+  "nav": {
+    "home": "Home",
+    "combinePdf": "Combina PDF",
+    "blog": "Blog",
+    "selectLanguage": "Seleziona Lingua"
+  },
+  "home": {
+    "title": "Combina File PDF Online - Gratuito, Veloce e Sicuro",
+    "description": "Combina PDF facilmente con GabungPDF.id! Strumento online gratuito, veloce e sicuro per unire file PDF in secondi. Nessuna registrazione richiesta.",
+    "mergeNow": "Unisci PDF Ora",
+    "sec1Para": "Nel mondo digitale frenetico di oggi, gestire i documenti in modo efficiente è cruciale per compiti personali e professionali. Un'esigenza comune è <strong>combinare file PDF</strong> in un singolo documento semplificato.",
+    "SecH1": "Perché Combinare File PDF?",
+    "SecH1P1": "Combinare più file PDF in un documento offre numerosi vantaggi. Ecco perché dovresti considerare l'uso di uno strumento di fusione PDF:",
+    "SecH1UlLi1": "<strong>Organizzazione ed Efficienza:</strong> Invece di inviare più file, un singolo PDF unito semplifica la condivisione e la revisione.",
+    "SecH1UlLi2": "<strong>Riduzione del Disordine dei File:</strong> Unire PDF riduce il numero di file che devi gestire.",
+    "SecH1UlLi3": "<strong>Presentazione Professionale:</strong> Un PDF unificato appare raffinato e professionale.",
+    "SecH1UlLi4": "<strong>Compatibilità Multi-piattaforma:</strong> I PDF sono universalmente compatibili.",
+    "SecH1EndPara": "Con uno strumento come <strong>gabungPDF.id</strong>, puoi unire PDF rapidamente, senza bisogno di installare software o registrarti per un account.",
+    "steps": {
+      "title": "Come Unire File PDF Online Gratuitamente",
+      "intro": "Usare uno strumento online come gabungPDF.id rende l'unione di PDF semplice e accessibile.",
+      "items": [
+        {
+          "title": "Passo 1: Visita gabungPDF.id",
+          "desc": "Naviga su gabungPDF.id, uno strumento online gratuito progettato per aiutarti a <strong>unire file PDF</strong> in secondi."
+        },
+        {
+          "title": "Passo 2: Carica i Tuoi File PDF",
+          "desc": "Clicca il pulsante \"Carica File\" per selezionare i PDF che vuoi combinare."
+        },
+        {
+          "title": "Passo 3: Organizza i File",
+          "desc": "Una volta caricati, puoi trascinare e rilasciare i file per organizzarli nell'ordine desiderato."
+        },
+        {
+          "title": "Passo 4: Unisci e Scarica",
+          "desc": "Dopo aver organizzato i tuoi file, clicca il pulsante \"Combina\". Lo strumento <strong>unirà i file PDF</strong> in un singolo documento."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Perché Scegliere gabungPDF.id?",
+      "points": [
+        {
+          "title": "<strong>Nessuna Installazione Richiesta:</strong>",
+          "desc": "A differenza del software desktop, gabungPDF.id funziona interamente online."
+        },
+        {
+          "title": "<strong>Gratuito e Sicuro:</strong>",
+          "desc": "Lo strumento è gratuito da usare, senza costi nascosti."
+        },
+        {
+          "title": "<strong>Compatibilità Multi-dispositivo:</strong>",
+          "desc": "Che tu stia usando Mac, Windows, iOS o Android."
+        },
+        {
+          "title": "<strong>Supporto Multilingue:</strong>",
+          "desc": "La piattaforma supporta utenti in tutto il mondo."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Vantaggi dell'Uso di un Unificatore PDF Online",
+      "items": [
+        {
+          "title": "<strong>Accessibilità:</strong>",
+          "desc": "Puoi <strong>unire file PDF</strong> da qualsiasi dispositivo con connessione internet."
+        },
+        {
+          "title": "<strong>Velocità:</strong>",
+          "desc": "Il processo di unione richiede secondi, anche per file grandi."
+        },
+        {
+          "title": "<strong>Senza Costi:</strong>",
+          "desc": "Molti strumenti online sono completamente gratuiti."
+        },
+        {
+          "title": "<strong>Facile da Usare:</strong>",
+          "desc": "Non sono richieste competenze tecniche."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Ottimizzare i Tuoi PDF Uniti per SEO",
+      "intro": "Se stai creando PDF per scopi professionali o di marketing, ottimizzarli per i motori di ricerca può aumentare la loro visibilità.",
+      "items": [
+        {
+          "title": "1. Usa Nomi File Descrittivi",
+          "desc": "Prima di caricare il tuo PDF su gabungPDF.id, rinomina i tuoi file con nomi descrittivi ricchi di parole chiave."
+        },
+        {
+          "title": "2. Aggiungi Metadati",
+          "desc": "Includi metadati come titolo, autore e parole chiave nel tuo PDF."
+        },
+        {
+          "title": "3. Ottimizza il Contenuto Testuale",
+          "desc": "Assicurati che il tuo PDF contenga testo ricercabile piuttosto che immagini scansionate."
+        },
+        {
+          "title": "4. Includi Link Interni",
+          "desc": "Se il tuo PDF fa parte di un sito web, includi link a pagine pertinenti."
+        },
+        {
+          "title": "5. Usa Intestazioni e Struttura",
+          "desc": "Organizza il tuo PDF con intestazioni chiare e una struttura logica."
+        },
+        {
+          "title": "6. Comprimi per Caricamento Più Veloce",
+          "desc": "PDF grandi possono rallentare i tempi di caricamento."
+        },
+        {
+          "title": "7. Aggiungi Testo Alternativo alle Immagini",
+          "desc": "Se il tuo PDF include immagini, aggiungi descrizioni di testo alternativo."
+        },
+        {
+          "title": "8. Ospita PDF sul Tuo Sito Web",
+          "desc": "Carica il tuo PDF unito sul tuo sito web e crea una pagina di destinazione dedicata."
+        },
+        {
+          "title": "9. Traccia le Visualizzazioni PDF",
+          "desc": "Usa strumenti come Google Analytics per tracciare come gli utenti interagiscono con i tuoi PDF."
+        },
+        {
+          "title": "10. Promuovi il Tuo PDF",
+          "desc": "Condividi il tuo PDF sui social media, newsletter email e comunità online pertinenti."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Casi d'Uso Comuni per Unire PDF",
+      "items": [
+        {
+          "title": "<strong>Rapporti Aziendali:</strong>",
+          "desc": "Combina più sezioni di un rapporto in un singolo PDF per una condivisione facile."
+        },
+        {
+          "title": "<strong>Progetti Accademici:</strong>",
+          "desc": "Gli studenti possono unire documenti di ricerca, note e riferimenti."
+        },
+        {
+          "title": "<strong>Documenti Legali:</strong>",
+          "desc": "Gli avvocati spesso uniscono contratti, accordi ed esibizioni."
+        },
+        {
+          "title": "<strong>Materiali di Marketing:</strong>",
+          "desc": "Crea brochure professionali combinando immagini e file di testo."
+        },
+        {
+          "title": "<strong>Uso Personale:</strong>",
+          "desc": "Unisci documenti scansionati, ricevute o foto."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Confrontare gabungPDF.id con Altri Strumenti",
+      "intro": "Mentre gabungPDF.id è una scelta principale per unire PDF, altri strumenti offrono funzionalità simili.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Gratuito, nessuna registrazione, supporta più formati di file."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Offre un unificatore online gratuito ma richiede l'accesso per funzionalità avanzate."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Uno strumento robusto con funzionalità aggiuntive come compressione e conversione."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Supporta file complessi e grandi conteggi di pagine."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Consigli per un'Esperienza di Unione PDF Senza Problemi",
+      "items": [
+        {
+          "title": "<strong>Controlla la Compatibilità dei File:</strong>",
+          "desc": "Assicurati che tutti i file siano in PDF o formati supportati."
+        },
+        {
+          "title": "<strong>Anteprima dei Tuoi File:</strong>",
+          "desc": "Rivedi l'ordine e il contenuto dei tuoi file prima di unire."
+        },
+        {
+          "title": "<strong>Usa Piattaforme Sicure:</strong>",
+          "desc": "Scegli strumenti come gabungPDF.id che danno priorità alla privacy."
+        },
+        {
+          "title": "<strong>Testa l'Output:</strong>",
+          "desc": "Apri il PDF unito per confermare che layout e contenuto siano corretti."
+        }
+      ]
+    },
+    "ConclusionH1": "Conclusione",
+    "conclusion": "Unire file PDF è un modo semplice ma potente per semplificare la gestione dei documenti. Che tu sia un professionista che organizza rapporti, uno studente che compila ricerche, o qualcuno che archivia documenti personali, strumenti come gabungPDF.id rendono facile <strong>combinare file PDF</strong> online gratuitamente. Inizia a usare gabungPDF.id oggi per <strong>unire file PDF</strong> senza sforzo e prendere il controllo dei tuoi documenti digitali!"
+  },
+  "combinePdf": {
+    "title": "Unisci file PDF",
+    "dragDrop": "Trascina i file PDF qui",
+    "clickBrowse": "oppure clicca per esplorare",
+    "selectFiles": "Seleziona file",
+    "maxSize": "Max 50MB per file",
+    "combineButton": "Unisci PDF",
+    "filesCount": "PDF",
+    "S1H1": "Unione PDF: Come combinare file PDF - Suggerimenti per unire file PDF gratuitamente",
+    "S1P1": "Nel mondo digitale di oggi, il formato PDF (Portable Document Format) svolge un ruolo fondamentale nella condivisione e archiviazione di documenti. A differenza dei tradizionali file DOC creati con Microsoft Word o Google Docs, i file PDF mantengono il loro layout su qualsiasi dispositivo o sistema operativo. Questa compatibilità universale li rende ideali per l'uso professionale e personale, che si tratti di report, presentazioni o moduli da condividere online.",
+    "S1P2": "Tuttavia, lavorare con file PDF può presentare delle sfide, specialmente quando è necessario unire più file PDF in un unico documento. In questa guida, esploreremo perché è importante unire i file PDF, come farlo gratuitamente utilizzando il nostro strumento intuitivo e come può semplificare il tuo processo di gestione dei documenti.",
+    "S2H1": "Perché i file PDF sono speciali e versatili?",
+    "S2P1": "I file PDF sono stati progettati per mantenere il layout esatto di un documento, indipendentemente dal dispositivo o dal software utilizzato per visualizzarlo. A differenza dei file DOC, che dipendono da impostazioni specifiche del sistema, come i font installati o le configurazioni del sistema operativo, i file PDF funzionano come immagini statiche. Questo garantisce che i caratteri, i layout e le grafiche rimangano coerenti, rendendoli ideali per documenti professionali come contratti, curriculum o eBook.",
+    "S2P2": "Questa coerenza è la ragione per cui i file PDF sono ampiamente utilizzati per la condivisione di documenti su Internet. Che tu stia inviando un'offerta aziendale o archiviando registrazioni importanti, i PDF garantiscono che il destinatario veda il documento esattamente come è stato pensato. Tuttavia, questa stessa caratteristica rende più complicato modificare o unire i file PDF rispetto ai file DOC. Senza software specializzati, operazioni come l'aggiunta di pagine o l'unione di più PDF possono sembrare scoraggianti. Fortunatamente, il nostro strumento online gratuito semplifica questo processo, consentendo di unire facilmente i file PDF senza bisogno di software aggiuntivo.",
+    "combine_pdf_files": {
+      "intro": "Perché unire i file PDF?",
+      "para": "Unire i file PDF è una necessità comune per professionisti, studenti e chiunque gestisca più documenti. Ecco alcuni esempi in cui potrebbe essere utile unire i PDF:",
+      "items": [
+        {
+          "title": "Creare report completi:",
+          "desc": "Se hai più report o capitoli in PDF, unirli in un unico documento rende più facile condividerli e rivederli."
+        },
+        {
+          "title": "Archiviazione di documenti scansionati:",
+          "desc": "I PDF scansionati, come ricevute o moduli, devono spesso essere uniti in un solo file per una migliore organizzazione."
+        },
+        {
+          "title": "Semplificare le presentazioni:",
+          "desc": "Unire diapositive o sezioni da vari PDF aiuta a creare una presentazione più chiara e professionale."
+        },
+        {
+          "title": "Semplificare la condivisione dei file:",
+          "desc": "Invece di inviare più file separati, unire i PDF in un singolo file riduce il disordine e garantisce che tutte le informazioni siano contenute in un unico documento facilmente accessibile."
+        }
+      ],
+      "para2": "A differenza dei file DOC, dove è facile copiare e incollare contenuti, unire o modificare file PDF richiede strumenti specializzati. Ad esempio, copiare testo da un PDF scansionato spesso è impossibile senza un software di riconoscimento ottico dei caratteri (OCR). Il nostro strumento gratuito per unire i PDF elimina queste difficoltà, permettendo di combinare fino a 20 PDF contemporaneamente senza la necessità di software costosi o competenze tecniche."
+    },
+    "stepbystep": {
+      "intro": "Come unire i file PDF gratuitamente: guida passo-passo",
+      "para": "Il nostro strumento facile da usare ti consente di unire rapidamente e facilmente i file PDF. Che tu stia combinando due file o fino a 20, il processo è semplice e non richiede installazioni o abbonamenti. Segui questi passaggi per unire facilmente i PDF:",
+      "items": [
+        {
+          "title": "Passo 1: Carica i file PDF",
+          "desc": "Per iniziare, cerca il pulsante 'CARICA FILE' nell'interfaccia del nostro strumento. Clicca su di esso per selezionare i file PDF desiderati dal tuo dispositivo. In alternativa, puoi semplicemente trascinare i file nell'area 'Trascina i file qui' per velocizzare il processo. Questo è particolarmente utile se hai più file, poiché ti permette di risparmiare tempo e semplificare l'operazione."
+        },
+        {
+          "title": "Passo 2: Organizza i file PDF",
+          "desc": "Dopo aver caricato i file, il nostro strumento li organizzerà in una lista. L'ordine dei file determinerà la struttura del PDF finale. Il primo file sarà in cima al documento unito, il secondo seguirà, e così via. Se desideri verificare che siano nell'ordine corretto, puoi facilmente trascinarli e riorganizzarli."
+        },
+        {
+          "title": "Passo 3: Unisci e scarica",
+          "desc": "Una volta che sei soddisfatto dell'ordine, clicca sul pulsante UNISCI. Il nostro sistema unirà immediatamente tutti i PDF caricati in un unico file. Una volta completato, il PDF unito verrà scaricato automaticamente sul tuo dispositivo. Il tutto in pochi secondi, senza necessità di software aggiuntivi."
+        }
+      ],
+      "intro2": "Unisci ulteriori PDF",
+      "para2": "Vuoi unire più PDF? Nessun problema! Il nostro strumento ti permette di unire più file in passaggi successivi. Una volta che hai scaricato il primo PDF unito, carica il nuovo file insieme a qualsiasi altro PDF che desideri aggiungere. Ripeti il processo cliccando sul pulsante UNISCI per creare un documento ancora più grande. Puoi ripetere questo processo tutte le volte che vuoi finché tutti i tuoi file non sono inclusi."
+    },
+    "benefits": {
+      "intro": "Perché scegliere il nostro strumento gratuito per unire PDF?",
+      "para": "Il nostro strumento è stato progettato pensando alla semplicità, accessibilità ed efficienza. Ecco perché è la scelta migliore per unire i file PDF:",
+      "items": [
+        {
+          "title": "Nessuna necessità di installare software:",
+          "desc": "A differenza dei tradizionali editor PDF, il nostro strumento è completamente basato su web, quindi puoi accedervi da qualsiasi dispositivo con una connessione internet."
+        },
+        {
+          "title": "Uso gratuito e illimitato:",
+          "desc": "Puoi unire fino a 20 PDF contemporaneamente senza alcun costo o abbonamento. Per progetti più grandi, puoi combinare più file in più passaggi."
+        },
+        {
+          "title": "Interfaccia user-friendly:",
+          "desc": "La funzione di trascinamento e l'interfaccia intuitiva lo rendono facile da usare sia per i principianti che per i professionisti."
+        },
+        {
+          "title": "Elaborazione veloce:",
+          "desc": "Il nostro strumento unisce i PDF in pochi secondi, risparmiando tempo ed energia."
+        },
+        {
+          "title": "Sicuro e affidabile:",
+          "desc": "I tuoi file vengono elaborati in modo sicuro, e dopo un'ora vengono eliminati dai nostri server per garantire la protezione dei dati."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Quando è utile unire i file PDF?",
+      "para": "Unire i file PDF è un'abilità preziosa in diverse situazioni. Ecco alcuni casi comuni in cui potrebbe essere utile unire i PDF:",
+      "items": [
+        {
+          "title": "Professionisti aziendali:",
+          "desc": "Unisci fatture, contratti o offerte in un unico documento per facilitarne la condivisione con clienti o colleghi."
+        },
+        {
+          "title": "Studenti e insegnanti:",
+          "desc": "Unisci appunti di lezione, saggi di ricerca o compiti in un solo file per semplificare la presentazione o la gestione del materiale didattico."
+        },
+        {
+          "title": "Compiti legali e amministrativi:",
+          "desc": "Organizza documenti scannerizzati, come contratti o moduli, in un unico PDF per archiviarli o utilizzarli per scopi legali."
+        },
+        {
+          "title": "Progetti creativi:",
+          "desc": "Unisci bozze di design, portafogli o storyboard in un solo PDF per creare un documento coerente da utilizzare per presentazioni o revisioni dei clienti."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Suggerimenti per gestire i file PDF",
+      "para": "Per sfruttare al meglio l'esperienza di unione dei PDF, considera questi ulteriori suggerimenti:",
+      "items": [
+        {
+          "title": "Controlla l'ordine dei file:",
+          "desc": "Controlla sempre l'ordine dei PDF prima di unirli, in modo da non dover riorganizzare le pagine in seguito."
+        },
+        {
+          "title": "Ottimizza la dimensione dei file:",
+          "desc": "Se i tuoi PDF contengono immagini o grafici di grandi dimensioni, considera di comprimerli prima di caricarli per ridurre la dimensione del file finale."
+        },
+        {
+          "title": "Usa nomi di file descrittivi:",
+          "desc": "Rinomina i PDF con nomi chiari e descrittivi (ad esempio: Report_Sezione1.pdf) per mantenerli organizzati anche durante il processo di unione."
+        },
+        {
+          "title": "Fai una copia di backup dei file originali:",
+          "desc": "Mantieni una copia di backup dei PDF originali nel caso dovessi modificarli o unirli di nuovo in futuro."
+        },
+        {
+          "title": "Esplora altri strumenti:",
+          "desc": "Se devi modificare, convertire o comprimere i tuoi PDF, dai un'occhiata anche agli altri strumenti gratuiti disponibili sulla nostra piattaforma per trovare una soluzione completa per la gestione dei documenti."
+        }
+      ]
+    },
+    "why_choose": "Perché scegliere il nostro strumento invece delle alternative a pagamento?",
+    "why_choose_para": "Sebbene i software PDF a pagamento, come Adobe Acrobat, offrano funzionalità avanzate, il nostro strumento gratuito è la soluzione perfetta per la maggior parte degli utenti. Non c'è bisogno di spendere soldi per software costosi o abbonamenti per unire i PDF. Gabung PDF.id è accessibile a tutti, dai piccoli imprenditori agli studenti, e fornisce risultati professionali senza complicazioni.",
+    "why_choose_para2": "Inoltre, la nostra piattaforma è ottimizzata per velocità e convenienza. Che tu stia lavorando su un desktop, tablet o smartphone, puoi unire i PDF ovunque senza problemi di compatibilità. Questa flessibilità rende il nostro strumento ideale per chi cerca risultati rapidi e affidabili, senza difficoltà.",
+    "conclusion": "Conclusione",
+    "conclusion_para": "Unire i file PDF non deve essere complicato o costoso. Con il nostro strumento gratuito basato su web, puoi unire fino a 20 PDF, riordinarli facilmente e scaricare un file coerente in pochi secondi. Che tu stia organizzando report, archiviando documenti scansionati o creando presentazioni, il nostro strumento semplifica il processo senza la necessità di software aggiuntivi o conoscenze tecniche."
+  },
+  "blog": {
+    "title": "Consigli, Tutorial e Guide PDF",
+    "description": "Padroneggia la gestione PDF con guide esperte, consigli pratici e tutorial passo dopo passo.",
+    "searchPlaceholder": "Cerca articoli, tutorial e guide...",
+    "articles": "Articoli",
+    "readers": "Lettori",
+    "available": "Disponibile",
+    "featuredArticle": "Articolo in Evidenza",
+    "mostPopular": "Più Popolare Questa Settimana",
+    "readArticle": "Leggi Articolo",
+    "readFull": "Leggi Articolo Completo",
+    "minRead": "min di lettura",
+    "featureblog": {
+      "title": "Più Popolare di Questa Settimana",
+      "subtitle": "⭐ Articolo in Evidenza",
+      "featuredArticle": {
+        "date": "2 Luglio 2025",
+        "author": "Admin User",
+        "category": "Articolo in Evidenza",
+        "headline": "GabungPDF.id: Il modo più semplice per unire file PDF",
+        "excerpt": "Unisci file PDF facilmente con GabungPDF.id, il combinatore di PDF online gratuito. Unisci PDF in modo sicuro in pochi secondi, senza bisogno di software. Aumenta subito la tua produttività!",
+        "readTime": "3 minuti di lettura",
+        "buttonName": "Leggi l'articolo completo"
+      }
+    },
+    "blogsPage": {
+      "cards": [
+        {
+          "BlogImage": "/Blog1Image.webp",
+          "date": "2 Giugno 2025",
+          "author": "Admin User",
+          "category": null,
+          "headline": "GabungPDF.id: Lo Strumento Definitivo per Unire File PDF",
+          "headlineLink": "/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "excerpt": "Unisci file PDF facilmente con GabungPDF.id, il tuo strumento online gratuito per unire PDF. Unisci i PDF in modo sicuro in pochi secondi, senza bisogno di software. Prova ora!",
+          "readTime": "3 min di lettura",
+          "readMoreText": "blog.leggiArticolo",
+          "slug": "gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "detail": {
+            "intro": "Su GabungPDF.id, abbiamo progettato uno strumento web user-friendly per aiutarti a unire file PDF senza difficoltà. Che tu sia esperto o principiante, la nostra piattaforma è adatta a tutti. Ecco perché GabungPDF.id si distingue come il miglior unificatore di PDF:",
+            "features": [
+              {
+                "title": "Gratuito e accessibile",
+                "description": "Nessun abbonamento o costo nascosto: basta caricare e unire."
+              },
+              {
+                "title": "Nessuna installazione software",
+                "description": "Il nostro strumento funziona completamente online, risparmiando spazio sul tuo dispositivo."
+              },
+              {
+                "title": "Veloce e sicuro",
+                "description": "Unisci PDF in pochi secondi con una crittografia robusta per proteggere i tuoi file."
+              },
+              {
+                "title": "Interfaccia intuitiva",
+                "description": "Trascina, rilascia e unisci file in pochi clic."
+              }
+            ],
+            "intro2": "Pronto a semplificare la gestione dei tuoi documenti? Vediamo come utilizzare il nostro unificatore PDF in pochi semplici passaggi.",
+            "how_to_use": {
+              "title": "Come Unire File PDF con GabungPDF.id",
+              "paragraph": "Unire PDF con GabungPDF.id è facile come 1-2-3. Segui questi passaggi per creare un unico file PDF ordinato:",
+              "steps": [
+                {
+                  "title": "Carica i Tuoi File",
+                  "description": "Visita https://gabungpdf.id/ e clicca il pulsante “Carica”. Seleziona i file PDF da unire dal tuo dispositivo. Puoi caricare più file contemporaneamente."
+                },
+                {
+                  "title": "Ordina l'Ordine",
+                  "description": "Trascina e rilascia i file per riordinarli come preferisci. Questo garantirà che il tuo documento finale sia organizzato logicamente."
+                },
+                {
+                  "title": "Unisci e Scarica",
+                  "description": "Clicca sul pulsante “Unisci PDF” e il nostro strumento combinerà i tuoi file in uno solo. Una volta completato, scarica immediatamente il nuovo PDF."
+                }
+              ],
+              "note": "Tutto qui! Nessuna impostazione complicata o conoscenza tecnica richiesta. Che tu stia unendo due file o venti, GabungPDF.id lo fa senza problemi."
+            },
+            "benefits": {
+              "title": "Vantaggi dell'Uso di un Unificatore PDF Online",
+              "paragraph": "Scegliere un unificatore PDF online come GabungPDF.id offre diversi vantaggi rispetto ai software tradizionali o ai metodi manuali. Ecco perché il nostro strumento è rivoluzionario:",
+              "items": [
+                {
+                  "title": "Risparmio di Tempo",
+                  "description": "Unire manualmente PDF con software desktop richiede tempo e spesso licenze costose. Con GabungPDF.id puoi unire PDF in pochi secondi da qualsiasi dispositivo con connessione internet—che sia laptop, tablet o smartphone."
+                },
+                {
+                  "title": "Gestione Sicura dei File",
+                  "description": "Preoccupato per la privacy? La nostra piattaforma utilizza crittografia avanzata per garantire la sicurezza dei tuoi file durante il processo. Una volta scaricato il PDF, eliminiamo i tuoi file dai nostri server."
+                },
+                {
+                  "title": "Soluzione Economica",
+                  "description": "Perché pagare software costosi per modificare PDF? GabungPDF.id è completamente gratuito, ideale per studenti, freelance e piccole imprese che vogliono unire PDF senza spese."
+                },
+                {
+                  "title": "Compatibilità Multi-Piattaforma",
+                  "description": "Che tu usi Windows, macOS, iOS o Android, il nostro unificatore PDF online funziona perfettamente su tutte le piattaforme. Nessun problema di compatibilità."
+                }
+              ]
+            },
+            "optimization_tips": {
+              "title": "Consigli per Ottimizzare i PDF Unificati",
+              "paragraph": "Per ottenere il massimo dai tuoi PDF uniti, considera questi suggerimenti:",
+              "tips": [
+                {
+                  "title": "Controlla l'Ordine dei File",
+                  "description": "Prima di unire, ordina i tuoi PDF nella sequenza desiderata per evitare di rifare il lavoro."
+                },
+                {
+                  "title": "Ottimizza le Dimensioni del File",
+                  "description": "Se i tuoi PDF contengono immagini di grandi dimensioni, comprimile prima di caricare per ridurre le dimensioni del file finale."
+                },
+                {
+                  "title": "Nomina Chiaramente i Tuoi File",
+                  "description": "Usa nomi descrittivi per i tuoi PDF per trovarli più facilmente in seguito."
+                },
+                {
+                  "title": "Anteprima del Risultato",
+                  "description": "Dopo aver unito, verifica il PDF per assicurarti che tutto sia perfetto."
+                }
+              ],
+              "paragraph2": "Con GabungPDF.id, puoi unire file PDF in tutta tranquillità mantenendo qualità e organizzazione."
+            },
+            "audience": {
+              "title": "Chi Può Beneficiare di GabungPDF.id?",
+              "paragraph": "Il nostro unificatore PDF è pensato per una vasta gamma di utenti, tra cui:",
+              "users": [
+                {
+                  "type": "Studenti",
+                  "description": "Unisci appunti, compiti o ricerche in un unico file."
+                },
+                {
+                  "type": "Professionisti",
+                  "description": "Unisci report, proposte o contratti per una comunicazione più fluida."
+                },
+                {
+                  "type": "Piccole Imprese",
+                  "description": "Organizza fatture, ricevute o materiali di marketing in un documento unico."
+                },
+                {
+                  "type": "Freelance",
+                  "description": "Unisci portfolio, fatture o lavori da consegnare ai clienti."
+                }
+              ],
+              "paragraph2": "Qualunque siano le tue esigenze, GabungPDF.id è il tuo partner affidabile per tutto ciò che riguarda i PDF."
+            },
+            "why_choose_us": {
+              "title": "Perché Scegliere GabungPDF.id Rispetto ad Altri Unificatori?",
+              "paragraph": "Con così tanti strumenti disponibili, perché GabungPDF.id è la scelta migliore per unire PDF? Ecco cosa ci distingue:",
+              "reasons": [
+                {
+                  "title": "Velocità",
+                  "description": "Nessuna curva di apprendimento: carica, unisci e scarica."
+                },
+                {
+                  "title": "Affidabilità",
+                  "description": "Prestazioni costanti senza blocchi o errori."
+                },
+                {
+                  "title": "Accessibilità",
+                  "description": "Disponibile 24/7 da qualsiasi parte del mondo."
+                }
+              ],
+              "paragraph2": "Non perdere tempo con software complicati o strumenti inaffidabili. Prova GabungPDF.id oggi e scopri il modo più semplice per unire file PDF."
+            },
+            "conclusion": {
+              "title": "Conclusione: Semplifica il Tuo Lavoro con GabungPDF.id",
+              "paragraph": "Unire PDF non deve essere un compito noioso. Con GabungPDF.id puoi combinare file PDF facilmente, risparmiando tempo e mantenendo i tuoi documenti organizzati. Il nostro unificatore PDF gratuito, sicuro e intuitivo è perfetto per chiunque desideri semplificare il proprio lavoro. Che tu stia unendo report, appunti o contratti, il nostro strumento offre risultati professionali ogni volta. Pronto a iniziare?",
+              "cta": {
+                "text": "Visita gabungpdf.id/combine-pdf",
+                "link": "https://gabungpdf.id/combine-pdf"
+              },
+              "Remaingparagraph": "Ora puoi unire file PDF in pochi clic. Semplifica oggi stesso la gestione dei tuoi documenti con GabungPDF.id—il tuo strumento PDF definitivo!"
+            }
+          }
+        },
+        {
+          "BlogImage": "/FeatureBlogImage.webp",
+          "date": "2 Lug 2025",
+          "author": "Admin User",
+          "category": "Articolo in evidenza",
+          "headline": "GabungPDF.id: Il modo più semplice per unire file PDF",
+          "excerpt": "Unisci facilmente file PDF con GabungPDF.id, il combinatore di PDF online gratuito. Unisci PDF in modo sicuro in pochi secondi, senza bisogno di software. Aumenta subito la produttività!",
+          "readTime": "3 minuti di lettura",
+          "buttonName": "Leggi l'articolo completo",
+          "slug": "gabungpdfid-the-easiest-way-to-combine-pdf-files",
+          "detail": {
+            "intro": "In un mondo dove il tempo è denaro, gestire i documenti in modo efficiente può fare la differenza. Che tu stia gestendo più report, organizzando contratti con i clienti o raccogliendo file di progetto, un affidabile strumento per unire PDF può trasformare il tuo flusso di lavoro. Entra in gioco GabungPDF.id, uno strumento gratuito online progettato per unire file PDF rapidamente e senza problemi. In questo articolo vedremo come GabungPDF.id ti aiuta a unire file PDF in modo semplice e perché rappresenta la soluzione ideale per professionisti, studenti e aziende.",
+            "why_merge_pdf": {
+              "title": "Perché unire i file PDF?",
+              "paragraph": "I PDF sono il formato preferito per condividere documenti professionali, ma gestire più file può rallentarti. Unire i PDF in un unico documento ordinato ti fa risparmiare tempo, riduce il disordine e migliora l'organizzazione. Ecco alcuni motivi per cui potresti aver bisogno di unire file PDF:",
+              "reasons": [
+                {
+                  "title": "Facilitare la condivisione",
+                  "description": "Invia un unico file invece di più allegati per una collaborazione più semplice."
+                },
+                {
+                  "title": "Organizzare i documenti",
+                  "description": "Unisci fatture, moduli o appunti in un unico PDF facile da consultare."
+                },
+                {
+                  "title": "Presentazioni professionali",
+                  "description": "Unisci slide, dispense e appunti in un unico documento ben curato."
+                },
+                {
+                  "title": "Snellire l'archiviazione",
+                  "description": "Consolida file correlati per un archivio più efficiente e ordinato."
+                }
+              ],
+              "note": "Con GabungPDF.id puoi unire file PDF in pochi clic, rendendo la gestione dei documenti un gioco da ragazzi."
+            },
+            "features": {
+              "title": "Cosa rende GabungPDF il miglior strumento per unire PDF?",
+              "paragraph": "Su GabungPDF.id abbiamo creato uno strumento veloce, gratuito e accessibile a tutti. Che tu stia lavorando da desktop, tablet o smartphone, il nostro combinatore PDF offre risultati professionali senza complicazioni. Ecco perché gli utenti amano GabungPDF.id:",
+              "items": [
+                {
+                  "title": "Completamente gratuito",
+                  "description": "Nessun abbonamento, nessun costo nascosto: unisci e via."
+                },
+                {
+                  "title": "Nessun software richiesto",
+                  "description": "Il nostro strumento web funziona immediatamente, senza bisogno di scaricare nulla."
+                },
+                {
+                  "title": "Elaborazione sicura",
+                  "description": "I tuoi file sono protetti con crittografia e cancellati dopo l'uso."
+                },
+                {
+                  "title": "Interfaccia intuitiva",
+                  "description": "Un'interfaccia semplice che rende l'unione dei PDF accessibile a tutti."
+                }
+              ],
+              "next": "Pronto a migliorare la tua produttività? Vediamo come usare il nostro strumento per unire PDF in pochi minuti."
+            },
+            "how_to_use": {
+              "title": "Come usare GabungPDF.id per unire file PDF",
+              "paragraph": "Unire PDF con GabungPDF è semplice e non richiede competenze tecniche. Segui questi semplici passaggi:",
+              "steps": [
+                {
+                  "title": "Carica i tuoi PDF",
+                  "description": "Vai su https://gabungpdf.id/ e seleziona i file PDF che vuoi unire. Puoi caricare più file contemporaneamente dal tuo dispositivo."
+                },
+                {
+                  "title": "Organizza come preferisci",
+                  "description": "Usa la funzione drag-and-drop per ordinare i file come desideri."
+                },
+                {
+                  "title": "Unisci e salva",
+                  "description": "Clicca su 'Unisci PDF' e il nostro strumento combinerà i file in uno solo. Scarica subito il PDF unito."
+                }
+              ],
+              "note": "È davvero così semplice! Che tu stia unendo due file o decine, GabungPDF.id garantisce un'esperienza fluida e senza stress."
+            },
+            "top_benefits": {
+              "title": "I principali vantaggi di usare GabungPDF.id",
+              "paragraph": "Scegliere un combinatore PDF online come GabungPDF.id offre comodità ed efficienza impareggiabili. Ecco perché il nostro strumento si distingue:",
+              "items": [
+                {
+                  "title": "Risparmia tempo e fatica",
+                  "description": "Unire PDF manualmente o con software complicati può essere frustrante. GabungPDF.id ti permette di combinare i file in pochi secondi, lasciandoti più tempo per le cose importanti."
+                },
+                {
+                  "title": "Maggiore sicurezza",
+                  "description": "La tua privacy è la nostra priorità. La nostra piattaforma utilizza crittografia sicura per proteggere i file durante il processo di unione e li elimina dai nostri server una volta terminato."
+                },
+                {
+                  "title": "Conveniente",
+                  "description": "Perché spendere in costosi software PDF? GabungPDF.id è 100% gratuito, perfetto per studenti, liberi professionisti e piccole imprese."
+                },
+                {
+                  "title": "Accesso universale",
+                  "description": "Il nostro strumento funziona su qualsiasi dispositivo con un browser, che sia Windows, macOS, iOS o Android. Unisci PDF ovunque e in qualsiasi momento."
+                }
+              ]
+            },
+            "audience": {
+              "title": "Chi dovrebbe usare GabungPDF.id?",
+              "paragraph": "Il nostro combinatore PDF è abbastanza versatile da soddisfare un'ampia gamma di esigenze:",
+              "users": [
+                {
+                  "type": "Studenti",
+                  "description": "Unisci appunti di studio, saggi o ricerche in un unico file per facilitare la consegna."
+                },
+                {
+                  "type": "Professionisti",
+                  "description": "Unisci contratti, proposte o report per una comunicazione più fluida con i clienti."
+                },
+                {
+                  "type": "Liberi professionisti",
+                  "description": "Crea portfolio curati o unisci fatture per inviarle ai clienti."
+                },
+                {
+                  "type": "Piccole imprese",
+                  "description": "Organizza ricevute, materiali di marketing o documenti legali in un unico PDF."
+                }
+              ],
+              "note": "Qualunque sia il tuo ruolo, GabungPDF.id semplifica la gestione dei tuoi documenti."
+            },
+            "pro_tips": {
+              "title": "Consigli da professionisti per unire PDF al meglio",
+              "paragraph": "Per ottenere il massimo dal tuo combinatore PDF, tieni a mente questi suggerimenti:",
+              "tips": [
+                {
+                  "title": "Pianifica l'ordine dei file",
+                  "description": "Organizza i PDF in modo logico prima di unirli per risparmiare tempo."
+                },
+                {
+                  "title": "Comprimi i file pesanti",
+                  "description": "Riduci le dimensioni dei file prima di caricarli per velocizzare l'elaborazione."
+                },
+                {
+                  "title": "Controlla il risultato finale",
+                  "description": "Controlla l'anteprima del PDF unito per assicurarti che soddisfi le tue esigenze."
+                },
+                {
+                  "title": "Aggiungi GabungPDF.id ai preferiti",
+                  "description": "Salva il nostro sito tra i preferiti per accedervi rapidamente ogni volta che devi unire file PDF."
+                }
+              ]
+            },
+            "why_stand_out": {
+              "title": "Perché GabungPDF.id si distingue tra i combinatori PDF",
+              "paragraph": "Con tanti strumenti disponibili, GabungPDF.id si distingue per semplicità, velocità e affidabilità. A differenza di altri strumenti che richiedono registrazione o download, la nostra piattaforma è pronta all'uso. Inoltre, il nostro impegno per la sicurezza garantisce che i tuoi file siano sempre protetti. Non lasciare che PDF sparsi ti rallentino. Visita https://gabungpdf.id/ oggi e scopri il modo più semplice per unire file PDF."
+            },
+            "conclusion": {
+              "title": "Conclusione: semplifica i tuoi documenti con GabungPDF.id",
+              "paragraph": "Gestire molti file PDF non deve essere una fatica. Con GabungPDF.id puoi unire file PDF rapidamente, in modo sicuro e gratuito. Il nostro combinatore PDF intuitivo è progettato per aumentare la tua produttività, che tu sia studente, professionista o imprenditore. Dì addio al caos dei documenti e dai il benvenuto a PDF ordinati e professionali. Prova ora GabungPDF.id su gabungpdf.id/combine-pdf e sperimenta il modo più veloce per unire file PDF. Semplifica il tuo lavoro oggi!"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "Il modo più semplice per combinare più file PDF in un documento. Veloce, sicuro e completamente gratuito da usare.",
+    "contact": "Contattaci:",
+    "quickLinks": "Link Rapidi",
+    "privacyPolicy": "Informativa sulla Privacy",
+    "termsOfService": "Termini di Servizio",
+    "allRights": "Tutti i diritti riservati"
+  },
+  "privacy": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Indice",
+        "items": [
+          {
+            "icon": "👁️",
+            "label": "Panoramica",
+            "target": "Overview"
+          },
+          {
+            "icon": "📊",
+            "label": "Informazioni Raccolte",
+            "target": "information-collection"
+          },
+          {
+            "icon": "🔧",
+            "label": "Come Usiamo le Informazioni",
+            "target": "how-we-use"
+          },
+          {
+            "icon": "🗄️",
+            "label": "Conservazione e Cancellazione Dati",
+            "target": "data-retention"
+          },
+          {
+            "icon": "🤝",
+            "label": "Condivisione Dati",
+            "target": "data-sharing"
+          },
+          {
+            "icon": "🔒",
+            "label": "Sicurezza Dei Dati",
+            "target": "data-security"
+          },
+          {
+            "icon": "🌍",
+            "label": "Trasferimenti Internazionali Dei Dati",
+            "target": "international-transfers"
+          },
+          {
+            "icon": "⚖️",
+            "label": "I Tuoi Diritti",
+            "target": "your-rights"
+          },
+          {
+            "icon": "🔗",
+            "label": "Link Di Terze Parti",
+            "target": "third-party-links"
+          },
+          {
+            "icon": "👶",
+            "label": "Privacy Dei Minori",
+            "target": "children"
+          },
+          {
+            "icon": "🔄",
+            "label": "Modifiche Alla Policy",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Contattaci",
+            "target": "contact"
+          }
+        ]
+      },
+      "privacySummary": {
+        "title": "Riepilogo Privacy",
+        "points": [
+          "File eliminati entro 1 ora",
+          "Non conserviamo i tuoi documenti",
+          "Raccolta dati minima",
+          "Crittografia end-to-end"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "Overview",
+        "icon": "👁️",
+        "title": "Panoramica",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Su www.gabungpdf.id (\"il Sito\"), gestito da Gabung PDF (\"noi\"), ci impegniamo a proteggere la tua privacy. La presente Informativa Privacy spiega come raccogliamo, utilizziamo e proteggiamo le tue informazioni quando utilizzi il nostro servizio di combinazione PDF. Utilizzando il Sito, accetti questa Informativa Privacy."
+          },
+          {
+            "type": "highlight",
+            "title": "Il Nostro Principio Chiave:",
+            "text": "Elaboriamo i tuoi file esclusivamente per fornire il nostro servizio e li eliminiamo automaticamente entro un'ora. Non accediamo, non esaminiamo e non conserviamo il contenuto dei tuoi file oltre questo periodo necessario."
+          }
+        ]
+      },
+      {
+        "id": "information-collection",
+        "icon": "📊",
+        "title": "Informazioni Raccolte",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "File Caricati Dagli Utenti",
+            "text": "Quando utilizzi il nostro servizio, carichi file PDF per combinarli. Questi file possono contenere dati personali, ma non accediamo, non esaminiamo e non conserviamo il contenuto dei tuoi file oltre il periodo necessario all'elaborazione temporanea."
+          },
+          {
+            "type": "subsection",
+            "title": "Dati Raccolti Automaticamente",
+            "text": "Possiamo raccogliere informazioni non personali, come:",
+            "list": [
+              "Informazioni sul dispositivo (es. tipo di browser, sistema operativo, indirizzo IP)",
+              "Dati di utilizzo (es. pagine visitate, tempo trascorso sul Sito, interazioni con il servizio)"
+            ]
+          },
+          {
+            "type": "subsection",
+            "title": "Cookie e Tracciamento",
+            "text": "Possiamo utilizzare cookie o tecnologie simili per migliorare la tua esperienza e analizzare l'utilizzo del Sito. Puoi gestire le preferenze dei cookie tramite le impostazioni del browser."
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "icon": "🔧",
+        "title": "Come Usiamo le Informazioni",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Erogazione del Servizio",
+            "text": "Elaboriamo i tuoi file PDF caricati esclusivamente per combinarli in un unico PDF e fornire il link per il download."
+          },
+          {
+            "type": "subsection",
+            "title": "Miglioramento del Sito",
+            "text": "Utilizziamo dati non personali (es. statistiche d'uso) per analizzare e migliorare le funzionalità e le prestazioni del Sito."
+          },
+          {
+            "type": "subsection",
+            "title": "Conformità Legale",
+            "text": "Possiamo utilizzare o divulgare informazioni se richiesto dalla legge o per proteggere i nostri diritti, sicurezza o proprietà."
+          }
+        ]
+      },
+      {
+        "id": "data-retention",
+        "icon": "🗄️",
+        "title": "Conservazione e Cancellazione Dati",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "File Caricati",
+            "text": "Tutti i file PDF caricati e i PDF risultanti vengono eliminati automaticamente dai nostri server entro un'ora (1) dall'elaborazione. Non conserviamo copie dei tuoi file."
+          },
+          {
+            "type": "subsection",
+            "title": "Altri Dati",
+            "text": "I dati non personali (es. statistiche d'uso) possono essere conservati per il tempo necessario a migliorare il Sito o per adempiere ad obblighi legali."
+          }
+        ]
+      },
+      {
+        "id": "data-sharing",
+        "icon": "🤝",
+        "title": "Condivisione Dati",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Nessuna Condivisione con Terzi",
+            "text": "Non vendiamo, condividiamo o trasferiamo i tuoi file caricati o le tue informazioni personali a terze parti, salvo se richiesto dalla legge o per proteggere i nostri diritti."
+          },
+          {
+            "type": "subsection",
+            "title": "Fornitori di Servizi",
+            "text": "Possiamo utilizzare fornitori di servizi terzi (es. hosting o analytics) per gestire il Sito. Tali fornitori sono vincolati da obblighi di riservatezza e possono trattare i dati esclusivamente per nostro conto."
+          }
+        ]
+      },
+      {
+        "id": "data-security",
+        "icon": "🔒",
+        "title": "Sicurezza Dei Dati",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Adottiamo misure tecniche e organizzative ragionevoli per proteggere i tuoi dati da accessi non autorizzati, perdita o uso improprio. Tuttavia, nessun servizio online è completamente sicuro e non possiamo garantire la sicurezza assoluta."
+          }
+        ]
+      },
+      {
+        "id": "international-transfers",
+        "icon": "🌍",
+        "title": "Trasferimenti Internazionali Dei Dati",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Se ti trovi al di fuori dell'Indonesia, i tuoi dati potrebbero essere trasferiti ed elaborati in Indonesia o in altri Paesi in cui si trovano i nostri server o fornitori di servizi. Garantiamo che siano in atto adeguate tutele per tali trasferimenti."
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "icon": "⚖️",
+        "title": "I Tuoi Diritti",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "In base alla tua posizione geografica, potresti avere diritti ai sensi delle leggi sulla protezione dei dati applicabili, come:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Accedere o richiedere la cancellazione dei tuoi dati",
+              "Opporti o limitare determinati trattamenti dei dati"
+            ]
+          },
+          {
+            "type": "highlight",
+            "text": "Per esercitare questi diritti, contattaci a admin@gabungpdf.id. Tieni presente che poiché eliminiamo i file entro un'ora, potremmo non conservare alcun dato personale da fornire."
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "icon": "🔗",
+        "title": "Link Di Terze Parti",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Il Sito può contenere link a siti web di terze parti. Non siamo responsabili delle pratiche di privacy o del contenuto di tali siti."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "icon": "👶",
+        "title": "Privacy Dei Minori",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Il Sito non è destinato a utenti di età inferiore ai 18 anni. Non raccogliamo consapevolmente informazioni personali da minori."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Modifiche Alla Policy",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Possiamo aggiornare questa Informativa Privacy di tanto in tanto. Le modifiche saranno pubblicate su questa pagina con una data \"Ultimo Aggiornamento\" aggiornata."
+          },
+          {
+            "type": "highlight",
+            "text": "L'uso continuato del Sito dopo le modifiche costituisce accettazione dell'Informativa Privacy aggiornata."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Contattaci",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Se hai domande su questa Informativa Privacy, contattaci a admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Il Nostro Impegno per la Privacy",
+      "desc": "Prendiamo sul serio la tua privacy. Ecco cosa rende il nostro servizio affidabile:",
+      "points": [
+        {
+          "title": "Eliminazione Automatica",
+          "desc": "I file vengono eliminati automaticamente entro 1 ora"
+        },
+        {
+          "title": "Trasferimento Cifrato",
+          "desc": "Tutti i caricamenti utilizzano una crittografia HTTPS sicura"
+        },
+        {
+          "title": "Nessuna Lettura dei File",
+          "desc": "Non accediamo mai né leggiamo il contenuto dei tuoi file"
+        },
+        {
+          "title": "Nessuna Condivisione",
+          "desc": "I tuoi file non vengono mai condivisi con terze parti"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Hai domande?",
+      "description": "Siamo qui per aiutarti con qualsiasi domanda o preoccupazione sulla privacy.",
+      "links": [
+        {
+          "label": "Termini di Servizio",
+          "href": "/terms-of-service",
+          "icon": "📄"
+        },
+        {
+          "label": "Contatta Il Nostro Team",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Terms": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Indice",
+        "items": [
+          {
+            "icon": "✅",
+            "label": "Accettazione dei Termini",
+            "target": "acceptance"
+          },
+          {
+            "icon": "🔧",
+            "label": "Utilizzo del Sito",
+            "target": "use-of-site"
+          },
+          {
+            "icon": "📁",
+            "label": "File dell'Utente",
+            "target": "user-files"
+          },
+          {
+            "icon": "©️",
+            "label": "Proprietà Intellettuale",
+            "target": "intellectual-property"
+          },
+          {
+            "icon": "⚠️",
+            "label": "Limitazione di Responsabilità",
+            "target": "limitation-liability"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Manleva",
+            "target": "indemnification"
+          },
+          {
+            "icon": "🚫",
+            "label": "Cessazione",
+            "target": "termination"
+          },
+          {
+            "icon": "🏛️",
+            "label": "Legge Applicabile",
+            "target": "governing-law"
+          },
+          {
+            "icon": "🔄",
+            "label": "Modifiche ai Termini",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Contattaci",
+            "target": "contact"
+          }
+        ]
+      },
+      "termsSummary": {
+        "title": "Riepilogo dei Termini",
+        "points": [
+          "Servizio gratuito di unione PDF",
+          "Devi avere almeno 18 anni per utilizzare il servizio",
+          "I file vengono eliminati entro 1 ora",
+          "Utilizzare solo per scopi leciti"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "acceptance",
+        "icon": "✅",
+        "title": "Accettazione dei Termini",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Benvenuto su www.gabungpdf.id (\"il Sito\"), un servizio offerto da Gabung PDF (\"noi\"). I presenti Termini di Servizio (\"Termini\") regolano l'utilizzo del Sito e dei suoi servizi di unione PDF. Accedendo o utilizzando il Sito, accetti di essere vincolato da questi Termini."
+          },
+          {
+            "type": "highlight",
+            "title": "Accordo Importante:",
+            "text": "Se non accetti questi Termini, ti preghiamo di non utilizzare il Sito."
+          }
+        ]
+      },
+      {
+        "id": "use-of-site",
+        "icon": "🔧",
+        "title": "Utilizzo del Sito",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Idoneità",
+            "text": "Devi avere almeno 18 anni o la capacità legale di accettare questi Termini per utilizzare il Sito."
+          },
+          {
+            "type": "subsection",
+            "title": "Uso Consentito",
+            "text": "Il Sito ti consente di caricare file PDF, unirli in un unico file PDF e scaricare il risultato. Puoi utilizzare il Sito solo per scopi leciti e in conformità con questi Termini."
+          },
+          {
+            "type": "subsection",
+            "title": "Uso Vietato",
+            "text": "Non è consentito:",
+            "list": [
+              "Caricare file contenenti virus, malware o altro codice dannoso",
+              "Utilizzare il Sito in violazione di leggi, regolamenti o diritti di terzi",
+              "Tentare di interferire, interrompere o decifrare le funzionalità del Sito",
+              "Utilizzare il Sito per scopi commerciali senza nostro consenso scritto"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "user-files",
+        "icon": "📁",
+        "title": "File dell'Utente",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Elaborazione Temporanea",
+            "text": "I file caricati vengono elaborati per l'unione dei PDF e vengono automaticamente eliminati dai nostri server entro un'ora (1) dall'elaborazione. Non conserviamo o trattieniamo i tuoi file oltre tale periodo."
+          },
+          {
+            "type": "subsection",
+            "title": "Tua Responsabilità",
+            "text": "Sei l'unico responsabile del contenuto dei file che carichi. Devi assicurarti di avere il diritto di caricare ed elaborare tali file e che non violino i diritti di terzi (ad es. copyright, marchi)."
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "icon": "©️",
+        "title": "Proprietà Intellettuale",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Contenuti del Sito",
+            "text": "Tutti i contenuti del Sito, inclusi testi, grafica, loghi e software, sono di nostra proprietà o concessi in licenza e sono protetti dalle leggi sulla proprietà intellettuale."
+          },
+          {
+            "type": "subsection",
+            "title": "Contenuti dell'Utente",
+            "text": "Rimani proprietario dei file che carichi. Caricando i file, ci concedi una licenza limitata, non esclusiva e gratuita per elaborare i tuoi file esclusivamente allo scopo di fornire il servizio di unione PDF."
+          }
+        ]
+      },
+      {
+        "id": "limitation-liability",
+        "icon": "⚠️",
+        "title": "Limitazione di Responsabilità",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Nessuna Garanzia",
+            "text": "Il Sito è fornito \"così com'è\" senza alcuna garanzia, espressa o implicita, incluse garanzie di commerciabilità, idoneità a uno scopo particolare o non violazione."
+          },
+          {
+            "type": "subsection",
+            "title": "Limite di Responsabilità",
+            "text": "Nella misura massima consentita dalla legge, non siamo responsabili per danni indiretti, accidentali, speciali o consequenziali derivanti dall'uso del Sito, anche se siamo stati avvisati della possibilità di tali danni."
+          },
+          {
+            "type": "subsection",
+            "title": "Interruzioni del Servizio",
+            "text": "Non garantiamo un accesso ininterrotto o privo di errori al Sito e non siamo responsabili per ritardi, inattività o perdita di dati."
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "icon": "⚖️",
+        "title": "Manleva",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Accetti di indennizzarci e tenerci indenni da qualsiasi reclamo, perdita o danno, comprese le spese legali, derivanti dall'uso del Sito, dai file che hai caricato o dalla tua violazione di questi Termini."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "icon": "🚫",
+        "title": "Cessazione",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Possiamo sospendere o terminare il tuo accesso al Sito a nostra esclusiva discrezione, senza preavviso, in caso di violazione di questi Termini o per qualsiasi altro motivo."
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "icon": "🏛️",
+        "title": "Legge Applicabile",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Questi Termini sono regolati dalle leggi dell'Indonesia, senza considerare i principi di conflitto di leggi. Eventuali controversie derivanti da questi Termini saranno risolte presso i tribunali dell'Indonesia."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Modifiche ai Termini",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Potremmo aggiornare di volta in volta questi Termini. Le modifiche saranno pubblicate su questa pagina con la data di \"Ultimo Aggiornamento\" aggiornata."
+          },
+          {
+            "type": "highlight",
+            "text": "L'uso continuato del Sito dopo le modifiche costituisce accettazione dei Termini aggiornati."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Contattaci",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Se hai domande su questi Termini, ti preghiamo di contattarci all'indirizzo admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Punti Chiave dell'Accordo",
+      "desc": "Comprendi i tuoi diritti e le tue responsabilità nell'uso del nostro servizio.",
+      "points": [
+        {
+          "title": "Uso Corretto",
+          "desc": "Usa il nostro servizio in modo responsabile e legale"
+        },
+        {
+          "title": "I Tuoi File",
+          "desc": "Mantieni la proprietà di tutti i file caricati"
+        },
+        {
+          "title": "Nessun Abuso",
+          "desc": "Gli usi vietati comporteranno la cessazione del servizio"
+        },
+        {
+          "title": "Responsabilità Limitata",
+          "desc": "Il servizio è fornito \"così com'è\" senza garanzie"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Hai Domande?",
+      "description": "Siamo qui per aiutarti per qualsiasi dubbio sui termini o sul servizio.",
+      "links": [
+        {
+          "label": "Informativa sulla Privacy",
+          "href": "/privacy-policy",
+          "icon": "🔒"
+        },
+        {
+          "label": "Contatta il Team Legale",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Content": {
+    "Policy": {
+      "title": "Informativa sulla privacy",
+      "desc": "Ci impegniamo a proteggere la tua privacy e a garantire la sicurezza dei tuoi file. Scopri come raccogliamo, utilizziamo e proteggiamo le tue informazioni quando usi il nostro servizio di unione PDF.",
+      "Updated": "Ultimo aggiornamento:",
+      "date": "6 giugno 2025"
+    },
+    "Terms": {
+      "title": "Termini di servizio",
+      "desc": "Questi termini regolano l'uso del nostro servizio di unione PDF. Ti preghiamo di leggerli attentamente prima di utilizzare il nostro sito.",
+      "Updated": "Ultimo aggiornamento:",
+      "date": "6 giugno 2025"
+    }
+  },
+  "MiniFooter": {
+    "heading": "Pronto a unire i tuoi PDF in modo sicuro?",
+    "subheading": "Prova il nostro servizio di unione PDF incentrato sulla privacy con la massima tranquillità.",
+    "button": "Unisci PDF ora"
+  },
+  "Seo": {
+    "Home": {
+      "title": "Unisci PDF Online Gratis - Unisci File PDF Facilmente e Velocemente",
+      "description": "Unisci documenti PDF online gratis con GabungPDF.id. Strumento per unire PDF facile da usare, senza installazione né registrazione. Unisci subito i tuoi PDF!"
+    },
+    "CombinePdf": {
+      "title": "Unisci File PDF Online Gratis - Fusione PDF Veloce e Facile",
+      "description": "Unisci PDF online gratuitamente con GabungPDF.id. Strumento veloce e facile da usare, senza bisogno di registrazione o installazione. Unisci i tuoi PDF ora!"
+    },
+     "Blog": {
+    "title": "Blog Unisci PDF: Consigli e Guide per Unire PDF",
+    "description": "Esplora il blog di Gabung PDF per consigli esperti sull’unione di PDF, tutorial e strumenti per semplificare i tuoi compiti con i PDF. Leggi ora per approfondimenti!"
+  },
+    "Blog1": {
+      "title": "Il Modo Più Facile per Unire File PDF | Unisci PDF",
+      "description": "Scopri il modo più semplice per unire file PDF con Gabung PDF. Strumento gratuito, veloce e facile da usare per unire PDF senza sforzi. Provalo!"
+    },
+    "Blog2": {
+      "title": "Lo Strumento Definitivo per Unire PDF | Unisci PDF",
+      "description": "Gabung PDF è lo strumento definitivo per unire file PDF online. Veloce, sicuro e gratuito. Unisci i tuoi PDF facilmente oggi stesso!"
+    },
+    "privacyPolicy": {
+      "title": "Privacy Policy di Gabung PDF | Fusione PDF Sicura",
+      "description": "Leggi l’informativa sulla privacy di Gabung PDF per capire come proteggiamo i tuoi dati durante la fusione sicura dei PDF online. Scopri di più ora."
+    },
+    "TermsAndCondition": {
+      "title": "Termini di Servizio di Gabung PDF | Unione PDF",
+      "description": "Consulta i termini di servizio di Gabung PDF per utilizzare il nostro strumento gratuito e sicuro per unire PDF online. Comprendi le nostre politiche oggi."
+    }
+  }
+}

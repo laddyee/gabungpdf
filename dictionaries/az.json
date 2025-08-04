@@ -1,0 +1,1305 @@
+{
+  "nav": {
+    "home": "Ev",
+    "combinePdf": "PDF birləşdirin",
+    "blog": "Bloq",
+    "selectLanguage": "Dili seçin"
+  },
+  "home": {
+    "title": "PDF Fayllarını Onlayn Birləşdirin - Pulsuz, Sürətli və Təhlükəsiz",
+    "description": "PDF-ləri GabungPDF.id ilə asanlıqla birləşdirin! PDF fayllarını saniyələr ərzində birləşdirmək üçün pulsuz, sürətli, təhlükəsiz onlayn alət. Qeydiyyat tələb olunmur.",
+    "mergeNow": "PDF-ləri indi birləşdirin",
+    "sec1Para": "Bu günün sürətli rəqəmsal dünyasında sənədləri səmərəli idarə etmək şəxsi və peşəkar vəzifələr üçün çox vacibdir. Ümumi ehtiyaclardan biri PDF fayllarını vahid, sadələşdirilmiş sənəddə birləşdirməkdir. İstər hesabat hazırlayırsınız, istər fakturaları birləşdirirsiniz, istərsə də birdən çox fayl paylaşmaq istəyirsinizsə, PDF-lərin birləşdirilməsi vaxta qənaət edə və sənədlərinizi təşkilli saxlaya bilər. Bu hərtərəfli bələdçidə biz PDF fayllarını onlayn olaraq necə pulsuz birləşdirəcəyimizi, bunun niyə faydalı olduğunu və gabungPDF.id kimi alətlərin prosesi necə qüsursuz etdiyini izah edəcəyik. Həmçinin PDF-lərinizi axtarış motorları üçün necə optimallaşdıracağınızı və onların daha yaxşı sıralanmasını təmin edəcək məsləhətləri təqdim edəcəyik.",
+    "SecH1": "Niyə PDF fayllarını birləşdirməlisiniz?",
+    "SecH1P1": "Birdən çox PDF faylını bir sənəddə birləşdirmək çoxsaylı üstünlüklər təklif edir. PDF birləşdirici alətindən istifadə etməyi düşünməli olduğunuz səbəblər:",
+    "SecH1UlLi1": "<strong>Təşkilat və Səmərəlilik:</strong> Bir neçə fayl göndərmək əvəzinə, birləşdirilmiş PDF paylaşmağı və nəzərdən keçirməyi asanlaşdırır. Bu xüsusilə hesabatlar, müqavilələr və təqdimatlar göndərən peşəkarlar üçün faydalıdır.",
+    "SecH1UlLi2": "<strong>Fayl Dağınıqlığının Azaldılması:</strong> PDF-ləri birləşdirmək idarə etməli olduğunuz fayl sayını azaldır, bu da saxlanmanı və əldə etməni asanlaşdırır.",
+    "SecH1UlLi3": "<strong>Peşəkar Görünüş:</strong> Vahid PDF sənədi həmkarlarınız, müştəriləriniz və ya tərəfdaşlarınız üçün daha peşəkar görünür.",
+    "SecH1UlLi4": "<strong>Platformalararası Uyğunluq:</strong> PDF faylları bütün cihazlarda oxunaqlı olur – Windows, Mac və mobil cihazlar daxil olmaqla.",
+    "SecH1EndPara": "<strong>gabungPDF.id</strong> kimi bir alətlə siz heç bir proqram quraşdırmadan və qeydiyyatdan keçmədən PDF fayllarını sürətlə birləşdirə bilərsiniz. Necə etməli olduğumuzu araşdıraq.",
+    "steps": {
+      "title": "PDF Fayllarını Onlayn və Pulsuz Necə Birləşdirmək Olar",
+      "intro": "gabungPDF.id kimi onlayn bir alətdən istifadə PDF fayllarını birləşdirməyi sadə və əlçatan edir. PDF fayllarını asanlıqla <strong>birləşdirmək</strong> üçün addım-addım təlimat:",
+      "items": [
+        {
+          "title": "1. Addım: gabungPDF.id saytına daxil olun",
+          "desc": "gabungPDF.id saytına keçin — saniyələr ərzində <strong>PDF fayllarını birləşdirmək</strong> üçün hazırlanmış pulsuz onlayn alət. Vebsayt sadə interfeysə malikdir və texniki bilik tələb etmir."
+        },
+        {
+          "title": "2. Addım: PDF Fayllarınızı Yükləyin",
+          "desc": "\"Faylları Yüklə\" düyməsini klikləyin və birləşdirmək istədiyiniz PDF-ləri seçin. Birdən çox fayl yükləyə bilərsiniz və gabungPDF.id həm PDF, həm də şəkil formatlarını dəstəkləyir."
+        },
+        {
+          "title": "3. Addım: Faylları Sıralayın",
+          "desc": "Yüklədikdən sonra faylları istədiyiniz qaydada sürükləyib buraxa bilərsiniz. Bu xüsusiyyət hesabat və ya təqdimat kimi sənədlərin düzgün struktura malik olmasını təmin edir."
+        },
+        {
+          "title": "4. Addım: Birləşdir və Yüklə",
+          "desc": "\"Birləşdir\" düyməsinə klikləyin. gabungPDF.id fayllarınızı orijinal keyfiyyətini qoruyaraq birləşdirəcək. Sonra bir kliklə yekun PDF-ni endirə bilərsiniz."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Niyə gabungPDF.id-i seçməlisiniz?",
+      "points": [
+        {
+          "title": "<strong>Quraşdırma Tələb Olunmur:</strong>",
+          "desc": "gabungPDF.id tamamilə onlayn işləyir, bu da cihazınızda yer saxlayır və vaxtınıza qənaət edir."
+        },
+        {
+          "title": "<strong>Pulsuz və Təhlükəsiz:</strong>",
+          "desc": "Alət tamamilə pulsuzdur və fayllar emaldan sonra serverdən silinir, bu da məxfiliyi təmin edir."
+        },
+        {
+          "title": "<strong>Çoxlu Cihaz Uyğunluğu:</strong>",
+          "desc": "Mac, Windows, iOS və ya Android – istənilən cihazda PDF fayllarını asanlıqla birləşdirə bilərsiniz."
+        },
+        {
+          "title": "<strong>Çoxdilli Dəstək:</strong>",
+          "desc": "Platforma dünya üzrə istifadəçiləri, o cümlədən \"<strong>gabung PDF</strong>\" axtaranları dəstəkləyir."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Onlayn PDF Birləşdirmə Alətinin Üstünlükləri",
+      "items": [
+        {
+          "title": "<strong>Əlçatanlıq:</strong>",
+          "desc": "İnternet bağlantısı olan istənilən cihazdan PDF fayllarını <strong>birləşdirə</strong> bilərsiniz."
+        },
+        {
+          "title": "<strong>Sürət:</strong>",
+          "desc": "Hətta böyük fayllar üçün də birləşdirmə cəmi bir neçə saniyə çəkir."
+        },
+        {
+          "title": "<strong>Pulsuzdur:</strong>",
+          "desc": "gabungPDF.id daxil olmaqla bir çox onlayn alət Adobe Acrobat kimi pullu proqramlara alternativ olaraq pulsuzdur."
+        },
+        {
+          "title": "<strong>İstifadəçi Dostudur:</strong>",
+          "desc": "Texniki bilik tələb etmir – həm yeni başlayanlar, həm də mütəxəssislər üçün uyğundur."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Birləşdirilmiş PDF-lərinizi SEO üçün Optimallaşdırın",
+      "intro": "Əgər sənədlərinizi peşəkar və ya marketinq məqsədi ilə hazırlayırsınızsa, onların axtarış motorlarında görsənməsi üçün optimallaşdırılması vacibdir. Aşağıda <strong>combine PDF</strong>, <strong>merge PDF</strong> və <strong>gabung PDF</strong> kimi açar sözlər daxil olmaqla 10 faydalı SEO məsləhəti var:",
+      "items": [
+        {
+          "title": "1. Təsviri Fayl Adlarından İstifadə Edin",
+          "desc": "gabungPDF.id-ə yükləməzdən əvvəl sənədlərinizə təsviri və açar sözlərlə zəngin adlar verin (məs: \"document1.pdf\" əvəzinə \"biznes-hesabat-2025.pdf\")."
+        },
+        {
+          "title": "2. Metadata Əlavə Edin",
+          "desc": "Başlıq, müəllif, açar sözlər kimi metadata məlumatları əlavə edin. Bu, axtarış motorlarının PDF faylınızı daha asan indeksləşdirməsinə kömək edir."
+        },
+        {
+          "title": "3. Mətn Məzmununu Optimallaşdırın",
+          "desc": "PDF sənədinizdə axtarış edilə bilən mətn istifadə edin, çünki axtarış motorları yalnız mətn əsaslı faylları tanıya bilir."
+        },
+        {
+          "title": "4. Daxili Keçidlər Əlavə Edin",
+          "desc": "Əgər PDF vebsaytınıza aiddirsə, ana səhifəyə və ya digər bloq yazılarına keçidlər əlavə edin."
+        },
+        {
+          "title": "5. Başlıqlardan və Quruluşdan İstifadə Edin",
+          "desc": "PDF sənədinizi başlıqlar (H1, H2 və s.) ilə bölün və aydın struktura malik olun."
+        },
+        {
+          "title": "6. Sıxılmış Fayllardan İstifadə Edin",
+          "desc": "gabungPDF.id ilə birləşdirmədən sonra fayl ölçüsünü PDF kompressor aləti ilə azaldın."
+        },
+        {
+          "title": "7. Alternativ Mətnlərlə Şəkilləri Etiketləyin",
+          "desc": "Şəkillərə uyğun açar sözlərlə alt mətn əlavə edin – bu həm SEO, həm də əlçatanlıq üçün faydalıdır."
+        },
+        {
+          "title": "8. Vebsaytınızda Yerləşdirin",
+          "desc": "Birləşdirilmiş PDF-ləri veb saytınıza yükləyin və açar sözlər olan səhifələrdə paylaşın."
+        },
+        {
+          "title": "9. PDF Baxışlarını İzləyin",
+          "desc": "Google Analytics kimi alətlərlə PDF fayllarınızın performansını izləyin və təkmilləşdirin."
+        },
+        {
+          "title": "10. Sənədlərinizi Təşviq Edin",
+          "desc": "Sosial mediada, bülletenlərdə və forumlarda PDF fayllarınızı paylaşın və istifadəçiləri yükləməyə təşviq edin."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "PDF-ləri Birləşdirmə Üçün Ümumi İstifadə Halları",
+      "items": [
+        {
+          "title": "<strong>Biznes Hesabatları:</strong>",
+          "desc": "Mətn, diaqram və şəkillər kimi müxtəlif hissələri bir sənəddə birləşdirin."
+        },
+        {
+          "title": "<strong>Akademik Layihələr:</strong>",
+          "desc": "Tələbələr tədqiqatlarını, qeydlərini və istinadları bir sənəddə toplamaq üçün PDF fayllarını birləşdirə bilərlər."
+        },
+        {
+          "title": "<strong>Hüquqi Sənədlər:</strong>",
+          "desc": "Hüquqşünaslar müqavilə və sənədləri bir faylda cəmləyirlər."
+        },
+        {
+          "title": "<strong>Marketinq Materialları:</strong>",
+          "desc": "Şəkil və mətn fayllarını birləşdirərək broşura yaradın."
+        },
+        {
+          "title": "<strong>Şəxsi İstifadə:</strong>",
+          "desc": "Skan edilmiş sənədləri, qəbzləri və şəkilləri arxivləşdirmək və paylaşmaq üçün birləşdirin."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "gabungPDF.id-in Digər Alətlərlə Müqayisəsi",
+      "intro": "gabungPDF.id PDF fayllarını birləşdirmək üçün əla seçimdir. Amma digər alətlər də mövcuddur. Budur müqayisə:",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Pulsuzdur, qeydiyyat tələb etmir, fayllar birləşdirildikdən sonra silinir və bir çox formatı dəstəkləyir."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Pulsuz onlayn birləşdirmə təklif edir, lakin əlavə funksiyalar üçün giriş tələb olunur."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Sıxılma və çevirmə kimi əlavə xüsusiyyətlər təklif edir, lakin premium abunə tələb edə bilər."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Böyük və mürəkkəb faylları dəstəkləyir, lakin pulsuz versiyada məhdudiyyətlər ola bilər."
+        }
+      ]
+    },
+    "tips": {
+      "title": "PDF Birləşdirmə Təcrübəsini Təkmilləşdirmək Üçün Məsləhətlər",
+      "items": [
+        {
+          "title": "<strong>Fayl Uyğunluğunu Yoxlayın:</strong>",
+          "desc": "Yükləməzdən əvvəl faylların PDF və ya dəstəklənən formatlarda olduğuna əmin olun."
+        },
+        {
+          "title": "<strong>Fayllarınızı Ön Baxışdan Keçirin:</strong>",
+          "desc": "Birləşdirmədən əvvəl məzmun və sıra düzgünlüyünü yoxlayın."
+        },
+        {
+          "title": "<strong>Təhlükəsiz Platformalardan İstifadə Edin:</strong>",
+          "desc": "gabungPDF.id kimi faylları emaldan sonra avtomatik silən etibarlı alətləri seçin."
+        },
+        {
+          "title": "<strong>Nəticəni Test Edin:</strong>",
+          "desc": "PDF faylını açaraq düzgün tərtibat və məzmunu yoxlayın."
+        }
+      ]
+    },
+    "ConclusionH1": "Nəticə",
+    "conclusion": "PDF fayllarını birləşdirmək sənədlərin idarə edilməsini asanlaşdıran sadə, lakin güclü bir üsuldur. gabungPDF.id kimi alətlər ilə PDF fayllarını onlayn, pulsuz və təhlükəsiz şəkildə <strong>birləşdirmək</strong> çox asandır. SEO məsləhətlərimizdən istifadə edərək PDF-lərinizin daha geniş auditoriyaya çatmasına kömək edə bilərsiniz. İndi gabungPDF.id-i istifadə etməyə başlayın və PDF-ləri saniyələr ərzində <strong>birləşdirməyin</strong> rahatlığını yaşayın!"
+  },
+  "combinePdf": {
+    "title": "PDF Fayllarını Birleştir",
+    "dragDrop": "PDF fayllarını bura sürükleyin və buraxın",
+    "clickBrowse": "və ya baxmaq üçün klikləyin",
+    "selectFiles": "Faylları seçin",
+    "maxSize": "Fayl başına maksimum 50MB",
+    "combineButton": "PDF-ləri Birleştir",
+    "filesCount": "PDF-lər",
+    "S1H1": "PDF Birleştir: PDF Fayllarını Necə Birleştirirsiniz - Pulsuz PDF Birleştirmə Təklifi",
+    "S1P1": "Bu günün rəqəmsal dünyasında PDF (Daşıma Sənəd Forması) sənədlərin paylaşılması və saxlanılması üçün əsas bir format halına gəlmişdir. Microsoft Word və ya Google Docs-da yaradılan ənənəvi DOC fayllarından fərqli olaraq, PDF-lər bütün cihazlar və əməliyyat sistemlərində formatı qoruyur. Bu ümumi uyğunluq, onları peşəkar və şəxsi istifadə üçün ideal edir, istər hesabatları, təqdimatları və ya formaları onlayn paylaşır olun.",
+    "S1P2": "Bununla belə, PDF-lərlə işləmək bəzən çətin ola bilər, xüsusilə də bir neçə PDF faylını birləşdirmək lazım olduqda. Bu bələdçi ilə biz niyə PDF-ləri birləşdirməyin vacib olduğunu, pulsuz olaraq PDF-ləri necə birləşdirəcəyinizi və sənəd idarəetmə prosesinizi sadələşdirməyin faydalarını araşdıracağıq.",
+    "S2H1": "Niyə PDF-lər Unikal və Çoxfunksiyalıdır",
+    "S2P1": "PDF-lər, bir sənədin görünüşünü dəqiq qorumaq üçün hazırlanmışdır, baxış üçün istifadə olunan cihaz və ya proqramdan asılı olmayaraq. DOC fayllarından fərqli olaraq, PDF-lər sistemə xüsusi parametrlərə, məsələn, quraşdırılmış şriftlərə və ya əməliyyat sistemi konfiqurasiyalarına əsaslanmır, əksinə statik şəkillər kimi işləyir. Bu, şriftlərin, dizaynların və qrafiklərin sabit qalmasını təmin edir, onları müqavilələr, rezümelər və ya elektron kitablar kimi peşəkar sənədlər üçün mükəmməl edir.",
+    "S2P2": "Bu sabitlik, PDF-lərin sənədləri internet üzərindən paylaşmaq üçün geniş istifadə edilməsinin səbəbidir. İstər iş təklifini göndərirsiniz, istərsə də mühüm sənədləri arxivləyirsiniz, PDF-lər alıcının sənədi dəqiq şəkildə görməsini təmin edir. Lakin bu xüsusiyyət, PDF-ləri redaktə etmək və ya birləşdirmək məsələsində, DOC faylları ilə işləməkdən daha mürəkkəb ola bilər. Xüsusi proqram olmadan səhifə əlavə etmək və ya bir neçə PDF faylını birləşdirmək çətin ola bilər. Xoşbəxtlikdən, bizim pulsuz onlayn alətimiz prosesi sadələşdirir və əlavə proqram təminatına ehtiyac olmadan PDF-ləri asanlıqla birləşdirməyinizə imkan verir.",
+    "combine_pdf_files": {
+      "intro": "Niyə PDF Fayllarını Birləşdirməliyik?",
+      "para": "PDF fayllarını birləşdirmək, peşəkarlar, tələbələr və bir çox sənəd idarə edən hər kəs üçün ümumi bir ehtiyacdır. Budur, PDF-ləri birləşdirməyin faydalı olduğu bəzi vəziyyətlər:",
+      "items": [
+        {
+          "title": "Kompleks Hesabatlar Yaratmaq:",
+          "desc": "Əgər bir neçə PDF hesabatı və ya fəsli varsa, onları birləşdirərək paylaşmaq və nəzərdən keçirmək daha asan olur."
+        },
+        {
+          "title": "Skanyalanmış Sənədləri Arxivləşdirmək:",
+          "desc": "Skanyalanmış PDF-lər, məsələn, qəbzlər və ya formalar, çox vaxt birləşdirilərək bir sənəddə saxlanmalıdır."
+        },
+        {
+          "title": "Təqdimatları Sadələşdirmək:",
+          "desc": "Fərqli PDF-lərdən olan slaydlara və ya bölmələrə birləşdirərək təqdimatınızı daha aydın və peşəkar edirsiniz."
+        },
+        {
+          "title": "Fayl Paylaşımını Sadələşdirmək:",
+          "desc": "Bir neçə fayl göndərmək əvəzinə, PDF-ləri bir sənəddə birləşdirmək qarışıqlığı azaldır və bütün məlumatların bir yerdə, asanlıqla əldə edilə bilən şəkildə olmasını təmin edir."
+        }
+      ],
+      "para2": "DOC fayllarından fərqli olaraq, burada mətnləri kopyalayıb yapışdırmaq sadədir, PDF-lər isə birləşdirmək və ya redaktə etmək üçün xüsusi alətlər tələb edir. Məsələn, bir skanyalanmış PDF-dən mətn kopyalamaq adətən mümkün deyil, bunun üçün optik xarakter tanıma (OCR) proqramına ehtiyac var. Bizim pulsuz PDF birləşdiricimiz bu çətinlikləri aradan qaldırır və sizə 20 PDF faylını bir anda birləşdirməyə imkan verir, bunun üçün baha proqramlar və ya texniki biliklər lazım deyil."
+    },
+    "stepbystep": {
+      "intro": "PDF Fayllarını Pulsuz Birləşdirmək: Addım-addım Təlimat",
+      "para": "Bizim istifadəçi dostu onlayn alətimiz PDF fayllarını sürətlə və səmərəli şəkildə birləşdirməyə imkan verir. İki faylı və ya 20 faylı birləşdirirsinizsə, proses sadədir və heç bir proqram quraşdırılması və ya abunəlik tələb etmir. PDF-ləri asanlıqla birləşdirmək üçün bu addımları izləyin:",
+      "items": [
+        {
+          "title": "Addım 1: PDF Fayllarınızı Yükləyin",
+          "desc": "Başlamaq üçün, alətimizin interfeysindəki 'FAYLLARI YÜKLƏ' düyməsini tapın. Bunun üzərinə klikləyərək cihazınızdan PDF fayllarını seçin. Alternativ olaraq, PDF fayllarınızı asanlıqla 'Fayllarınızı Buraya Sürükleyin' adlı sahəyə sürükləyib buraxa bilərsiniz. Bu xüsusiyyət bir neçə faylla işləyərkən vaxtınıza qənaət etməyə və prosesi sadələşdirməyə kömək edir."
+        },
+        {
+          "title": "Addım 2: PDF-lərinizi Düzenləyin",
+          "desc": "Fayllarınız yükləndikdən sonra alətimiz onları bir siyahıda göstərəcək. Bu siyahıdakı faylların sırası son birləşdirilmiş PDF-nin strukturunu müəyyən edir. Siyahıdakı ilk PDF sənədin üst hissəsində görünəcək, ikinci PDF isə ondan sonra gələcək və s. Doğru sıralamadan əmin olmaq üçün faylları asanlıqla sürükləyib buraxaraq yenidən sıralaya bilərsiniz."
+        },
+        {
+          "title": "Addım 3: Birleştir və Yüklə",
+          "desc": "Sıralamanızdan razı olduqda, 'BİRLEŞDİR' düyməsini klikləyin. Sistəmimiz dərhal yüklədiyiniz bütün PDF-ləri bir faylda birləşdirəcək. Proses tamamlandıqdan sonra birləşdirilmiş PDF avtomatik olaraq cihazınıza yüklənməyə başlayacaq. Bütün proses sürətli, təhlükəsizdir və əlavə proqram təminatı tələb etmir."
+        }
+      ],
+      "intro2": "Daha çox PDF Birləşdirmək",
+      "para2": "Daha çox PDF birləşdirmək lazımdır? Problem deyil! Bizim alətimiz əlavə faylları bir neçə dəfəyə birləşdirməyə imkan verir. İlk birləşdirdiyiniz faylı yüklədikdən sonra, bu faylı və əlavə PDF fayllarını yükləyin. 'BİRLEŞDİR' düyməsini yenidən klikləyərək daha böyük bir sənəd yaradın. Bu prosesi istədiyiniz qədər təkrarlaya bilərsiniz.",
+      "intro3": "Əhəmiyyətli Qeyd: Bir Saat İçində Yükləyin",
+      "para3": "Sahih bir təcrübə təmin etmək üçün birləşdirilmiş PDF-nizi bir saat ərzində yüklədiyinizdən əmin olun. Əks halda, sistem faylları siləcək və təkrarlamaq üçün yenidən yükləməyiniz lazım olacaq. Bu xüsusiyyət təhlükəsizliyi təmin edir və digər istifadəçilər üçün server yerini boşaldır."
+    },
+    "benefits": {
+      "intro": "Pulsuz PDF Birləşdiricimizdən istifadə etmənin faydaları",
+      "para": "Bizim alət sadəlik, əlçatanlıq və səmərəlilik nəzərə alınaraq hazırlanıb. Niyə PDF-ləri birləşdirmək üçün ən yaxşı seçimdir:",
+      "items": [
+        {
+          "title": "Proqram Quraşdırılmasına Ehtiyac yoxdur:",
+          "desc": "Ənənəvi PDF redaktorlarından fərqli olaraq, alətimiz tamamilə veb əsaslıdır, buna görə onu internetə qoşulmuş hər hansı bir cihazdan istifadə edə bilərsiniz."
+        },
+        {
+          "title": "Pulsuz və Limitsiz İstifadə:",
+          "desc": "Bir anda 20 PDF faylını birləşdirə bilərsiniz, heç bir xərc və ya abunəlik tələb olunmur. Daha böyük layihələr üçün, yuxarıda izah edildiyi kimi, bir neçə dəstə fayl birləşdirə bilərsiniz."
+        },
+        {
+          "title": "İstifadəçi Dostu İnterfeys:",
+          "desc": "Sürükləyib buraxma funksionallığı və intuitiv dizayn həm başlanğıc, həm də peşəkar istifadəçilər üçün idealdır."
+        },
+        {
+          "title": "Sürətli Prosesləşdirmə:",
+          "desc": "Bizim alət PDF-ləri saniyələr ərzində birləşdirir, sizə vaxt və zəhmət qənaəti təmin edir."
+        },
+        {
+          "title": "Təhlükəsiz və Etibarlıdır:",
+          "desc": "Fayllarınız təhlükəsiz şəkildə işlənir və bir saat sonra serverlərimizdən silinir, beləliklə məlumatlarınızın gizliliyi qorunur."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Nə zaman PDF-ləri birləşdirməlisiniz?",
+      "para": "PDF fayllarını birləşdirmək müxtəlif vəziyyətlərdə qiymətli bir bacarıqdır. Budur bəzi ümumi istifadə hallarınız:",
+      "items": [
+        {
+          "title": "Biznes Peşəkarları:",
+          "desc": "Faturaları, müqavilələri və ya təklifləri birləşdirərək müştəriləriniz və ya iş yoldaşlarınızla asanlıqla paylaşın."
+        },
+        {
+          "title": "Tələbələr və Təlimçilər:",
+          "desc": "Məqalə qeydiyatları, tədqiqat kağızları və ya tapşırıqları birləşdirərək təqdim etmək və ya öyrənmək üçün birləşdirin."
+        },
+        {
+          "title": "Hüquqi və İdarəetmə Tapşırıqları:",
+          "desc": "Skanyalanmış sənədləri, məsələn müqavilələr və ya formaları bir PDF-də təşkil edin və ya hüquqi məqsədlərlə saxlayın."
+        },
+        {
+          "title": "Yaradıcılıq Layihələri:",
+          "desc": "Dizayn eskizləri, portfellər və ya storyboard-ları birləşdirərək təqdimatlar və ya müştəri rəyini almaq üçün bir sənəd yaradın."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "PDF-lərlə işləmək üçün məsləhətlər",
+      "para": "PDF birləşdirmə təcrübənizdən maksimum istifadə etmək üçün əlavə məsləhətlər:",
+      "items": [
+        {
+          "title": "Fayl sırasını yoxlayın:",
+          "desc": "Fayllarınızı birləşdirmədən əvvəl sıralamanı iki dəfə yoxlayın ki, sonradan səhifələri yenidən düzəltməyəsiniz."
+        },
+        {
+          "title": "Fayl ölçüsünü optimallaşdırın:",
+          "desc": "Əgər PDF-lərinizdə böyük şəkillər və ya qrafiklər varsa, yükləmədən əvvəl onları sıxışdırın ki, son faylın ölçüsü kiçik olsun."
+        },
+        {
+          "title": "Aydın fayl adları istifadə edin:",
+          "desc": "PDF fayllarınızı aydın və təsviri adlarla yenidən adlandırın (məsələn, Report_Section1.pdf), beləliklə birləşdirmə prosesində nizamlı qalın."
+        },
+        {
+          "title": "Əsas faylların yedəklərini saxlayın:",
+          "desc": "Orijinal PDF-lərinizi saxlayın ki, gələcəkdə dəyişiklik etməli olsanız və ya yenidən birləşdirmək istəsəniz."
+        },
+        {
+          "title": "Əlavə alətləri araşdırın:",
+          "desc": "Əgər PDF-ləri redaktə etmək, çevirmək və ya sıxışdırmaq istəyirsinizsə, sənəd idarəetmə üçün platformamızdakı digər pulsuz alətləri yoxlayın."
+        }
+      ]
+    },
+    "why_choose": "Niyə bizim alətimizi ödənilmiş alternativlərdən üstün tutmalısınız?",
+    "why_choose_para": "Ödənilmiş PDF redaktorları, məsələn, Adobe Acrobat daha inkişaf etmiş xüsusiyyətlər təqdim etsə də, bizim pulsuz alətimiz çox istifadəçi üçün sərfəli bir həll təklif edir. PDF fayllarını birləşdirmək üçün baha proqramlar və ya abunəliklərə ehtiyac yoxdur. Gabung PDF.id kiçik biznes sahiblərindən tələbələrə qədər hər kəs üçün əlçatandır və mürəkkəblik olmadan peşəkar nəticələr təqdim edir.",
+    "why_choose_para2": "Bundan əlavə, platformamız sürət və rahatlıq üçün optimallaşdırılmışdır. İstər masaüstü kompüterdə, istərsə də tablet və ya smartfondan istifadə edirsinizsə, PDF fayllarını hər yerdə və uyğunluq problemləri olmadan birləşdirə bilərsiniz. Bu elastiklik bizim alətimizi sürətli, etibarlı nəticələr əldə etmək istəyən istifadəçilər üçün ideal edir.",
+    "conclusion": "Nəticə",
+    "conclusion_para": "PDF sənədlərini birləşdirmək mürəkkəb və ya baha başa gəlməməlidir. Bizim pulsuz, veb əsaslı PDF birləşdiricimizlə bir anda 20 PDF faylını birləşdirə, asanlıqla yenidən sıralaya və saniyələr içində vahid sənəd əldə edə bilərsiniz. İstər hesabatları təşkil edirsiniz, istərsə də skanyalanmış sənədləri arxivləyirsiniz və ya təqdimat hazırlayırsınız, alətimiz prosesi sadələşdirir və əlavə proqramlara və texniki bacarıqlara ehtiyac olmadan işi tamamlayır."
+  },
+  "blog": {
+    "title": "PDF Məsləhətləri, Dərsliklər və Bələdçilər",
+    "description": "PDF idarəsini mütəxəssis bələdçiləri, praktik məsləhətlər və addım-addım təlimatlarla öyrənin.",
+    "searchPlaceholder": "Məqalələr, dərsliklər və bələdçilərdə axtarın...",
+    "articles": "Məqalələr",
+    "readers": "Oxucular",
+    "available": "Əlçatandır",
+    "featuredArticle": "Seçilmiş Məqalə",
+    "mostPopular": "Bu Həftənin Ən Populyar",
+    "readArticle": "Məqaləni Oxuyun",
+    "readFull": "Tam Məqaləni Oxuyun",
+    "minRead": "dəq oxuma",
+    "featureblog": {
+      "title": "Həftənin Ən Populyar Məqaləsi",
+      "subtitle": "⭐ Seçilmiş Məqalə",
+      "featuredArticle": {
+        "date": "2 İyul, 2025",
+        "author": "Admin İstifadəçi",
+        "category": "Seçilmiş Məqalə",
+        "headline": "GabungPDF.id: PDF Fayllarını Birləşdirməyin Ən Asan Yolu",
+        "excerpt": "PDF fayllarını asanlıqla birləşdirin GabungPDF.id ilə — pulsuz onlayn PDF birləşdirici. Heç bir proqram təminatına ehtiyac yoxdur, saniyələr içində təhlükəsiz birləşdirin. İndi məhsuldarlığınızı artırın!",
+        "readTime": "3 dəqiqə oxuma",
+        "buttonName": "Tam Məqaləni Oxu"
+      }
+    },
+    "blogsPage": {
+      "cards": [
+        {
+          "BlogImage": "/Blog1Image.webp",
+          "date": "2 İyun, 2025",
+          "author": "Admin İstifadəçi",
+          "category": null,
+          "headline": "GabungPDF.id: PDF Fayllarını Birləşdirmək üçün Ən Yaxşı Alət",
+          "headlineLink": "/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "excerpt": "GabungPDF.id ilə PDF fayllarını asanlıqla birləşdirin, sizin pulsuz onlayn PDF birləşdiriciniz. Saniyələr içində təhlükəsiz birləşdirin—heç bir proqram təminatına ehtiyac yoxdur. İndi sınayın.",
+          "readTime": "3 dəqiqə oxuma",
+          "readMoreText": "blog.tamOxu",
+          "slug": "gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "detail": {
+            "intro": "GabungPDF.id-də biz istifadəçi dostu, veb əsaslı bir alət yaratmışıq ki, PDF fayllarınızı heç bir çətinlik çəkmədən birləşdirə biləsiniz. İstər texniki biliklərə sahib olun, istərsə də yeni başlayan, platformamız hər kəs üçün nəzərdə tutulub. GabungPDF.id-in ən yaxşı PDF birləşdirici kimi seçilməsinin səbəbləri bunlardır:",
+            "features": [
+              {
+                "title": "Pulsuz və əlçatan",
+                "description": "Abunəlik və ya gizli ödəniş yoxdur—yalnız yüklə və birləşdir."
+              },
+              {
+                "title": "Proqram təminatına ehtiyac yoxdur",
+                "description": "Alətimiz tamamilə onlayndır, cihazınızda yer tutmur."
+              },
+              {
+                "title": "Sürətli və təhlükəsiz",
+                "description": "PDF fayllarınızı saniyələr içində birləşdirin, fayllarınızın təhlükəsizliyi təmin edilir."
+              },
+              {
+                "title": "İstifadəçi dostu interfeys",
+                "description": "Sadəcə sürüklə, burax və bir neçə kliklə birləşdir."
+              }
+            ],
+            "intro2": "Sənədlərinizi idarə etməyi asanlaşdırmağa hazırsınız? PDF fayllarını necə birləşdirəcəyimizi addım-addım izah edirik.",
+            "how_to_use": {
+              "title": "GabungPDF.id ilə PDF Fayllarını Necə Birləşdirmək Olar",
+              "paragraph": "GabungPDF.id ilə PDF fayllarını birləşdirmək olduqca sadədir. Aşağıdakı addımları izləyin və bir sənəd əldə edin:",
+              "steps": [
+                {
+                  "title": "Fayllarınızı Yükləyin",
+                  "description": "https://gabungpdf.id/ saytına daxil olun və “Yüklə” düyməsinə klikləyin. Birləşdirmək istədiyiniz PDF fayllarını cihazınızdan seçin. Birdən çox fayl yükləyə bilərsiniz."
+                },
+                {
+                  "title": "Sıralamanı Tənzimləyin",
+                  "description": "Fayllarınızın ardıcıllığını sürüklə-burax üsulu ilə düzəldin. Bu, yekun sənədin məntiqli şəkildə düzülməsinə kömək edəcək."
+                },
+                {
+                  "title": "Birləşdir və Yüklə",
+                  "description": "“PDF Birləşdir” düyməsinə klikləyin və alətimiz fayllarınızı bir sənədə birləşdirəcək. Birləşdirmə tamamlandıqdan sonra PDF-ni dərhal yükləyin."
+                }
+              ],
+              "note": "Bu qədər sadədir! İstər iki fayl, istərsə də iyirmi fayl birləşdirin, GabungPDF.id bunu asanlıqla yerinə yetirir."
+            },
+            "benefits": {
+              "title": "Onlayn PDF Birləşdiricinin Üstünlükləri",
+              "paragraph": "Onlayn PDF birləşdiricisi GabungPDF.id ənənəvi proqram təminatı və ya əl üsullarından daha üstün bir neçə imkana malikdir:",
+              "items": [
+                {
+                  "title": "Vaxta Qənaət Edir",
+                  "description": "Ənənəvi masaüstü proqramları ilə PDF-ləri birləşdirmək vaxt aparır və əlavə xərclər tələb edir. GabungPDF.id ilə istənilən cihazdan, istənilən vaxt PDF fayllarını saniyələr içində birləşdirə bilərsiniz."
+                },
+                {
+                  "title": "Təhlükəsiz Fayl İdarəetməsi",
+                  "description": "Məxfiliyinizi qorumaq bizim üçün prioritetdir. Platformamız birləşdirmə zamanı müasir şifrələmə texnologiyasından istifadə edir. Birləşdirdikdən sonra fayllarınız serverimizdən silinir."
+                },
+                {
+                  "title": "Əlverişli Həll",
+                  "description": "Bahalı PDF redaktə proqramlarına niyə pul xərcləyəsiniz? GabungPDF.id tamamilə pulsuzdur və tələbələr, freelancerlər və kiçik bizneslər üçün əla seçimdir."
+                },
+                {
+                  "title": "Platformalar Arası Uyğunluq",
+                  "description": "Windows, macOS, iOS və ya Android fərq etməz—veb əsaslı PDF birləşdiricimiz bütün platformalarda mükəmməl işləyir. Uyğunluq problemi yoxdur."
+                }
+              ]
+            },
+            "optimization_tips": {
+              "title": "Birləşdirilmiş PDF Fayllarını Optimallaşdırmaq üçün Tövsiyələr",
+              "paragraph": "Birləşdirilmiş PDF-lərdən maksimum yararlanmaq üçün bu məsləhətləri nəzərə alın:",
+              "tips": [
+                {
+                  "title": "Fayl Sıralamasını Yoxlayın",
+                  "description": "Birləşdirmədən əvvəl fayllarınızı istədiyiniz ardıcıllıqla düzün ki, prosesi təkrar etməyəsiniz."
+                },
+                {
+                  "title": "Fayl Ölçüsünü Optimallaşdırın",
+                  "description": "PDF-lərinizdə böyük şəkillər varsa, onları yükləmədən əvvəl sıxın ki, yekun fayl ölçüsü daha az olsun."
+                },
+                {
+                  "title": "Fayllarınıza Aydın Ad Verin",
+                  "description": "PDF fayllarınıza izahlı adlar verin ki, gələcəkdə asanlıqla tanıyıb tapa biləsiniz."
+                },
+                {
+                  "title": "Yekun Sənədi İcmal Edin",
+                  "description": "Birləşdirdikdən sonra yekun PDF faylını gözdən keçirin ki, hər şey qaydasındadır."
+                }
+              ],
+              "paragraph2": "GabungPDF.id ilə PDF fayllarınızı əminliklə birləşdirə və sənədlərinizdə səliqə saxlayaraq keyfiyyəti qoruya bilərsiniz."
+            },
+            "audience": {
+              "title": "Kimlər GabungPDF.id-dən İstifadə Edə bilər?",
+              "paragraph": "Bizim PDF birləşdiricimiz müxtəlif istifadəçilər üçün nəzərdə tutulub:",
+              "users": [
+                {
+                  "type": "Tələbələr",
+                  "description": "Mühazirə qeydlərini, tapşırıqları və ya araşdırma sənədlərini bir sənəddə toplayın."
+                },
+                {
+                  "type": "Peşəkarlar",
+                  "description": "Hesabatları, təklifləri və müqavilələri birləşdirib, ünsiyyəti sadələşdirin."
+                },
+                {
+                  "type": "Kiçik Biznes Sahibləri",
+                  "description": "Qaimə-fakturaları, qəbzləri və ya marketinq materiallarını bir sənəddə saxlayın."
+                },
+                {
+                  "type": "Freelancerlər",
+                  "description": "Portfolioları, fakturaları və ya layihə təqdimatlarını bir araya toplayın."
+                }
+              ],
+              "paragraph2": "İhtiyacınız nə olursa olsun, GabungPDF.id PDF sənədlərində sizin etibarlı tərəfdaşınızdır."
+            },
+            "why_choose_us": {
+              "title": "Niyə GabungPDF.id Başqa Birləşdiricilərdən Üstündür?",
+              "paragraph": "Bazarda bir çox alət var, amma GabungPDF.id-nin seçilmə səbəbi bunlardır:",
+              "reasons": [
+                {
+                  "title": "Sürət",
+                  "description": "Heç bir öyrənmə ehtiyacı yoxdur—yalnız yüklə, birləşdir və yüklə."
+                },
+                {
+                  "title": "Etibarlılıq",
+                  "description": "Stabil işləmə, heç bir çöküş və ya səhv yoxdur."
+                },
+                {
+                  "title": "Əlçatanlıq",
+                  "description": "İstənilən vaxt, istənilən yerdən 24/7 istifadəyə hazırdır."
+                }
+              ],
+              "paragraph2": "Çətin proqram təminatlarına və ya etibarsız alətlərə vaxt sərf etməyin. GabungPDF.id-ni bu gün sınayın və PDF fayllarını birləşdirməyin ən asan yolunu kəşf edin."
+            },
+            "conclusion": {
+              "title": "Nəticə: GabungPDF.id ilə İşinizi Asanlaşdırın",
+              "paragraph": "PDF fayllarını birləşdirmək çətin olmamalıdır. GabungPDF.id ilə sənədlərinizi tez, rahat və təhlükəsiz birləşdirə bilərsiniz. Pulsuz, təhlükəsiz və istifadəçi dostu PDF birləşdiricimiz sənədlərlə işinizi asanlaşdıracaq. İstər hesabat, qeydlər, istərsə də müqavilələr birləşdirirsiniz, alətimiz həmişə peşəkar nəticə verir. Başlamağa hazırsınız?",
+              "cta": {
+                "text": "gabungpdf.id/combine-pdf saytına daxil olun",
+                "link": "https://gabungpdf.id/combine-pdf"
+              },
+              "Remaingparagraph": "İndi daxil olun və PDF fayllarınızı cəmi bir neçə kliklə birləşdirin. GabungPDF.id ilə sənəd idarəçiliyini bu gün sadələşdirin—Sizin üçün ideal PDF birləşdirici!"
+            }
+          }
+        },
+        {
+          "BlogImage": "/FeatureBlogImage.webp",
+          "date": "2 İyul 2025",
+          "author": "Admin İstifadəçi",
+          "category": "Seçilmiş Məqalə",
+          "headline": "GabungPDF.id: PDF Fayllarını Birləşdirməyin Ən Asan Yolu",
+          "excerpt": "GabungPDF.id ilə PDF fayllarını asanlıqla birləşdirin, tamamilə pulsuz onlayn PDF birləşdirici. Fayllarınızı saniyələr ərzində təhlükəsiz şəkildə birləşdirin, proqram təminatı tələb olunmur. İndi məhsuldarlığınızı artırın!",
+          "readTime": "3 dəqiqə oxu",
+          "buttonName": "Tam Məqaləni Oxu",
+          "slug": "gabungpdfid-the-easiest-way-to-combine-pdf-files",
+          "detail": {
+            "intro": "Zamanın pul olduğu bir dünyada sənədləri səmərəli idarə etmək böyük fərq yaradır. İstər bir neçə hesabatla, istər müştəri müqavilələri ilə, istərsə də layihə sənədləri ilə məşğul olasınız, etibarlı PDF birləşdiricisi iş axınınızı dəyişə bilər. GabungPDF.id ilə tanış olun — PDF fayllarını sürətli və problemsiz birləşdirmək üçün yaradılmış pulsuz onlayn vasitə. Bu məqalədə PDF fayllarınızı asanlıqla necə birləşdirəcəyinizi və niyə bunun peşəkarlar, tələbələr və biznes üçün ən yaxşı həll olduğunu izah edəcəyik.",
+            "why_merge_pdf": {
+              "title": "PDF Fayllarını Niyə Birləşdirməli?",
+              "paragraph": "PDF sənədləri peşəkar fayl paylaşımında ən çox istifadə edilən formatdır, lakin bir neçə sənədlə işləmək sizi ləngidə bilər. PDF fayllarını bir sənəddə birləşdirmək vaxta qənaət edir, qarışıqlığı azaldır və təşkilatı yaxşılaşdırır. PDF fayllarını birləşdirmək üçün əsas səbəblər:",
+              "reasons": [
+                {
+                  "title": "Paylaşımı Sadələşdirin",
+                  "description": "Çoxsaylı əlavələr əvəzinə bir sənəd göndərin, əməkdaşlığı asanlaşdırın."
+                },
+                {
+                  "title": "Sənədləri Təşkil Edin",
+                  "description": "Qəbzləri, formaları və ya qeydləri bir yerə toplamaq üçün bir PDF faylında birləşdirin."
+                },
+                {
+                  "title": "Peşəkar Təqdimatlar",
+                  "description": "Slaydları, materialları və qeydləri birləşdirərək peşəkar sənəd yaradın."
+                },
+                {
+                  "title": "Arxivləşdirməni Sadələşdirin",
+                  "description": "Əlaqəli sənədləri toplamaqla saxlanmanı və axtarışı asanlaşdırın."
+                }
+              ],
+              "note": "GabungPDF.id ilə sənədlərinizi bir neçə kliklə birləşdirə bilərsiniz, sənəd idarəsini asanlaşdırır."
+            },
+            "features": {
+              "title": "GabungPDF-i Ən Yaxşı PDF Birləşdiricisi Edən Nədir?",
+              "paragraph": "GabungPDF.id-də biz hər kəs üçün sürətli, pulsuz və əlçatan bir vasitə yaratdıq. İstər masaüstü, istər planşet, istərsə də smartfondan istifadə edin, bizim PDF birləşdiricimiz peşəkar nəticələr təqdim edir. İstifadəçilərimizin GabungPDF.id-ni sevməsinin səbəbləri:",
+              "items": [
+                {
+                  "title": "Tamamilə Pulsuz",
+                  "description": "Abunə yoxdur, gizli xərclər yoxdur — sadəcə birləşdirin və davam edin."
+                },
+                {
+                  "title": "Proqram Lazım Deyil",
+                  "description": "Vasitəmiz tamamilə onlayndır, heç bir yükləmə tələb olunmur."
+                },
+                {
+                  "title": "Təhlükəsiz Emal",
+                  "description": "Fayllarınız şifrələnir və istifadə sonrası silinir."
+                },
+                {
+                  "title": "Sadə İstifadə Dizaynı",
+                  "description": "Sadə interfeys hər kəs üçün PDF birləşdirməni asanlaşdırır."
+                }
+              ],
+              "next": "Məhsuldarlığınızı artırmağa hazırsınız? Gəlin PDF fayllarını necə birləşdirmək olar, birlikdə baxaq."
+            },
+            "how_to_use": {
+              "title": "GabungPDF.id ilə PDF Fayllarını Necə Birləşdirmək Olar",
+              "paragraph": "GabungPDF ilə PDF-ləri birləşdirmək sadədir və heç bir texniki bilik tələb etmir. Aşağıdakı addımları izləyin:",
+              "steps": [
+                {
+                  "title": "PDF Fayllarınızı Yükləyin",
+                  "description": "https://gabungpdf.id/ ünvanına keçin və birləşdirmək istədiyiniz PDF fayllarını seçin. Eyni anda bir neçə fayl yükləyə bilərsiniz."
+                },
+                {
+                  "title": "İstədiyiniz Kimi Təşkil Edin",
+                  "description": "Fayllarınızı istədiyiniz sıraya düzəltmək üçün sürüklə-burax xüsusiyyətindən istifadə edin."
+                },
+                {
+                  "title": "Birləşdir və Yüklə",
+                  "description": "“PDF Birləşdir” düyməsinə klikləyin və vasitəmiz fayllarınızı bir sənəddə birləşdirəcək. İndi birləşdirilmiş PDF-inizi yükləyin."
+                }
+              ],
+              "note": "Bu qədər sadə! İki fayl və ya bir neçə onlarla olsa belə, GabungPDF.id rahat və asan təcrübə təqdim edir."
+            },
+            "top_benefits": {
+              "title": "GabungPDF.id-dən İstifadənin Əsas Üstünlükləri",
+              "paragraph": "GabungPDF.id kimi onlayn PDF birləşdiricisi seçmək bənzərsiz rahatlıq və səmərəlilik təqdim edir. Vasitəmizin fərqləndiyi məqamlar:",
+              "items": [
+                {
+                  "title": "Vaxta və Əməəyə Qənaət",
+                  "description": "Əl ilə və ya çətin proqramlarla PDF-ləri birləşdirmək yorucudur. GabungPDF.id saniyələr ərzində birləşdirməyə imkan verir, sizə daha vacib işlər üçün vaxt qalır."
+                },
+                {
+                  "title": "Artırılmış Təhlükəsizlik",
+                  "description": "Gizliliyinizi qoruyuruq. Platformamız fayllarınızı birləşdirərkən təhlükəsiz şifrələmə istifadə edir və işiniz bitdikdən sonra onları serverlərimizdən silirik."
+                },
+                {
+                  "title": "Büdcəyə Uyğun",
+                  "description": "Bahalı PDF proqramlarına ehtiyac yoxdur. GabungPDF.id 100% pulsuzdur və tələbələr, freelancerlər və kiçik bizneslər üçün idealdır."
+                },
+                {
+                  "title": "Ümumi Əlçatanlıq",
+                  "description": "Hər hansı brauzer olan cihazda işləyir — Windows, macOS, iOS və ya Android. Harada olursunuz olun, PDF-ləri birləşdirin."
+                }
+              ]
+            },
+            "audience": {
+              "title": "GabungPDF.id Kimlər Üçündür?",
+              "paragraph": "Bizim PDF birləşdiricimiz geniş istifadəçi auditoriyası üçün yararlıdır:",
+              "users": [
+                {
+                  "type": "Tələbələr",
+                  "description": "Dərs vəsaitlərini, esse və ya tədqiqat işlərini bir faylda birləşdirin, asan təqdim edin."
+                },
+                {
+                  "type": "Biznes Peşəkarları",
+                  "description": "Müqavilələri, təklifləri və hesabatları rahat müştəri əlaqəsi üçün birləşdirin."
+                },
+                {
+                  "type": "Freelancerlər",
+                  "description": "Peşəkar portfoliolar və ya hesab-fakturaları birləşdirin, müştərilərə təqdim edin."
+                },
+                {
+                  "type": "Kiçik Bizneslər",
+                  "description": "Qəbzləri, marketinq materiallarını və ya hüquqi sənədləri tək bir PDF-də toplayın."
+                }
+              ],
+              "note": "İstənilən rolda olsanız da, GabungPDF.id sənəd idarəsini asanlaşdırır."
+            },
+            "pro_tips": {
+              "title": "Peşəkar Kimi PDF Birləşdirmə Üçün İpuçları",
+              "paragraph": "PDF birləşdiricinizdən maksimum istifadə üçün bu məsləhətləri yadda saxlayın:",
+              "tips": [
+                {
+                  "title": "Sənəd Sırasını Planlaşdırın",
+                  "description": "PDF fayllarını məntiqli qaydada əvvəlcədən sıralayın, vaxta qənaət edin."
+                },
+                {
+                  "title": "Böyük Faylları Sıxın",
+                  "description": "Böyük faylları daha sürətli işlənməsi üçün yükləməzdən əvvəl sıxın."
+                },
+                {
+                  "title": "Çıxış Faylını İki Dəfə Yoxlayın",
+                  "description": "Birləşdirilmiş PDF-i əvvəlcədən baxışla yoxlayın ki, nəticə ehtiyaclarınıza uyğun olsun."
+                },
+                {
+                  "title": "GabungPDF.id-i Əlavə Edin",
+                  "description": "Saytımızı yadda saxlayın ki, PDF birləşdirməyə hər zaman asan çatasınız."
+                }
+              ]
+            },
+            "why_stand_out": {
+              "title": "GabungPDF.id Niyə Digər PDF Birləşdiricilərindən Fərqlənir?",
+              "paragraph": "Onlarla PDF birləşdirici mövcuddur, lakin GabungPDF.id sadəliyi, sürəti və etibarlılığı ilə seçilir. Digər vasitələrdən fərqli olaraq qeydiyyat və ya yükləmə tələb etmir. Üstəlik, təhlükəsizlik öhdəliyimiz fayllarınızın daim qorunduğuna zəmanət verir. Dağınıq PDF faylları sizi ləngitməsin. İndi https://gabungpdf.id/ ziyarət edin və PDF birləşdirməyin ən asan yolunu kəşf edin."
+            },
+            "conclusion": {
+              "title": "Nəticə: GabungPDF.id ilə Sənədlərinizi Sadələşdirin",
+              "paragraph": "Bir neçə PDF-lə işləmək mütləq çətin olmamalıdır. GabungPDF.id ilə sənədlərinizi tez, təhlükəsiz və pulsuz birləşdirin. İstifadəçi dostu PDF birləşdiricimiz tələbələr, peşəkarlar və biznes sahibləri üçün məhsuldarlığı artırmaq üçün nəzərdə tutulub. Sənəd xaosuna əlvida deyin, peşəkar təşkil olunmuş PDF-lərə salam deyin. İndi gabungpdf.id/combine-pdf saytına daxil olun və PDF fayllarını birləşdirməyin ən sürətli yolunu yaşayın. İş axınınızı bu gün sadələşdirin!"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "Birdən çox PDF faylını bir sənəddə birləşdirməyin ən asan yolu. Sürətli, təhlükəsiz və istifadəsi tamamilə pulsuzdur.",
+    "contact": "Bizimlə əlaqə saxlayın:",
+    "quickLinks": "Sürətli bağlantılar",
+    "privacyPolicy": "Məxfilik Siyasəti",
+    "termsOfService": "Xidmət Şərtləri",
+    "allRights": "Bütün hüquqlar qorunur"
+  },
+  "privacy": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Mündəricat",
+        "items": [
+          {
+            "icon": "👁️",
+            "label": "Ümumi Baxış",
+            "target": "Overview"
+          },
+          {
+            "icon": "📊",
+            "label": "Topladığımız Məlumatlar",
+            "target": "information-collection"
+          },
+          {
+            "icon": "🔧",
+            "label": "Məlumatlarınızdan Necə İstifadə Edirik",
+            "target": "how-we-use"
+          },
+          {
+            "icon": "🗄️",
+            "label": "Məlumatların Saxlanması və Silinməsi",
+            "target": "data-retention"
+          },
+          {
+            "icon": "🤝",
+            "label": "Məlumatların Paylaşılması",
+            "target": "data-sharing"
+          },
+          {
+            "icon": "🔒",
+            "label": "Məlumatların Təhlükəsizliyi",
+            "target": "data-security"
+          },
+          {
+            "icon": "🌍",
+            "label": "Beynəlxalq Məlumat Transferləri",
+            "target": "international-transfers"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Sizin Hüquqlarınız",
+            "target": "your-rights"
+          },
+          {
+            "icon": "🔗",
+            "label": "Üçüncü Tərəf Linkləri",
+            "target": "third-party-links"
+          },
+          {
+            "icon": "👶",
+            "label": "Uşaqların Məxfiliyi",
+            "target": "children"
+          },
+          {
+            "icon": "🔄",
+            "label": "Bu Siyasətdə Dəyişikliklər",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Bizimlə Əlaqə",
+            "target": "contact"
+          }
+        ]
+      },
+      "privacySummary": {
+        "title": "Məxfilik Xülasəsi",
+        "points": [
+          "Fayllar 1 saat ərzində silinir",
+          "Sənədlərinizi saxlamırıq",
+          "Minimum məlumat yığımı",
+          "Sonadək şifrələmə"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "Overview",
+        "icon": "👁️",
+        "title": "Ümumi Baxış",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "www.gabungpdf.id (“Sayt”) Gabung PDF tərəfindən idarə olunur (“biz”, “bizim” və ya “bizə”). Biz məxfiliyinizi qorumağa sadiqik. Bu Məxfilik Siyasəti sizin məlumatlarınızı necə topladığımızı, istifadə etdiyimizi və qoruduğumuzu izah edir. Saytdan istifadə etməklə bu siyasətlə razılaşırsınız."
+          },
+          {
+            "type": "highlight",
+            "title": "Əsas Prinsipimiz:",
+            "text": "Fayllarınızı yalnız xidmət təqdim etmək üçün emal edirik və 1 saat ərzində avtomatik olaraq silirik. Fayllarınızın məzmununa baxmırıq, onları yoxlamırıq və saxlamırıq."
+          }
+        ]
+      },
+      {
+        "id": "information-collection",
+        "icon": "📊",
+        "title": "Topladığımız Məlumatlar",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "İstifadəçi Yüklənmiş Fayllar",
+            "text": "Xidmətimizdən istifadə etdikdə PDF fayllarını birləşdirmək üçün yükləyirsiniz. Bu fayllarda şəxsi məlumat ola bilər, lakin biz onları yalnız müvəqqəti emal müddətində saxlayırıq və istifadə etmirik."
+          },
+          {
+            "type": "subsection",
+            "title": "Avtomatik Toplanan Məlumatlar",
+            "text": "Şəxsi olmayan məlumatları toplaya bilərik, məsələn:",
+            "list": [
+              "Cihaz məlumatları (məsələn, brauzer növü, əməliyyat sistemi, IP ünvanı)",
+              "İstifadə məlumatları (məsələn, baxılan səhifələr, Saytda keçirilən vaxt, xidmətlə qarşılıqlı əlaqə)"
+            ]
+          },
+          {
+            "type": "subsection",
+            "title": "Çərəzlər və İzləmə",
+            "text": "Təcrübənizi yaxşılaşdırmaq və sayt istifadəsini təhlil etmək üçün çərəzlər və oxşar texnologiyalardan istifadə edə bilərik. Çərəz seçimlərinizi brauzerinizin parametrləri vasitəsilə idarə edə bilərsiniz."
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "icon": "🔧",
+        "title": "Məlumatlarınızdan Necə İstifadə Edirik",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Xidmətin Təqdimatı",
+            "text": "Yüklədiyiniz PDF fayllarını yalnız bir PDF-ə birləşdirib yükləmə linki təqdim etmək üçün emal edirik."
+          },
+          {
+            "type": "subsection",
+            "title": "Saytın Təkmilləşdirilməsi",
+            "text": "Şəxsi olmayan məlumatlardan (məsələn, istifadə statistikası) saytın funksionallığını və performansını təhlil və yaxşılaşdırmaq üçün istifadə edirik."
+          },
+          {
+            "type": "subsection",
+            "title": "Qanunvericiliyə Uyğunluq",
+            "text": "Qanun tələb edərsə və ya hüquqlarımızı, təhlükəsizliyimizi və ya mülkiyyətimizi qorumaq məqsədilə məlumatdan istifadə edə və ya açıqlaya bilərik."
+          }
+        ]
+      },
+      {
+        "id": "data-retention",
+        "icon": "🗄️",
+        "title": "Məlumatların Saxlanması və Silinməsi",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Yüklənmiş Fayllar",
+            "text": "Yüklənmiş PDF fayllarınız və nəticə PDF-i emaldan sonra 1 (bir) saat ərzində serverlərimizdən avtomatik olaraq silinir. Fayllarınızın heç bir nüsxəsini saxlamırıq."
+          },
+          {
+            "type": "subsection",
+            "title": "Digər Məlumatlar",
+            "text": "Şəxsi olmayan məlumatlar (məsələn, istifadə statistikası) saytın təkmilləşdirilməsi və ya hüquqi öhdəliklər üçün lazım olan müddətə saxlanıla bilər."
+          }
+        ]
+      },
+      {
+        "id": "data-sharing",
+        "icon": "🤝",
+        "title": "Məlumatların Paylaşılması",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Üçüncü Tərəflərlə Paylaşılmır",
+            "text": "Yüklədiyiniz faylları və şəxsi məlumatları satmırıq, paylaşmırıq və ötürmürük, yalnız qanun tələb edərsə və ya hüquqlarımızı qorumaq üçün."
+          },
+          {
+            "type": "subsection",
+            "title": "Xidmət Təchizatçıları",
+            "text": "Saytın işləməsi üçün üçüncü tərəf xidmət təchizatçılarından (məsələn, hostinq və ya analitika xidməti) istifadə edə bilərik. Bu təchizatçılar məxfiliyə riayət etməyə borcludurlar və məlumatları yalnız bizim adımızdan emal edirlər."
+          }
+        ]
+      },
+      {
+        "id": "data-security",
+        "icon": "🔒",
+        "title": "Məlumatların Təhlükəsizliyi",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Məlumatlarınızı icazəsiz giriş, itki və ya sui-istifadədən qorumaq üçün texniki və təşkilati tədbirlər tətbiq edirik. Ancaq heç bir onlayn xidmət tam təhlükəsiz deyil, buna görə də tam zəmanət verilə bilməz."
+          }
+        ]
+      },
+      {
+        "id": "international-transfers",
+        "icon": "🌍",
+        "title": "Beynəlxalq Məlumat Transferləri",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Əgər İndoneziyadan kənardasınızsa, məlumatlarınız İndoneziyada və ya serverlərimizin və xidmət təminatçılarımızın yerləşdiyi digər ölkələrdə emal edilə bilər. Biz belə transferlər üçün müvafiq təminatlar tətbiq edirik."
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "icon": "⚖️",
+        "title": "Sizin Hüquqlarınız",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Məkanınıza uyğun olaraq aşağıdakı hüquqlarınız ola bilər:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Məlumatlarınıza daxil olmaq və ya onların silinməsini tələb etmək",
+              "Müəyyən emal növlərinə etiraz etmək və ya məhdudlaşdırmaq"
+            ]
+          },
+          {
+            "type": "highlight",
+            "text": "Bu hüquqlarınızdan istifadə etmək üçün bizimlə admin@gabungpdf.id vasitəsilə əlaqə saxlayın. Nəzərə alın ki, fayllar 1 saat ərzində silindiyi üçün şəxsi məlumat saxlaya bilmərik."
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "icon": "🔗",
+        "title": "Üçüncü Tərəf Linkləri",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Sayt üçüncü tərəf veb-saytlarına keçidlər ehtiva edə bilər. Biz bu saytların məxfilik siyasətinə və ya məzmununa görə məsuliyyət daşımırıq."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "icon": "👶",
+        "title": "Uşaqların Məxfiliyi",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Sayt 18 yaşdan kiçik istifadəçilər üçün nəzərdə tutulmayıb. Uşaqlardan bilərəkdən şəxsi məlumat toplamırıq."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Bu Siyasətdə Dəyişikliklər",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Bu Məxfilik Siyasətini zaman-zaman yeniləyə bilərik. Dəyişikliklər bu səhifədə \"Son Yenilənmə Tarixi\" ilə dərc olunacaq."
+          },
+          {
+            "type": "highlight",
+            "text": "Dəyişikliklərdən sonra Saytdan istifadə etməyə davam etməyiniz yenilənmiş siyasəti qəbul etdiyiniz deməkdir."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Bizimlə Əlaqə",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Bu Məxfilik Siyasəti ilə bağlı suallarınız varsa, bizimlə admin@gabungpdf.id ünvanından əlaqə saxlaya bilərsiniz."
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Məxfilik Öhdəliyimiz",
+      "desc": "Məxfiliyiniz bizim üçün önəmlidir. Xidmətimizin etibarlı olmasının səbəbləri:",
+      "points": [
+        {
+          "title": "Avtomatik Silinmə",
+          "desc": "Fayllar 1 saat ərzində avtomatik olaraq silinir"
+        },
+        {
+          "title": "Şifrələnmiş Transfer",
+          "desc": "Bütün yükləmələr təhlükəsiz HTTPS şifrələməsi ilə həyata keçirilir"
+        },
+        {
+          "title": "Fayllarınıza Baxılmır",
+          "desc": "Fayl məzmununu heç vaxt oxumur və ya daxil olmuruq"
+        },
+        {
+          "title": "Paylaşım Yoxdur",
+          "desc": "Fayllarınız üçüncü tərəflərlə heç vaxt paylaşılmır"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Sualınız var?",
+      "description": "Məxfiliklə bağlı istənilən sual və ya narahatlığa kömək etməyə hazırıq.",
+      "links": [
+        {
+          "label": "Xidmət Şərtləri",
+          "href": "/terms-of-service",
+          "icon": "📄"
+        },
+        {
+          "label": "Komandamızla Əlaqə",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Terms": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Mündəricat",
+        "items": [
+          {
+            "icon": "✅",
+            "label": "Şərtlərin Qəbulu",
+            "target": "acceptance"
+          },
+          {
+            "icon": "🔧",
+            "label": "Saytdan İstifadə",
+            "target": "use-of-site"
+          },
+          {
+            "icon": "📁",
+            "label": "İstifadəçi Faylları",
+            "target": "user-files"
+          },
+          {
+            "icon": "©️",
+            "label": "Əqli Mülkiyyət",
+            "target": "intellectual-property"
+          },
+          {
+            "icon": "⚠️",
+            "label": "Məsuliyyətin Məhdudlaşdırılması",
+            "target": "limitation-liability"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Zərərlərin Ödənilməsi",
+            "target": "indemnification"
+          },
+          {
+            "icon": "🚫",
+            "label": "İstifadənin Dayandırılması",
+            "target": "termination"
+          },
+          {
+            "icon": "🏛️",
+            "label": "Tətbiq Edilən Qanun",
+            "target": "governing-law"
+          },
+          {
+            "icon": "🔄",
+            "label": "Şərtlərdə Dəyişikliklər",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Bizimlə Əlaqə",
+            "target": "contact"
+          }
+        ]
+      },
+      "termsSummary": {
+        "title": "Şərtlərin Xülasəsi",
+        "points": [
+          "Pulsuz PDF birləşdirmə xidməti",
+          "İstifadə üçün 18 yaşdan yuxarı olmalısınız",
+          "Fayllar 1 saat ərzində silinir",
+          "Yalnız qanuni məqsədlər üçün istifadə edin"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "acceptance",
+        "icon": "✅",
+        "title": "Şərtlərin Qəbulu",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "www.gabungpdf.id saytına xoş gəlmisiniz (\"Sayt\"), Gabung PDF tərəfindən təqdim olunur (\"biz\", \"bizim\", \"bizə\"). Bu İstifadə Şərtləri (\"Şərtlər\") sizin Saytdan və PDF birləşdirmə xidmətindən istifadənizi tənzimləyir. Sayta daxil olmaqla və ya istifadə etməklə bu Şərtləri qəbul etmiş sayılırsınız."
+          },
+          {
+            "type": "highlight",
+            "title": "Vacib Razılaşma:",
+            "text": "Əgər bu Şərtlərlə razı deyilsinizsə, xahiş edirik saytdan istifadə etməyin."
+          }
+        ]
+      },
+      {
+        "id": "use-of-site",
+        "icon": "🔧",
+        "title": "Saytdan İstifadə",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Uyğunluq",
+            "text": "Saytdan istifadə etmək üçün ən azı 18 yaşınız olmalı və ya bu Şərtlərə razı olmaq hüququna malik olmalısınız."
+          },
+          {
+            "type": "subsection",
+            "title": "İcazə Verilən İstifadə",
+            "text": "Sayt sizə PDF fayllarını yükləmək, onları birləşdirmək və nəticəni yükləmək imkanı verir. Saytdan yalnız qanuni məqsədlər üçün və bu Şərtlərə uyğun istifadə edə bilərsiniz."
+          },
+          {
+            "type": "subsection",
+            "title": "Qadağan Olunan İstifadə",
+            "text": "Aşağıdakıları etmək qadağandır:",
+            "list": [
+              "Virus, zərərli proqram və ya digər zərərli kod ehtiva edən fayllar yükləmək",
+              "Saytdan qanunları, qaydaları və ya üçüncü tərəfin hüquqlarını pozmaq üçün istifadə etmək",
+              "Saytın funksiyalarına müdaxilə etməyə, onları pozmağa və ya geriyə mühəndislik tətbiq etməyə cəhd göstərmək",
+              "Bizim yazılı icazəmiz olmadan kommersiya məqsədilə istifadə etmək"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "user-files",
+        "icon": "📁",
+        "title": "İstifadəçi Faylları",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Müvəqqəti Emal",
+            "text": "Yüklədiyiniz fayllar PDF birləşdirmə üçün emal olunur və emaldan bir (1) saat sonra serverlərimizdən avtomatik silinir. Biz fayllarınızı bu müddətdən artıq saxlamırıq."
+          },
+          {
+            "type": "subsection",
+            "title": "Sizin Məsuliyyətiniz",
+            "text": "Yüklədiyiniz faylların məzmununa görə tam məsuliyyət daşıyırsınız. Siz bu faylları yükləmək və emal etmək hüququna malik olduğunuzu və üçüncü şəxslərin hüquqlarını (məsələn, müəllif hüquqları, ticarət nişanları) pozmadığınızı təmin etməlisiniz."
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "icon": "©️",
+        "title": "Əqli Mülkiyyət",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Sayt Məzmunu",
+            "text": "Saytdakı bütün məzmun, o cümlədən mətn, qrafika, loqolar və proqram təminatı bizə məxsusdur və əqli mülkiyyət qanunları ilə qorunur."
+          },
+          {
+            "type": "subsection",
+            "title": "İstifadəçi Məzmunu",
+            "text": "Yüklədiyiniz faylların mülkiyyəti sizdə qalır. Faylları yükləməklə, siz bizə yalnız PDF birləşdirmə xidməti təqdim etmək məqsədilə həmin faylları emal etmək üçün məhdud, qeyri-eksklüziv və pulsuz lisenziya verirsiniz."
+          }
+        ]
+      },
+      {
+        "id": "limitation-liability",
+        "icon": "⚠️",
+        "title": "Məsuliyyətin Məhdudlaşdırılması",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Zəmanət yoxdur",
+            "text": "Sayt \"olduğu kimi\" təqdim edilir və heç bir birbaşa və ya dolayı zəmanət verilmədən, o cümlədən müəyyən bir məqsədə uyğunluq və ya pozuntu olmaması təminatı olmadan təqdim olunur."
+          },
+          {
+            "type": "subsection",
+            "title": "Məsuliyyətin Məhdudiyyəti",
+            "text": "Qanunla icazə verilən maksimum dərəcədə biz Saytdan istifadəniz nəticəsində yaranan dolayı, təsadüfi, xüsusi və ya nəticə etibarilə baş verən hər hansı zərərə görə məsuliyyət daşımırıq."
+          },
+          {
+            "type": "subsection",
+            "title": "Xidmətin Kəsilməsi",
+            "text": "Sayta fasiləsiz və ya xətasız girişə zəmanət vermirik və gecikmələr, dayanma və ya məlumat itkisindən məsul deyilik."
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "icon": "⚖️",
+        "title": "Zərərlərin Ödənilməsi",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Saytdan istifadəniz, yüklədiyiniz fayllar və ya bu Şərtlərin pozulması nəticəsində yaranan hər hansı iddia, itki və ya zərərə görə, o cümlədən hüquqi xərclərə görə bizi müdafiə etməyi və zərərsiz saxlamağı qəbul edirsiniz."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "icon": "🚫",
+        "title": "İstifadənin Dayandırılması",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Biz, öz mülahizəmizə əsaslanaraq, xəbərdarlıq etmədən Saytdan girişinizi dayandıra və ya ləğv edə bilərik, əgər bu Şərtləri pozmusunuzsa və ya digər səbəblərə görə."
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "icon": "🏛️",
+        "title": "Tətbiq Edilən Qanun",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Bu Şərtlər İndoneziya qanunlarına tabedir və hüquqi mübahisələr İndoneziya məhkəmələrində həll olunacaq."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Şərtlərdə Dəyişikliklər",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Biz bu Şərtləri zaman-zaman yeniləyə bilərik. Dəyişikliklər bu səhifədə \"Son Yenilənmə\" tarixi ilə dərc ediləcək."
+          },
+          {
+            "type": "highlight",
+            "text": "Dəyişikliklərdən sonra Saytdan istifadəniz yenilənmiş Şərtləri qəbul etdiyiniz deməkdir."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Bizimlə Əlaqə",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Bu Şərtlərlə bağlı suallarınız varsa, xahiş edirik admin@gabungpdf.id ünvanına yazın."
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Əsas Razılaşma Maddələri",
+      "desc": "Xidmətimizdən istifadə zamanı hüquq və öhdəliklərinizi anlayın.",
+      "points": [
+        {
+          "title": "Ədalətli İstifadə",
+          "desc": "Xidmətdən məsuliyyətli və qanuni şəkildə istifadə edin"
+        },
+        {
+          "title": "Sizin Fayllarınız",
+          "desc": "Yüklədiyiniz bütün faylların sahibi siz olaraq qalarsınız"
+        },
+        {
+          "title": "Sui-istifadə Yoxdur",
+          "desc": "Qadağan olunmuş istifadələr hesabın dayandırılmasına səbəb olacaq"
+        },
+        {
+          "title": "Məhdud Məsuliyyət",
+          "desc": "Xidmət \"olduğu kimi\" təqdim olunur və heç bir zəmanət verilmir"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Suallarınız var?",
+      "description": "Şərtlərlə və ya xidmətlə bağlı istənilən sual üçün sizə kömək etməyə hazırıq.",
+      "links": [
+        {
+          "label": "Məxfilik Siyasəti",
+          "href": "/privacy-policy",
+          "icon": "🔒"
+        },
+        {
+          "label": "Hüquq Komandası ilə Əlaqə",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Content": {
+    "Policy": {
+      "title": "Məxfilik Siyasəti",
+      "desc": "Məxfiliyinizi qorumağa və fayllarınızın təhlükəsizliyini təmin etməyə sadiqik. PDF birləşdirmə xidmətimizdən istifadə etdiyiniz zaman məlumatlarınızı necə topladığımız, istifadə etdiyimiz və qoruduğumuz haqqında öyrənin.",
+      "Updated": "Son Yenilənmə Tarixi:",
+      "date": "6 İyun 2025"
+    },
+    "Terms": {
+      "title": "Xidmət Şərtləri",
+      "desc": "Bu şərtlər PDF birləşdirmə xidmətimizdən istifadənizi tənzimləyir. Saytımızdan istifadə etməzdən əvvəl xahiş edirik onları diqqətlə oxuyun.",
+      "Updated": "Son Yenilənmə Tarixi:",
+      "date": "6 İyun 2025"
+    }
+  },
+  "MiniFooter": {
+    "heading": "PDF Fayllarınızı Təhlükəsiz Şəkildə Birləşdirməyə Hazırsınız?",
+    "subheading": "Məxfiliyə önəm verən PDF birləşdirmə xidmətimizi tam rahatlıqla sınaqdan keçirin.",
+    "button": "PDF-ləri İndi Birləşdirin"
+  },
+  "Seo": {
+    "Home": {
+      "title": "PDF Fayllarını Onlayn Birləşdirin Pulsuz - Asan və Sürətli Birləşdirmə",
+      "description": "PDF sənədlərini onlayn və pulsuz olaraq GabungPDF.id ilə birləşdirin. Quraşdırma və qeydiyyat tələb etməyən, istifadəsi asan PDF birləşdirici. İndi PDF-ləri asanlıqla birləşdirin!"
+    },
+    "CombinePdf": {
+      "title": "PDF Fayllarını Onlayn Birləşdirin Pulsuz - Sürətli və Asan PDF Birləşdirici",
+      "description": "GabungPDF.id ilə PDF-ləri onlayn və pulsuz birləşdirin. Qeydiyyat və ya quraşdırma olmadan sürətli və istifadəsi asan PDF birləşdirici. İndi PDF-ləri birləşdirin!"
+    },
+    "Blog": {
+      "title": "PDF-lərin Birləşdirilməsi Bloqu: PDF Birləşdirmə Məsləhətləri və Bələdçilər",
+      "description": "Gabung PDF bloqunu araşdırın və PDF-lərin birləşdirilməsi, dərsliklər və PDF işlərinizi sadələşdirən vasitələr barədə peşəkar məsləhətlər əldə edin. İndi oxuyun!"
+    },
+    "Blog1": {
+      "title": "PDF Fayllarını Birləşdirməyin Ən Asan Yolu | PDF Birləşdirin",
+      "description": "Gabung PDF ilə PDF fayllarını birləşdirməyin ən asan yolunu kəşf edin. Pulsuz, sürətli və istifadəçi dostu vasitə ilə problemsiz PDF birləşdirmə. İndi sınayın!"
+    },
+    "Blog2": {
+      "title": "PDF-ləri Birləşdirmək üçün Ən Yaxşı Alət | PDF Birləşdirin",
+      "description": "Gabung PDF PDF fayllarını onlayn birləşdirmək üçün ən mükəmməl vasitədir. Sürətli, təhlükəsiz və pulsuz. Bu gün PDF fayllarınızı asanlıqla birləşdirin!"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF Məxfilik Siyasəti | Təhlükəsiz PDF Birləşdirilməsi",
+      "description": "PDF-ləri təhlükəsiz şəkildə onlayn birləşdirərkən məlumatlarınızı necə qoruduğumuzu başa düşmək üçün Gabung PDF-in məxfilik siyasətini oxuyun. Ətraflı məlumat alın."
+    },
+    "TermsAndCondition": {
+      "title": "Gabung PDF Xidmət Şərtləri | PDF Birləşdirmə",
+      "description": "Pulsuz və təhlükəsiz PDF birləşdirmə vasitəmizdən istifadə qaydalarını öyrənmək üçün Gabung PDF-in xidmət şərtlərini nəzərdən keçirin. Siyasətimizi bu gün anlayın."
+    }
+  }
+}

@@ -1,0 +1,1304 @@
+{
+  "nav": {
+    "home": "Domů",
+    "combinePdf": "Sloučit PDF",
+    "blog": "Blog",
+    "selectLanguage": "Vyberte jazyk"
+  },
+  "home": {
+    "title": "Sloučte PDF soubory online - Zdarma, rychle a bezpečně",
+    "description": "Sloučte PDF snadno s GabungPDF.id! Bezplatný, rychlý, bezpečný online nástroj pro slučování PDF souborů během sekund. Registrace není nutná.",
+    "mergeNow": "Sloučit PDF nyní",
+    "sec1Para": "V dnešním rychlém digitálním světě je efektivní správa dokumentů klíčová pro osobní i profesionální úkoly. Jednou z běžných potřeb je <strong>sloučit PDF soubory</strong> do jednoho zjednodušeného dokumentu.",
+    "SecH1": "Proč sloučit PDF soubory?",
+    "SecH1P1": "Sloučení více PDF souborů do jednoho dokumentu nabízí četné výhody:",
+    "SecH1UlLi1": "<strong>Organizace a efektivita:</strong> Odeslání jednoho sloučeného PDF místo více souborů zjednodušuje sdílení a kontrolu.",
+    "SecH1UlLi2": "<strong>Snížení nepořádku v souborech:</strong> Sloučení PDF snižuje počet souborů, které musíte spravovat.",
+    "SecH1UlLi3": "<strong>Profesionální prezentace:</strong> Sjednocené PDF vypadá uhlazeně a profesionálně.",
+    "SecH1UlLi4": "<strong>Kompatibilita napříč platformami:</strong> PDF jsou univerzálně kompatibilní.",
+    "steps": {
+      "title": "Jak sloučit PDF soubory online zdarma",
+      "intro": "Použití online nástroje jako je gabungPDF.id činí slučování PDF jednoduchým a dostupným:",
+      "items": [
+        {
+          "title": "Krok 1: Navštivte gabungPDF.id",
+          "desc": "Přejděte na gabungPDF.id, bezplatný online nástroj navržený k tomu, aby vám pomohl <strong>sloučit PDF soubory</strong> během sekund."
+        },
+        {
+          "title": "Krok 2: Nahrajte své PDF soubory",
+          "desc": "Klikněte na tlačítko \"Nahrát soubory\" a vyberte PDF, které chcete sloučit."
+        },
+        {
+          "title": "Krok 3: Uspořádejte soubory",
+          "desc": "Po nahrání můžete přetahovat soubory a uspořádat je v požadovaném pořadí."
+        },
+        {
+          "title": "Krok 4: Sloučte a stáhněte",
+          "desc": "Po uspořádání souborů klikněte na tlačítko \"Sloučit\"."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Proč zvolit gabungPDF.id?",
+      "points": [
+        {
+          "title": "<strong>Není nutná instalace:</strong>",
+          "desc": "Na rozdíl od desktopového softwaru gabungPDF.id funguje zcela online."
+        },
+        {
+          "title": "<strong>Zdarma a bezpečně:</strong>",
+          "desc": "Nástroj je zdarma k použití, bez skrytých poplatků."
+        },
+        {
+          "title": "<strong>Kompatibilita napříč zařízeními:</strong>",
+          "desc": "Ať už používáte Mac, Windows, iOS nebo Android."
+        },
+        {
+          "title": "<strong>Vícejazyčná podpora:</strong>",
+          "desc": "Platforma podporuje uživatele po celém světě."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Výhody používání online PDF slučovače",
+      "items": [
+        {
+          "title": "<strong>Dostupnost:</strong>",
+          "desc": "Můžete <strong>sloučit PDF soubory</strong> z jakéhokoli zařízení s připojením k internetu."
+        },
+        {
+          "title": "<strong>Rychlost:</strong>",
+          "desc": "Proces slučování trvá pouze sekundy."
+        },
+        {
+          "title": "<strong>Bez nákladů:</strong>",
+          "desc": "Mnoho online nástrojů je zcela zdarma."
+        },
+        {
+          "title": "<strong>Uživatelsky přívětivé:</strong>",
+          "desc": "Nejsou potřeba technické dovednosti."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Optimalizujte své sloučené PDF pro SEO",
+      "intro": "Pokud vytváříte PDF pro profesionální nebo marketingové účely, jejich optimalizace pro vyhledávače může zvýšit jejich viditelnost.",
+      "items": [
+        {
+          "title": "1. Používejte popisné názvy souborů",
+          "desc": "Před nahráním PDF přejmenujte soubory popisnými názvy bohatými na klíčová slova."
+        },
+        {
+          "title": "2. Přidejte metadata",
+          "desc": "Zahrňte metadata jako název, autor a klíčová slova do vašeho PDF."
+        },
+        {
+          "title": "3. Optimalizujte textový obsah",
+          "desc": "Ujistěte se, že vaše PDF obsahuje prohledávatelný text místo naskenovaných obrázků."
+        },
+        {
+          "title": "4. Zahrňte interní odkazy",
+          "desc": "Pokud je vaše PDF součástí webové stránky, zahrňte odkazy na relevantní stránky."
+        },
+        {
+          "title": "5. Používejte nadpisy a strukturu",
+          "desc": "Organizujte své PDF jasnými nadpisy a logickou strukturou."
+        },
+        {
+          "title": "6. Komprimujte pro rychlejší načítání",
+          "desc": "Velké PDF mohou zpomalit časy načítání."
+        },
+        {
+          "title": "7. Přidejte alternativní text k obrázkům",
+          "desc": "Pokud vaše PDF obsahuje obrázky, přidejte popisy alternativního textu."
+        },
+        {
+          "title": "8. Hostujte PDF na své webové stránce",
+          "desc": "Nahrajte své sloučené PDF na svou webovou stránku."
+        },
+        {
+          "title": "9. Sledujte zobrazení PDF",
+          "desc": "Používejte nástroje jako Google Analytics ke sledování uživatelské interakce."
+        },
+        {
+          "title": "10. Propagujte své PDF",
+          "desc": "Sdílejte své PDF na sociálních sítích a v newsletterech."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Běžné případy použití pro slučování PDF",
+      "items": [
+        {
+          "title": "<strong>Obchodní zprávy:</strong>",
+          "desc": "Sloučte více sekcí zprávy do jednoho PDF."
+        },
+        {
+          "title": "<strong>Akademické projekty:</strong>",
+          "desc": "Studenti mohou kompilovat výzkumné práce."
+        },
+        {
+          "title": "<strong>Právní dokumenty:</strong>",
+          "desc": "Právníci často slučují smlouvy a přílohy."
+        },
+        {
+          "title": "<strong>Marketingové materiály:</strong>",
+          "desc": "Vytvořte profesionální brožury."
+        },
+        {
+          "title": "<strong>Osobní použití:</strong>",
+          "desc": "Sloučte naskenované dokumenty nebo fotografie."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Porovnání gabungPDF.id s jinými nástroji",
+      "intro": "Ačkoli je gabungPDF.id skvělou volbou pro slučování PDF, jiné nástroje také nabízejí podobnou funkcionalitu.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Zdarma, bez registrace, podporuje více formátů souborů."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Nabízí bezplatný online slučovač, ale vyžaduje přihlášení."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Robustní nástroj s dalšími funkcemi."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Podporuje složité soubory a velký počet stránek."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Tipy pro bezproblémové slučování PDF",
+      "items": [
+        {
+          "title": "<strong>Zkontrolujte kompatibilitu souborů:</strong>",
+          "desc": "Ujistěte se, že všechny soubory jsou v PDF nebo podporovaných formátech."
+        },
+        {
+          "title": "<strong>Prohlédněte si své soubory:</strong>",
+          "desc": "Zkontrolujte pořadí a obsah svých souborů před slučováním."
+        },
+        {
+          "title": "<strong>Používejte bezpečné platformy:</strong>",
+          "desc": "Vyberte nástroje, které upřednostňují soukromí."
+        },
+        {
+          "title": "<strong>Otestujte výstup:</strong>",
+          "desc": "Otevřete sloučené PDF a potvrďte rozložení."
+        }
+      ]
+    },
+    "ConclusionH1": "Závěr",
+    "conclusion": "Slučování PDF souborů je jednoduchý, ale mocný způsob, jak zefektivnit správu dokumentů. Ať už jste profesionál organizující zprávy, student kompilující výzkum, nebo někdo archivující osobní dokumenty, nástroje jako gabungPDF.id usnadňují <strong>slučování PDF souborů</strong> online zdarma."
+  },
+  "combinePdf": {
+    "title": "Kombinovat PDF soubory",
+    "dragDrop": "Přetáhněte PDF soubory sem nebo",
+    "clickBrowse": "klikněte pro výběr",
+    "selectFiles": "Vyberte soubory",
+    "maxSize": "Maximální velikost souboru: 50 MB",
+    "combineButton": "Kombinovat PDF",
+    "filesCount": "PDF soubory",
+    "S1H1": "Kombinování PDF souborů: Jak kombinovat PDF soubory - Tip, jak zdarma sloučit PDF soubory",
+    "S1P1": "V dnešním digitálním světě jsou PDF soubory (Portable Document Format) nezbytnou součástí sdílení a ukládání dokumentů. Na rozdíl od běžných DOC souborů, které jsou vytvářeny v Microsoft Word nebo Google Docs, PDF soubory si uchovávají svůj formát na všech zařízeních a operačních systémech. Tato univerzální kompatibilita je ideální pro profesionální i osobní použití, ať už jde o sdílení zpráv, prezentací nebo formulářů online.",
+    "S1P2": "Práce s PDF soubory může být ale někdy náročná, zejména pokud potřebujete sloučit více PDF souborů do jednoho dokumentu. V tomto průvodci vám vysvětlíme, proč je důležité kombinovat PDF soubory, jak je zdarma spojit pomocí našeho uživatelsky přívětivého nástroje a jaké výhody získáte zjednodušením správy vašich dokumentů.",
+    "S2H1": "Proč jsou PDF soubory jedinečné a univerzální",
+    "S2P1": "PDF soubory jsou navrženy tak, aby uchovávaly přesný vzhled dokumentu, bez ohledu na zařízení nebo software, na kterém je zobrazen. Na rozdíl od DOC souborů, které jsou závislé na nastaveních systému, jako jsou nainstalované písma nebo konfigurace operačního systému, PDF soubory fungují jako statické obrázky. To zajišťuje, že písma, rozvržení a grafika zůstávají konzistentní, což je činí ideálními pro profesionální dokumenty jako jsou smlouvy, životopisy nebo e-knihy.",
+    "S2P2": "Tato konzistence je důvodem, proč jsou PDF soubory široce používány pro sdílení dokumentů po internetu. Ať už archivujete obchodní zprávu nebo důležité záznamy, PDF soubory zajistí, že příjemce uvidí dokument přesně tak, jak byl zamýšlen. Tato vlastnost však činí úpravy nebo kombinování PDF souborů obtížnějším než u DOC souborů. Bez speciálního softwaru mohou úkoly jako přidání stránek nebo sloučení více PDF souborů působit odrazující. Naštěstí náš bezplatný online nástroj zjednodušuje tento proces a umožňuje vám snadno kombinovat PDF soubory bez potřeby dalšího softwaru.",
+    "combine_pdf_files": {
+      "intro": "Proč kombinovat PDF soubory?",
+      "para": "Kombinování PDF souborů je běžná potřeba pro profesionály, studenty a všechny, kteří spravují více dokumentů. Zde je několik scénářů, kde je sloučení PDF souborů užitečné:",
+      "items": [
+        {
+          "title": "Vytváření komplexních zpráv:",
+          "desc": "Pokud máte více PDF zpráv nebo kapitol, kombinování do jednoho dokumentu usnadňuje jejich sdílení a kontrolu."
+        },
+        {
+          "title": "Archivace naskenovaných dokumentů:",
+          "desc": "Naskenované PDF soubory, jako jsou účtenky nebo formuláře, často potřebují být sloučeny do jedné souboru pro lepší organizaci."
+        },
+        {
+          "title": "Optimalizace prezentací:",
+          "desc": "Kombinování snímků nebo sekcí z různých PDF do jedné ucelené prezentace zlepšuje jasnost a profesionalitu."
+        },
+        {
+          "title": "Zjednodušení sdílení souborů:",
+          "desc": "Místo odesílání několika souborů sloučením PDF do jednoho souboru se zjednodušuje celý proces a zajišťuje, že všechny informace budou obsaženy v jednom přehledném dokumentu."
+        }
+      ],
+      "para2": "Na rozdíl od DOC souborů, kde stačí jednoduše kopírovat a vkládat obsah, PDF soubory vyžadují speciální nástroje k jejich kombinování nebo úpravám. Například kopírování textu z naskenovaného PDF souboru je často nemožné bez použití softwaru pro optické rozpoznávání znaků (OCR). Náš bezplatný nástroj na kombinování PDF odstraňuje tyto překážky a umožňuje vám sloučit až 20 PDF souborů současně, bez potřeby drahého softwaru nebo technických znalostí."
+    },
+    "stepbystep": {
+      "intro": "Jak zdarma kombinovat PDF soubory: Návod krok za krokem",
+      "para": "Náš uživatelsky přívětivý online nástroj činí kombinování PDF souborů rychlé a efektivní. Ať už kombinujete dva nebo až 20 souborů, proces je jednoduchý a nevyžaduje žádnou instalaci ani předplatné. Postupujte podle těchto kroků pro bezproblémové sloučení PDF souborů:",
+      "items": [
+        {
+          "title": "Krok 1: Nahrajte své PDF soubory",
+          "desc": "Pro zahájení klikněte na tlačítko 'NAHRÁT SOUBORY' v rozhraní našeho nástroje. Vyberte požadované PDF soubory ze svého zařízení. Alternativně můžete také přetáhnout své PDF soubory do určené oblasti 'Přetáhněte soubory sem'. Tato funkce je obzvláště užitečná, pokud pracujete s více soubory, protože šetří čas a zjednodušuje proces."
+        },
+        {
+          "title": "Krok 2: Seřaďte své PDF soubory",
+          "desc": "Jakmile budou vaše soubory nahrány, náš nástroj vám ukáže seznam souborů. Pořadí souborů v tomto seznamu určuje strukturu sloučeného PDF souboru. První PDF v seznamu se objeví na začátku finálního dokumentu, druhé bude následovat, atd. Abyste zajistili správné pořadí, můžete soubory v seznamu jednoduše přetáhnout a přeuspořádat."
+        },
+        {
+          "title": "Krok 3: Kombinujte a stáhněte",
+          "desc": "Jakmile budete s pořadím spokojeni, klikněte na tlačítko 'KOMBINOVAT'. Náš systém okamžitě sloučí všechny nahrané PDF soubory do jednoho souboru. Po dokončení procesu se sloučený PDF soubor začne automaticky stahovat na vaše zařízení. Celý proces je rychlý, bezpečný a nevyžaduje žádný další software."
+        }
+      ],
+      "intro2": "Kombinujte více PDF souborů",
+      "para2": "Chcete sloučit ještě více PDF souborů? Žádný problém! Náš nástroj vám umožňuje kombinovat soubory v dávkách. Po stažení prvního souboru s kombinovanými PDF soubory nahrajte tento nový soubor spolu se všemi dalšími PDF soubory, které chcete přidat. Tento proces opakujte a klikněte znovu na 'KOMBINOVAT' pro vytvoření ještě většího dokumentu. Tento proces můžete opakovat tolikrát, kolikrát budete potřebovat, abyste zahrnuli všechny své soubory.",
+      "intro3": "Důležitá poznámka: Stáhněte si soubor během jedné hodiny",
+      "para3": "Aby byla zajištěna hladká zkušenost, stáhněte si sloučený PDF soubor do jedné hodiny od jeho vytvoření. Pokud to neuděláte, systém soubory odstraní a budete je muset znovu nahrát, abyste mohli začít znovu. Tato funkce pomáhá zajistit bezpečnost a uvolnit místo na serveru pro ostatní uživatele."
+    },
+    "benefits": {
+      "intro": "Výhody používání našeho bezplatného nástroje na kombinování PDF",
+      "para": "Náš nástroj byl navržen s ohledem na jednoduchost, přístupnost a efektivitu. Zde je několik důvodů, proč je nejlepší volbou pro kombinování PDF souborů:",
+      "items": [
+        {
+          "title": "Není potřeba instalace softwaru:",
+          "desc": "Na rozdíl od tradičních PDF editorů je náš nástroj plně webový, takže k němu máte přístup z jakéhokoli zařízení s internetovým připojením."
+        },
+        {
+          "title": "Zdarma a neomezeně použitelný:",
+          "desc": "Sloučte až 20 PDF souborů současně zdarma, bez nákladů nebo předplatného. Pro větší projekty můžete kombinovat více dávky, jak je popsáno výše."
+        },
+        {
+          "title": "Uživatelsky přívětivé rozhraní:",
+          "desc": "Funkce drag-and-drop a intuitivní design usnadňují použití jak pro začátečníky, tak pro profesionály."
+        },
+        {
+          "title": "Rychlé zpracování:",
+          "desc": "Náš nástroj kombinuje PDF soubory během několika sekund, což vám šetří čas a úsilí."
+        },
+        {
+          "title": "Bezpečné a spolehlivé:",
+          "desc": "Vaše soubory jsou bezpečně zpracovány a po jedné hodině jsou odstraněny ze serveru, což zajišťuje, že vaše data zůstanou soukromá."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Kdy byste měli kombinovat PDF soubory?",
+      "para": "Kombinování PDF souborů je užitečná dovednost v různých situacích. Zde je několik běžných příkladů použití:",
+      "items": [
+        {
+          "title": "Obchodní profesionálové:",
+          "desc": "Kombinujte faktury, smlouvy nebo nabídky do jednoho dokumentu, abyste je snadno sdíleli s klienty nebo kolegy."
+        },
+        {
+          "title": "Studenti a učitelé:",
+          "desc": "Sloučte přednášky, výzkumné práce nebo úkoly do jednoho souboru pro jednodušší prezentace nebo studijní materiály."
+        },
+        {
+          "title": "Právní a administrativní úkoly:",
+          "desc": "Organizujte naskenované dokumenty jako smlouvy nebo formuláře do jednoho PDF souboru pro archivaci nebo právní účely."
+        },
+        {
+          "title": "Kreativní projekty:",
+          "desc": "Spojte návrhy, portfolia nebo storyboardy do jednoho uceleného PDF souboru pro prezentace nebo sběr zpětné vazby od klientů."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Tipy pro práci s PDF",
+      "para": "Pro maximální využití vašeho zážitku z kombinování PDF, mějte na paměti následující tipy:",
+      "items": [
+        {
+          "title": "Zkontrolujte pořadí souborů:",
+          "desc": "Vždy zkontrolujte pořadí vašich PDF souborů před tím, než je sloučíte, abyste se vyhnuli pozdějšímu přeřazování stránek."
+        },
+        {
+          "title": "Optimalizujte velikost souboru:",
+          "desc": "Pokud vaše PDF soubory obsahují velké obrázky nebo grafiku, zvažte jejich kompresi před nahráním, abyste snížili konečnou velikost souboru."
+        },
+        {
+          "title": "Používejte popisné názvy souborů:",
+          "desc": "Pojmenujte své PDF soubory jasnými, popisnými názvy (např. Report_Section1.pdf), abyste během kombinování zůstali organizovaní."
+        },
+        {
+          "title": "Vytvořte záložní kopie originálních souborů:",
+          "desc": "Uložte si kopie vašich původních PDF souborů pro případ, že byste v budoucnu museli provést změny nebo je znovu sloučit."
+        },
+        {
+          "title": "Objevte další nástroje:",
+          "desc": "Pokud potřebujete upravovat, konvertovat nebo komprimovat PDF soubory, podívejte se na další bezplatné nástroje na naší platformě pro komplexní správu dokumentů."
+        }
+      ]
+    },
+    "why_choose": "Proč si vybrat náš nástroj místo placených alternativ?",
+    "why_choose_para": "Zatímco placené PDF editory jako Adobe Acrobat nabízejí pokročilé funkce, náš bezplatný nástroj nabízí cenově dostupné řešení pro většinu uživatelů. Nemusíte investovat do drahého softwaru nebo předplatného, abyste mohli kombinovat PDF soubory. Gabung PDF.id je dostupný pro malé firmy, studenty a všechny, kteří potřebují profesionální výsledky bez složitosti.",
+    "why_choose_para2": "Navíc je naše platforma optimalizována pro rychlost a uživatelskou přívětivost. Ať už používáte stolní počítač, tablet nebo smartphone, můžete kombinovat PDF soubory na cestách bez problémů s kompatibilitou. Tato flexibilita činí náš nástroj ideálním pro uživatele, kteří hledají rychlé, spolehlivé výsledky bez strmé učící se křivky.",
+    "conclusion": "Závěr",
+    "conclusion_para": "Kombinování PDF dokumentů nemusí být složité ani drahé. S naším bezplatným, webovým nástrojem na kombinování PDF můžete sloučit až 20 PDF souborů najednou, snadno je přeuspořádat a stáhnout jediný ucelený soubor během několika sekund. Ať už organizujete zprávy, archivujete naskenované dokumenty nebo připravujete prezentace, náš nástroj zjednodušuje celý proces, aniž byste potřebovali další software nebo technické dovednosti."
+  },
+  "blog": {
+    "title": "PDF tipy, návody a průvodce",
+    "description": "Ovládněte správu PDF s odbornými průvodci, praktickými tipy a návody krok za krokem.",
+    "searchPlaceholder": "Hledejte články, návody a průvodce...",
+    "articles": "Články",
+    "readers": "Čtenáři",
+    "available": "Dostupné",
+    "featuredArticle": "Doporučený článek",
+    "mostPopular": "Nejpopulárnější tento týden",
+    "readArticle": "Přečíst článek",
+    "readFull": "Přečíst celý článek",
+    "minRead": "min čtení",
+    "featureblog": {
+      "title": "Nejoblíbenější tento týden",
+      "subtitle": "⭐ Doporučený článek",
+      "featuredArticle": {
+        "date": "2. července 2025",
+        "author": "Admin uživatel",
+        "category": "Doporučený článek",
+        "headline": "GabungPDF.id: Nejjednodušší způsob, jak spojit PDF soubory",
+        "excerpt": "Spojte PDF soubory snadno s GabungPDF.id, bezplatným online slučovačem PDF. Spojte PDF bezpečně během několika sekund, bez potřeby softwaru. Zvyšte svou produktivitu hned teď!",
+        "readTime": "3 minuty čtení",
+        "buttonName": "Přečíst celý článek"
+      }
+    },
+    "blogsPage": {
+      "cards": [
+        {
+          "BlogImage": "/Blog1Image.webp",
+          "date": "2. června 2025",
+          "author": "Admin uživatel",
+          "category": null,
+          "headline": "GabungPDF.id: Nejlepší nástroj na spojování PDF souborů",
+          "headlineLink": "/blog/gabungpdfid-nejlepsi-nastroj-na-spojovani-pdf-souboru",
+          "excerpt": "Spojujte PDF soubory snadno s GabungPDF.id, vaším bezplatným online slučovačem PDF. Sloučte PDF bezpečně během několika sekund – bez potřeby softwaru. Vyzkoušejte náš nástroj!",
+          "readTime": "3 minuty čtení",
+          "readMoreText": "blog.čístČlánek",
+          "slug": "gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "detail": {
+            "intro": "Na GabungPDF.id jsme navrhli uživatelsky přívětivý webový nástroj, který vám umožní snadno spojit PDF soubory bez komplikací. Ať už jste technicky zdatní nebo začátečník, naše platforma je tu pro všechny. Zde je důvod, proč je GabungPDF.id nejlepší nástroj pro spojování PDF:",
+            "features": [
+              {
+                "title": "Zdarma a dostupné",
+                "description": "Žádné předplatné ani skryté poplatky — jen nahrajte a spojte."
+              },
+              {
+                "title": "Bez instalace softwaru",
+                "description": "Náš nástroj funguje plně online, šetří místo na vašem zařízení."
+              },
+              {
+                "title": "Rychlé a bezpečné",
+                "description": "Sloučte PDF během několika sekund pomocí šifrování pro ochranu vašich dat."
+              },
+              {
+                "title": "Uživatelsky přívětivé rozhraní",
+                "description": "Přetáhněte soubory myší a spojte je během několika kliknutí."
+              }
+            ],
+            "intro2": "Připraveni zjednodušit si správu dokumentů? Pojďme si projít, jak náš slučovač PDF používat v několika jednoduchých krocích.",
+            "how_to_use": {
+              "title": "Jak spojit PDF soubory s GabungPDF.id",
+              "paragraph": "Spojení PDF s GabungPDF.id je jednoduché jako 1-2-3. Postupujte podle těchto kroků a vytvořte jeden soubor PDF:",
+              "steps": [
+                {
+                  "title": "Nahrajte své soubory",
+                  "description": "Navštivte https://gabungpdf.id/ a klikněte na tlačítko „Nahrát“. Vyberte PDF soubory, které chcete spojit. Můžete nahrát více souborů najednou."
+                },
+                {
+                  "title": "Seřaďte pořadí",
+                  "description": "Přetáhněte soubory do požadovaného pořadí. Zajistíte tak logický sled ve výsledném dokumentu."
+                },
+                {
+                  "title": "Spojte a stáhněte",
+                  "description": "Klikněte na „Spojit PDF“ a náš nástroj vytvoří jeden PDF soubor. Po dokončení si jej ihned stáhněte."
+                }
+              ],
+              "note": "A to je vše! Žádné složité nastavení ani technické znalosti. Ať spojujete dva soubory nebo dvacet, GabungPDF.id to zvládne bez problémů."
+            },
+            "benefits": {
+              "title": "Výhody online slučovače PDF",
+              "paragraph": "Používání online nástroje, jako je GabungPDF.id, přináší řadu výhod oproti klasickému softwaru nebo ručním metodám. Zde je proč je náš nástroj přelomový:",
+              "items": [
+                {
+                  "title": "Úspora času a pohodlí",
+                  "description": "Ruční spojování PDF v desktopových aplikacích bývá zdlouhavé a často vyžaduje drahé licence. S GabungPDF.id spojíte PDF během pár vteřin z jakéhokoli zařízení připojeného k internetu — ať už jde o notebook, tablet nebo telefon."
+                },
+                {
+                  "title": "Bezpečná manipulace se soubory",
+                  "description": "Máte obavy o soukromí? Naše platforma používá pokročilé šifrování, které chrání vaše soubory během spojování. Po stažení sloučeného PDF vaše soubory ze serverů smažeme."
+                },
+                {
+                  "title": "Ekonomické řešení",
+                  "description": "Proč platit za drahý software pro úpravu PDF? GabungPDF.id je zcela zdarma, ideální pro studenty, freelancery i malé firmy."
+                },
+                {
+                  "title": "Kompatibilní se všemi platformami",
+                  "description": "Ať používáte Windows, macOS, iOS nebo Android, náš webový slučovač PDF funguje bezchybně. Nemusíte se bát problémů s kompatibilitou."
+                }
+              ]
+            },
+            "optimization_tips": {
+              "title": "Tipy pro optimalizaci sloučených PDF",
+              "paragraph": "Chcete ze svých sloučených PDF vytěžit maximum? Zvažte tyto rady:",
+              "tips": [
+                {
+                  "title": "Zkontrolujte pořadí souborů",
+                  "description": "Před sloučením nastavte správné pořadí, abyste nemuseli proces opakovat."
+                },
+                {
+                  "title": "Optimalizujte velikost souboru",
+                  "description": "Pokud PDF obsahují velké obrázky, před nahráním je komprimujte, aby se snížila výsledná velikost."
+                },
+                {
+                  "title": "Pojmenujte soubory srozumitelně",
+                  "description": "Používejte popisné názvy PDF, aby byly později lépe k nalezení."
+                },
+                {
+                  "title": "Zkontrolujte výstup",
+                  "description": "Po sloučení si PDF prohlédněte a ujistěte se, že je vše v pořádku."
+                }
+              ],
+              "paragraph2": "S GabungPDF.id můžete PDF sloučit s jistotou, že kvalita i organizace zůstanou zachovány."
+            },
+            "audience": {
+              "title": "Kdo může mít prospěch z GabungPDF.id?",
+              "paragraph": "Náš slučovač PDF je určen pro širokou škálu uživatelů, včetně:",
+              "users": [
+                {
+                  "type": "Studenti",
+                  "description": "Spojte si poznámky z přednášek, úkoly nebo výzkumné práce do jednoho souboru."
+                },
+                {
+                  "type": "Profesionálové",
+                  "description": "Spojte zprávy, návrhy nebo smlouvy pro efektivní komunikaci."
+                },
+                {
+                  "type": "Malé firmy",
+                  "description": "Organizujte faktury, účtenky nebo marketingové materiály do jednoho dokumentu."
+                },
+                {
+                  "type": "Freelanceři",
+                  "description": "Spojte portfolia, faktury nebo projektová výstupy pro klienty."
+                }
+              ],
+              "paragraph2": "Ať už máte jakékoli potřeby, GabungPDF.id je váš spolehlivý partner pro vše kolem PDF."
+            },
+            "why_choose_us": {
+              "title": "Proč si vybrat GabungPDF.id před jinými nástroji?",
+              "paragraph": "Na trhu je spousta nástrojů, proč ale zvolit právě GabungPDF.id? Zde je to, co nás odlišuje:",
+              "reasons": [
+                {
+                  "title": "Rychlost",
+                  "description": "Žádná křivka učení — jednoduše nahrajte, spojte a stáhněte."
+                },
+                {
+                  "title": "Spolehlivost",
+                  "description": "Stabilní výkon bez pádů nebo chyb."
+                },
+                {
+                  "title": "Dostupnost",
+                  "description": "K dispozici 24/7 odkudkoli na světě."
+                }
+              ],
+              "paragraph2": "Neztrácejte čas složitými programy nebo nespolehlivými nástroji. Vyzkoušejte GabungPDF.id ještě dnes a poznejte nejjednodušší způsob spojení PDF."
+            },
+            "conclusion": {
+              "title": "Závěr: Zjednodušte si práci s GabungPDF.id",
+              "paragraph": "Spojování PDF nemusí být otrava. S GabungPDF.id můžete PDF spojit snadno, ušetříte čas a zachováte si přehledné dokumenty. Náš bezplatný, bezpečný a uživatelsky přívětivý slučovač PDF je ideální pro každého, kdo chce zefektivnit svou práci. Ať spojujete zprávy, poznámky nebo smlouvy, náš nástroj vždy přinese profesionální výsledek. Připraveni začít?",
+              "cta": {
+                "text": "Navštivte gabungpdf.id/combine-pdf",
+                "link": "https://gabungpdf.id/combine-pdf"
+              },
+              "Remaingparagraph": "Teď spojte PDF během pár kliknutí. Zjednodušte si správu dokumentů ještě dnes s GabungPDF.id — vaším dokonalým slučovačem PDF!"
+            }
+          }
+        },
+        {
+          "BlogImage": "/FeatureBlogImage.webp",
+          "date": "2. července 2025",
+          "author": "Admin Uživatelský účet",
+          "category": "Doporučený článek",
+          "headline": "GabungPDF.id: Nejjednodušší způsob, jak spojit PDF soubory",
+          "excerpt": "Spojujte PDF soubory snadno pomocí GabungPDF.id, bezplatného online slučovače PDF. Spojte PDF bezpečně během pár sekund, bez potřeby softwaru. Zvyšte svou produktivitu hned teď!",
+          "readTime": "3 minuty čtení",
+          "buttonName": "Číst celý článek",
+          "slug": "gabungpdfid-the-easiest-way-to-combine-pdf-files",
+          "detail": {
+            "intro": "Ve světě, kde čas jsou peníze, může efektivní správa dokumentů znamenat velký rozdíl. Ať už řešíte více zpráv, organizujete smlouvy s klienty nebo sestavujete projektové soubory, spolehlivý slučovač PDF může změnit váš pracovní postup. Představujeme GabungPDF.id, bezplatný online nástroj navržený pro rychlé a snadné spojení PDF souborů. V tomto článku si ukážeme, jak vám GabungPDF.id pomůže spojit PDF soubory bez námahy a proč je ideálním řešením pro profesionály, studenty i firmy.",
+            "why_merge_pdf": {
+              "title": "Proč spojovat PDF soubory?",
+              "paragraph": "PDF je oblíbený formát pro sdílení profesionálních dokumentů, ale správa více souborů vás může zdržovat. Spojení PDF do jednoho přehledného dokumentu šetří čas, snižuje nepořádek a zlepšuje organizaci. Zde je několik důvodů, proč byste měli spojit PDF soubory:",
+              "reasons": [
+                {
+                  "title": "Zjednodušení sdílení",
+                  "description": "Posílejte jeden soubor místo více příloh pro snadnější spolupráci."
+                },
+                {
+                  "title": "Organizace dokumentů",
+                  "description": "Spojte faktury, formuláře nebo poznámky do jednoho snadno přístupného PDF."
+                },
+                {
+                  "title": "Profesionální prezentace",
+                  "description": "Spojte slidy, podklady a poznámky do jednoho uhlazeného dokumentu."
+                },
+                {
+                  "title": "Snazší archivace",
+                  "description": "Konsolidujte související soubory pro efektivní ukládání a vyhledávání."
+                }
+              ],
+              "note": "S GabungPDF.id můžete spojit PDF soubory během několika kliknutí a správa dokumentů bude hračka."
+            },
+            "features": {
+              "title": "Co dělá z GabungPDF nejlepší slučovač PDF?",
+              "paragraph": "Na GabungPDF.id jsme vytvořili nástroj, který je rychlý, bezplatný a dostupný všem. Ať už pracujete z počítače, tabletu nebo chytrého telefonu, náš slučovač PDF poskytuje profesionální výsledky bez zbytečných komplikací. Zde je důvod, proč si uživatelé GabungPDF.id oblíbili:",
+              "items": [
+                {
+                  "title": "Zcela zdarma",
+                  "description": "Bez předplatného, bez skrytých poplatků – jednoduše spojte a stáhněte."
+                },
+                {
+                  "title": "Bez potřeby instalace",
+                  "description": "Náš webový nástroj funguje ihned, bez stahování."
+                },
+                {
+                  "title": "Bezpečné zpracování",
+                  "description": "Vaše soubory jsou chráněny šifrováním a po použití odstraněny."
+                },
+                {
+                  "title": "Intuitivní rozhraní",
+                  "description": "Jednoduché rozhraní umožňuje spojovat PDF snadno každému."
+                }
+              ],
+              "next": "Chcete zvýšit svou produktivitu? Pojďme se podívat, jak pomocí našeho slučovače PDF spojit soubory během minutky."
+            },
+            "how_to_use": {
+              "title": "Jak používat GabungPDF.id pro spojení PDF",
+              "paragraph": "Spojování PDF pomocí GabungPDF je jednoduché a nevyžaduje žádné technické znalosti. Stačí dodržet tyto kroky:",
+              "steps": [
+                {
+                  "title": "Nahrajte své PDF",
+                  "description": "Navštivte https://gabungpdf.id/ a vyberte PDF soubory, které chcete spojit. Můžete nahrát více souborů najednou."
+                },
+                {
+                  "title": "Seřaďte dle potřeby",
+                  "description": "Pomocí funkce přetáhnutí si soubory seřaďte v požadovaném pořadí."
+                },
+                {
+                  "title": "Spojte a stáhněte",
+                  "description": "Klikněte na „Spojit PDF“ a náš nástroj soubory spojí do jednoho. Stačí stáhnout nový PDF."
+                }
+              ],
+              "note": "Tak snadné to je! Ať už spojujete dva soubory nebo desítky, GabungPDF.id zajistí hladký a bezproblémový proces."
+            },
+            "top_benefits": {
+              "title": "Hlavní výhody GabungPDF.id",
+              "paragraph": "Použití online slučovače PDF jako GabungPDF.id nabízí bezkonkurenční pohodlí a efektivitu. Zde je důvod, proč náš nástroj vyniká:",
+              "items": [
+                {
+                  "title": "Úspora času a úsilí",
+                  "description": "Ruční spojování PDF nebo pomocí složitých programů je zdlouhavé. S GabungPDF.id spojíte soubory během vteřin a ušetříte čas na důležitější věci."
+                },
+                {
+                  "title": "Zvýšené zabezpečení",
+                  "description": "Ochrana vašich dat je pro nás prioritou. Naše platforma používá bezpečné šifrování a po dokončení vaše soubory odstraní ze serveru."
+                },
+                {
+                  "title": "Rozpočet šetřící řešení",
+                  "description": "Proč platit za drahý software? GabungPDF.id je 100% zdarma a ideální pro studenty, freelancery a malé firmy."
+                },
+                {
+                  "title": "Univerzální přístup",
+                  "description": "Náš nástroj funguje na každém zařízení s prohlížečem, ať už používáte Windows, macOS, iOS nebo Android. Spojujte PDF kdykoliv a odkudkoliv."
+                }
+              ]
+            },
+            "audience": {
+              "title": "Pro koho je GabungPDF.id?",
+              "paragraph": "Náš slučovač PDF je natolik univerzální, že splní potřeby široké škály uživatelů:",
+              "users": [
+                {
+                  "type": "Studenti",
+                  "description": "Spojte studijní materiály, eseje nebo výzkumné práce do jednoho souboru pro snadné odevzdání."
+                },
+                {
+                  "type": "Obchodní profesionálové",
+                  "description": "Spojte smlouvy, návrhy nebo zprávy pro plynulou komunikaci s klienty."
+                },
+                {
+                  "type": "Freelanceři",
+                  "description": "Vytvořte profesionální portfolia nebo spojte faktury pro klienty."
+                },
+                {
+                  "type": "Malé podniky",
+                  "description": "Organizujte účtenky, marketingové materiály nebo právní dokumenty do jednoho PDF."
+                }
+              ],
+              "note": "Bez ohledu na vaši profesi, GabungPDF.id zjednodušuje správu dokumentů snadno a rychle."
+            },
+            "pro_tips": {
+              "title": "Tipy, jak spojovat PDF jako profík",
+              "paragraph": "Abyste z vašeho slučovače PDF vytěžili maximum, dodržujte tyto rady:",
+              "tips": [
+                {
+                  "title": "Plánujte pořadí souborů",
+                  "description": "Než spojíte PDF, logicky si je seřaďte, ušetří vám to čas."
+                },
+                {
+                  "title": "Komprimujte velké soubory",
+                  "description": "Před nahráním zmenšete velikost souborů pro rychlejší zpracování."
+                },
+                {
+                  "title": "Zkontrolujte výstup",
+                  "description": "Před stažením si výsledek zkontrolujte, že odpovídá vašim potřebám."
+                },
+                {
+                  "title": "Uložte si GabungPDF.id",
+                  "description": "Přidejte si náš web do záložek, abyste měli vždy rychlý přístup."
+                }
+              ]
+            },
+            "why_stand_out": {
+              "title": "Proč GabungPDF.id vyniká mezi slučovači PDF",
+              "paragraph": "Mezi množstvím dostupných nástrojů září GabungPDF.id svou jednoduchostí, rychlostí a spolehlivostí. Na rozdíl od jiných nástrojů nevyžaduje registraci ani stahování a je připraven ihned k použití. Navíc garantujeme bezpečnost vašich dat. Nedovolte, aby vás roztroušené PDF zpomalovaly. Navštivte https://gabungpdf.id/ a objevte nejjednodušší způsob, jak spojit PDF soubory."
+            },
+            "conclusion": {
+              "title": "Závěr: Zjednodušte si práci s dokumenty díky GabungPDF.id",
+              "paragraph": "Správa více PDF nemusí být boj. S GabungPDF.id spojíte PDF rychle, bezpečně a zdarma. Náš uživatelsky přívětivý slučovač PDF vám pomůže zvýšit produktivitu, ať už jste student, profesionál nebo podnikatel. Rozlučte se s chaosem v dokumentech a přivítejte uspořádaná profesionální PDF. Vyzkoušejte GabungPDF.id na adrese gabungpdf.id/combine-pdf a zažijte nejrychlejší způsob, jak spojit PDF. Zjednodušte si práci ještě dnes!"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "Nejjednodušší způsob, jak sloučit více PDF souborů do jednoho dokumentu. Rychle, bezpečně a zcela zdarma k použití.",
+    "contact": "Kontaktujte nás:",
+    "quickLinks": "Rychlé odkazy",
+    "privacyPolicy": "Zásady ochrany osobních údajů",
+    "termsOfService": "Podmínky služby",
+    "allRights": "Všechna práva vyhrazena"
+  },
+  "privacy": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Obsah",
+        "items": [
+          {
+            "icon": "👁️",
+            "label": "Přehled",
+            "target": "Overview"
+          },
+          {
+            "icon": "📊",
+            "label": "Informace, které shromažďujeme",
+            "target": "information-collection"
+          },
+          {
+            "icon": "🔧",
+            "label": "Jak používáme vaše informace",
+            "target": "how-we-use"
+          },
+          {
+            "icon": "🗄️",
+            "label": "Uchovávání a mazání dat",
+            "target": "data-retention"
+          },
+          {
+            "icon": "🤝",
+            "label": "Sdílení dat",
+            "target": "data-sharing"
+          },
+          {
+            "icon": "🔒",
+            "label": "Zabezpečení dat",
+            "target": "data-security"
+          },
+          {
+            "icon": "🌍",
+            "label": "Mezinárodní přenos dat",
+            "target": "international-transfers"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Vaše práva",
+            "target": "your-rights"
+          },
+          {
+            "icon": "🔗",
+            "label": "Odkazy třetích stran",
+            "target": "third-party-links"
+          },
+          {
+            "icon": "👶",
+            "label": "Ochrana soukromí dětí",
+            "target": "children"
+          },
+          {
+            "icon": "🔄",
+            "label": "Změny těchto zásad",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Kontaktujte nás",
+            "target": "contact"
+          }
+        ]
+      },
+      "privacySummary": {
+        "title": "Shrnutí ochrany soukromí",
+        "points": [
+          "Soubory jsou odstraněny do 1 hodiny",
+          "Vaše dokumenty neukládáme",
+          "Minimální sběr dat",
+          "Šifrování end-to-end"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "Overview",
+        "icon": "👁️",
+        "title": "Přehled",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Na www.gabungpdf.id („web“), provozovaném společností Gabung PDF („my“, „nás“ nebo „naše“), se zavazujeme chránit vaše soukromí. Tyto Zásady ochrany osobních údajů vysvětlují, jak shromažďujeme, používáme a chráníme vaše informace při používání naší služby pro slučování PDF. Používáním tohoto webu souhlasíte s těmito zásadami."
+          },
+          {
+            "type": "highlight",
+            "title": "Náš klíčový princip:",
+            "text": "Vaše soubory zpracováváme pouze za účelem poskytnutí služby a automaticky je odstraníme do jedné hodiny. Nezkoumáme ani neuchováváme obsah vašich souborů déle, než je nezbytné."
+          }
+        ]
+      },
+      {
+        "id": "information-collection",
+        "icon": "📊",
+        "title": "Informace, které shromažďujeme",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Uživatelem nahrané soubory",
+            "text": "Když používáte naši službu, nahráváte PDF soubory ke sloučení. Tyto soubory mohou obsahovat osobní údaje, ale my jejich obsah nezpřístupňujeme, neprohlížíme ani neukládáme déle, než je nutné pro zpracování."
+          },
+          {
+            "type": "subsection",
+            "title": "Automaticky shromažďovaná data",
+            "text": "Můžeme shromažďovat neosobní údaje, například:",
+            "list": [
+              "Informace o zařízení (např. typ prohlížeče, operační systém, IP adresa)",
+              "Údaje o používání (např. navštívené stránky, čas strávený na webu, interakce se službou)"
+            ]
+          },
+          {
+            "type": "subsection",
+            "title": "Cookies a sledování",
+            "text": "Můžeme používat cookies nebo podobné technologie ke zlepšení vaší zkušenosti a analýze používání webu. Předvolby cookies můžete spravovat ve svém prohlížeči."
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "icon": "🔧",
+        "title": "Jak používáme vaše informace",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Poskytování služby",
+            "text": "Vaše nahrané PDF soubory zpracováváme pouze za účelem jejich sloučení a poskytnutí odkazu ke stažení."
+          },
+          {
+            "type": "subsection",
+            "title": "Zlepšení webu",
+            "text": "Používáme neosobní údaje (např. statistiky používání) k analýze a zlepšení funkčnosti a výkonu webu."
+          },
+          {
+            "type": "subsection",
+            "title": "Dodržování zákonů",
+            "text": "Vaše údaje můžeme použít nebo zpřístupnit, pokud to vyžaduje zákon nebo za účelem ochrany našich práv, bezpečnosti nebo majetku."
+          }
+        ]
+      },
+      {
+        "id": "data-retention",
+        "icon": "🗄️",
+        "title": "Uchovávání a mazání dat",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Nahrané soubory",
+            "text": "Všechny nahrané PDF soubory a výsledné sloučené PDF jsou automaticky odstraněny z našich serverů do jedné (1) hodiny po zpracování. Neuchováváme jejich kopie."
+          },
+          {
+            "type": "subsection",
+            "title": "Ostatní data",
+            "text": "Neosobní údaje (např. statistiky používání) mohou být uchovávány tak dlouho, jak je nutné ke zlepšení webu nebo k dodržení zákonných povinností."
+          }
+        ]
+      },
+      {
+        "id": "data-sharing",
+        "icon": "🤝",
+        "title": "Sdílení dat",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Žádné sdílení s třetími stranami",
+            "text": "Vaše nahrané soubory ani osobní údaje neprodáváme, nesdílíme ani nepředáváme třetím stranám, s výjimkou případů vyžadovaných zákonem nebo k ochraně našich práv."
+          },
+          {
+            "type": "subsection",
+            "title": "Poskytovatelé služeb",
+            "text": "Můžeme používat poskytovatele služeb třetích stran (např. hostingové nebo analytické služby) pro provoz webu. Tito poskytovatelé jsou vázáni povinností mlčenlivosti a mohou zpracovávat údaje pouze naším jménem."
+          }
+        ]
+      },
+      {
+        "id": "data-security",
+        "icon": "🔒",
+        "title": "Zabezpečení dat",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Implementujeme přiměřená technická a organizační opatření k ochraně vašich dat před neoprávněným přístupem, ztrátou nebo zneužitím. Žádná online služba však není zcela bezpečná, a proto nemůžeme zaručit absolutní bezpečnost."
+          }
+        ]
+      },
+      {
+        "id": "international-transfers",
+        "icon": "🌍",
+        "title": "Mezinárodní přenos dat",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Pokud se nacházíte mimo Indonésii, vaše data mohou být přenesena a zpracována v Indonésii nebo jiných zemích, kde se nachází naše servery nebo poskytovatelé služeb. Zajišťujeme odpovídající ochranu těchto přenosů."
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "icon": "⚖️",
+        "title": "Vaše práva",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "V závislosti na vaší lokaci můžete mít práva podle příslušných zákonů o ochraně osobních údajů, například:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Přístup nebo žádost o smazání vašich údajů",
+              "Vznést námitku proti určitému zpracování nebo jej omezit"
+            ]
+          },
+          {
+            "type": "highlight",
+            "text": "Pro uplatnění těchto práv nás kontaktujte na admin@gabungpdf.id. Vzhledem k tomu, že soubory mažeme do jedné hodiny, nemusíme mít k dispozici žádná osobní data."
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "icon": "🔗",
+        "title": "Odkazy třetích stran",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Web může obsahovat odkazy na webové stránky třetích stran. Nejsme odpovědní za jejich zásady ochrany soukromí ani za jejich obsah."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "icon": "👶",
+        "title": "Ochrana soukromí dětí",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Web není určen uživatelům mladším 18 let. Úmyslně neshromažďujeme osobní údaje dětí."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Změny těchto zásad",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Tyto Zásady ochrany osobních údajů můžeme čas od času aktualizovat. Změny budou zveřejněny na této stránce s aktualizovaným datem."
+          },
+          {
+            "type": "highlight",
+            "text": "Vaše další používání webu po změnách znamená souhlas s těmito aktualizovanými zásadami."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Kontaktujte nás",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Máte-li jakékoli otázky ohledně těchto Zásad ochrany osobních údajů, kontaktujte nás na admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Naše závazky ohledně soukromí",
+      "desc": "Vážně bereme vaše soukromí. Toto dělá naši službu důvěryhodnou",
+      "points": [
+        {
+          "title": "Automatické smazání",
+          "desc": "Soubory jsou automaticky smazány do 1 hodiny"
+        },
+        {
+          "title": "Šifrovaný přenos",
+          "desc": "Všechny nahrávání používají bezpečné HTTPS šifrování"
+        },
+        {
+          "title": "Žádné čtení souborů",
+          "desc": "Nikdy nečteme ani nezpracováváme obsah vašich souborů"
+        },
+        {
+          "title": "Žádné sdílení",
+          "desc": "Vaše soubory nikdy nesdílíme s třetími stranami"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Máte otázky?",
+      "description": "Rádi vám pomůžeme s jakýmikoli otázkami ohledně soukromí.",
+      "links": [
+        {
+          "label": "Podmínky služby",
+          "href": "/terms-of-service",
+          "icon": "📄"
+        },
+        {
+          "label": "Kontaktujte náš tým",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Terms": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Obsah",
+        "items": [
+          {
+            "icon": "✅",
+            "label": "Přijetí podmínek",
+            "target": "acceptance"
+          },
+          {
+            "icon": "🔧",
+            "label": "Používání stránek",
+            "target": "use-of-site"
+          },
+          {
+            "icon": "📁",
+            "label": "Uživatelské soubory",
+            "target": "user-files"
+          },
+          {
+            "icon": "©️",
+            "label": "Duševní vlastnictví",
+            "target": "intellectual-property"
+          },
+          {
+            "icon": "⚠️",
+            "label": "Omezení odpovědnosti",
+            "target": "limitation-liability"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Odškodnění",
+            "target": "indemnification"
+          },
+          {
+            "icon": "🚫",
+            "label": "Ukončení",
+            "target": "termination"
+          },
+          {
+            "icon": "🏛️",
+            "label": "Rozhodné právo",
+            "target": "governing-law"
+          },
+          {
+            "icon": "🔄",
+            "label": "Změny podmínek",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Kontaktujte nás",
+            "target": "contact"
+          }
+        ]
+      },
+      "termsSummary": {
+        "title": "Shrnutí podmínek",
+        "points": [
+          "Bezplatná služba pro spojování PDF",
+          "Pouze pro uživatele starší 18 let",
+          "Soubory budou smazány do 1 hodiny",
+          "Používejte pouze k zákonným účelům"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "acceptance",
+        "icon": "✅",
+        "title": "Přijetí podmínek",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Vítejte na www.gabungpdf.id (\"stránky\"), službě poskytované společností Gabung PDF (\"my\", \"nás\" nebo \"naše\"). Tyto podmínky služby (\"podmínky\") upravují vaše používání těchto stránek a služby slučování PDF. Používáním těchto stránek souhlasíte s těmito podmínkami."
+          },
+          {
+            "type": "highlight",
+            "title": "Důležitá dohoda:",
+            "text": "Pokud s těmito podmínkami nesouhlasíte, prosím stránky nepoužívejte."
+          }
+        ]
+      },
+      {
+        "id": "use-of-site",
+        "icon": "🔧",
+        "title": "Používání stránek",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Způsobilost",
+            "text": "Musíte být starší 18 let nebo mít právní způsobilost k uzavření těchto podmínek."
+          },
+          {
+            "type": "subsection",
+            "title": "Povolené použití",
+            "text": "Stránky umožňují nahrávat PDF soubory, slučovat je do jednoho PDF a stáhnout výsledek. Používejte stránky pouze k zákonným účelům v souladu s těmito podmínkami."
+          },
+          {
+            "type": "subsection",
+            "title": "Zakázané použití",
+            "text": "Nesmíte:",
+            "list": [
+              "Nahrávat soubory obsahující viry, malware nebo jiný škodlivý kód",
+              "Používat stránky k porušování platných zákonů, předpisů nebo práv třetích stran",
+              "Pokoušet se o narušení, přerušení nebo reverzní inženýrství funkce stránek",
+              "Používat stránky ke komerčním účelům bez našeho předchozího písemného souhlasu"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "user-files",
+        "icon": "📁",
+        "title": "Uživatelské soubory",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Dočasné zpracování",
+            "text": "Nahrané soubory jsou zpracovány ke sloučení PDF a automaticky smazány z našich serverů do jedné (1) hodiny. Vaše soubory dále neukládáme."
+          },
+          {
+            "type": "subsection",
+            "title": "Vaše odpovědnost",
+            "text": "Za obsah souborů, které nahráváte, nesete plnou odpovědnost. Musíte mít právo tyto soubory nahrávat a zpracovávat a nesmí porušovat práva třetích stran (např. autorská práva, ochranné známky)."
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "icon": "©️",
+        "title": "Duševní vlastnictví",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Obsah stránek",
+            "text": "Veškerý obsah na stránkách, včetně textů, grafik, log a softwaru, je naším vlastnictvím nebo je licencován a chráněn zákony o duševním vlastnictví."
+          },
+          {
+            "type": "subsection",
+            "title": "Obsah uživatele",
+            "text": "Zůstává vám vlastnictví nahraných souborů. Nahráním souborů nám udělujete omezenou, nevýhradní, bezplatnou licenci ke zpracování těchto souborů výhradně za účelem poskytování služby slučování PDF."
+          }
+        ]
+      },
+      {
+        "id": "limitation-liability",
+        "icon": "⚠️",
+        "title": "Omezení odpovědnosti",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Bez záruky",
+            "text": "Stránky jsou poskytovány \"tak jak jsou\", bez jakýchkoliv záruk, výslovných či předpokládaných, včetně záruk obchodovatelnosti, vhodnosti pro konkrétní účel nebo neporušování práv."
+          },
+          {
+            "type": "subsection",
+            "title": "Omezení odpovědnosti",
+            "text": "V maximálním rozsahu povoleném zákonem neneseme odpovědnost za jakékoli nepřímé, náhodné, zvláštní nebo následné škody vyplývající z vašeho používání stránek, i pokud jsme byli na možnost těchto škod upozorněni."
+          },
+          {
+            "type": "subsection",
+            "title": "Přerušení služby",
+            "text": "Negarantujeme nepřetržitý nebo bezchybný přístup ke stránkám a neneseme odpovědnost za jakákoliv zpoždění, výpadky nebo ztrátu dat."
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "icon": "⚖️",
+        "title": "Odškodnění",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Souhlasíte s tím, že nás odškodníte a budete nás chránit před veškerými nároky, ztrátami nebo škodami, včetně právních poplatků, které vzniknou v souvislosti s vaším používáním stránek, nahranými soubory nebo porušením těchto podmínek."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "icon": "🚫",
+        "title": "Ukončení",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Můžeme dle vlastního uvážení pozastavit nebo ukončit váš přístup ke stránkám bez předchozího oznámení, pokud porušíte tyto podmínky nebo z jakéhokoli jiného důvodu."
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "icon": "🏛️",
+        "title": "Rozhodné právo",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Tyto podmínky se řídí právem Indonésie bez ohledu na kolizní ustanovení. Veškeré spory vyplývající z těchto podmínek budou řešeny soudy v Indonésii."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Změny podmínek",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Tyto podmínky můžeme čas od času aktualizovat. Změny budou zveřejněny na této stránce s aktualizovaným datem \"Poslední aktualizace\"."
+          },
+          {
+            "type": "highlight",
+            "text": "Vaše další používání stránek po změnách znamená souhlas s těmito aktualizovanými podmínkami."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Kontaktujte nás",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Máte-li dotazy k těmto podmínkám, kontaktujte nás na admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Klíčové body dohody",
+      "desc": "Porozumění vašim právům a povinnostem při používání naší služby.",
+      "points": [
+        {
+          "title": "Spravedlivé použití",
+          "desc": "Používejte naši službu odpovědně a zákonně"
+        },
+        {
+          "title": "Vaše soubory",
+          "desc": "Vlastníte všechna práva ke svým nahraným souborům"
+        },
+        {
+          "title": "Žádné zneužívání",
+          "desc": "Zakázané použití povede k ukončení služby"
+        },
+        {
+          "title": "Omezená odpovědnost",
+          "desc": "Služba je poskytována „jak je“ bez záruk"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Máte dotazy?",
+      "description": "Jsme tu, abychom vám pomohli s jakýmikoli otázkami ohledně podmínek nebo služeb.",
+      "links": [
+        {
+          "label": "Zásady ochrany soukromí",
+          "href": "/privacy-policy",
+          "icon": "🔒"
+        },
+        {
+          "label": "Kontakt na právní tým",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Content": {
+    "Policy": {
+      "title": "Zásady ochrany osobních údajů",
+      "desc": "Zavazujeme se chránit vaše soukromí a zabezpečit vaše soubory. Dozvíte se, jak shromažďujeme, používáme a chráníme vaše informace při používání naší služby pro sloučení PDF.",
+      "Updated": "Naposledy aktualizováno:",
+      "date": "6. června 2025"
+    },
+    "Terms": {
+      "title": "Podmínky služby",
+      "desc": "Tyto podmínky upravují vaše používání naší služby pro sloučení PDF. Před použitím našich stránek si je prosím pečlivě přečtěte.",
+      "Updated": "Naposledy aktualizováno:",
+      "date": "6. června 2025"
+    }
+  },
+  "MiniFooter": {
+    "heading": "Připraveni bezpečně sloučit své PDF?",
+    "subheading": "Vyzkoušejte naši službu sloučení PDF zaměřenou na ochranu soukromí s naprostým klidem.",
+    "button": "Sloučit PDF nyní"
+  },
+  "Seo": {
+    "Home": {
+      "title": "Spojit PDF online zdarma – Sloučit soubory PDF snadno a rychle",
+      "description": "Spojte PDF dokumenty online zdarma s GabungPDF.id. Snadno použitelný slučovač PDF, bez instalace, bez registrace. Sloučte PDF hned teď!"
+    },
+    "CombinePdf": {
+      "title": "Spojte soubory PDF online zdarma – Rychlý a snadný slučovač PDF",
+      "description": "Spojte PDF online zdarma s GabungPDF.id. Rychlý a snadný slučovač PDF bez nutnosti registrace nebo instalace. Sloučte PDF hned!"
+    },
+     "Blog": {
+    "title": "Blog o slučování PDF: Tipy a návody na slučování PDF",
+    "description": "Prozkoumejte blog Gabung PDF pro odborné tipy na slučování PDF, návody a nástroje ke zjednodušení vašich PDF úkolů. Přečtěte si nyní!"
+  },
+    "Blog1": {
+      "title": "Nejjednodušší způsob, jak sloučit soubory PDF | Sloučit PDF",
+      "description": "Objevte nejjednodušší způsob, jak sloučit soubory PDF s Gabung PDF. Zdarma, rychlý a uživatelsky přívětivý nástroj pro bezproblémové slučování PDF. Vyzkoušejte to!"
+    },
+    "Blog2": {
+      "title": "Nejlepší nástroj pro slučování PDF | Sloučit PDF",
+      "description": "Gabung PDF je nejlepší nástroj pro online slučování souborů PDF. Rychlý, bezpečný a zdarma. Sloučte PDF snadno ještě dnes!"
+    },
+    "privacyPolicy": {
+      "title": "Zásady ochrany osobních údajů Gabung PDF | Bezpečné slučování PDF",
+      "description": "Přečtěte si zásady ochrany osobních údajů Gabung PDF a zjistěte, jak chráníme vaše data při bezpečném online slučování PDF. Zjistěte více nyní."
+    },
+    "TermsAndCondition": {
+      "title": "Podmínky služby Gabung PDF | Slučování PDF",
+      "description": "Přečtěte si podmínky služby Gabung PDF pro použití našeho bezplatného a bezpečného online nástroje pro slučování PDF. Seznamte se s našimi zásadami ještě dnes."
+    }
+  }
+}

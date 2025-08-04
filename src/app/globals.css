@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+
+:root {
+  --font-sans: var(--font-figtree); 
+}
+
+nav , section{
+  background-color: white;
+  
+}
+.dark nav , .dark section{
+  background-color: #101828;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+nav{
+  border-bottom : 1px solid #e5e7eb !important;
+
+}
+.dark nav{
+    border-bottom : 1px solid #374151 !important;
+}
+
+/* HOME HERO SECTION  */
+.bg-gradient-light {
+  background-image: linear-gradient(to bottom right, #edf4ff, #e4ebff);
+}
+.dark .bg-gradient-light {
+  background-image: none;
+  background-color: var(--color-background);
+}
+
+h1, h2, h3, strong {
+  color: #000000;
+}
+.dark h1,
+.dark h2,
+.dark h3,
+.dark strong {
+  color: white;
+  
+}
+p {
+  color: #4b5563; 
+}
+.dark p {
+  color: #d1d5db;
+}
+.dark .outerbox{
+  background-color: #1f2937;
+  border: 1px solid #374151;
+}
+.dark .innerbox{
+  background-color: #2b3544;
+  border-color: #4b5563;
+}
+.dark .submitbutton{
+  background-color: #4b5563;
+}

@@ -1,0 +1,1304 @@
+{
+  "nav": {
+    "home": "Főoldal",
+    "combinePdf": "PDF egyesítés",
+    "blog": "Blog",
+    "selectLanguage": "Nyelv kiválasztása"
+  },
+  "home": {
+    "title": "PDF fájlok egyesítése online - Ingyenes, gyors és biztonságos",
+    "description": "Egyesítse könnyedén a PDF-eket a GabungPDF.id segítségével! Ingyenes, gyors, biztonságos online eszköz PDF fájlok másodpercek alatt történő egyesítéséhez. Regisztráció nem szükséges.",
+    "mergeNow": "PDF-ek egyesítése most",
+    "sec1Para": "A mai rohanó digitális világban a dokumentumok hatékony kezelése kulcsfontosságú mind a személyes, mind a szakmai feladatok esetében. Egy gyakori igény a <strong>PDF fájlok egyesítése</strong> egyetlen, áramvonalas dokumentummá.",
+    "SecH1": "Miért egyesítsük a PDF fájlokat?",
+    "SecH1P1": "Több PDF fájl egy dokumentummá egyesítése számos előnyt kínál:",
+    "SecH1UlLi1": "<strong>Szervezettség és hatékonyság:</strong> Egyetlen egyesített PDF küldése több fájl helyett egyszerűsíti a megosztást és az áttekintést.",
+    "SecH1UlLi2": "<strong>Fájl rendetlenség csökkentése:</strong> A PDF-ek egyesítése csökkenti a kezelendő fájlok számát.",
+    "SecH1UlLi3": "<strong>Professzionális megjelenés:</strong> Az egységes PDF csiszolt és professzionális megjelenésű.",
+    "SecH1UlLi4": "<strong>Platformok közötti kompatibilitás:</strong> A PDF-ek univerzálisan kompatibilisek.",
+    "steps": {
+      "title": "Hogyan egyesítsük a PDF fájlokat online ingyen",
+      "intro": "Egy online eszköz, mint a gabungPDF.id használata egyszerűvé és elérhetővé teszi a PDF-ek egyesítését:",
+      "items": [
+        {
+          "title": "1. lépés: Látogassa meg a gabungPDF.id oldalt",
+          "desc": "Navigáljon a gabungPDF.id oldalra, egy ingyenes online eszközhöz, amely segít <strong>PDF fájlokat egyesíteni</strong> másodpercek alatt."
+        },
+        {
+          "title": "2. lépés: Töltse fel PDF fájljait",
+          "desc": "Kattintson a \"Fájlok feltöltése\" gombra az egyesíteni kívánt PDF-ek kiválasztásához."
+        },
+        {
+          "title": "3. lépés: Rendezze a fájlokat",
+          "desc": "Feltöltés után húzza és ejtse a fájlokat a kívánt sorrendbe."
+        },
+        {
+          "title": "4. lépés: Egyesítse és töltse le",
+          "desc": "A fájlok rendezése után kattintson az \"Egyesítés\" gombra."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Miért válassza a gabungPDF.id-t?",
+      "points": [
+        {
+          "title": "<strong>Nincs szükség telepítésre:</strong>",
+          "desc": "Az asztali szoftverekkel ellentétben a gabungPDF.id teljesen online működik."
+        },
+        {
+          "title": "<strong>Ingyenes és biztonságos:</strong>",
+          "desc": "Az eszköz ingyenesen használható, rejtett díjak nélkül."
+        },
+        {
+          "title": "<strong>Eszközök közötti kompatibilitás:</strong>",
+          "desc": "Akár Mac-et, Windows-t, iOS-t vagy Androidot használ."
+        },
+        {
+          "title": "<strong>Többnyelvű támogatás:</strong>",
+          "desc": "A platform világszerte támogatja a felhasználókat."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Az online PDF egyesítő használatának előnyei",
+      "items": [
+        {
+          "title": "<strong>Hozzáférhetőség:</strong>",
+          "desc": "<strong>PDF fájlokat egyesíthet</strong> bármely internetkapcsolattal rendelkező eszközről."
+        },
+        {
+          "title": "<strong>Sebesség:</strong>",
+          "desc": "Az egyesítési folyamat csak másodperceket vesz igénybe."
+        },
+        {
+          "title": "<strong>Költségmentes:</strong>",
+          "desc": "Sok online eszköz teljesen ingyenes."
+        },
+        {
+          "title": "<strong>Felhasználóbarát:</strong>",
+          "desc": "Nincs szükség műszaki ismeretekre."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Optimalizálja egyesített PDF-jeit SEO-ra",
+      "intro": "Ha professzionális vagy marketing célokra készít PDF-eket, azok keresőmotorokra való optimalizálása növelheti láthatóságukat.",
+      "items": [
+        {
+          "title": "1. Használjon leíró fájlneveket",
+          "desc": "PDF feltöltése előtt nevezze át fájljait leíró, kulcsszóban gazdag nevekkel."
+        },
+        {
+          "title": "2. Adjon hozzá metaadatokat",
+          "desc": "Vegyen fel metaadatokat, mint cím, szerző és kulcsszavak a PDF-jébe."
+        },
+        {
+          "title": "3. Optimalizálja a szöveges tartalmat",
+          "desc": "Győződjön meg róla, hogy PDF-je kereshető szöveget tartalmaz szkennelt képek helyett."
+        },
+        {
+          "title": "4. Vegyen fel belső linkeket",
+          "desc": "Ha PDF-je egy weboldal része, vegyen fel linkeket a releváns oldalakhoz."
+        },
+        {
+          "title": "5. Használjon címsorokat és struktúrát",
+          "desc": "Szervezze PDF-jét világos címsorokkal és logikus struktúrával."
+        },
+        {
+          "title": "6. Tömörítse a gyorsabb betöltésért",
+          "desc": "A nagy PDF-ek lelassíthatják a betöltési időket."
+        },
+        {
+          "title": "7. Adjon alternatív szöveget a képekhez",
+          "desc": "Ha PDF-je képeket tartalmaz, adjon hozzá alternatív szöveg leírásokat."
+        },
+        {
+          "title": "8. Tárolja PDF-jeit weboldalán",
+          "desc": "Töltse fel egyesített PDF-jét a weboldalára."
+        },
+        {
+          "title": "9. Kövesse nyomon a PDF megtekintéseket",
+          "desc": "Használjon eszközöket, mint a Google Analytics a felhasználói interakció követésére."
+        },
+        {
+          "title": "10. Népszerűsítse PDF-jét",
+          "desc": "Ossza meg PDF-jét közösségi médiában és hírlevelekben."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Gyakori használati esetek PDF egyesítésre",
+      "items": [
+        {
+          "title": "<strong>Üzleti jelentések:</strong>",
+          "desc": "Egyesítse egy jelentés több szakaszát egyetlen PDF-be."
+        },
+        {
+          "title": "<strong>Akadémiai projektek:</strong>",
+          "desc": "A diákok összeállíthatják kutatási dolgozataikat."
+        },
+        {
+          "title": "<strong>Jogi dokumentumok:</strong>",
+          "desc": "Az ügyvédek gyakran egyesítik szerződéseket és mellékleteket."
+        },
+        {
+          "title": "<strong>Marketing anyagok:</strong>",
+          "desc": "Készítsen professzionális brosúrákat."
+        },
+        {
+          "title": "<strong>Személyes használat:</strong>",
+          "desc": "Egyesítse szkennelt dokumentumokat vagy fényképeket."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "A gabungPDF.id összehasonlítása más eszközökkel",
+      "intro": "Bár a gabungPDF.id kiváló választás PDF egyesítésre, más eszközök is kínálnak hasonló funkcionalitást.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Ingyenes, nincs regisztráció, több fájlformátumot támogat."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Ingyenes online egyesítőt kínál, de bejelentkezést igényel."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Robusztus eszköz további funkciókkal."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Támogatja az összetett fájlokat és nagy oldalszámokat."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Tippek a zökkenőmentes PDF egyesítési élményhez",
+      "items": [
+        {
+          "title": "<strong>Ellenőrizze a fájl kompatibilitást:</strong>",
+          "desc": "Győződjön meg róla, hogy minden fájl PDF vagy támogatott formátumban van."
+        },
+        {
+          "title": "<strong>Tekintse át előzetesen fájljait:</strong>",
+          "desc": "Ellenőrizze fájljai sorrendjét és tartalmát egyesítés előtt."
+        },
+        {
+          "title": "<strong>Használjon biztonságos platformokat:</strong>",
+          "desc": "Válasszon olyan eszközöket, amelyek prioritásként kezelik az adatvédelmet."
+        },
+        {
+          "title": "<strong>Tesztelje a kimenetet:</strong>",
+          "desc": "Nyissa meg az egyesített PDF-et az elrendezés megerősítéséhez."
+        }
+      ]
+    },
+    "ConclusionH1": "Következtetés",
+    "conclusion": "A PDF fájlok egyesítése egyszerű, mégis hatékony módja a dokumentumkezelés egyszerűsítésének. Akár jelentéseket szervező szakember, kutatást összeállító diák, vagy személyes dokumentumokat archiváló személy, az olyan eszközök, mint a gabungPDF.id, könnyűvé teszik a <strong>PDF fájlok egyesítését</strong> online ingyen."
+  },
+  "combinePdf": {
+    "title": "PDF fájlok egyesítése",
+    "dragDrop": "Húzza ide a PDF fájlokat",
+    "clickBrowse": "vagy kattintson a böngészéshez",
+    "selectFiles": "Fájlok kiválasztása",
+    "maxSize": "Max 50MB fájlonként",
+    "combineButton": "PDF-ek egyesítése",
+    "filesCount": "PDF-ek",
+    "S1H1": "PDF Egyesítés: Hogyan kombináljunk PDF fájlokat - Tippek a PDF-ek ingyenes egyesítéséhez",
+    "S1P1": "A mai digitális világban a PDF (Portable Document Format) alapvető szerepet játszik a dokumentumok megosztásában és tárolásában. Ellentétben a Microsoft Word vagy Google Docs által készített hagyományos DOC fájlokkal, a PDF-ek megőrzik a formázást minden eszközön és operációs rendszeren. Ez az univerzális kompatibilitás ideálissá teszi őket mind szakmai, mind személyes használatra, akár jelentések, prezentációk vagy űrlapok megosztásáról van szó online.",
+    "S1P2": "Ugyanakkor a PDF-ekkel való munka néha kihívásokkal járhat, különösen akkor, ha több PDF fájlt kell egyetlen dokumentummá egyesíteni. Ebben az útmutatóban megvizsgáljuk, miért fontos a PDF-ek egyesítése, hogyan lehet ingyenesen egyesíteni őket intuitív eszközünkkel, és hogyan segíthet a dokumentumkezelési folyamat egyszerűsítésében.",
+    "S2H1": "Miért különlegesek és sokoldalúak a PDF-ek?",
+    "S2P1": "A PDF-eket úgy tervezték, hogy megőrizzék a dokumentum pontos megjelenését, függetlenül attól, hogy milyen eszközről vagy szoftverről nézik azt. Ellentétben a DOC fájlokkal, amelyek rendszer-specifikus beállításokra, például telepített betűtípusokra vagy operációs rendszer konfigurációkra támaszkodnak, a PDF-ek statikus képként működnek. Ez biztosítja, hogy a betűtípusok, elrendezések és grafikák következetesek maradjanak, így ideálisak olyan professzionális dokumentumokhoz, mint a szerződések, önéletrajzok vagy e-könyvek.",
+    "S2P2": "Ez a következetesség az oka annak, hogy a PDF-eket széles körben használják dokumentumok megosztására az interneten. Akár üzleti ajánlatot küldesz, akár fontos nyilvántartásokat archiválsz, a PDF biztosítja, hogy a címzett pontosan úgy lássa a dokumentumot, ahogyan azt szánták. Ugyanakkor ez a tulajdonság a PDF-ek szerkesztését vagy egyesítését bonyolultabbá teszi, mint a DOC fájlok esetében. Speciális szoftverek nélkül az olyan feladatok, mint oldalak hozzáadása vagy több PDF egyesítése, ijesztőnek tűnhetnek. Szerencsére az ingyenes online eszközünk leegyszerűsíti ezt a folyamatot, lehetővé téve a PDF-ek egyszerű egyesítését további szoftverek nélkül.",
+    "combine_pdf_files": {
+      "intro": "Miért egyesítsünk PDF fájlokat?",
+      "para": "A PDF fájlok egyesítése gyakori szükséglet a szakemberek, diákok és bárki számára, aki több dokumentumot kezel. Íme néhány példa, amikor hasznos lehet a PDF-ek egyesítése:",
+      "items": [
+        {
+          "title": "Átfogó jelentések készítése:",
+          "desc": "Ha több PDF jelentésed vagy fejezeted van, azok egyesítése egyetlen dokumentumba megkönnyíti a megosztást és a felülvizsgálatot."
+        },
+        {
+          "title": "Szkennelt dokumentumok archiválása:",
+          "desc": "A szkennelt PDF-ek, mint például a nyugták vagy űrlapok, gyakran egy fájlba kell, hogy legyenek egyesítve a jobb rendszerezés érdekében."
+        },
+        {
+          "title": "Prezentációk egyszerűsítése:",
+          "desc": "Ha különböző PDF-ekből egyesítesz diákokat vagy szakaszokat, az segít tisztábbá és professzionálisabbá tenni a prezentációt."
+        },
+        {
+          "title": "Fájlmegosztás egyszerűsítése:",
+          "desc": "Ahelyett, hogy több fájlt küldenél, a PDF-ek egyesítése egyetlen fájlba csökkenti a zűrzavart, és biztosítja, hogy minden információ egyetlen, könnyen hozzáférhető dokumentumban legyen."
+        }
+      ],
+      "para2": "A DOC fájlokkal ellentétben, ahol egyszerűen másolhatsz és beilleszthetsz tartalmat, a PDF-ek egyesítéséhez vagy szerkesztéséhez speciális eszközök szükségesek. Például egy szkennelt PDF-ből szöveget másolni gyakran lehetetlen optikai karakterfelismerés (OCR) szoftver nélkül. Az ingyenes PDF kombináló eszközünk eltünteti ezeket a kihívásokat, lehetővé téve akár 20 PDF egyesítését egyszerre, drága szoftverek vagy technikai szakértelem nélkül."
+    },
+    "stepbystep": {
+      "intro": "Hogyan egyesítsünk PDF fájlokat ingyen: lépésről lépésre útmutató",
+      "para": "A felhasználóbarát online eszközünk gyorsan és hatékonyan teszi lehetővé a PDF-ek egyesítését. Legyen szó két fájl vagy akár 20 fájl egyesítéséről, a folyamat egyszerű, és nincs szükség telepítésre vagy előfizetésre. Kövesd az alábbi lépéseket a PDF-ek zökkenőmentes egyesítéséhez:",
+      "items": [
+        {
+          "title": "1. lépés: Töltsd fel a PDF fájlokat",
+          "desc": "Kezdésként keresd meg az 'UPLOAD FILES' gombot az eszközünk felületén. Kattints rá, hogy kiválaszd a kívánt PDF fájlokat az eszközödről. Alternatívaként egyszerűen húzd és ejtsd ide a fájlokat az 'Húzza ide a fájlokat' területre, hogy gyorsabb legyen a folyamat. Ez különösen hasznos, ha több fájl is van, mivel időt takaríthat meg és egyszerűsítheti a folyamatot."
+        },
+        {
+          "title": "2. lépés: Rendezd el a PDF-eket",
+          "desc": "Miután feltöltötted a fájlokat, az eszközünk egy sorba rendezi őket. A fájlok sorrendje határozza meg a végső egyesített PDF felépítését. Az első fájl a kombinált dokumentum tetején lesz, a második fájl következik, és így tovább. Ha biztos akarsz lenni a helyes sorrendben, könnyedén húzhatod és átrendezheted a fájlokat a sorban."
+        },
+        {
+          "title": "3. lépés: Kombinálás és letöltés",
+          "desc": "Miután elégedett vagy a sorrenddel, kattints a COMBINE gombra. A rendszerünk azonnal egyesíti az összes feltöltött PDF-et egyetlen fájlba. A folyamat befejezése után az egyesített PDF automatikusan letöltődik az eszközödre. Az egész folyamat gyors, biztonságos, és nincs szükség további szoftverekre."
+        }
+      ],
+      "intro2": "További PDF-ek egyesítése",
+      "para2": "Több PDF-et szeretnél egyesíteni? Semmi gond! Az eszközünk lehetővé teszi, hogy további fájlokat egyesíts több lépésben. Miután az első készített egyesített PDF-et letöltötted, töltsd fel ezt az új fájlt és bármely további PDF-et, amelyet hozzá szeretnél adni. Ismételd meg a folyamatot a COMBINE gomb megnyomásával, hogy egy még nagyobb dokumentumot készíts. Ezt annyiszor megismételheted, amennyire szükséges, hogy minden fájlt tartalmazzon.",
+      "intro3": "Fontos megjegyzés: Töltsd le egy órán belül",
+      "para3": "A gördülékeny élmény érdekében töltsd le az egyesített PDF-et egy órán belül a kombinálás után. Ha nem teszed, a rendszer törli a fájlokat, és újra fel kell töltened őket, hogy újrakezdhess. Ez a funkció segít megőrizni az adatbiztonságot és felszabadítja a szervereket más felhasználók számára."
+    },
+    "benefits": {
+      "intro": "Miért válaszd ingyenes PDF kombináló eszközünket?",
+      "para": "Eszközünket egyszerűség, hozzáférhetőség és hatékonyság szem előtt tartásával terveztük. Íme, miért a legjobb választás PDF-ek egyesítésére:",
+      "items": [
+        {
+          "title": "Nincs szükség szoftver telepítésére:",
+          "desc": "A hagyományos PDF szerkesztőkkel ellentétben eszközünk teljesen webalapú, így bármely eszközről elérhető, internetkapcsolattal."
+        },
+        {
+          "title": "Ingyenes és korlátlan használat:",
+          "desc": "Akár 20 PDF-et is egyesíthetsz egyszerre bármilyen költség vagy előfizetés nélkül. Nagyobb projektekhez az előzőekben leírtak szerint több batch-ben is kombinálhatsz."
+        },
+        {
+          "title": "Felhasználóbarát felület:",
+          "desc": "A húzd és ejtsd funkció és az intuitív dizájn könnyen használhatóvá teszi mind a kezdők, mind a szakemberek számára."
+        },
+        {
+          "title": "Gyors feldolgozás:",
+          "desc": "Eszközünk másodpercek alatt egyesíti a PDF-eket, időt és energiát megtakarítva."
+        },
+        {
+          "title": "Biztonságos és megbízható:",
+          "desc": "A fájlokat biztonságosan dolgozzuk fel, és egy óra elteltével töröljük őket a szervereinkről, így megőrizzük az adatvédelem biztosítékát."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Mikor érdemes egyesíteni a PDF-eket?",
+      "para": "A PDF-ek egyesítése értékes készség különböző helyzetekben. Íme néhány gyakori eset, amikor hasznos lehet:",
+      "items": [
+        {
+          "title": "Üzleti szakemberek:",
+          "desc": "Kombinálj számlákat, szerződéseket vagy ajánlatokat egyetlen dokumentumban a könnyebb megosztás érdekében ügyfelekkel vagy kollégákkal."
+        },
+        {
+          "title": "Diákok és oktatók:",
+          "desc": "Egyesítsd az előadási jegyzeteket, kutatási dolgozatokat vagy feladatokat egy fájlba, hogy egyszerűsítsd a beadást vagy a tanulmányi anyagokat."
+        },
+        {
+          "title": "Jogi és adminisztratív feladatok:",
+          "desc": "Szervezd meg a szkennelt dokumentumokat, például szerződéseket vagy űrlapokat egyetlen PDF-be, hogy archiváld vagy jogi célokra használd."
+        },
+        {
+          "title": "Kreatív projektek:",
+          "desc": "Egyesítsd a tervezési vázlatokat, portfóliókat vagy storyboardokat egyetlen PDF-ben, hogy egy koherens dokumentumot hozz létre bemutatókhoz vagy ügyfélszemlézéshez."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Tippek a PDF-ek kezeléséhez",
+      "para": "A PDF egyesítési élmény maximális kihasználása érdekében, fontold meg ezeket a további tippeket:",
+      "items": [
+        {
+          "title": "Ellenőrizd a fájl sorrendjét:",
+          "desc": "Mindig ellenőrizd a PDF-ek sorrendjét, mielőtt egyesítenéd őket, hogy később ne kelljen újrarendezni az oldalakat."
+        },
+        {
+          "title": "Optimalizáld a fájl méretét:",
+          "desc": "Ha a PDF-ek nagy képeket vagy grafikákat tartalmaznak, fontold meg azok tömörítését azelőtt, hogy feltöltenéd őket, hogy csökkentsd a végső fájl méretét."
+        },
+        {
+          "title": "Használj leíró fájlneveket:",
+          "desc": "Nevezd át a PDF-eket világos, leíró nevekkel (például: Report_Section1.pdf), hogy a kombinálás során is rendezetten tudd tartani őket."
+        },
+        {
+          "title": "Készíts biztonsági másolatot az eredeti fájlokról:",
+          "desc": "Tarts biztonsági másolatot az eredeti PDF-ekről, ha szükséged lenne később módosítani őket vagy újra egyesíteni."
+        },
+        {
+          "title": "Fedezd fel a további eszközöket:",
+          "desc": "Ha szerkesztened, konvertálnod vagy tömörítened kell a PDF-eket, nézd meg más ingyenes eszközeinket is a platformunkon, hogy egy teljes dokumentumkezelési megoldást találj."
+        }
+      ]
+    },
+    "why_choose": "Miért válaszd eszközünket a fizetős alternatívák helyett?",
+    "why_choose_para": "Bár a fizetős PDF szerkesztők, mint az Adobe Acrobat, fejlettebb funkciókat kínálnak, ingyenes eszközünk tökéletes megoldást kínál a legtöbb felhasználó számára. Nem szükséges drága szoftverekre vagy előfizetésre költeni a PDF-ek egyesítéséhez. A Gabung PDF.id mindenki számára elérhető, a kisvállalkozóktól kezdve a diákokig, és professzionális eredményeket nyújt bonyolultság nélkül.",
+    "why_choose_para2": "Továbbá, platformunk a sebesség és a kényelem érdekében van optimalizálva. Akár asztali számítógépen, táblagépen vagy okostelefonon dolgozol, bárhol egyesítheted a PDF-eket kompatibilitási problémák nélkül. Ez a rugalmasság ideálissá teszi eszközünket azok számára, akik gyors, megbízható eredményeket szeretnének, bármilyen nehézség nélkül.",
+    "conclusion": "Befejezés",
+    "conclusion_para": "A PDF dokumentumok egyesítése nem kell, hogy bonyolult vagy drága legyen. Az ingyenes, webalapú PDF kombinálónkkal akár 20 PDF-et is egyesíthetsz, könnyedén átrendezheted őket, és néhány másodperc alatt egy koherens fájlt tölthetsz le. Legyen szó jelentések rendszerezéséről, szkennelt dokumentumok archiválásáról vagy prezentációk készítéséről, eszközünk egyszerűsíti a folyamatot, anélkül, hogy további szoftverekre vagy technikai tudásra lenne szükség."
+  },
+  "blog": {
+    "title": "PDF tippek, oktatóanyagok és útmutatók",
+    "description": "Sajátítsa el a PDF kezelést szakértői útmutatókkal, gyakorlati tippekkel és lépésről lépésre szóló oktatóanyagokkal.",
+    "searchPlaceholder": "Cikkek, oktatóanyagok és útmutatók keresése...",
+    "articles": "Cikkek",
+    "readers": "Olvasók",
+    "available": "Elérhető",
+    "featuredArticle": "Kiemelt cikk",
+    "mostPopular": "Legnépszerűbb ezen a héten",
+    "readArticle": "Cikk olvasása",
+    "readFull": "Teljes cikk olvasása",
+    "minRead": "perc olvasás",
+    "featureblog": {
+      "title": "Legnépszerűbb a héten",
+      "subtitle": "⭐ Kiemelt cikk",
+      "featuredArticle": {
+        "date": "2025. július 2.",
+        "author": "Admin Felhasználó",
+        "category": "Kiemelt cikk",
+        "headline": "GabungPDF.id: A legegyszerűbb módja a PDF fájlok egyesítésének",
+        "excerpt": "Egyszerűen egyesítheti a PDF fájlokat a GabungPDF.id segítségével, az ingyenes online PDF egyesítővel. PDF-ek biztonságos egyesítése másodpercek alatt, szoftver nélkül. Növelje a hatékonyságát most!",
+        "readTime": "3 perc olvasás",
+        "buttonName": "Teljes cikk elolvasása"
+      }
+    },
+    "blogsPage": {
+      "cards": [
+        {
+          "BlogImage": "/Blog1Image.webp",
+          "date": "2025. június 2.",
+          "author": "Adminisztrátor",
+          "category": null,
+          "headline": "GabungPDF.id: A végső eszköz PDF fájlok egyesítéséhez",
+          "headlineLink": "/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "excerpt": "Egyesítsd PDF fájljaid könnyedén a GabungPDF.id segítségével, az ingyenes online PDF egyesítővel. Biztonságosan egyesítheted PDF-jeidet másodpercek alatt — szoftver nélkül. Próbáld ki most!",
+          "readTime": "3 perc olvasás",
+          "readMoreText": "blog.olvasdElACikket",
+          "slug": "gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "detail": {
+            "intro": "A GabungPDF.id egy felhasználóbarát, webalapú eszköz, amely segít PDF fájlok egyszerű és gyors egyesítésében. Legyen szó profi felhasználóról vagy kezdőről, platformunk mindenki számára készült. Íme, miért emelkedik ki a GabungPDF.id a PDF egyesítők közül:",
+            "features": [
+              {
+                "title": "Ingyenes és bárki számára elérhető",
+                "description": "Nincsenek előfizetések vagy rejtett díjak — csak töltsd fel és egyesítsd."
+              },
+              {
+                "title": "Nincs szükség szoftver telepítésére",
+                "description": "Eszközünk teljesen online működik, helyet spórolva az eszközödön."
+              },
+              {
+                "title": "Gyors és biztonságos",
+                "description": "Másodpercek alatt egyesíti a PDF-eket, miközben erős titkosítás védi a fájljaid."
+              },
+              {
+                "title": "Felhasználóbarát felület",
+                "description": "Csak húzd be, dobd le, és pár kattintással egyesítsd a fájlokat."
+              }
+            ],
+            "intro2": "Készen állsz egyszerűsíteni dokumentumkezelésed? Lássuk, hogyan használhatod PDF egyesítőnket néhány lépésben.",
+            "how_to_use": {
+              "title": "Hogyan egyesíts PDF fájlokat a GabungPDF.id segítségével",
+              "paragraph": "PDF-ek egyesítése a GabungPDF.id-vel olyan egyszerű, mint az 1-2-3. Kövesd az alábbi lépéseket egy tökéletes, egységes PDF dokumentum létrehozásához:",
+              "steps": [
+                {
+                  "title": "Töltsd fel a fájljaid",
+                  "description": "Látogass el a https://gabungpdf.id/ oldalra, majd kattints az „Upload” gombra. Válaszd ki az eszközödről azokat a PDF fájlokat, amelyeket össze szeretnél vonni. Több fájl feltöltése egyszerre is lehetséges."
+                },
+                {
+                  "title": "Rendezés sorrend szerint",
+                  "description": "Egyszerű húzással rendezd a fájlokat a kívánt sorrendbe. Ez biztosítja, hogy a végleges dokumentum logikusan következzen."
+                },
+                {
+                  "title": "Egyesítés és letöltés",
+                  "description": "Kattints az „Merge PDF” gombra, és eszközünk egyetlen fájlba egyesíti a dokumentumaid. A folyamat végeztével azonnal letöltheted az új PDF-et."
+                }
+              ],
+              "note": "Ennyi az egész! Nem kell bonyolult beállításokkal bajlódnod. Akár kettő, akár húsz fájlt egyesítesz, a GabungPDF.id könnyedén kezeli."
+            },
+            "benefits": {
+              "title": "Az online PDF egyesítő előnyei",
+              "paragraph": "Az olyan online PDF egyesítő választása, mint a GabungPDF.id, számos előnyt nyújt a hagyományos szoftverekkel vagy kézi módszerekkel szemben. Íme, miért számít úttörő megoldásnak:",
+              "items": [
+                {
+                  "title": "Időmegtakarítás és kényelem",
+                  "description": "Asztali szoftverrel manuálisan egyesíteni PDF-eket időigényes lehet, ráadásul gyakran drága licencet igényel. A GabungPDF.id segítségével másodpercek alatt egyesíthetsz PDF fájlokat bármilyen eszközről, amely csatlakozik az internethez – legyen az laptop, tablet vagy okostelefon."
+                },
+                {
+                  "title": "Biztonságos fájlkezelés",
+                  "description": "Aggódsz a biztonság miatt? Platformunk fejlett titkosítást alkalmaz, hogy fájljaid biztonságban legyenek az egyesítés során. A letöltés után töröljük a fájlokat szervereinkről, hogy megvédjük az adataid."
+                },
+                {
+                  "title": "Költséghatékony megoldás",
+                  "description": "Miért fizetnél drága PDF szerkesztő szoftverért? A GabungPDF.id teljesen ingyenes, így tökéletes megoldás diákoknak, szabadúszóknak és kisvállalkozásoknak, akik költséghatékonyan szeretnének PDF-et egyesíteni."
+                },
+                {
+                  "title": "Platformfüggetlen működés",
+                  "description": "Akár Windows, macOS, iOS vagy Android rendszert használsz, webes PDF egyesítőnk minden platformon tökéletesen működik. Nem kell kompatibilitási problémák miatt aggódnod."
+                }
+              ]
+            },
+            "optimization_tips": {
+              "title": "Tippek az egyesített PDF-ek optimalizálásához",
+              "paragraph": "A legjobb eredmény érdekében az egyesített PDF-jeidhez fogadd meg ezeket a tippeket:",
+              "tips": [
+                {
+                  "title": "Ellenőrizd a fájlok sorrendjét",
+                  "description": "Egyesítés előtt helyezd el a PDF-eket a kívánt sorrendben, hogy elkerüld az újrakészítést."
+                },
+                {
+                  "title": "Optimalizáld a fájlméretet",
+                  "description": "Ha PDF-jeid nagy képeket tartalmaznak, tömörítsd őket feltöltés előtt a végleges fájlméret csökkentése érdekében."
+                },
+                {
+                  "title": "Nevezd el a fájlokat egyértelműen",
+                  "description": "Használj beszédes fájlneveket, hogy később könnyen megtaláld őket."
+                },
+                {
+                  "title": "Ellenőrizd az eredményt",
+                  "description": "Egyesítés után nézd át az elkészült PDF-et, hogy minden tökéletesen nézzen ki."
+                }
+              ],
+              "paragraph2": "A GabungPDF.id segítségével biztos lehetsz benne, hogy a PDF fájlokat gyorsan és rendezett módon egyesítheted."
+            },
+            "audience": {
+              "title": "Kiknek ajánlott a GabungPDF.id?",
+              "paragraph": "PDF egyesítő eszközünk széles körű felhasználásra készült, többek között:",
+              "users": [
+                {
+                  "type": "Diákok",
+                  "description": "Egyesítsd jegyzeteidet, beadandóidat vagy kutatási anyagaidat egy fájlba."
+                },
+                {
+                  "type": "Szakemberek",
+                  "description": "Egyesíts jelentéseket, javaslatokat vagy szerződéseket az egyszerűbb kommunikáció érdekében."
+                },
+                {
+                  "type": "Kisvállalkozások",
+                  "description": "Rendezheted számláid, bizonylataid vagy marketing anyagaid egy dokumentumba."
+                },
+                {
+                  "type": "Szabadúszók",
+                  "description": "Egyesíts portfóliókat, számlákat vagy projektanyagot ügyfeleid számára."
+                }
+              ],
+              "paragraph2": "Bármi legyen is az igényed, a GabungPDF.id a megbízható partnered minden PDF-fel kapcsolatos feladatban."
+            },
+            "why_choose_us": {
+              "title": "Miért válaszd a GabungPDF.id-t más PDF egyesítőkkel szemben?",
+              "paragraph": "Számos eszköz létezik, de miért éppen a GabungPDF.id a legjobb választás a PDF-ek egyesítéséhez? Íme, mi különböztet meg minket:",
+              "reasons": [
+                {
+                  "title": "Gyorsaság",
+                  "description": "Nincs tanulási görbe — csak töltsd fel, egyesítsd és töltsd le."
+                },
+                {
+                  "title": "Megbízhatóság",
+                  "description": "Stabil működés összeomlás és hibák nélkül."
+                },
+                {
+                  "title": "Elérhetőség",
+                  "description": "Éjjel-nappal, bárhonnan elérhető."
+                }
+              ],
+              "paragraph2": "Ne pazarold az időd bonyolult szoftverekkel vagy megbízhatatlan eszközökkel. Próbáld ki a GabungPDF.id-t még ma, és tapasztald meg a PDF-ek legegyszerűbb egyesítését!"
+            },
+            "conclusion": {
+              "title": "Összefoglalás: Egyszerűsítsd munkafolyamataid a GabungPDF.id-vel",
+              "paragraph": "A PDF-ek egyesítése nem kell, hogy nehézkes legyen. A GabungPDF.id-vel könnyedén kombinálhatod a fájlokat, időt spórolhatsz és rendezetten tarthatod dokumentumaid. Ingyenes, biztonságos és felhasználóbarát eszközünk tökéletes választás mindenkinek, aki egyszerűsíteni szeretné munkáját. Akár jelentéseket, jegyzeteket vagy szerződéseket egyesítesz, eszközünk mindig profi eredményt nyújt. Készen állsz?",
+              "cta": {
+                "text": "Látogass el ide: gabungpdf.id/combine-pdf",
+                "link": "https://gabungpdf.id/combine-pdf"
+              },
+              "Remaingparagraph": "Mostantól néhány kattintással egyesítheted PDF fájljaid. Egyszerűsítsd dokumentumkezelésed ma a GabungPDF.id segítségével — a végső PDF egyesítőddel!"
+            }
+          }
+        },
+        {
+          "BlogImage": "/FeatureBlogImage.webp",
+          "date": "2025. július 2.",
+          "author": "Admin User",
+          "category": "Kiemelt cikk",
+          "headline": "GabungPDF.id: A legegyszerűbb módja a PDF fájlok egyesítésének",
+          "excerpt": "Egyszerűen egyesítse PDF fájljait a GabungPDF.id segítségével, az ingyenes online PDF egyesítővel. Egyesítse biztonságosan PDF-jeit másodpercek alatt, szoftver telepítése nélkül. Növelje a hatékonyságát még ma!",
+          "readTime": "3 perc olvasás",
+          "buttonName": "Teljes cikk elolvasása",
+          "slug": "gabungpdfid-the-easiest-way-to-combine-pdf-files",
+          "detail": {
+            "intro": "Egy olyan világban, ahol az idő pénz, a hatékony dokumentumkezelés döntő különbséget jelenthet. Legyen szó több jelentés kezeléséről, ügyfélszerződések rendszerezéséről vagy projektfájlok összegyűjtéséről, egy megbízható PDF egyesítő átalakíthatja a munkafolyamatot. Ismerje meg a GabungPDF.id-t, egy ingyenes online eszközt, amely gyorsan és zökkenőmentesen egyesíti PDF fájljait. Ebben a cikkben megvizsgáljuk, hogyan segít a GabungPDF.id egyszerűen PDF fájlokat egyesíteni, és miért ez a legjobb megoldás szakemberek, diákok és vállalkozások számára.",
+            "why_merge_pdf": {
+              "title": "Miért érdemes PDF fájlokat egyesíteni?",
+              "paragraph": "A PDF az elsődleges formátum a professzionális dokumentumok megosztására, de több fájl kezelése lelassíthatja a munkát. A PDF-ek egyetlen, jól szervezett dokumentumba való egyesítése időt takarít meg, csökkenti a káoszt és javítja a rendszerezettséget. Íme néhány ok, amiért érdemes PDF fájlokat egyesíteni:",
+              "reasons": [
+                {
+                  "title": "Egyszerűbb megosztás",
+                  "description": "Küldjön egy fájlt több csatolmány helyett, hogy könnyebb legyen az együttműködés."
+                },
+                {
+                  "title": "Dokumentumok rendszerezése",
+                  "description": "Egyesítse számláit, űrlapjait vagy jegyzeteit egyetlen könnyen elérhető PDF-be."
+                },
+                {
+                  "title": "Professzionális prezentációk",
+                  "description": "Egyesítse a diákat, kéziratokat és jegyzeteket egyetlen letisztult dokumentumba."
+                },
+                {
+                  "title": "Egyszerűsített archiválás",
+                  "description": "Kapcsolódó fájlok konszolidálása a hatékony tárolás és visszakeresés érdekében."
+                }
+              ],
+              "note": "A GabungPDF.id-vel néhány kattintással egyesítheti PDF fájljait, így a dokumentumkezelés gyerekjáték lesz."
+            },
+            "features": {
+              "title": "Miért a GabungPDF a legjobb PDF egyesítő?",
+              "paragraph": "A GabungPDF.id-nél egy gyors, ingyenes és bárki számára hozzáférhető eszközt hoztunk létre. Legyen szó asztali gépről, tabletről vagy okostelefonról, PDF egyesítőnk professzionális eredményeket nyújt, felesleges bonyodalmak nélkül. Íme, miért szeretik a felhasználók a GabungPDF.id-t:",
+              "items": [
+                {
+                  "title": "Teljesen ingyenes",
+                  "description": "Nincs előfizetés, nincsenek rejtett költségek – csak egyesítsen és haladjon tovább."
+                },
+                {
+                  "title": "Nincs szükség szoftverre",
+                  "description": "Webalapú eszközünk azonnal működik, letöltés nélkül."
+                },
+                {
+                  "title": "Biztonságos feldolgozás",
+                  "description": "Fájljait titkosítással védjük, és használat után töröljük."
+                },
+                {
+                  "title": "Intuitív felület",
+                  "description": "Egyszerű kezelőfelület teszi mindenki számára könnyen használhatóvá a PDF egyesítést."
+                }
+              ],
+              "next": "Készen áll hatékonyságának növelésére? Nézzük meg, hogyan használhatja eszközünket a PDF fájlok egyesítésére percek alatt."
+            },
+            "how_to_use": {
+              "title": "Hogyan használja a GabungPDF.id-t PDF fájlok egyesítésére",
+              "paragraph": "A PDF-ek egyesítése a GabungPDF segítségével egyszerű, és nem igényel technikai ismereteket. Kövesse az alábbi lépéseket:",
+              "steps": [
+                {
+                  "title": "Töltse fel PDF fájljait",
+                  "description": "Lépjen a https://gabungpdf.id/ oldalra, és válassza ki az egyesíteni kívánt PDF fájlokat. Több fájlt is feltölthet egyszerre az eszközéről."
+                },
+                {
+                  "title": "Rendezze igény szerint",
+                  "description": "Használja a húzd-és-vidd funkciót a fájlok kívánt sorrendbe állításához."
+                },
+                {
+                  "title": "Egyesítés és mentés",
+                  "description": "Kattintson a „PDF egyesítése” gombra, és eszközünk egy fájlba egyesíti az összeset. Azonnal letöltheti az egyesített PDF-et."
+                }
+              ],
+              "note": "Ennyire egyszerű! Akár kettő, akár több tucat fájlt egyesít, a GabungPDF.id zökkenőmentes és problémamentes élményt biztosít."
+            },
+            "top_benefits": {
+              "title": "A GabungPDF.id használatának legfőbb előnyei",
+              "paragraph": "Egy online PDF egyesítő, például a GabungPDF.id választása páratlan kényelmet és hatékonyságot kínál. Íme, miért tűnik ki eszközünk:",
+              "items": [
+                {
+                  "title": "Idő- és energiatakarékos",
+                  "description": "A kézi egyesítés vagy a bonyolult szoftverek használata fejfájást okozhat. A GabungPDF.id lehetővé teszi a PDF fájlok másodpercek alatti egyesítését, így több idő marad a fontosabb feladatokra."
+                },
+                {
+                  "title": "Fokozott biztonság",
+                  "description": "Elsőbbséget élvez az adatvédelem. Platformunk biztonságos titkosítást használ a fájlok védelme érdekében az egyesítési folyamat során, majd azok törlésre kerülnek."
+                },
+                {
+                  "title": "Pénztárcabarát",
+                  "description": "Miért fizetne drága PDF szoftverért? A GabungPDF.id 100%-ban ingyenes, tökéletes diákok, szabadúszók és kisvállalkozások számára, akik költségmentesen szeretnének PDF-eket egyesíteni."
+                },
+                {
+                  "title": "Univerzális hozzáférés",
+                  "description": "Eszközünk bármely böngészővel rendelkező eszközön működik, legyen az Windows, macOS, iOS vagy Android. PDF-ek egyesítése bárhol, bármikor."
+                }
+              ]
+            },
+            "audience": {
+              "title": "Kik számára ajánlott a GabungPDF.id?",
+              "paragraph": "PDF egyesítőnk elég sokoldalú ahhoz, hogy széles körű igényeket kielégítsen:",
+              "users": [
+                {
+                  "type": "Diákok",
+                  "description": "Egyesítse tananyagait, esszéit vagy kutatási munkáit egy fájlba az egyszerű beadáshoz."
+                },
+                {
+                  "type": "Üzleti szakemberek",
+                  "description": "Egyesítse szerződéseit, ajánlatait vagy jelentéseit az egyszerűbb ügyfélkommunikáció érdekében."
+                },
+                {
+                  "type": "Szabadúszók",
+                  "description": "Készítsen professzionális portfóliókat, vagy egyesítse számláit az ügyfeleknek való benyújtáshoz."
+                },
+                {
+                  "type": "Kisvállalkozások",
+                  "description": "Rendszerezze számláit, marketinganyagait vagy jogi dokumentumait egyetlen PDF-be."
+                }
+              ],
+              "note": "Bármilyen szerepkörben dolgozik, a GabungPDF.id megkönnyíti a dokumentumkezelést."
+            },
+            "pro_tips": {
+              "title": "Profi tippek PDF-ek profi egyesítéséhez",
+              "paragraph": "A legtöbbet szeretné kihozni PDF egyesítő eszközéből? Tartsa szem előtt ezeket a tippeket:",
+              "tips": [
+                {
+                  "title": "Tervezze meg a fájlok sorrendjét",
+                  "description": "Logikus sorrendbe rendezze a PDF-eket az egyesítés előtt, így időt spórolhat."
+                },
+                {
+                  "title": "Tömörítse a nagy fájlokat",
+                  "description": "Csökkentse a fájlméretet feltöltés előtt a gyorsabb feldolgozás érdekében."
+                },
+                {
+                  "title": "Ellenőrizze az eredményt",
+                  "description": "Tekintse meg előzetesen az egyesített PDF-et, hogy megfelel-e az elvárásainak."
+                },
+                {
+                  "title": "Mentse el a GabungPDF.id-t",
+                  "description": "Mentse el oldalunkat, hogy bármikor gyorsan hozzáférjen, ha PDF egyesítésre van szüksége."
+                }
+              ]
+            },
+            "why_stand_out": {
+              "title": "Miért emelkedik ki a GabungPDF.id a PDF egyesítők közül?",
+              "paragraph": "A számos elérhető PDF egyesítő közül a GabungPDF.id egyszerűségével, gyorsaságával és megbízhatóságával tűnik ki. Más eszközökkel ellentétben nem igényel regisztrációt vagy letöltést, platformunk azonnal használható. Emellett elkötelezettek vagyunk a biztonság mellett, így fájljai mindig biztonságban vannak. Ne hagyja, hogy a szétszórt PDF-ek lelassítsák. Látogasson el még ma a https://gabungpdf.id/ oldalra, és fedezze fel a PDF-ek egyesítésének legegyszerűbb módját."
+            },
+            "conclusion": {
+              "title": "Összefoglalás: Egyszerűsítse dokumentumait a GabungPDF.id segítségével",
+              "paragraph": "A több PDF kezelése nem kell, hogy nehézséget jelentsen. A GabungPDF.id-vel gyorsan, biztonságosan és ingyen egyesítheti PDF fájljait. Felhasználóbarát PDF egyesítőnk célja, hogy növelje produktivitását, legyen Ön diák, szakember vagy vállalkozó. Mondjon búcsút a dokumentumkáosznak, és köszöntse a rendezett, professzionális PDF-eket. Próbálja ki most a GabungPDF.id-t a gabungpdf.id/combine-pdf oldalon, és tapasztalja meg a PDF egyesítés leggyorsabb módját. Tegye egyszerűbbé munkafolyamatait még ma!"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "A legegyszerűbb módja több PDF fájl egy dokumentummá egyesítésének. Gyors, biztonságos és teljesen ingyenes használat.",
+    "contact": "Kapcsolat:",
+    "quickLinks": "Gyors linkek",
+    "privacyPolicy": "Adatvédelmi szabályzat",
+    "termsOfService": "Szolgáltatási feltételek",
+    "allRights": "Minden jog fenntartva"
+  },
+  "privacy": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Tartalomjegyzék",
+        "items": [
+          {
+            "icon": "👁️",
+            "label": "Áttekintés",
+            "target": "Overview"
+          },
+          {
+            "icon": "📊",
+            "label": "Gyűjtött információk",
+            "target": "information-collection"
+          },
+          {
+            "icon": "🔧",
+            "label": "Hogyan használjuk az adataidat",
+            "target": "how-we-use"
+          },
+          {
+            "icon": "🗄️",
+            "label": "Adatmegőrzés és törlés",
+            "target": "data-retention"
+          },
+          {
+            "icon": "🤝",
+            "label": "Adatmegosztás",
+            "target": "data-sharing"
+          },
+          {
+            "icon": "🔒",
+            "label": "Adatbiztonság",
+            "target": "data-security"
+          },
+          {
+            "icon": "🌍",
+            "label": "Nemzetközi adattovábbítás",
+            "target": "international-transfers"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Jogosultságaid",
+            "target": "your-rights"
+          },
+          {
+            "icon": "🔗",
+            "label": "Harmadik fél hivatkozások",
+            "target": "third-party-links"
+          },
+          {
+            "icon": "👶",
+            "label": "Gyermekek adatainak védelme",
+            "target": "children"
+          },
+          {
+            "icon": "🔄",
+            "label": "Adatvédelmi irányelvek módosítása",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Kapcsolatfelvétel",
+            "target": "contact"
+          }
+        ]
+      },
+      "privacySummary": {
+        "title": "Adatvédelmi összefoglaló",
+        "points": [
+          "Fájlok törlése 1 órán belül",
+          "Nem tároljuk dokumentumaidat",
+          "Minimális adatgyűjtés",
+          "Végponttól végpontig titkosítás"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "Overview",
+        "icon": "👁️",
+        "title": "Áttekintés",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "A www.gabungpdf.id (\"a webhely\") üzemeltetője, a Gabung PDF (\"mi\"), elkötelezett az Ön adatainak védelme iránt. Ez az adatvédelmi szabályzat elmagyarázza, hogyan gyűjtjük, használjuk és védjük adatait a PDF egyesítési szolgáltatás használata során. A webhely használatával elfogadja ezt az adatvédelmi szabályzatot."
+          },
+          {
+            "type": "highlight",
+            "title": "Fő alapelvünk:",
+            "text": "Az Ön fájljait kizárólag szolgáltatásunk nyújtása céljából dolgozzuk fel, és azokat automatikusan töröljük egy órán belül. Nem férünk hozzá, nem vizsgáljuk át és nem tároljuk fájljai tartalmát ezen időtartamon túl."
+          }
+        ]
+      },
+      {
+        "id": "information-collection",
+        "icon": "📊",
+        "title": "Gyűjtött információk",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Felhasználók által feltöltött fájlok",
+            "text": "Szolgáltatásunk használata során PDF fájlokat tölt fel egyesítés céljából. Ezek a fájlok tartalmazhatnak személyes adatokat, de nem férünk hozzá, nem vizsgáljuk át és nem tároljuk azokat a szükséges feldolgozási időn túl."
+          },
+          {
+            "type": "subsection",
+            "title": "Automatikusan gyűjtött adatok",
+            "text": "Nem személyes adatok gyűjtésére is sor kerülhet, például:",
+            "list": [
+              "Eszköz információ (pl. böngészőtípus, operációs rendszer, IP-cím)",
+              "Használati adatok (pl. meglátogatott oldalak, a webhelyen töltött idő, interakciók a szolgáltatással)"
+            ]
+          },
+          {
+            "type": "subsection",
+            "title": "Sütik és nyomkövetés",
+            "text": "Sütiket vagy hasonló technológiákat használhatunk a felhasználói élmény javítására és a webhelyhasználat elemzésére. A sütik kezelését böngésző beállításaiban szabályozhatja."
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "icon": "🔧",
+        "title": "Hogyan használjuk az adataidat",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Szolgáltatás nyújtása",
+            "text": "Az Ön által feltöltött PDF fájlokat kizárólag egyetlen PDF-be történő egyesítés céljából dolgozzuk fel, és biztosítjuk a letöltési hivatkozást."
+          },
+          {
+            "type": "subsection",
+            "title": "Webhely fejlesztése",
+            "text": "Nem személyes adatokat (pl. használati statisztikákat) használunk a webhely működésének és teljesítményének javítására."
+          },
+          {
+            "type": "subsection",
+            "title": "Jogszabályi megfelelés",
+            "text": "Jogszabályi kötelezettség esetén az információkat felhasználhatjuk vagy kiadhatjuk, illetve jogaink, biztonságunk vagy tulajdonunk védelmében."
+          }
+        ]
+      },
+      {
+        "id": "data-retention",
+        "icon": "🗄️",
+        "title": "Adatmegőrzés és törlés",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Feltöltött fájlok",
+            "text": "Minden feltöltött PDF fájl és az egyesített PDF egy órán belül automatikusan törlésre kerül szervereinkről. Fájlokról másolatot nem őrzünk meg."
+          },
+          {
+            "type": "subsection",
+            "title": "Egyéb adatok",
+            "text": "Nem személyes adatokat (pl. használati statisztikákat) addig őrzünk meg, amíg szükséges a webhely fejlesztése vagy jogi kötelezettségeink teljesítése céljából."
+          }
+        ]
+      },
+      {
+        "id": "data-sharing",
+        "icon": "🤝",
+        "title": "Adatmegosztás",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Nincs harmadik félnek továbbítás",
+            "text": "Nem értékesítjük, nem osztjuk meg és nem adjuk át feltöltött fájljait vagy személyes adatait harmadik feleknek, kivéve jogszabályi kötelezettség esetén vagy jogaink védelmében."
+          },
+          {
+            "type": "subsection",
+            "title": "Szolgáltatók",
+            "text": "Harmadik fél szolgáltatókat (pl. tárhelyszolgáltatók, analitikai szolgáltatók) vehetünk igénybe a webhely működtetéséhez. Ezeket a szolgáltatókat titoktartási kötelezettség köti, és kizárólag a mi nevünkben kezelhetik az adatokat."
+          }
+        ]
+      },
+      {
+        "id": "data-security",
+        "icon": "🔒",
+        "title": "Adatbiztonság",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Ésszerű technikai és szervezeti intézkedéseket alkalmazunk az adatai védelme érdekében illetéktelen hozzáférés, elvesztés vagy visszaélés ellen. Azonban semmilyen online szolgáltatás nem teljesen biztonságos, ezért nem tudjuk garantálni az abszolút biztonságot."
+          }
+        ]
+      },
+      {
+        "id": "international-transfers",
+        "icon": "🌍",
+        "title": "Nemzetközi adattovábbítás",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Ha Ön Indonézián kívül tartózkodik, adatai továbbításra és feldolgozásra kerülhetnek Indonéziában vagy más olyan országban, ahol szervereink vagy szolgáltatóink találhatók. Gondoskodunk a megfelelő védelmi intézkedésekről ezekben az esetekben."
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "icon": "⚖️",
+        "title": "Jogosultságaid",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Tartózkodási helyétől függően jogai lehetnek az alkalmazandó adatvédelmi jogszabályok szerint, például:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Adathozzáférés vagy törlés kérése",
+              "Bizonyos adatkezelés elleni tiltakozás vagy korlátozás"
+            ]
+          },
+          {
+            "type": "highlight",
+            "text": "Jogai gyakorlásához vegye fel velünk a kapcsolatot az admin@gabungpdf.id címen. Felhívjuk figyelmét, hogy mivel az adatokat egy órán belül töröljük, lehet, hogy nem rendelkezünk megőrzött személyes adatokkal."
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "icon": "🔗",
+        "title": "Harmadik fél hivatkozások",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "A webhely harmadik fél weboldalaira mutató hivatkozásokat tartalmazhat. Nem vállalunk felelősséget ezek adatvédelmi gyakorlatáért vagy tartalmáért."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "icon": "👶",
+        "title": "Gyermekek adatainak védelme",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "A webhely 18 év alatti felhasználók számára nem készült. Nem gyűjtünk tudatosan személyes adatokat gyermekektől."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Adatvédelmi irányelvek módosítása",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Időről időre frissíthetjük ezt az adatvédelmi irányelvet. A módosításokat ezen az oldalon tesszük közzé frissített \"Utolsó frissítés\" dátummal."
+          },
+          {
+            "type": "highlight",
+            "text": "A webhely további használata a változások után az új adatvédelmi irányelvek elfogadásának minősül."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Kapcsolatfelvétel",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Ha kérdése van az adatvédelmi irányelveinkkel kapcsolatban, kérjük, írjon az admin@gabungpdf.id e-mail címre."
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Adatvédelmi Elkötelezettségünk",
+      "desc": "Komolyan vesszük az adatvédelmedet. Ez teszi szolgáltatásunkat megbízhatóvá:",
+      "points": [
+        {
+          "title": "Automatikus Törlés",
+          "desc": "A fájlok automatikusan törlődnek 1 órán belül"
+        },
+        {
+          "title": "Titkosított Átvitel",
+          "desc": "Minden feltöltés biztonságos HTTPS titkosítást használ"
+        },
+        {
+          "title": "Nem Olvassuk a Fájlokat",
+          "desc": "Sosem férünk hozzá vagy olvassuk a fájljaid tartalmát"
+        },
+        {
+          "title": "Nincs Megosztás",
+          "desc": "A fájljaidat soha nem osztjuk meg harmadik féllel"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Kérdése van?",
+      "description": "Segítünk bármilyen adatvédelmi kérdésben.",
+      "links": [
+        {
+          "label": "Felhasználási feltételek",
+          "href": "/terms-of-service",
+          "icon": "📄"
+        },
+        {
+          "label": "Kapcsolatfelvétel",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Terms": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Tartalomjegyzék",
+        "items": [
+          {
+            "icon": "✅",
+            "label": "Feltételek elfogadása",
+            "target": "acceptance"
+          },
+          {
+            "icon": "🔧",
+            "label": "Weboldal használata",
+            "target": "use-of-site"
+          },
+          {
+            "icon": "📁",
+            "label": "Felhasználói fájlok",
+            "target": "user-files"
+          },
+          {
+            "icon": "©️",
+            "label": "Szellemi tulajdon",
+            "target": "intellectual-property"
+          },
+          {
+            "icon": "⚠️",
+            "label": "Felelősség korlátozása",
+            "target": "limitation-liability"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Kártalanítás",
+            "target": "indemnification"
+          },
+          {
+            "icon": "🚫",
+            "label": "Felmondás",
+            "target": "termination"
+          },
+          {
+            "icon": "🏛️",
+            "label": "Irányadó jog",
+            "target": "governing-law"
+          },
+          {
+            "icon": "🔄",
+            "label": "Feltételek módosítása",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Kapcsolatfelvétel",
+            "target": "contact"
+          }
+        ]
+      },
+      "termsSummary": {
+        "title": "Feltételek összefoglalása",
+        "points": [
+          "Ingyenes PDF egyesítési szolgáltatás",
+          "Használathoz 18 év felett kell lenni",
+          "Fájlok törlése 1 órán belül",
+          "Csak jogszerű célokra használható"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "acceptance",
+        "icon": "✅",
+        "title": "Feltételek elfogadása",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Üdvözöljük a www.gabungpdf.id oldalon (\"Weboldal\"), amelyet a Gabung PDF (\"mi\", \"minket\" vagy \"miénk\") üzemeltet. Ezek a Felhasználási feltételek (\"Feltételek\") szabályozzák a Weboldal és annak PDF egyesítő szolgáltatásának használatát. A Weboldal használatával Ön elfogadja ezeket a Feltételeket."
+          },
+          {
+            "type": "highlight",
+            "title": "Fontos megállapodás:",
+            "text": "Ha nem ért egyet ezekkel a Feltételekkel, kérjük, ne használja a Weboldalt."
+          }
+        ]
+      },
+      {
+        "id": "use-of-site",
+        "icon": "🔧",
+        "title": "Weboldal használata",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Jogosultság",
+            "text": "Legalább 18 évesnek kell lennie, vagy jogi képességgel kell rendelkeznie ezen Feltételek elfogadásához a Weboldal használatához."
+          },
+          {
+            "type": "subsection",
+            "title": "Megengedett használat",
+            "text": "A Weboldal lehetővé teszi PDF fájlok feltöltését, azok egyesítését egyetlen PDF-be, majd az eredmény letöltését. A Weboldalt kizárólag jogszerű célokra és a Feltételeknek megfelelően használhatja."
+          },
+          {
+            "type": "subsection",
+            "title": "Tiltott használat",
+            "text": "Nem megengedett:",
+            "list": [
+              "Vírusokat, rosszindulatú programokat vagy egyéb káros kódot tartalmazó fájlok feltöltése",
+              "A Weboldal használata jogszabályok, előírások vagy harmadik felek jogainak megsértésére",
+              "A Weboldal működésének megzavarása, megakadályozása vagy visszafejtése",
+              "A Weboldal kereskedelmi célú használata előzetes írásbeli engedélyünk nélkül"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "user-files",
+        "icon": "📁",
+        "title": "Felhasználói fájlok",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Ideiglenes feldolgozás",
+            "text": "A feltöltött fájlokat a PDF-ek egyesítése céljából dolgozzuk fel, és automatikusan töröljük szervereinkről az egyesítést követő egy (1) órán belül. A fájlokat ezt követően nem tároljuk vagy őrizzük meg."
+          },
+          {
+            "type": "subsection",
+            "title": "Az Ön felelőssége",
+            "text": "Ön teljes mértékben felelős a feltöltött fájlok tartalmáért. Biztosítania kell, hogy jogosult a fájlok feltöltésére és feldolgozására, és azok nem sértik harmadik felek jogait (pl. szerzői jog, védjegy)."
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "icon": "©️",
+        "title": "Szellemi tulajdon",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Weboldal tartalma",
+            "text": "A Weboldalon található minden tartalom, beleértve a szövegeket, grafikákat, logókat és szoftvereket, a mi tulajdonunkban áll, vagy licenc alapján használjuk, és szellemi tulajdonjogok védik."
+          },
+          {
+            "type": "subsection",
+            "title": "Felhasználói tartalom",
+            "text": "Ön megtartja a feltöltött fájlok tulajdonjogát. A fájlok feltöltésével nem kizárólagos, jogdíjmentes engedélyt ad számunkra azok feldolgozására kizárólag a PDF egyesítő szolgáltatás nyújtása érdekében."
+          }
+        ]
+      },
+      {
+        "id": "limitation-liability",
+        "icon": "⚠️",
+        "title": "Felelősség korlátozása",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Nincs garancia",
+            "text": "A Weboldalt \"adott állapotban\" biztosítjuk, mindenféle kifejezett vagy hallgatólagos garancia nélkül, beleértve a forgalomképességre, bizonyos célra való alkalmasságra vagy jogsértésmentességre vonatkozó garanciákat."
+          },
+          {
+            "type": "subsection",
+            "title": "Felelősségi korlát",
+            "text": "A törvény által megengedett legnagyobb mértékben nem vállalunk felelősséget semmilyen közvetett, véletlenszerű, különleges vagy következményes kárért, amely a Weboldal használatából ered, még akkor sem, ha értesültünk ezek lehetőségéről."
+          },
+          {
+            "type": "subsection",
+            "title": "Szolgáltatás megszakadása",
+            "text": "Nem garantáljuk a Weboldal folyamatos vagy hibamentes elérhetőségét, és nem vállalunk felelősséget késésekért, kiesésekért vagy adatvesztésért."
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "icon": "⚖️",
+        "title": "Kártalanítás",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Ön vállalja, hogy kártalanít bennünket minden olyan igény, veszteség vagy kár esetén, beleértve a jogi költségeket, amely a Weboldal használatából, a feltöltött fájljaiból vagy a Feltételek megszegéséből ered."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "icon": "🚫",
+        "title": "Felmondás",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Jogunkban áll saját belátásunk szerint előzetes értesítés nélkül felfüggeszteni vagy megszüntetni az Ön hozzáférését a Weboldalhoz, ha megsérti a Feltételeket vagy bármely más okból."
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "icon": "🏛️",
+        "title": "Irányadó jog",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ezeket a Feltételeket Indonézia jogszabályai irányítják, figyelmen kívül hagyva a kollíziós jogelveket. Az e Feltételekből eredő vitákat Indonézia bíróságai rendezik."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Feltételek módosítása",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Időről időre frissíthetjük ezeket a Feltételeket. A változásokat ezen az oldalon tesszük közzé frissített \"Legutóbbi frissítés\" dátummal."
+          },
+          {
+            "type": "highlight",
+            "text": "A Weboldal további használata a változtatások után a módosított Feltételek elfogadásának minősül."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Kapcsolatfelvétel",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Ha kérdése van ezekkel a Feltételekkel kapcsolatban, kérjük, írjon nekünk az admin@gabungpdf.id e-mail címre."
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Fontos Megállapodási Pontok",
+      "desc": "Értsd meg jogaidat és felelősségeidet szolgáltatásunk használata során.",
+      "points": [
+        {
+          "title": "Tisztességes Használat",
+          "desc": "Használd szolgáltatásunkat felelősségteljesen és törvényesen"
+        },
+        {
+          "title": "A Te Fájljaid",
+          "desc": "Minden feltöltött fájl tulajdonjoga nálad marad"
+        },
+        {
+          "title": "Visszaélés Tilos",
+          "desc": "A tiltott használat a szolgáltatás megszüntetéséhez vezet"
+        },
+        {
+          "title": "Korlátozott Felelősség",
+          "desc": "A szolgáltatás „ahogy van” állapotban, garancia nélkül érhető el"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Kérdése van?",
+      "description": "Örömmel segítünk bármilyen kérdés esetén a feltételekkel vagy a szolgáltatással kapcsolatban.",
+      "links": [
+        {
+          "label": "Adatvédelmi szabályzat",
+          "href": "/privacy-policy",
+          "icon": "🔒"
+        },
+        {
+          "label": "Kapcsolat a jogi csapattal",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Content": {
+    "Policy": {
+      "title": "Adatvédelmi irányelvek",
+      "desc": "Elkötelezettek vagyunk az Ön magánéletének védelme és fájljainak biztonsága iránt. Tudja meg, hogyan gyűjtjük, használjuk és védjük az Ön adatait, amikor PDF egyesítő szolgáltatásunkat használja.",
+      "Updated": "Utolsó frissítés:",
+      "date": "2025. június 6."
+    },
+    "Terms": {
+      "title": "Felhasználási feltételek",
+      "desc": "Ezek a feltételek szabályozzák a PDF egyesítő szolgáltatásunk használatát. Kérjük, olvassa el figyelmesen, mielőtt használja az oldalunkat.",
+      "Updated": "Utolsó frissítés:",
+      "date": "2025. június 6."
+    }
+  },
+  "MiniFooter": {
+    "heading": "Készen áll PDF-jei biztonságos egyesítésére?",
+    "subheading": "Tapasztalja meg adatvédelem-központú PDF egyesítő szolgáltatásunkat teljes nyugalommal.",
+    "button": "PDF-ek egyesítése most"
+  },
+  "Seo": {
+    "Home": {
+      "title": "PDF Egyesítése Online Ingyen – PDF Fájlok Gyors és Egyszerű Összefűzése",
+      "description": "Egyesítse PDF dokumentumait ingyenesen online a GabungPDF.id segítségével. Könnyen használható PDF egyesítő, nincs szükség telepítésre vagy regisztrációra. Fűzze össze PDF-jeit most!"
+    },
+    "CombinePdf": {
+      "title": "PDF Fájlok Egyesítése Online Ingyen – Gyors és Egyszerű PDF Összefűző",
+      "description": "PDF-ek egyesítése ingyenesen online a GabungPDF.id segítségével. Gyors és egyszerűen használható PDF egyesítő, regisztráció vagy telepítés nélkül. Egyesítse most PDF-jeit!"
+    },
+    "Blog": {
+    "title": "PDF Egyesítő Blog: PDF Egyesítési Tippek és Útmutatók",
+    "description": "Fedezze fel a Gabung PDF blogját szakértői tippekért a PDF egyesítésről, oktatóanyagokat és eszközöket, amelyek megkönnyítik a PDF feladatokat. Olvassa el most!"
+  },
+    "Blog1": {
+      "title": "A Legkönnyebb Mód PDF Fájlok Egyesítésére | PDF Összefűzés",
+      "description": "Fedezze fel a legegyszerűbb módját a PDF fájlok egyesítésének a Gabung PDF segítségével. Ingyenes, gyors és felhasználóbarát eszköz a zökkenőmentes PDF egyesítéshez. Próbálja ki!"
+    },
+    "Blog2": {
+      "title": "A Végső Eszköz PDF-ek Egyesítéséhez | PDF Összefűzés",
+      "description": "A Gabung PDF a végső eszköz PDF fájlok online egyesítésére. Gyors, biztonságos és ingyenes. Egyesítse PDF-jeit könnyedén még ma!"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF Adatvédelmi Szabályzat | Biztonságos PDF Összefűzés",
+      "description": "Olvassa el a Gabung PDF adatvédelmi szabályzatát, hogy megtudja, hogyan védjük adatait a PDF-ek biztonságos online egyesítése során. Tudjon meg többet most!"
+    },
+    "TermsAndCondition": {
+      "title": "Gabung PDF Felhasználási Feltételek | PDF Egyesítés",
+      "description": "Tekintse át a Gabung PDF felhasználási feltételeit, hogy megismerje ingyenes és biztonságos PDF egyesítő eszközünk szabályait. Ismerje meg szabályzatainkat még ma!"
+    }
+  }
+}

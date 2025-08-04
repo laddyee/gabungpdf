@@ -1,0 +1,1304 @@
+{
+  "nav": {
+    "home": "Inici",
+    "combinePdf": "Combinar PDF",
+    "blog": "Blog",
+    "selectLanguage": "Seleccionar idioma"
+  },
+  "home": {
+    "title": "Combina fitxers PDF en línia - Gratuït, ràpid i segur",
+    "description": "Combina PDFs fàcilment amb GabungPDF.id! eina en línia gratuïta, ràpida i segura per fusionar fitxers PDF en segons. No cal registre.",
+    "mergeNow": "Fusionar PDFs ara",
+    "sec1Para": "En el món digital d'avui en dia, gestionar documents de manera eficient és crucial tant per a tasques personals com professionals. Una necessitat comuna és <strong>combinar fitxers PDF</strong> en un sol document racionalitzat.",
+    "SecH1": "Per què combinar fitxers PDF?",
+    "SecH1P1": "Combinar múltiples fitxers PDF en un document ofereix nombrosos avantatges:",
+    "SecH1UlLi1": "<strong>Organització i eficiència:</strong> Enviar un sol PDF combinat en lloc de múltiples fitxers simplifica el compartir i revisar.",
+    "SecH1UlLi2": "<strong>Reducció del desordre de fitxers:</strong> Combinar PDFs redueix el nombre de fitxers que heu de gestionar.",
+    "SecH1UlLi3": "<strong>Presentació professional:</strong> Un PDF unificat sembla polit i professional.",
+    "SecH1UlLi4": "<strong>Compatibilitat multiplataforma:</strong> Els PDFs són universalment compatibles.",
+    "steps": {
+      "title": "Com combinar fitxers PDF en línia gratuïtament",
+      "intro": "Utilitzar una eina en línia com gabungPDF.id fa que combinar PDFs sigui senzill i accessible:",
+      "items": [
+        {
+          "title": "Pas 1: Visita gabungPDF.id",
+          "desc": "Navega a gabungPDF.id, una eina en línia gratuïta dissenyada per ajudar-te a <strong>combinar fitxers PDF</strong> en segons."
+        },
+        {
+          "title": "Pas 2: Puja els teus fitxers PDF",
+          "desc": "Fes clic al botó \"Pujar fitxers\" per seleccionar els PDFs que vols combinar."
+        },
+        {
+          "title": "Pas 3: Organitza els fitxers",
+          "desc": "Després de pujar-los, pots arrossegar i deixar anar els fitxers per organitzar-los en l'ordre desitjat."
+        },
+        {
+          "title": "Pas 4: Combina i descarrega",
+          "desc": "Després d'organitzar els fitxers, fes clic al botó \"Combinar\"."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Per què triar gabungPDF.id?",
+      "points": [
+        {
+          "title": "<strong>No cal instal·lació:</strong>",
+          "desc": "A diferència del programari d'escriptori, gabungPDF.id funciona completament en línia."
+        },
+        {
+          "title": "<strong>Gratuït i segur:</strong>",
+          "desc": "L'eina és gratuïta d'usar, sense tarifes ocultes."
+        },
+        {
+          "title": "<strong>Compatibilitat entre dispositius:</strong>",
+          "desc": "Tant si utilitzes Mac, Windows, iOS o Android."
+        },
+        {
+          "title": "<strong>Suport multiidioma:</strong>",
+          "desc": "La plataforma dona suport a usuaris de tot el món."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Beneficis d'utilitzar un combinador PDF en línia",
+      "items": [
+        {
+          "title": "<strong>Accessibilitat:</strong>",
+          "desc": "Pots <strong>combinar fitxers PDF</strong> des de qualsevol dispositiu amb connexió a internet."
+        },
+        {
+          "title": "<strong>Velocitat:</strong>",
+          "desc": "El procés de combinació només triga segons."
+        },
+        {
+          "title": "<strong>Sense cost:</strong>",
+          "desc": "Moltes eines en línia són completament gratuïtes."
+        },
+        {
+          "title": "<strong>Fàcil d'usar:</strong>",
+          "desc": "No es requereixen habilitats tècniques."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Optimitza els teus PDFs combinats per SEO",
+      "intro": "Si estàs creant PDFs per a propòsits professionals o de màrqueting, optimitzar-los per als motors de cerca pot augmentar la seva visibilitat.",
+      "items": [
+        {
+          "title": "1. Utilitza noms de fitxer descriptius",
+          "desc": "Abans de pujar el teu PDF, reanomena els fitxers amb noms descriptius i rics en paraules clau."
+        },
+        {
+          "title": "2. Afegeix metadades",
+          "desc": "Inclou metadades com títol, autor i paraules clau al teu PDF."
+        },
+        {
+          "title": "3. Optimitza el contingut de text",
+          "desc": "Assegura't que el teu PDF contingui text cercable en lloc d'imatges escanejades."
+        },
+        {
+          "title": "4. Inclou enllaços interns",
+          "desc": "Si el teu PDF és part d'un lloc web, inclou enllaços a pàgines rellevants."
+        },
+        {
+          "title": "5. Utilitza capçaleres i estructura",
+          "desc": "Organitza el teu PDF amb capçaleres clares i estructura lògica."
+        },
+        {
+          "title": "6. Comprimeix per a càrrega més ràpida",
+          "desc": "Els PDFs grans poden alentir els temps de càrrega."
+        },
+        {
+          "title": "7. Afegeix text alternatiu a les imatges",
+          "desc": "Si el teu PDF inclou imatges, afegeix descripcions de text alternatiu."
+        },
+        {
+          "title": "8. Allotja PDFs al teu lloc web",
+          "desc": "Puja el teu PDF combinat al teu lloc web."
+        },
+        {
+          "title": "9. Segueix les visualitzacions de PDF",
+          "desc": "Utilitza eines com Google Analytics per seguir la interacció dels usuaris."
+        },
+        {
+          "title": "10. Promociona el teu PDF",
+          "desc": "Comparteix el teu PDF a les xarxes socials i butlletins."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Casos d'ús comuns per combinar PDFs",
+      "items": [
+        {
+          "title": "<strong>Informes empresarials:</strong>",
+          "desc": "Combina múltiples seccions d'un informe en un sol PDF."
+        },
+        {
+          "title": "<strong>Projectes acadèmics:</strong>",
+          "desc": "Els estudiants poden compilar treballs de recerca."
+        },
+        {
+          "title": "<strong>Documents legals:</strong>",
+          "desc": "Els advocats sovint combinen contractes i annexos."
+        },
+        {
+          "title": "<strong>Materials de màrqueting:</strong>",
+          "desc": "Crea fulletons professionals."
+        },
+        {
+          "title": "<strong>Ús personal:</strong>",
+          "desc": "Combina documents escanejats o fotos."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Comparant gabungPDF.id amb altres eines",
+      "intro": "Tot i que gabungPDF.id és una excel·lent opció per combinar PDFs, altres eines també ofereixen funcionalitat similar.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Gratuït, sense registre, suporta múltiples formats de fitxer."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Ofereix un combinador en línia gratuït però requereix iniciar sessió."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Eina robusta amb característiques addicionals."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Suporta fitxers complexos i gran nombre de pàgines."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Consells per a una experiència de combinació PDF sense problemes",
+      "items": [
+        {
+          "title": "<strong>Comprova la compatibilitat dels fitxers:</strong>",
+          "desc": "Assegura't que tots els fitxers estiguin en PDF o formats suportats."
+        },
+        {
+          "title": "<strong>Previsualitza els teus fitxers:</strong>",
+          "desc": "Revisa l'ordre i contingut dels teus fitxers abans de combinar."
+        },
+        {
+          "title": "<strong>Utilitza plataformes segures:</strong>",
+          "desc": "Tria eines que prioritzin la privacitat."
+        },
+        {
+          "title": "<strong>Prova la sortida:</strong>",
+          "desc": "Obre el PDF combinat per confirmar el disseny."
+        }
+      ]
+    },
+    "ConclusionH1": "Conclusió",
+    "conclusion": "Combinar fitxers PDF és una manera senzilla però poderosa de racionalitzar la gestió de documents. Tant si ets un professional organitzant informes, un estudiant compilant recerca, o algú arxivant documents personals, eines com gabungPDF.id fan fàcil <strong>combinar fitxers PDF</strong> en línia gratuïtament."
+  },
+  "combinePdf": {
+    "title": "Combinar arxius PDF",
+    "dragDrop": "Arrossega i deixa anar els arxius PDF aquí",
+    "clickBrowse": "o fes clic per cercar",
+    "selectFiles": "Selecciona arxius",
+    "maxSize": "Mida màxima per arxiu: 50 MB",
+    "combineButton": "Combina els PDFs",
+    "filesCount": "PDFs",
+    "S1H1": "Combina PDFs: Com combinar arxius PDF - Un consell per fusionar PDFs de manera gratuïta",
+    "S1P1": "En el món digital d'avui, els arxius PDF (Portable Document Format) s'han convertit en una base per compartir i emmagatzemar documents. A diferència dels arxius DOC creats amb Microsoft Word o Google Docs, els PDFs mantenen el seu format consistent en tots els dispositius i sistemes operatius. Aquesta compatibilitat universal els fa ideals per a l'ús professional i personal, ja sigui per compartir informes, presentacions o formularis en línia.",
+    "S1P2": "Tanmateix, treballar amb PDFs pot ser complicat, especialment quan cal combinar diversos arxius PDF en un document coherent. En aquest guia, explorarem per què és important combinar PDFs, com fusionar PDFs de manera gratuïta utilitzant la nostra eina intuïtiva i els beneficis de simplificar el procés de gestió de documents.",
+    "S2H1": "Per què els PDFs són únics i versàtils",
+    "S2P1": "Els PDFs estan dissenyats per conservar l'aparença exacta d'un document, independentment del dispositiu o programari utilitzat per visualitzar-lo. A diferència dels arxius DOC, que depenen de configuracions específiques del sistema, com ara les fonts instal·lades o la configuració del sistema operatiu, els PDFs funcionen com imatges estàtiques. Això assegura que les fonts, els dissenys i les gràfiques es mantinguin consistents, la qual cosa els fa ideals per a documents professionals com contractes, currículums o llibres electrònics.",
+    "S2P2": "Aquesta consistència és la raó per la qual els PDFs són àmpliament utilitzats per compartir documents per Internet. Ja sigui que estiguis enviant una proposta de negoci o arxivant registres importants, els PDFs asseguren que el destinatari vegi el document exactament com s'havia dissenyat. No obstant això, aquesta mateixa característica fa que editar o combinar PDFs sigui més complex que treballar amb arxius DOC. Sense programari especialitzat, tasques com afegir pàgines o fusionar múltiples PDFs poden semblar difícils. Afortunadament, la nostra eina gratuïta en línia simplifica aquest procés, permetent-te combinar PDFs sense esforç, sense necessitat de programari addicional.",
+    "combine_pdf_files": {
+      "intro": "Per què combinar arxius PDF?",
+      "para": "Combinar arxius PDF és una necessitat comuna per a professionals, estudiants i qualsevol persona que gestioni diversos documents. Aquí tens alguns casos on fusionar PDFs pot ser útil:",
+      "items": [
+        {
+          "title": "Creació d'informes complets:",
+          "desc": "Si tens diversos informes o capítols en PDF, combinar-los en un sol document fa que sigui més fàcil compartir-los i revisar-los."
+        },
+        {
+          "title": "Arxivar documents escanejats:",
+          "desc": "Els PDFs escanejats, com rebuts o formularis, sovint cal combinar-los en un sol arxiu per una millor organització."
+        },
+        {
+          "title": "Optimització de presentacions:",
+          "desc": "Combinar diapositives o seccions de diferents PDFs en una presentació cohesionada millora la claredat i el professionalisme."
+        },
+        {
+          "title": "Simplificar l'intercanvi d'arxius:",
+          "desc": "En lloc d'enviar diversos arxius, combinar-los en un sol PDF redueix la confusió i garanteix que tota la informació estigui en un document fàcil d'accedir."
+        }
+      ],
+      "para2": "A diferència dels arxius DOC, on només cal copiar i enganxar el contingut, els PDFs requereixen eines específiques per a fusionar-los o editar-los. Per exemple, copiar text d'un PDF escanejat sovint és impossible sense programari de reconeixement òptic de caràcters (OCR). El nostre combinador de PDFs gratuït elimina aquests obstacles, permetent-te fusionar fins a 20 PDFs a la vegada sense necessitat de programari car o coneixements tècnics."
+    },
+    "stepbystep": {
+      "intro": "Com combinar arxius PDF de manera gratuïta: Guia pas a pas",
+      "para": "La nostra eina en línia fàcil d'utilitzar fa que combinar PDFs sigui ràpid i eficient. Ja sigui que estiguis fusionant dos arxius o fins a 20, el procés és senzill i no requereix instal·lació ni subscripció. Segueix aquests passos per fusionar els teus PDFs sense problemes:",
+      "items": [
+        {
+          "title": "Pas 1: Puja els teus arxius PDF",
+          "desc": "Per començar, fes clic al botó 'PUJA ARXIUS' a la interfície de l'eina. Selecciona els arxius PDF des del teu dispositiu. Alternativament, pots arrossegar i deixar anar els teus PDFs a la zona designada com 'Arrossega els teus arxius aquí' per més comoditat. Aquesta funció és especialment útil quan treballes amb múltiples arxius, ja que estalvia temps i simplifica el procés."
+        },
+        {
+          "title": "Pas 2: Organitza els teus PDFs",
+          "desc": "Un cop els arxius siguin pujats, la nostra eina els mostrarà en una cua. L'ordre dels arxius en aquesta cua determina l'estructura del teu PDF combinat. El primer arxiu de la llista serà el primer en aparèixer en el document final, el segon PDF seguirà, i així successivament. Per assegurar-te que estigui en l'ordre correcte, pots arrossegar i deixar anar els arxius dins de la cua per reorganitzar-los segons calgui."
+        },
+        {
+          "title": "Pas 3: Combina i descarrega",
+          "desc": "Quan estiguis satisfet amb l'ordre, fes clic al botó COMBINA. El nostre sistema fusionarà tots els PDFs pujats en un sol arxiu. Un cop el procés hagi acabat, el PDF combinat començarà a descarregar-se automàticament al teu dispositiu. Tot el procés és ràpid, segur i no requereix programari addicional."
+        }
+      ],
+      "intro2": "Combinar més PDFs",
+      "para2": "Necessites fusionar més PDFs? Cap problema! La nostra eina et permet combinar arxius en lots. Després de fusionar el primer conjunt de PDFs, descarrega el PDF combinat. A continuació, puja aquest arxiu juntament amb qualsevol altre PDF que vulguis incloure. Repeteix el procés fent clic a COMBINA per crear un document més gran. Pots repetir aquest procés les vegades que sigui necessari per incloure tots els teus arxius.",
+      "intro3": "Nota important: Descarrega dins d'una hora",
+      "para3": "Per garantir una experiència fluida, descarrega el teu PDF combinat dins d'una hora des de la fusió. Si no ho fas, el sistema eliminarà els arxius i hauràs de tornar a pujar-los per començar de nou. Aquesta funció ajuda a mantenir la seguretat i alliberar espai a servidors per a altres usuaris."
+    },
+    "benefits": {
+      "intro": "Beneficis d'utilitzar el nostre combinador de PDFs gratuït",
+      "para": "La nostra eina està dissenyada amb la simplicitat, accessibilitat i eficiència en ment. Aquí tens els motius pels quals és la millor opció per fusionar PDFs:",
+      "items": [
+        {
+          "title": "No cal instal·lar programari:",
+          "desc": "A diferència dels editors PDF tradicionals, la nostra eina és totalment basada en web, de manera que pots accedir-hi des de qualsevol dispositiu amb connexió a Internet."
+        },
+        {
+          "title": "Ús gratuït i il·limitat:",
+          "desc": "Fusioneu fins a 20 PDFs a la vegada de manera gratuïta, sense subscripció ni cost. Per a projectes més grans, pots combinar diversos lots com es descriu més amunt."
+        },
+        {
+          "title": "Interfície fàcil d'utilitzar:",
+          "desc": "La funcionalitat d'arrossegar i deixar anar i el disseny intuïtiu fan que sigui fàcil tant per a principiants com per a professionals."
+        },
+        {
+          "title": "Processament ràpid:",
+          "desc": "La nostra eina fusiona els PDFs en segons, estalviant-te temps i esforç."
+        },
+        {
+          "title": "Segur i fiable:",
+          "desc": "Els teus arxius es processen de manera segura i es suprimeixen dels nostres servidors després d'una hora, garantint que les teves dades es mantinguin privades."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Quan hauríeu de combinar PDFs?",
+      "para": "Fusionar PDFs és una habilitat valuosa en diverses situacions. Aquí tens alguns casos d'ús comuns:",
+      "items": [
+        {
+          "title": "Professionals de negocis:",
+          "desc": "Combina factures, contractes o propostes en un sol document per compartir-lo fàcilment amb clients o companys."
+        },
+        {
+          "title": "Estudiants i docents:",
+          "desc": "Fusiona apunts de classe, articles d'investigació o tasques en un únic arxiu per a presentacions o materials d'estudi."
+        },
+        {
+          "title": "Tasques jurídiques i administratives:",
+          "desc": "Organitza documents escanejats, com contractes o formularis, en un únic PDF per arxivar o per a fins legals."
+        },
+        {
+          "title": "Projectes creatius:",
+          "desc": "Combina esbossos de disseny, carteres o guions per crear presentacions o recollir comentaris de clients."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Consells per treballar amb PDFs",
+      "para": "Per treure el màxim profit de la teva experiència de fusionar PDFs, tingues en compte aquests consells:",
+      "items": [
+        {
+          "title": "Comprova l'ordre dels arxius:",
+          "desc": "Comprova sempre l'ordre dels teus PDFs abans de combinar-los per evitar la necessitat de reorganitzar pàgines després."
+        },
+        {
+          "title": "Optimitza la mida dels arxius:",
+          "desc": "Si els teus PDFs contenen imatges o gràfics grans, considera comprimir-los abans de pujar-los per reduir la mida del fitxer final."
+        },
+        {
+          "title": "Utilitza noms descriptius per als arxius:",
+          "desc": "Renomena els teus PDFs amb noms clars i descriptius (per exemple, Report_Section1.pdf) per mantenir l'ordre durant el procés de fusió."
+        },
+        {
+          "title": "Fes còpies de seguretat dels arxius originals:",
+          "desc": "Guarda còpies dels teus PDFs originals per si has de fer canvis o fusionar-los novament més endavant."
+        },
+        {
+          "title": "Explora eines addicionals:",
+          "desc": "Si necessites editar, convertir o comprimir PDFs, descobreix altres eines gratuïtes de la nostra plataforma per a una solució completa de gestió de documents."
+        }
+      ]
+    },
+    "why_choose": "Per què triar la nostra eina en comptes d'alternatives de pagament?",
+    "why_choose_para": "Tot i que els editors de PDFs de pagament com Adobe Acrobat ofereixen funcions avançades, la nostra eina gratuïta ofereix una solució eficaç per a la majoria dels usuaris. No cal invertir en programari car ni subscripcions per combinar PDFs. Gabung PDF.id és accessible per a petites empreses, estudiants i tothom que necessiti resultats professionals sense complexitat.",
+    "why_choose_para2": "A més, la nostra plataforma està optimitzada per a rapidesa i comoditat. Ja sigui que estiguis utilitzant un ordinador de sobretaula, una tauleta o un telèfon intel·ligent, pots combinar PDFs sobre la marxa sense problemes de compatibilitat. Aquesta flexibilitat fa que la nostra eina sigui ideal per a usuaris que busquen resultats ràpids i fiables sense una corba d'aprenentatge empinada.",
+    "conclusion": "Conclusió",
+    "conclusion_para": "Fusionar documents PDF no ha de ser complicat ni car. Amb el nostre combinador de PDFs gratuït i basat en web, pots combinar fins a 20 PDFs a la vegada, reorganitzar-los fàcilment i descarregar un document únic en qüestió de segons. Tant si organitzes informes, arxives documents escanejats o prepares presentacions, la nostra eina simplifica el procés sense necessitat de programari addicional ni habilitats tècniques."
+  },
+  "blog": {
+    "title": "Consells, tutorials i guies de PDF",
+    "description": "Domina la gestió de PDF amb guies d'experts, consells pràctics i tutorials pas a pas.",
+    "searchPlaceholder": "Cerca articles, tutorials i guies...",
+    "articles": "Articles",
+    "readers": "Lectors",
+    "available": "Disponible",
+    "featuredArticle": "Article destacat",
+    "mostPopular": "Més popular aquesta setmana",
+    "readArticle": "Llegir article",
+    "readFull": "Llegir article complet",
+    "minRead": "min lectura",
+    "featureblog": {
+      "title": "El Més Popular Aquesta Setmana",
+      "subtitle": "⭐ Article Destacat",
+      "featuredArticle": {
+        "date": "2 de juliol de 2025",
+        "author": "Usuari Admin",
+        "category": "Article Destacat",
+        "headline": "GabungPDF.id: La Manera Més Fàcil de Combinar Fitxers PDF",
+        "excerpt": "Combina fitxers PDF fàcilment amb GabungPDF.id, la combinadora de PDF gratuïta en línia. Combina PDFs de forma segura en segons, sense necessitat de programari. Millora la teva productivitat ara!",
+        "readTime": "3 minuts de lectura",
+        "buttonName": "Llegeix l'article complet"
+      }
+    },
+    "blogsPage": {
+      "cards": [
+        {
+          "BlogImage": "/Blog1Image.webp",
+          "date": "2 de juny de 2025",
+          "author": "Usuari Admin",
+          "category": null,
+          "headline": "GabungPDF.id: L’Eina Definitiva per Combinar Fitxers PDF",
+          "headlineLink": "/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "excerpt": "Combina fitxers PDF fàcilment amb GabungPDF.id, el teu combinador de PDF gratuït en línia. Combina PDFs de forma segura en segons — sense necessitat de programari.",
+          "readTime": "3 minuts de lectura",
+          "readMoreText": "blog.readArticle",
+          "slug": "gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "detail": {
+            "intro": "A GabungPDF.id, hem dissenyat una eina fàcil d’utilitzar i basada en web per ajudar-te a combinar fitxers PDF sense complicacions. Tant si ets expert com principiant, la nostra plataforma està feta per a tothom. Aquí tens perquè GabungPDF.id destaca com el millor combinador de PDF:",
+            "features": [
+              {
+                "title": "Gratuït i accessible",
+                "description": "Sense subscripcions ni costos ocults: només puja i combina."
+              },
+              {
+                "title": "Sense instal·lar programari",
+                "description": "La nostra eina funciona completament en línia, estalviant espai al teu dispositiu."
+              },
+              {
+                "title": "Ràpid i segur",
+                "description": "Combina PDFs en segons amb xifrat robust per protegir els teus fitxers."
+              },
+              {
+                "title": "Interfície fàcil d’utilitzar",
+                "description": "Arrossega, deixa anar i combina fitxers amb uns pocs clics."
+              }
+            ],
+            "intro2": "Preparat per simplificar la gestió dels teus documents? T’expliquem com utilitzar el nostre combinador de PDF per unir fitxers en pocs passos.",
+            "how_to_use": {
+              "title": "Com Combinar Fitxers PDF amb GabungPDF.id",
+              "paragraph": "Combinar PDFs amb GabungPDF.id és tan fàcil com 1-2-3. Segueix aquests passos per crear un document PDF únic i polit:",
+              "steps": [
+                {
+                  "title": "Puja Els Teus Fitxers",
+                  "description": "Visita https://gabungpdf.id/ i fes clic al botó “Puja”. Selecciona els fitxers PDF que vols combinar des del teu dispositiu. Pots pujar diversos fitxers alhora."
+                },
+                {
+                  "title": "Organitza l’Ordre",
+                  "description": "Arrossega i deixa anar els fitxers per organitzar-los en l’ordre desitjat. Això assegura que el teu document final tingui una seqüència lògica."
+                },
+                {
+                  "title": "Combina i Descarrega",
+                  "description": "Fes clic a “Combina PDF”, i la nostra eina ajuntarà els fitxers en un de sol. Un cop completat, descarrega el teu nou PDF a l’instant."
+                }
+              ],
+              "note": "Això és tot! Sense configuracions complicades ni coneixements tècnics. Tant si combines dos fitxers com vint, GabungPDF.id ho fa fàcilment."
+            },
+            "benefits": {
+              "title": "Beneficis d’Utilitzar un Combinador de PDF en Línia",
+              "paragraph": "Escollir un combinador de PDF en línia com GabungPDF.id ofereix molts avantatges sobre el programari tradicional o els mètodes manuals. Aquí tens per què la nostra eina és un canviador de joc:",
+              "items": [
+                {
+                  "title": "Estalvi de Temps",
+                  "description": "Combinar PDFs manualment amb programari d’escriptori pot consumir molt de temps i sovint requereix llicències costoses. Amb GabungPDF.id, pots combinar fitxers PDF en segons des de qualsevol dispositiu amb connexió a Internet, sigui un portàtil, una tauleta o un telèfon."
+                },
+                {
+                  "title": "Gestió Segura de Fitxers",
+                  "description": "Preocupat per la privacitat? La nostra plataforma utilitza xifrat avançat per garantir que els teus fitxers siguin segurs durant el procés de combinació. Un cop descarregat el PDF combinat, eliminem els teus fitxers dels nostres servidors per protegir la teva informació."
+                },
+                {
+                  "title": "Solució Econòmica",
+                  "description": "Per què pagar per un programari car d’edició de PDF? GabungPDF.id és completament gratuït, perfecte per a estudiants, autònoms i petites empreses que necessiten combinar PDFs sense despeses."
+                },
+                {
+                  "title": "Compatibilitat Multiplataforma",
+                  "description": "Tant si utilitzes Windows, macOS, iOS o Android, el nostre combinador de PDF en línia funciona perfectament a totes les plataformes. Sense problemes de compatibilitat."
+                }
+              ]
+            },
+            "optimization_tips": {
+              "title": "Consells per Optimitzar els Teus PDFs Combinats",
+              "paragraph": "Per aprofitar al màxim els teus PDFs combinats, considera aquests consells:",
+              "tips": [
+                {
+                  "title": "Revisa l’Ordre dels Fitxers",
+                  "description": "Abans de combinar, organitza els teus PDFs en la seqüència desitjada per evitar repetir el procés."
+                },
+                {
+                  "title": "Optimitza la Mida del Fitxer",
+                  "description": "Si els teus PDFs contenen imatges grans, comprimeix-les abans de pujar-les per reduir la mida final."
+                },
+                {
+                  "title": "Posa Noms Clars als Fitxers",
+                  "description": "Fes servir noms descriptius per als teus PDFs per identificar-los més fàcilment després."
+                },
+                {
+                  "title": "Previsualitza el Resultat",
+                  "description": "Després de combinar, revisa el PDF per assegurar-te que tot és correcte."
+                }
+              ],
+              "paragraph2": "Amb GabungPDF.id, pots combinar PDFs amb confiança mantenint-ne la qualitat i l’organització."
+            },
+            "audience": {
+              "title": "Qui Pot Beneficiar-se de GabungPDF.id?",
+              "paragraph": "El nostre combinador de PDF està pensat per a una gran varietat d’usuaris, incloent-hi:",
+              "users": [
+                {
+                  "type": "Estudiants",
+                  "description": "Combina apunts de classe, treballs o treballs d’investigació en un sol fitxer."
+                },
+                {
+                  "type": "Professionals",
+                  "description": "Combina informes, propostes o contractes per a una comunicació més eficient."
+                },
+                {
+                  "type": "Petites Empreses",
+                  "description": "Organitza factures, rebuts o materials de màrqueting en un sol document."
+                },
+                {
+                  "type": "Autònoms",
+                  "description": "Combina portafolis, factures o entregues de projectes per a clients."
+                }
+              ],
+              "paragraph2": "Sigui quina sigui la teva necessitat, GabungPDF.id és el teu aliat de confiança per a qualsevol tema relacionat amb PDFs."
+            },
+            "why_choose_us": {
+              "title": "Per Què Escollir GabungPDF.id en Lloc d’Altres?",
+              "paragraph": "Amb tantes eines disponibles, què fa que GabungPDF.id sigui la millor opció per combinar fitxers PDF? Aquí tens què ens diferencia:",
+              "reasons": [
+                {
+                  "title": "Rapidesa",
+                  "description": "Sense corba d’aprenentatge: només puja, combina i descarrega."
+                },
+                {
+                  "title": "Fiabilitat",
+                  "description": "Rendiment consistent sense errors ni bloquejos."
+                },
+                {
+                  "title": "Disponibilitat",
+                  "description": "Disponible 24/7 des de qualsevol lloc del món."
+                }
+              ],
+              "paragraph2": "No perdis temps amb programari complicat o eines poc fiables. Prova GabungPDF.id avui i experimenta la manera més fàcil de combinar fitxers PDF."
+            },
+            "conclusion": {
+              "title": "Conclusió: Simplifica la Teva Feina amb GabungPDF.id",
+              "paragraph": "Combinar PDFs no hauria de ser una feina complicada. Amb GabungPDF.id, pots combinar fitxers PDF fàcilment, estalviant temps i mantenint els teus documents organitzats. El nostre combinador de PDFs gratuït, segur i fàcil d’utilitzar és perfecte per a qualsevol que vulgui optimitzar la seva feina. Tant si combines informes, apunts o contractes, la nostra eina ofereix resultats professionals cada vegada. Preparat per començar?",
+              "cta": {
+                "text": "Visita gabungpdf.id/combine-pdf",
+                "link": "https://gabungpdf.id/combine-pdf"
+              },
+              "Remaingparagraph": "Combina ara els teus fitxers PDF amb només uns clics. Simplifica la gestió de documents avui mateix amb GabungPDF.id — el teu combinador PDF definitiu!"
+            }
+          }
+        },
+        {
+          "BlogImage": "/FeatureBlogImage.webp",
+          "date": "2 de juliol de 2025",
+          "author": "Usuari Admin",
+          "category": "Article destacat",
+          "headline": "GabungPDF.id: La forma més fàcil de combinar arxius PDF",
+          "excerpt": "Combina arxius PDF fàcilment amb GabungPDF.id, el combinador de PDF en línia i gratuït. Combina PDF de forma segura en segons, sense necessitat de programari. Augmenta la teva productivitat ara!",
+          "readTime": "3 minuts de lectura",
+          "buttonName": "Llegeix l'article complet",
+          "slug": "gabungpdfid-the-easiest-way-to-combine-pdf-files",
+          "detail": {
+            "intro": "En un món on el temps és or, gestionar documents de manera eficient pot marcar la diferència. Tant si estàs gestionant diversos informes, organitzant contractes de clients o recopilant arxius de projectes, un bon combinador de PDF pot transformar la teva forma de treballar. Aquí entra GabungPDF.id, una eina gratuïta i en línia dissenyada per combinar arxius PDF ràpidament i sense complicacions. En aquest article t'explicarem com GabungPDF.id t'ajuda a combinar PDF fàcilment i per què és la millor solució per a professionals, estudiants i empreses.",
+            "why_merge_pdf": {
+              "title": "Per què combinar arxius PDF?",
+              "paragraph": "Els PDF són el format estàndard per compartir documents professionals, però gestionar diversos arxius pot fer perdre temps. Combinar-los en un únic document simplifica el treball, redueix el desordre i millora l'organització. Algunes raons per combinar PDF:",
+              "reasons": [
+                {
+                  "title": "Simplifica l'enviament",
+                  "description": "Envia un únic arxiu en comptes de múltiples adjunts per facilitar la col·laboració."
+                },
+                {
+                  "title": "Organitza els documents",
+                  "description": "Combina factures, formularis o notes en un sol PDF fàcil d'accedir."
+                },
+                {
+                  "title": "Presentacions professionals",
+                  "description": "Combina diapositives, documents de suport i notes en un únic document pulcre."
+                },
+                {
+                  "title": "Arxivament eficient",
+                  "description": "Consolida arxius relacionats per emmagatzemar-los millor."
+                }
+              ],
+              "note": "Amb GabungPDF.id pots combinar PDF en només uns clics, facilitant la gestió documental."
+            },
+            "features": {
+              "title": "Per què GabungPDF és el millor combinador de PDF?",
+              "paragraph": "A GabungPDF.id hem creat una eina ràpida, gratuïta i accessible per a tothom. Siguis on siguis, des d'ordinador, tauleta o mòbil, obtindràs resultats professionals sense complicacions. Per això agrada tant als nostres usuaris:",
+              "items": [
+                {
+                  "title": "Totalment gratuït",
+                  "description": "Sense subscripcions ni costos amagats: combina i llest."
+                },
+                {
+                  "title": "Sense instal·lar programari",
+                  "description": "Eina web, funciona de seguida, sense descàrregues."
+                },
+                {
+                  "title": "Processament segur",
+                  "description": "Els teus arxius estan protegits amb xifratge i s'esborren després de l'ús."
+                },
+                {
+                  "title": "Disseny intuïtiu",
+                  "description": "Una interfície senzilla perquè tothom pugui combinar PDF."
+                }
+              ],
+              "next": "Vols ser més productiu? Et mostrem com utilitzar el nostre combinador de PDF en minuts."
+            },
+            "how_to_use": {
+              "title": "Com utilitzar GabungPDF.id per combinar PDF",
+              "paragraph": "Combinar PDF amb GabungPDF és senzill i no requereix coneixements tècnics. Fes-ho així:",
+              "steps": [
+                {
+                  "title": "Puja els teus PDF",
+                  "description": "Accedeix a https://gabungpdf.id/ i selecciona els arxius PDF que vols combinar. Pots pujar-ne diversos alhora."
+                },
+                {
+                  "title": "Organitza com vulguis",
+                  "description": "Arrossega i deixa anar per establir l'ordre que prefereixis."
+                },
+                {
+                  "title": "Combina i desa",
+                  "description": "Clica “Combinar PDF” i l'eina crearà un únic arxiu. Descarrega'l a l'instant."
+                }
+              ],
+              "note": "Així de fàcil! Sigui un parell d'arxius o una desena, GabungPDF.id et garanteix una experiència sense problemes."
+            },
+            "top_benefits": {
+              "title": "Principals avantatges d'usar GabungPDF.id",
+              "paragraph": "Escollir una eina en línia com GabungPDF.id ofereix comoditat i eficiència. Et destaquem:",
+              "items": [
+                {
+                  "title": "Estalvia temps i esforç",
+                  "description": "Combinar PDF manualment o amb programaris complexos és una pèrdua de temps. GabungPDF.id ho fa en segons."
+                },
+                {
+                  "title": "Més seguretat",
+                  "description": "Prioritzem la teva privacitat. Els teus arxius estan protegits i esborrem el contingut després de combinar-los."
+                },
+                {
+                  "title": "Sense despeses",
+                  "description": "No cal comprar programari car. GabungPDF.id és 100% gratuït, ideal per a estudiants, autònoms i petites empreses."
+                },
+                {
+                  "title": "Accés universal",
+                  "description": "Funciona des de qualsevol dispositiu amb navegador: Windows, macOS, iOS o Android. Combina PDF en qualsevol moment."
+                }
+              ]
+            },
+            "audience": {
+              "title": "A qui va dirigit GabungPDF.id?",
+              "paragraph": "El nostre combinador PDF s'adapta a moltes necessitats:",
+              "users": [
+                {
+                  "type": "Estudiants",
+                  "description": "Combina apunts, redaccions o treballs en un únic arxiu."
+                },
+                {
+                  "type": "Professionals",
+                  "description": "Combina contractes, propostes o informes per facilitar la comunicació."
+                },
+                {
+                  "type": "Autònoms",
+                  "description": "Crea portafolis o agrupa factures per presentar-les als clients."
+                },
+                {
+                  "type": "Petites empreses",
+                  "description": "Organitza rebuts, materials de màrqueting o documents legals en un sol PDF."
+                }
+              ],
+              "note": "Sigui quin sigui el teu cas, GabungPDF.id simplifica la gestió documental."
+            },
+            "pro_tips": {
+              "title": "Consells per combinar PDF com un professional",
+              "paragraph": "Per treure el màxim partit a la teva combinació de PDF, recorda:",
+              "tips": [
+                {
+                  "title": "Planifica l'ordre dels arxius",
+                  "description": "Organitza els PDF abans de combinar-los per evitar repetir el procés."
+                },
+                {
+                  "title": "Comprimeix arxius grans",
+                  "description": "Redueix la mida abans de pujar-los per agilitzar el procés."
+                },
+                {
+                  "title": "Revisa el resultat",
+                  "description": "Previsualitza el PDF combinat per assegurar que tot estigui correcte."
+                },
+                {
+                  "title": "Afegeix GabungPDF.id a preferits",
+                  "description": "Desa la web per accedir-hi ràpidament sempre que ho necessitis."
+                }
+              ]
+            },
+            "why_stand_out": {
+              "title": "Per què destaca GabungPDF.id davant d'altres?",
+              "paragraph": "Hi ha moltes eines per combinar PDF, però GabungPDF.id destaca per la seva simplicitat, rapidesa i fiabilitat. No cal registre ni descàrregues. I la teva seguretat està garantida. No deixis que arxius dispersos et facin perdre temps. Visita https://gabungpdf.id/ avui mateix i descobreix la forma més fàcil de combinar PDF."
+            },
+            "conclusion": {
+              "title": "Conclusió: Organitza els teus documents amb GabungPDF.id",
+              "paragraph": "Gestionar diversos PDF no ha de ser complicat. Amb GabungPDF.id, pots combinar arxius ràpidament, de manera segura i gratuïta. El nostre combinador està dissenyat per augmentar la productivitat, ja siguis estudiant, professional o empresari. Digueu adéu al caos documental i hola a PDF organitzats i professionals. Prova GabungPDF.id ara a gabungpdf.id/combine-pdf i experimenta la forma més ràpida de combinar arxius. Simplifica el teu flux de treball avui mateix!"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "La manera més fàcil de combinar múltiples fitxers PDF en un document. Ràpid, segur i completament gratuït d'usar.",
+    "contact": "Contacta'ns:",
+    "quickLinks": "Enllaços ràpids",
+    "privacyPolicy": "Política de privacitat",
+    "termsOfService": "Termes del servei",
+    "allRights": "Tots els drets reservats"
+  },
+  "privacy": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Taula de Continguts",
+        "items": [
+          {
+            "icon": "👁️",
+            "label": "Visió general",
+            "target": "Overview"
+          },
+          {
+            "icon": "📊",
+            "label": "Informació que recollim",
+            "target": "information-collection"
+          },
+          {
+            "icon": "🔧",
+            "label": "Com utilitzem la teva informació",
+            "target": "how-we-use"
+          },
+          {
+            "icon": "🗄️",
+            "label": "Conservació i eliminació de dades",
+            "target": "data-retention"
+          },
+          {
+            "icon": "🤝",
+            "label": "Compartició de dades",
+            "target": "data-sharing"
+          },
+          {
+            "icon": "🔒",
+            "label": "Seguretat de les dades",
+            "target": "data-security"
+          },
+          {
+            "icon": "🌍",
+            "label": "Transferències internacionals de dades",
+            "target": "international-transfers"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Els teus drets",
+            "target": "your-rights"
+          },
+          {
+            "icon": "🔗",
+            "label": "Enllaços de tercers",
+            "target": "third-party-links"
+          },
+          {
+            "icon": "👶",
+            "label": "Privacitat dels menors",
+            "target": "children"
+          },
+          {
+            "icon": "🔄",
+            "label": "Canvis en aquesta política",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Contacta amb nosaltres",
+            "target": "contact"
+          }
+        ]
+      },
+      "privacySummary": {
+        "title": "Resum de Privacitat",
+        "points": [
+          "Els fitxers s'eliminen en 1 hora",
+          "No emmagatzemem els teus documents",
+          "Recollida mínima de dades",
+          "Xifratge d'extrem a extrem"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "Overview",
+        "icon": "👁️",
+        "title": "Visió general",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "A www.gabungpdf.id (\"el Lloc\"), gestionat per Gabung PDF (\"nosaltres\"), estem compromesos a protegir la teva privacitat. Aquesta Política de Privacitat explica com recollim, utilitzem i protegim la teva informació quan utilitzes el nostre servei per combinar PDF. En utilitzar el Lloc, acceptes aquesta Política de Privacitat."
+          },
+          {
+            "type": "highlight",
+            "title": "El nostre principi clau:",
+            "text": "Processarem els teus fitxers únicament per proporcionar el nostre servei i els eliminarem automàticament dins d'una hora. No accedim, revisem ni emmagatzemem el contingut dels teus fitxers més enllà del període necessari."
+          }
+        ]
+      },
+      {
+        "id": "information-collection",
+        "icon": "📊",
+        "title": "Informació que recollim",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Fitxers pujats per l'usuari",
+            "text": "Quan utilitzes el nostre servei, puges fitxers PDF per combinar-los. Aquests fitxers poden contenir informació personal, però no accedim, revisem ni emmagatzemem el contingut dels teus fitxers més enllà del període necessari per a la seva processament temporal."
+          },
+          {
+            "type": "subsection",
+            "title": "Dades recollides automàticament",
+            "text": "Podem recollir informació no personal, com ara:",
+            "list": [
+              "Informació del dispositiu (per ex.: tipus de navegador, sistema operatiu, adreça IP)",
+              "Dades d'ús (per ex.: pàgines visitades, temps passat al lloc, interaccions amb el servei)"
+            ]
+          },
+          {
+            "type": "subsection",
+            "title": "Galetes i seguiment",
+            "text": "Podem utilitzar galetes o tecnologies similars per millorar la teva experiència i analitzar l'ús del Lloc. Pots gestionar les preferències de galetes des de la configuració del teu navegador."
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "icon": "🔧",
+        "title": "Com utilitzem la teva informació",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Prestació del servei",
+            "text": "Processarem els teus fitxers PDF pujats únicament per combinar-los en un únic PDF i proporcionar l'enllaç de descàrrega."
+          },
+          {
+            "type": "subsection",
+            "title": "Millora del lloc",
+            "text": "Utilitzem dades no personals (per ex.: estadístiques d'ús) per analitzar i millorar la funcionalitat i el rendiment del Lloc."
+          },
+          {
+            "type": "subsection",
+            "title": "Compliment legal",
+            "text": "Podem utilitzar o divulgar la informació si és requerit per la llei o per protegir els nostres drets, seguretat o propietat."
+          }
+        ]
+      },
+      {
+        "id": "data-retention",
+        "icon": "🗄️",
+        "title": "Conservació i eliminació de dades",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Fitxers pujats",
+            "text": "Tots els fitxers PDF pujats i els PDFs resultants esborren automàticament dels nostres servidors dins d'una (1) hora després del processament. No conservem còpies dels teus fitxers."
+          },
+          {
+            "type": "subsection",
+            "title": "Altres dades",
+            "text": "Les dades no personals (per ex.: estadístiques d'ús) es poden conservar mentre sigui necessari per millorar el Lloc o complir amb obligacions legals."
+          }
+        ]
+      },
+      {
+        "id": "data-sharing",
+        "icon": "🤝",
+        "title": "Compartició de dades",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "No compartim amb tercers",
+            "text": "No venem, compartim ni transferim els teus fitxers pujats o informació personal a tercers, excepte si ho exigeix la llei o per protegir els nostres drets."
+          },
+          {
+            "type": "subsection",
+            "title": "Proveïdors de serveis",
+            "text": "Podem utilitzar proveïdors de serveis externs (per ex.: allotjament o analítica) per operar el Lloc. Aquests proveïdors estan obligats a mantenir la confidencialitat i només poden processar dades en nom nostre."
+          }
+        ]
+      },
+      {
+        "id": "data-security",
+        "icon": "🔒",
+        "title": "Seguretat de les dades",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Implementem mesures tècniques i organitzatives raonables per protegir les teves dades contra l'accés no autoritzat, la pèrdua o l'ús indegut. Tanmateix, cap servei en línia és completament segur i no podem garantir una seguretat absoluta."
+          }
+        ]
+      },
+      {
+        "id": "international-transfers",
+        "icon": "🌍",
+        "title": "Transferències internacionals de dades",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Si estàs fora d'Indonèsia, les teves dades poden ser transferides i processades a Indonèsia o en altres països on es troben els nostres servidors o proveïdors de serveis. Assegurem salvaguardes adequades per aquestes transferències."
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "icon": "⚖️",
+        "title": "Els teus drets",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Depenent de la teva ubicació, pots tenir drets segons la legislació aplicable de protecció de dades, com ara:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Accedir o sol·licitar l'eliminació de les teves dades",
+              "Oposar-te o restringir certs tractaments de dades"
+            ]
+          },
+          {
+            "type": "highlight",
+            "text": "Per exercir aquests drets, contacta amb nosaltres a admin@gabungpdf.id. Tingues en compte que com que esborrem els fitxers en una hora, pot ser que no conservem dades personals."
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "icon": "🔗",
+        "title": "Enllaços de tercers",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "El Lloc pot contenir enllaços a llocs web de tercers. No som responsables de les seves pràctiques de privacitat ni del contingut d'aquests llocs."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "icon": "👶",
+        "title": "Privacitat dels menors",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Aquest lloc no està destinat a usuaris menors de 18 anys. No recollim informació personal de menors de forma conscient."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Canvis en aquesta política",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Podem actualitzar aquesta Política de Privacitat de tant en tant. Els canvis es publicaran en aquesta pàgina amb la data \"Última actualització\"."
+          },
+          {
+            "type": "highlight",
+            "text": "Si continues utilitzant el Lloc després dels canvis, acceptes la Política de Privacitat actualitzada."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Contacta amb nosaltres",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Si tens preguntes sobre aquesta Política de Privacitat, contacta amb nosaltres a admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "El Nostre Compromís de Privadesa",
+      "desc": "Ens prenem la teva privadesa seriosament. Això és el que fa que el nostre servei sigui de confiança:",
+      "points": [
+        {
+          "title": "Esborrat Automàtic",
+          "desc": "Els fitxers s'esborren automàticament en un termini d’1 hora"
+        },
+        {
+          "title": "Transferència Xifrada",
+          "desc": "Totes les càrregues utilitzen xifratge HTTPS segur"
+        },
+        {
+          "title": "No Llegim els Fitxers",
+          "desc": "Mai accedim ni llegim el contingut dels teus fitxers"
+        },
+        {
+          "title": "Sense Compartició",
+          "desc": "Els teus fitxers mai es comparteixen amb tercers"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Tens dubtes?",
+      "description": "Estem aquí per ajudar-te amb qualsevol dubte o preocupació sobre la privacitat.",
+      "links": [
+        {
+          "label": "Termes del servei",
+          "href": "/terms-of-service",
+          "icon": "📄"
+        },
+        {
+          "label": "Contacta amb el nostre equip",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Terms": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Taula de Continguts",
+        "items": [
+          {
+            "icon": "✅",
+            "label": "Acceptació dels Termes",
+            "target": "acceptance"
+          },
+          {
+            "icon": "🔧",
+            "label": "Ús del Lloc",
+            "target": "use-of-site"
+          },
+          {
+            "icon": "📁",
+            "label": "Arxius d'Usuari",
+            "target": "user-files"
+          },
+          {
+            "icon": "©️",
+            "label": "Propietat Intel·lectual",
+            "target": "intellectual-property"
+          },
+          {
+            "icon": "⚠️",
+            "label": "Limitació de Responsabilitat",
+            "target": "limitation-liability"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Indemnització",
+            "target": "indemnification"
+          },
+          {
+            "icon": "🚫",
+            "label": "Terminació",
+            "target": "termination"
+          },
+          {
+            "icon": "🏛️",
+            "label": "Llei Aplicable",
+            "target": "governing-law"
+          },
+          {
+            "icon": "🔄",
+            "label": "Canvis als Termes",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Contacti'ns",
+            "target": "contact"
+          }
+        ]
+      },
+      "termsSummary": {
+        "title": "Resum dels Termes",
+        "points": [
+          "Servei gratuït per combinar PDFs",
+          "Cal tenir 18 anys o més per utilitzar-lo",
+          "Els arxius es suprimeixen en 1 hora",
+          "Només per a usos legals"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "acceptance",
+        "icon": "✅",
+        "title": "Acceptació dels Termes",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Benvingut a www.gabungpdf.id (\"el Lloc\"), un servei ofert per Gabung PDF (\"nosaltres\"). Aquests Termes de Servei (\"Termes\") regeixen l'ús del Lloc i els seus serveis per combinar PDFs. En accedir o utilitzar el Lloc, acceptes aquests Termes."
+          },
+          {
+            "type": "highlight",
+            "title": "Acord Important:",
+            "text": "Si no estàs d'acord amb aquests Termes, no utilitzis el Lloc."
+          }
+        ]
+      },
+      {
+        "id": "use-of-site",
+        "icon": "🔧",
+        "title": "Ús del Lloc",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Requisits",
+            "text": "Cal tenir com a mínim 18 anys o la capacitat legal per acceptar aquests Termes per fer servir el Lloc."
+          },
+          {
+            "type": "subsection",
+            "title": "Ús Permès",
+            "text": "El Lloc et permet pujar arxius PDF, combinar-los en un sol PDF i descarregar el resultat. Només pots utilitzar el Lloc per a propòsits legals i d'acord amb aquests Termes."
+          },
+          {
+            "type": "subsection",
+            "title": "Ús Prohibit",
+            "text": "No pots:",
+            "list": [
+              "Pujar arxius amb virus, malware o codi nociu",
+              "Utilitzar el Lloc per infringir lleis, regulacions o drets de tercers",
+              "Interferir, interrompre o desxifrar la funcionalitat del Lloc",
+              "Utilitzar el Lloc amb finalitats comercials sense el nostre consentiment previ per escrit"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "user-files",
+        "icon": "📁",
+        "title": "Arxius d'Usuari",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Processament Temporal",
+            "text": "Els arxius pujats es processen per combinar PDFs i s'esborren automàticament dels nostres servidors dins d'una (1) hora. No guardem ni conservem els teus arxius més temps."
+          },
+          {
+            "type": "subsection",
+            "title": "La teva Responsabilitat",
+            "text": "Ets l'únic responsable del contingut dels arxius que puges. Has d'assegurar-te que tens el dret a pujar i processar aquests arxius i que no infringeixen drets de tercers (com ara drets d'autor, marques registrades)."
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "icon": "©️",
+        "title": "Propietat Intel·lectual",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Contingut del Lloc",
+            "text": "Tot el contingut del Lloc, incloent text, gràfics, logotips i programari, és propietat nostra o llicenciat i està protegit per lleis de propietat intel·lectual."
+          },
+          {
+            "type": "subsection",
+            "title": "Contingut d'Usuari",
+            "text": "Conserves la propietat dels arxius que puges. En pujar arxius, ens concedeixes una llicència limitada, no exclusiva i gratuïta per processar els teus arxius només per oferir el servei de combinar PDFs."
+          }
+        ]
+      },
+      {
+        "id": "limitation-liability",
+        "icon": "⚠️",
+        "title": "Limitació de Responsabilitat",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Sense Garanties",
+            "text": "El Lloc es proporciona \"tal com és\" sense cap garantia expressa o implícita, incloses les de comerciabilitat, adequació per a un propòsit concret o no-infracció."
+          },
+          {
+            "type": "subsection",
+            "title": "Límit de Responsabilitat",
+            "text": "Fins al màxim permès per la llei, no som responsables de danys indirectes, accidentals, especials o conseqüents derivats del teu ús del Lloc, fins i tot si t'hem advertit de la possibilitat d'aquests danys."
+          },
+          {
+            "type": "subsection",
+            "title": "Interrupcions del Servei",
+            "text": "No garantim l'accés continu ni lliure d'errors al Lloc i no som responsables de cap retard, inactivitat o pèrdua de dades."
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "icon": "⚖️",
+        "title": "Indemnització",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Acceptes indemnitzar-nos i mantenir-nos indemnes davant qualsevol reclamació, pèrdua o dany, incloent despeses legals, derivades del teu ús del Lloc, dels arxius pujats o de l'incompliment d'aquests Termes."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "icon": "🚫",
+        "title": "Terminació",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Podem suspendre o finalitzar el teu accés al Lloc a la nostra discreció, sense previ avís, si incompleixes aquests Termes o per qualsevol altra raó."
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "icon": "🏛️",
+        "title": "Llei Aplicable",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Aquests Termes es regeixen per les lleis d'Indonèsia, sense tenir en compte els principis de conflicte de lleis. Qualsevol disputa derivada d'aquests Termes es resoldrà davant els tribunals d'Indonèsia."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Canvis als Termes",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Podem actualitzar aquests Termes de tant en tant. Els canvis es publicaran en aquesta pàgina amb una data de \"Darrera Actualització\" actualitzada."
+          },
+          {
+            "type": "highlight",
+            "text": "L'ús continuat del Lloc després dels canvis suposa l'acceptació dels Termes actualitzats."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Contacti'ns",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Si tens preguntes sobre aquests Termes, contacta'ns a admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Punts Clau de l’Acord",
+      "desc": "Entén els teus drets i responsabilitats quan utilitzes el nostre servei.",
+      "points": [
+        {
+          "title": "Ús Responsable",
+          "desc": "Utilitza el nostre servei de manera responsable i legal"
+        },
+        {
+          "title": "Els Teus Fitxers",
+          "desc": "Conserves la propietat de tots els fitxers carregats"
+        },
+        {
+          "title": "Prohibició d’Abús",
+          "desc": "Els usos prohibits poden comportar la terminació del servei"
+        },
+        {
+          "title": "Responsabilitat Limitada",
+          "desc": "El servei es proporciona \"tal qual\" sense garanties"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Tens preguntes?",
+      "description": "Estem aquí per ajudar-te amb qualsevol dubte sobre els termes o el servei.",
+      "links": [
+        {
+          "label": "Política de Privacitat",
+          "href": "/privacy-policy",
+          "icon": "🔒"
+        },
+        {
+          "label": "Contacta amb l'Equip Legal",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Content": {
+    "Policy": {
+      "title": "Política de privacitat",
+      "desc": "Ens comprometem a protegir la vostra privacitat i a garantir la seguretat dels vostres arxius. Descobreix com recopilem, utilitzem i protegim la vostra informació quan utilitzeu el nostre servei de combinació de PDF.",
+      "Updated": "Última actualització:",
+      "date": "6 de juny de 2025"
+    },
+    "Terms": {
+      "title": "Condicions del servei",
+      "desc": "Aquestes condicions regulen l'ús del nostre servei de combinació de PDF. Si us plau, llegiu-les amb atenció abans d'utilitzar el nostre lloc.",
+      "Updated": "Última actualització:",
+      "date": "6 de juny de 2025"
+    }
+  },
+  "MiniFooter": {
+    "heading": "Preparat per combinar els teus PDFs de manera segura?",
+    "subheading": "Experimenta el nostre servei de combinació de PDFs centrat en la privacitat amb total tranquil·litat.",
+    "button": "Combina PDFs ara"
+  },
+  "Seo": {
+    "Home": {
+      "title": "Combina PDF en línia gratuïtament - Uneix fitxers PDF fàcilment i ràpidament",
+      "description": "Combina documents PDF en línia de manera gratuïta amb GabungPDF.id. Un combinador de PDF fàcil d'utilitzar, sense instal·lació ni registre. Uneix els teus PDFs ara mateix!"
+    },
+    "CombinePdf": {
+      "title": "Combina fitxers PDF en línia gratuïtament - Fusionador de PDFs ràpid i fàcil",
+      "description": "Combina fitxers PDF en línia de manera gratuïta amb GabungPDF.id. Combinador de PDF ràpid i fàcil d'utilitzar, sense necessitat de registre ni instal·lació. Fusiona els teus PDFs ara!"
+    },
+    "Blog": {
+    "title": "Bloc de combinació de PDFs: Consells i guies per fusionar PDFs",
+    "description": "Explora el blog de Gabung PDF per obtenir consells d'experts sobre la fusió de PDFs, tutorials i eines per simplificar les teves tasques amb PDFs. Llegeix ara per obtenir informació!"
+  },
+    "Blog1": {
+      "title": "La manera més fàcil de combinar fitxers PDF | Uneix PDFs",
+      "description": "Descobreix la manera més fàcil de combinar fitxers PDF amb Gabung PDF. Eina gratuïta, ràpida i fàcil d'utilitzar per a una fusió fluida de PDFs. Prova-ho ara!"
+    },
+    "Blog2": {
+      "title": "L'eina definitiva per combinar PDFs | Uneix PDFs",
+      "description": "Gabung PDF és l'eina definitiva per combinar fitxers PDF en línia. Ràpida, segura i gratuïta. Uneix els teus PDFs fàcilment avui mateix!"
+    },
+    "privacyPolicy": {
+      "title": "Política de privadesa de Gabung PDF | Fusió segura de PDFs",
+      "description": "Llegeix la política de privadesa de Gabung PDF per entendre com protegim les teves dades mentre combines PDFs de forma segura en línia. Descobreix-ne més ara!"
+    },
+    "TermsAndCondition": {
+      "title": "Condicions del servei de Gabung PDF | Fusió de PDFs",
+      "description": "Revisa les condicions del servei de Gabung PDF per utilitzar la nostra eina gratuïta i segura per combinar PDFs en línia. Entén les nostres polítiques avui mateix."
+    }
+  }
+}

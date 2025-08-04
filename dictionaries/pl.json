@@ -1,0 +1,1296 @@
+{
+  "nav": {
+    "home": "Strona główna",
+    "combinePdf": "Połącz PDF",
+    "blog": "Blog",
+    "language": "Język"
+  },
+  "home": {
+    "title": "Połącz pliki PDF online - Darmowo, szybko i bezpiecznie",
+    "description": "Łatwo łącz PDF-y z GabungPDF.id! Darmowe, szybkie, bezpieczne narzędzie online do łączenia plików PDF w sekundach. Rejestracja nie jest wymagana.",
+    "mergeNow": "Połącz PDF teraz",
+    "sec1Para": "W dzisiejszym szybko rozwijającym się cyfrowym świecie, efektywne zarządzanie dokumentami jest kluczowe zarówno dla zadań osobistych, jak i zawodowych. Powszechną potrzebą jest <strong>łączenie plików PDF</strong> w jeden uporządkowany dokument.",
+    "SecH1": "Dlaczego łączyć pliki PDF?",
+    "SecH1P1": "Łączenie kilku plików PDF w jeden dokument oferuje liczne korzyści:",
+    "SecH1UlLi1": "<strong>Organizacja i wydajność:</strong> Wysyłanie jednego połączonego PDF zamiast kilku plików upraszcza udostępnianie i przeglądanie.",
+    "SecH1UlLi2": "<strong>Zmniejszenie bałaganu plików:</strong> Łączenie PDF-ów zmniejsza liczbę plików, którymi musisz zarządzać.",
+    "SecH1UlLi3": "<strong>Profesjonalna prezentacja:</strong> Zunifikowany PDF wygląda elegancko i profesjonalnie.",
+    "SecH1UlLi4": "<strong>Kompatybilność międzyplatformowa:</strong> PDF-y są uniwersalnie kompatybilne.",
+    "steps": {
+      "title": "Jak połączyć pliki PDF online za darmo",
+      "intro": "Korzystanie z narzędzia online takiego jak gabungPDF.id sprawia, że łączenie PDF-ów jest proste i dostępne:",
+      "items": [
+        {
+          "title": "Krok 1: Odwiedź gabungPDF.id",
+          "desc": "Przejdź do gabungPDF.id, darmowego narzędzia online zaprojektowanego, aby pomóc Ci <strong>łączyć pliki PDF</strong> w sekundach."
+        },
+        {
+          "title": "Krok 2: Prześlij swoje pliki PDF",
+          "desc": "Kliknij przycisk \"Prześlij Pliki\", aby wybrać PDF-y, które chcesz połączyć."
+        },
+        {
+          "title": "Krok 3: Uporządkuj pliki",
+          "desc": "Po przesłaniu możesz przeciągać i upuszczać pliki, aby uporządkować je w pożądanej kolejności."
+        },
+        {
+          "title": "Krok 4: Połącz i pobierz",
+          "desc": "Po uporządkowaniu plików kliknij przycisk \"Połącz\"."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Dlaczego wybrać gabungPDF.id?",
+      "points": [
+        {
+          "title": "<strong>Nie wymaga instalacji:</strong>",
+          "desc": "W przeciwieństwie do oprogramowania desktopowego, gabungPDF.id działa całkowicie online."
+        },
+        {
+          "title": "<strong>Darmowe i bezpieczne:</strong>",
+          "desc": "Narzędzie jest darmowe w użyciu, bez ukrytych opłat."
+        },
+        {
+          "title": "<strong>Kompatybilność międzyurządzeniowa:</strong>",
+          "desc": "Niezależnie od tego, czy używasz Mac, Windows, iOS czy Android."
+        },
+        {
+          "title": "<strong>Wsparcie wielojęzyczne:</strong>",
+          "desc": "Platforma wspiera użytkowników na całym świecie."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Korzyści z używania online łącznika PDF",
+      "items": [
+        {
+          "title": "<strong>Dostępność:</strong>",
+          "desc": "Możesz <strong>łączyć pliki PDF</strong> z dowolnego urządzenia z połączeniem internetowym."
+        },
+        {
+          "title": "<strong>Szybkość:</strong>",
+          "desc": "Proces łączenia zajmuje tylko sekundy."
+        },
+        {
+          "title": "<strong>Bez kosztów:</strong>",
+          "desc": "Wiele narzędzi online jest całkowicie darmowych."
+        },
+        {
+          "title": "<strong>Przyjazne użytkownikowi:</strong>",
+          "desc": "Nie są wymagane umiejętności techniczne."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Optymalizuj swoje połączone PDF dla SEO",
+      "intro": "Jeśli tworzysz pliki PDF do celów zawodowych lub marketingowych, optymalizacja ich dla wyszukiwarek może zwiększyć ich widoczność.",
+      "items": [
+        {
+          "title": "1. Używaj opisowych nazw plików",
+          "desc": "Przed przesłaniem PDF zmień nazwy plików na opisowe, bogate w słowa kluczowe."
+        },
+        {
+          "title": "2. Dodaj metadane",
+          "desc": "Uwzględnij metadane takie jak tytuł, autor i słowa kluczowe w swoim PDF."
+        },
+        {
+          "title": "3. Optymalizuj treść tekstową",
+          "desc": "Upewnij się, że Twój PDF zawiera przeszukiwalny tekst zamiast skanowanych obrazów."
+        },
+        {
+          "title": "4. Uwzględnij linki wewnętrzne",
+          "desc": "Jeśli Twój PDF jest częścią strony internetowej, uwzględnij linki do odpowiednich stron."
+        },
+        {
+          "title": "5. Używaj nagłówków i struktury",
+          "desc": "Organizuj swój PDF z jasnymi nagłówkami i logiczną strukturą."
+        },
+        {
+          "title": "6. Kompresuj dla szybszego ładowania",
+          "desc": "Duże pliki PDF mogą spowalniać czas ładowania."
+        },
+        {
+          "title": "7. Dodaj tekst alternatywny do obrazów",
+          "desc": "Jeśli Twój PDF zawiera obrazy, dodaj opisy tekstu alternatywnego."
+        },
+        {
+          "title": "8. Hostuj PDF na swojej stronie",
+          "desc": "Prześlij swój połączony PDF na swoją stronę internetową."
+        },
+        {
+          "title": "9. Śledź wyświetlenia PDF",
+          "desc": "Używaj narzędzi takich jak Google Analytics do śledzenia interakcji użytkowników."
+        },
+        {
+          "title": "10. Promuj swój PDF",
+          "desc": "Udostępniaj swój PDF w mediach społecznościowych i newsletterach."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Typowe przypadki użycia do łączenia PDF",
+      "items": [
+        {
+          "title": "<strong>Raporty biznesowe:</strong>",
+          "desc": "Połącz wiele sekcji raportu w jeden PDF."
+        },
+        {
+          "title": "<strong>Projekty akademickie:</strong>",
+          "desc": "Studenci mogą kompilować prace badawcze."
+        },
+        {
+          "title": "<strong>Dokumenty prawne:</strong>",
+          "desc": "Prawnicy często łączą umowy i załączniki."
+        },
+        {
+          "title": "<strong>Materiały marketingowe:</strong>",
+          "desc": "Twórz profesjonalne broszury."
+        },
+        {
+          "title": "<strong>Użytek osobisty:</strong>",
+          "desc": "Łącz zeskanowane dokumenty lub zdjęcia."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Porównanie gabungPDF.id z innymi narzędziami",
+      "intro": "Chociaż gabungPDF.id jest doskonałym wyborem do łączenia PDF, inne narzędzia również oferują podobną funkcjonalność.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Darmowe, bez rejestracji, obsługuje wiele formatów plików."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Oferuje darmowy łącznik online, ale wymaga logowania."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Solidne narzędzie z dodatkowymi funkcjami."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Obsługuje złożone pliki i duże liczby stron."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Wskazówki dla płynnego doświadczenia łączenia PDF",
+      "items": [
+        {
+          "title": "<strong>Sprawdź kompatybilność plików:</strong>",
+          "desc": "Upewnij się, że wszystkie pliki są w formacie PDF lub obsługiwanych formatach."
+        },
+        {
+          "title": "<strong>Podejrzyj swoje pliki:</strong>",
+          "desc": "Przejrzyj kolejność i zawartość swoich plików przed łączeniem."
+        },
+        {
+          "title": "<strong>Używaj bezpiecznych platform:</strong>",
+          "desc": "Wybieraj narzędzia, które priorytetowo traktują prywatność."
+        },
+        {
+          "title": "<strong>Przetestuj wynik:</strong>",
+          "desc": "Otwórz połączony PDF, aby potwierdzić układ."
+        }
+      ]
+    },
+    "ConclusionH1": "Wniosek",
+    "conclusion": "Łączenie plików PDF to prosty, ale potężny sposób na usprawnienie zarządzania dokumentami. Niezależnie od tego, czy jesteś profesjonalistą organizującym raporty, studentem kompilującym badania, czy kimś archiwizującym dokumenty osobiste, narzędzia takie jak gabungPDF.id sprawiają, że <strong>łączenie plików PDF</strong> online za darmo jest łatwe."
+  },
+  "combinePdf": {
+    "title": "Scal pliki PDF",
+    "dragDrop": "Przeciągnij i upuść pliki PDF tutaj",
+    "clickBrowse": "lub kliknij, aby przeglądać",
+    "selectFiles": "Wybierz pliki",
+    "maxSize": "Maksymalny rozmiar każdego pliku: 50 MB",
+    "combineButton": "Scal PDF",
+    "filesCount": "PDF",
+    "S1H1": "Scal PDF: Jak połączyć pliki PDF – darmowe porady",
+    "S1P1": "W dzisiejszym cyfrowym świecie pliki PDF (Portable Document Format) stały się podstawą do udostępniania i przechowywania dokumentów. W porównaniu z tradycyjnymi plikami DOC stworzonymi w Microsoft Word lub Google Docs, pliki PDF zachowują ten sam układ na wszystkich urządzeniach i systemach operacyjnych, co czyni je idealnymi do użytku zarówno biznesowego, jak i osobistego – niezależnie od tego, czy udostępniasz raporty online, prezentacje czy formularze.",
+    "S1P2": "Jednak praca z plikami PDF może być czasem wyzwaniem, szczególnie gdy musisz połączyć wiele plików. W tym przewodniku pokażemy, dlaczego warto scalać pliki PDF, jak zrobić to za darmo za pomocą naszego przyjaznego narzędzia online oraz jak usprawnić proces zarządzania dokumentami na stałe.",
+    "S2H1": "Dlaczego PDF-y są wyjątkowe i wszechstronne",
+    "S2P1": "Pliki PDF są zaprojektowane tak, aby zachować dokładny układ dokumentu, niezależnie od urządzenia czy oprogramowania, na którym są wyświetlane. W przeciwieństwie do plików DOC, które zależą od ustawień systemowych, takich jak czcionki czy konfiguracja OS, PDF to format stały. Gwarantuje to, że czcionki, układ i grafika pozostają niezmienione, co czyni je idealnymi dla profesjonalnych dokumentów, takich jak umowy, CV czy e-booki.",
+    "S2P2": "To właśnie ta niezawodność sprawia, że PDF-y są tak popularne do udostępniania dokumentów w internecie. Niezależnie od tego, czy wysyłasz ofertę biznesową, czy archiwizujesz ważne dane, PDF zapewnia, że odbiorca zobaczy dokument dokładnie tak, jak go przygotowano. Jednak ta sama cecha czyni edycję lub scalanie PDF-ów trudniejszą bez specjalistycznego oprogramowania. Na szczęście nasze darmowe narzędzie online upraszcza ten proces, umożliwiając wygodne łączenie plików PDF bez instalacji kosztownego oprogramowania.",
+    "combine_pdf_files": {
+      "intro": "Dlaczego warto scalać pliki PDF?",
+      "para": "Scalanie plików PDF jest częstą potrzebą dla profesjonalistów, studentów i wszystkich, którzy zarządzają wieloma dokumentami. Oto kilka sytuacji, gdy warto to zrobić:",
+      "items": [
+        {
+          "title": "Tworzenie obszernych raportów:",
+          "desc": "Masz kilka raportów lub rozdziałów w osobnych plikach PDF? Połączenie ich w jeden dokument ułatwia udostępnianie i przeglądanie."
+        },
+        {
+          "title": "Archiwizacja zeskanowanych dokumentów:",
+          "desc": "Skanowane dokumenty, jak paragony czy formularze, często wymagają scalenia w jeden plik dla łatwiejszego zarządzania."
+        },
+        {
+          "title": "Ułatwienie prezentacji:",
+          "desc": "Łączenie slajdów lub sekcji z różnych PDF-ów poprawia klarowność i profesjonalny wygląd prezentacji."
+        },
+        {
+          "title": "Uproszczenie udostępniania:",
+          "desc": "Zamiast wysyłać wiele plików, scalony dokument PDF pozwala przekazać wszystkie informacje jednym kliknięciem."
+        }
+      ],
+      "para2": "W przeciwieństwie do plików DOC, które łatwo kopiować i wklejać, PDF-y wymagają specjalistycznych narzędzi do edycji lub scalania. Na przykład tekst ze zeskanowanego PDF-a często nie jest możliwy do skopiowania bez oprogramowania OCR. Nasze darmowe narzędzie do scalania PDF znosi te ograniczenia – możesz połączyć do 20 plików jednocześnie, bez potrzeby płatnego oprogramowania czy zaawansowanej wiedzy."
+    },
+    "stepbystep": {
+      "intro": "Jak scalić pliki PDF – krok po kroku",
+      "para": "Nasze przyjazne narzędzie online sprawia, że łączenie PDF-ów jest szybkie i efektywne. Niezależnie od tego, czy łączysz dwa pliki, czy 20, proces jest prosty i nie wymaga instalacji ani rejestracji. Wykonaj te kroki, aby bez problemu scalić PDF-y:",
+      "items": [
+        {
+          "title": "Krok 1: Prześlij pliki PDF",
+          "desc": "Najpierw znajdź przycisk „Prześlij pliki” na naszej stronie. Możesz kliknąć i wybrać pliki z urządzenia lub użyć funkcji „przeciągnij i upuść” – to oszczędza czas przy pracy z wieloma plikami."
+        },
+        {
+          "title": "Krok 2: Ułóż pliki w odpowiedniej kolejności",
+          "desc": "Po przesłaniu plików zobaczysz je w kolejności, w jakiej zostaną scalone. Pierwszy plik pojawi się na górze, kolejny zaraz po nim. Możesz przeciągać je, aby zmienić kolejność."
+        },
+        {
+          "title": "Krok 3: Scal i pobierz",
+          "desc": "Jeśli jesteś zadowolony z kolejności, kliknij „Scal PDF”. Nasz system połączy pliki i automatycznie rozpocznie pobieranie scalonego dokumentu. Cały proces jest szybki, bezpieczny i bez dodatkowego oprogramowania."
+        }
+      ],
+      "intro2": "Chcesz scalić więcej plików?",
+      "para2": "Nic prostszego! Nasze narzędzie pozwala na scalenie plików partiami. Po scaleniu pierwszej grupy, pobierz wynik, a następnie możesz dodać go ponownie wraz z innymi PDF-ami i powtórzyć proces, tworząc ogromny dokument. Możesz powtarzać, aż obejmiesz wszystkie potrzebne pliki.",
+      "intro3": "Ważna informacja: pobierz w ciągu godziny",
+      "para3": "Aby zapewnić płynność działania, scalony plik będzie dostępny tylko przez godzinę. Po tym czasie zostanie usunięty z serwerów i trzeba będzie ponownie przesłać pliki. To gwarantuje bezpieczeństwo danych i oszczędność miejsca."
+    },
+    "benefits": {
+      "intro": "Korzyści z naszego darmowego narzędzia do scalania PDF",
+      "para": "Nasze narzędzie zostało zaprojektowane z myślą o prostocie, dostępności i efektywności. Oto, dlaczego warto z niego korzystać:",
+      "items": [
+        {
+          "title": "Bez instalacji:",
+          "desc": "W przeciwieństwie do tradycyjnych edytorów PDF, nasze narzędzie działa w pełni online, więc dostępne jest na dowolnym urządzeniu z internetem."
+        },
+        {
+          "title": "Bezpłatne i bez limitów:",
+          "desc": "Scalaj do 20 plików PDF naraz – zupełnie za darmo bez abonamentu."
+        },
+        {
+          "title": "Intuicyjny interfejs:",
+          "desc": "Funkcja przeciągnij i upuść oraz przejrzysty interfejs sprawiają, że korzystanie z narzędzia jest proste nawet dla początkujących."
+        },
+        {
+          "title": "Szybkie działanie:",
+          "desc": "Narzędzie scalanie w kilka sekund, oszczędzając Twój czas."
+        },
+        {
+          "title": "Bezpieczeństwo:",
+          "desc": "Twoje pliki są przetwarzane bezpiecznie, a po godzinie usuwane z serwerów, co chroni prywatność."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Kiedy warto scalać PDF-y?",
+      "para": "Scalanie PDF-ów to przydatna funkcja w różnych sytuacjach. Oto niektóre scenariusze:",
+      "items": [
+        {
+          "title": "Dla profesjonalistów:",
+          "desc": "Połącz faktury, umowy i oferty w jeden dokument, aby łatwiej wysyłać je klientom i współpracownikom."
+        },
+        {
+          "title": "Studenci i nauczyciele:",
+          "desc": "Scal notatki, prace domowe lub artykuły w jednej całości do wygodnego przesyłania lub nauki."
+        },
+        {
+          "title": "Dokumenty prawne i administracyjne:",
+          "desc": "Połącz zeskanowane formularze czy umowy w jeden plik do celów archiwalnych lub prawnych."
+        },
+        {
+          "title": "Projekty kreatywne:",
+          "desc": "Scal szkice, portfolia lub storyboardy w jedną prezentację do oceny lub udziału."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Porady przy pracy z PDF-ami",
+      "para": "Aby jak najlepiej wykorzystać narzędzie do scalania PDF, zwróć uwagę na te wskazówki:",
+      "items": [
+        {
+          "title": "Sprawdź kolejność:",
+          "desc": "Przed scaleniem upewnij się, że pliki są w odpowiedniej kolejności, aby uniknąć przestawionych stron."
+        },
+        {
+          "title": "Optymalizuj rozmiar:",
+          "desc": "Jeśli PDF-y zawierają duże obrazy lub grafikę, skompresuj je przed przesłaniem, by zmniejszyć końcowy plik."
+        },
+        {
+          "title": "Używaj opisowych nazw:",
+          "desc": "Nazwij pliki konkretnie (np. Raport_Rozdzial1.pdf), by łatwiej je zidentyfikować przy scalaniu."
+        },
+        {
+          "title": "Zrób kopię zapasową:",
+          "desc": "Zachowaj oryginalne PDF-y na wypadek potrzeby edycji lub scalania na nowo."
+        },
+        {
+          "title": "Sprawdź inne narzędzia:",
+          "desc": "Jeśli potrzebujesz edycji, konwersji czy kompresji PDF, wypróbuj inne darmowe narzędzia dostępne na naszej platformie."
+        }
+      ]
+    },
+    "why_choose": "Dlaczego wybrać nasze narzędzie zamiast płatnych?",
+    "why_choose_para": "Płatne edytory PDF, jak Adobe Acrobat, oferują zaawansowane funkcje, ale nasze darmowe narzędzie wystarcza większości użytkowników. Bez płacenia ani abonamentu możesz łatwo scalić dokumenty. Gabung PDF.id jest dostępny dla wszystkich – od małych firm po studentów – oferując profesjonalne efekty bez komplikacji.",
+    "why_choose_para2": "Nasza platforma jest zoptymalizowana pod kątem szybkości i użyteczności. Niezależnie od tego, czy pracujesz na komputerze, tablecie czy telefonie komórkowym, możesz scalać PDF-y z dowolnego miejsca bez problemów z kompatybilnością. To sprawia, że nasze narzędzie jest idealne dla użytkowników, którzy potrzebują szybkich i niezawodnych rezultatów bez skomplikowanej nauki.",
+    "conclusion": "Podsumowanie",
+    "conclusion_para": "Scalanie plików PDF nie musi być skomplikowane ani kosztowne. Dzięki naszemu darmowemu narzędziu online możesz łączyć do 20 plików naraz, łatwo zarządzać kolejnością i pobierać scalone dokumenty w kilka sekund. Bez względu na to, czy przygotowujesz raporty, archiwizujesz zeskanowane dokumenty, czy tworzysz prezentacje, nasze narzędzie uprości proces bez potrzeby instalacji czy zaawansowanych umiejętności."
+  },
+  "blog": {
+    "title": "Blog",
+    "subtitle": "Najnowsze informacje o PDF i zarządzaniu dokumentami",
+    "readMore": "Czytaj więcej",
+    "featureblog": {
+      "title": "Najpopularniejsze w tym tygodniu",
+      "subtitle": "⭐ Polecany artykuł",
+      "featuredArticle": {
+        "date": "2 lipca 2025",
+        "author": "Admin User",
+        "category": "Polecany artykuł",
+        "headline": "GabungPDF.id: Najłatwiejszy sposób na łączenie plików PDF",
+        "excerpt": "Łatwo łącz pliki PDF z GabungPDF.id, darmowym narzędziem online do łączenia PDF-ów. Scalaj pliki PDF bezpiecznie w kilka sekund, bez potrzeby instalowania oprogramowania. Zwiększ produktywność już teraz!",
+        "readTime": "3 minuty czytania",
+        "buttonName": "Przeczytaj cały artykuł"
+      }
+    },
+    "blogsPage": {
+      "cards": [
+        {
+          "BlogImage": "/Blog1Image.webp",
+          "date": "2 Czerwca 2025",
+          "author": "Admin User",
+          "category": null,
+          "headline": "GabungPDF.id: Najlepsze narzędzie do łączenia plików PDF",
+          "headlineLink": "/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "excerpt": "Łącz pliki PDF bez wysiłku dzięki GabungPDF.id, darmowemu narzędziu online. Bezpiecznie łącz PDF-y w kilka sekund — bez instalacji oprogramowania.",
+          "readTime": "3 min czytania",
+          "readMoreText": "blog.czytajArtykul",
+          "slug": "gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "detail": {
+            "intro": "Na GabungPDF.id stworzyliśmy przyjazne dla użytkownika, internetowe narzędzie do łatwego łączenia plików PDF. Niezależnie od tego, czy jesteś ekspertem technologicznym, czy początkującym, nasza platforma jest stworzona dla każdego. Oto dlaczego GabungPDF.id wyróżnia się jako najlepszy łącznik PDF:",
+            "features": [
+              {
+                "title": "Darmowe i dostępne",
+                "description": "Bez subskrypcji ani ukrytych opłat — po prostu prześlij i połącz."
+              },
+              {
+                "title": "Bez instalacji oprogramowania",
+                "description": "Nasze narzędzie działa całkowicie online, oszczędzając miejsce na Twoim urządzeniu."
+              },
+              {
+                "title": "Szybkie i bezpieczne",
+                "description": "Łącz PDF-y w kilka sekund dzięki solidnemu szyfrowaniu chroniącemu Twoje pliki."
+              },
+              {
+                "title": "Przyjazny interfejs",
+                "description": "Przeciągnij, upuść i połącz pliki kilkoma kliknięciami."
+              }
+            ],
+            "intro2": "Gotowy uprościć zarządzanie dokumentami? Oto jak krok po kroku korzystać z naszego narzędzia do łączenia PDF.",
+            "how_to_use": {
+              "title": "Jak połączyć pliki PDF z GabungPDF.id",
+              "paragraph": "Łączenie PDF-ów za pomocą GabungPDF.id jest dziecinnie proste. Postępuj zgodnie z tymi krokami, aby stworzyć jeden, estetyczny dokument PDF:",
+              "steps": [
+                {
+                  "title": "Prześlij swoje pliki",
+                  "description": "Odwiedź https://gabungpdf.id/ i kliknij przycisk „Prześlij”. Wybierz pliki PDF, które chcesz połączyć ze swojego urządzenia. Możesz przesłać wiele plików jednocześnie."
+                },
+                {
+                  "title": "Ustaw kolejność",
+                  "description": "Przeciągnij i upuść pliki, aby ustawić je w preferowanej kolejności. Zapewni to logiczny układ końcowego dokumentu."
+                },
+                {
+                  "title": "Połącz i pobierz",
+                  "description": "Kliknij przycisk „Połącz PDF”, a nasze narzędzie połączy Twoje pliki w jeden. Po zakończeniu natychmiast pobierz nowy PDF."
+                }
+              ],
+              "note": "I to wszystko! Bez skomplikowanych ustawień ani wiedzy technicznej. Niezależnie, czy łączysz dwa pliki czy dwadzieścia, GabungPDF.id poradzi sobie bez problemu."
+            },
+            "benefits": {
+              "title": "Zalety korzystania z internetowego łącznika PDF",
+              "paragraph": "Wybór internetowego łącznika PDF, takiego jak GabungPDF.id, oferuje wiele korzyści w porównaniu z tradycyjnym oprogramowaniem. Oto dlaczego nasze narzędzie zmienia zasady gry:",
+              "items": [
+                {
+                  "title": "Oszczędność czasu",
+                  "description": "Ręczne łączenie PDF-ów na komputerze zajmuje czas i często wymaga drogich licencji. Z GabungPDF.id połączysz PDF-y w kilka sekund na każdym urządzeniu z dostępem do internetu — laptopie, tablecie lub smartfonie."
+                },
+                {
+                  "title": "Bezpieczna obsługa plików",
+                  "description": "Martwisz się o prywatność? Nasza platforma wykorzystuje zaawansowane szyfrowanie, aby zapewnić bezpieczeństwo Twoich plików podczas łączenia. Po pobraniu wynikowego pliku, Twoje pliki są usuwane z naszych serwerów."
+                },
+                {
+                  "title": "Ekonomiczne rozwiązanie",
+                  "description": "Po co płacić za drogie oprogramowanie do edycji PDF? GabungPDF.id jest całkowicie darmowy — idealny dla studentów, freelancerów i małych firm."
+                },
+                {
+                  "title": "Kompatybilność na każdej platformie",
+                  "description": "Niezależnie, czy korzystasz z Windows, macOS, iOS, czy Androida, nasz internetowy łącznik PDF działa bezbłędnie na wszystkich platformach."
+                }
+              ]
+            },
+            "optimization_tips": {
+              "title": "Wskazówki, jak zoptymalizować połączone PDF-y",
+              "paragraph": "Aby w pełni wykorzystać swoje połączone PDF-y, rozważ te wskazówki:",
+              "tips": [
+                {
+                  "title": "Sprawdź kolejność plików",
+                  "description": "Przed połączeniem ustaw swoje PDF-y w odpowiedniej kolejności, aby uniknąć powtarzania procesu."
+                },
+                {
+                  "title": "Optymalizuj rozmiar plików",
+                  "description": "Jeśli Twoje PDF-y zawierają duże obrazy, skompresuj je przed przesłaniem, aby zmniejszyć ostateczny rozmiar pliku."
+                },
+                {
+                  "title": "Jasno nazywaj pliki",
+                  "description": "Stosuj opisowe nazwy plików PDF, aby łatwiej było je później zidentyfikować."
+                },
+                {
+                  "title": "Sprawdź wynik",
+                  "description": "Po połączeniu przejrzyj plik PDF, aby upewnić się, że wszystko wygląda zgodnie z oczekiwaniami."
+                }
+              ],
+              "paragraph2": "Dzięki GabungPDF.id możesz pewnie łączyć pliki PDF, zachowując jakość i porządek."
+            },
+            "audience": {
+              "title": "Dla kogo jest GabungPDF.id?",
+              "paragraph": "Nasz łącznik PDF jest przeznaczony dla szerokiej grupy użytkowników, w tym:",
+              "users": [
+                {
+                  "type": "Studenci",
+                  "description": "Łącz notatki z wykładów, prace domowe lub artykuły w jeden plik."
+                },
+                {
+                  "type": "Profesjonaliści",
+                  "description": "Łącz raporty, oferty lub umowy dla łatwiejszej komunikacji."
+                },
+                {
+                  "type": "Małe firmy",
+                  "description": "Porządkuj faktury, paragony lub materiały marketingowe w jednym dokumencie."
+                },
+                {
+                  "type": "Freelancerzy",
+                  "description": "Łącz portfolio, faktury lub projekty dla klientów."
+                }
+              ],
+              "paragraph2": "Bez względu na potrzeby, GabungPDF.id to Twój zaufany partner w pracy z PDF-ami."
+            },
+            "why_choose_us": {
+              "title": "Dlaczego warto wybrać GabungPDF.id?",
+              "paragraph": "Na rynku jest wiele narzędzi, ale dlaczego GabungPDF.id to najlepszy wybór do łączenia PDF-ów? Oto, co nas wyróżnia:",
+              "reasons": [
+                {
+                  "title": "Szybkość",
+                  "description": "Brak krzywej uczenia się — po prostu prześlij, połącz i pobierz."
+                },
+                {
+                  "title": "Niezawodność",
+                  "description": "Stała wydajność bez awarii i błędów."
+                },
+                {
+                  "title": "Dostępność",
+                  "description": "Dostępne 24/7 z dowolnego miejsca na świecie."
+                }
+              ],
+              "paragraph2": "Nie trać czasu na skomplikowane oprogramowanie ani zawodną technologię. Spróbuj GabungPDF.id już dziś i przekonaj się, jak łatwo łączyć PDF-y."
+            },
+            "conclusion": {
+              "title": "Podsumowanie: Uprość pracę z dokumentami dzięki GabungPDF.id",
+              "paragraph": "Łączenie PDF-ów nie musi być uciążliwe. Dzięki GabungPDF.id możesz połączyć pliki PDF szybko i bezpiecznie, a Twoje dokumenty pozostaną uporządkowane. Nasze darmowe, bezpieczne i przyjazne dla użytkownika narzędzie PDF jest idealne dla każdego, kto chce uprościć swoją pracę. Czy jesteś gotowy, aby zacząć?",
+              "cta": {
+                "text": "Odwiedź gabungpdf.id/combine-pdf",
+                "link": "https://gabungpdf.id/combine-pdf"
+              },
+              "Remaingparagraph": "Połącz pliki PDF w kilka kliknięć. Uprość zarządzanie dokumentami już dziś z GabungPDF.id — Twoim najlepszym łącznikiem PDF!"
+            }
+          }
+        },
+        {
+          "BlogImage": "/FeatureBlogImage.webp",
+          "date": "2 lipca 2025",
+          "author": "Admin User",
+          "category": "Polecany artykuł",
+          "headline": "GabungPDF.id: Najłatwiejszy sposób na łączenie plików PDF",
+          "excerpt": "Łącz pliki PDF z GabungPDF.id bez wysiłku. Darmowy, internetowy łącznik PDF. Scalaj pliki PDF bezpiecznie w kilka sekund, bez potrzeby instalacji oprogramowania. Zwiększ swoją produktywność już teraz!",
+          "readTime": "3 minuty czytania",
+          "buttonName": "Czytaj cały artykuł",
+          "slug": "gabungpdfid-the-easiest-way-to-combine-pdf-files",
+          "detail": {
+            "intro": "W świecie, w którym czas to pieniądz, efektywne zarządzanie dokumentami ma kluczowe znaczenie. Niezależnie od tego, czy pracujesz nad wieloma raportami, porządkujesz umowy z klientami, czy kompilujesz pliki projektowe, niezawodny łącznik PDF może całkowicie zmienić Twoją organizację pracy. Oto GabungPDF.id – darmowe, internetowe narzędzie zaprojektowane, by szybko i bezproblemowo łączyć pliki PDF. W tym artykule pokażemy, jak GabungPDF.id ułatwia scalanie plików PDF i dlaczego jest to idealne rozwiązanie dla profesjonalistów, studentów i firm.",
+            "why_merge_pdf": {
+              "title": "Dlaczego warto łączyć pliki PDF?",
+              "paragraph": "PDF to najpopularniejszy format do udostępniania profesjonalnych dokumentów, ale zarządzanie wieloma plikami może być uciążliwe. Scalanie PDF-ów w jeden, uporządkowany dokument oszczędza czas, zmniejsza bałagan i poprawia organizację. Oto kilka powodów, dla których warto łączyć pliki PDF:",
+              "reasons": [
+                {
+                  "title": "Ułatwione udostępnianie",
+                  "description": "Wyślij jeden plik zamiast kilku załączników, aby usprawnić współpracę."
+                },
+                {
+                  "title": "Organizacja dokumentów",
+                  "description": "Połącz faktury, formularze lub notatki w jeden łatwo dostępny PDF."
+                },
+                {
+                  "title": "Profesjonalne prezentacje",
+                  "description": "Scal slajdy, materiały i notatki w jeden spójny dokument."
+                },
+                {
+                  "title": "Uporządkowane archiwizowanie",
+                  "description": "Konsoliduj powiązane pliki, by ułatwić przechowywanie i wyszukiwanie."
+                }
+              ],
+              "note": "Z GabungPDF.id połączysz pliki PDF w kilka kliknięć – zarządzanie dokumentami staje się proste."
+            },
+            "features": {
+              "title": "Co sprawia, że GabungPDF to najlepsze narzędzie do łączenia PDF?",
+              "paragraph": "W GabungPDF.id stworzyliśmy narzędzie, które jest szybkie, darmowe i dostępne dla każdego. Niezależnie, czy pracujesz na komputerze, tablecie czy smartfonie, nasze narzędzie zapewnia profesjonalne rezultaty bez zbędnych komplikacji. Oto, za co użytkownicy cenią GabungPDF.id:",
+              "items": [
+                {
+                  "title": "Całkowicie darmowe",
+                  "description": "Bez subskrypcji, bez ukrytych kosztów — po prostu scalaj i działaj."
+                },
+                {
+                  "title": "Bez potrzeby instalacji",
+                  "description": "Nasze narzędzie online działa natychmiast, bez pobierania czegokolwiek."
+                },
+                {
+                  "title": "Bezpieczne przetwarzanie",
+                  "description": "Twoje pliki są chronione szyfrowaniem i usuwane po użyciu."
+                },
+                {
+                  "title": "Intuicyjny interfejs",
+                  "description": "Prosty interfejs sprawia, że łączenie PDF-ów jest łatwe dla każdego."
+                }
+              ],
+              "next": "Chcesz zwiększyć swoją produktywność? Zobacz, jak w kilka minut połączyć PDF-y z naszym narzędziem."
+            },
+            "how_to_use": {
+              "title": "Jak korzystać z GabungPDF.id do łączenia plików PDF",
+              "paragraph": "Łączenie PDF-ów z GabungPDF jest proste i nie wymaga żadnych umiejętności technicznych. Wystarczy wykonać te kroki:",
+              "steps": [
+                {
+                  "title": "Prześlij swoje pliki PDF",
+                  "description": "Wejdź na https://gabungpdf.id/ i wybierz pliki PDF, które chcesz połączyć. Możesz przesłać kilka plików jednocześnie."
+                },
+                {
+                  "title": "Ułóż je według potrzeb",
+                  "description": "Za pomocą funkcji przeciągnij-i-upuść ustaw pliki w pożądanej kolejności."
+                },
+                {
+                  "title": "Połącz i zapisz",
+                  "description": "Kliknij „Scal PDF”, a nasze narzędzie połączy Twoje pliki w jeden. Pobierz gotowy PDF natychmiast."
+                }
+              ],
+              "note": "To takie proste! Niezależnie, czy łączysz dwa pliki, czy kilkadziesiąt, GabungPDF.id zapewni Ci płynne i bezproblemowe doświadczenie."
+            },
+            "top_benefits": {
+              "title": "Największe zalety korzystania z GabungPDF.id",
+              "paragraph": "Wybór narzędzia online, takiego jak GabungPDF.id, daje niespotykaną wygodę i efektywność. Oto, co wyróżnia nasze narzędzie:",
+              "items": [
+                {
+                  "title": "Oszczędność czasu i wysiłku",
+                  "description": "Ręczne łączenie PDF-ów lub używanie skomplikowanego oprogramowania może być uciążliwe. GabungPDF.id pozwala scalac pliki PDF w kilka sekund, zostawiając Ci czas na ważniejsze zadania."
+                },
+                {
+                  "title": "Zwiększone bezpieczeństwo",
+                  "description": "Dbamy o Twoją prywatność. Nasza platforma stosuje bezpieczne szyfrowanie, a pliki są usuwane po zakończeniu."
+                },
+                {
+                  "title": "Bez kosztów",
+                  "description": "Po co inwestować w drogie oprogramowanie? GabungPDF.id jest w 100% darmowe – idealne dla studentów, freelancerów i małych firm."
+                },
+                {
+                  "title": "Dostęp z każdego urządzenia",
+                  "description": "Nasze narzędzie działa na każdym urządzeniu z przeglądarką — Windows, macOS, iOS czy Android. Łącz PDF-y gdzie chcesz i kiedy chcesz."
+                }
+              ]
+            },
+            "audience": {
+              "title": "Dla kogo jest GabungPDF.id?",
+              "paragraph": "Nasze narzędzie do łączenia PDF-ów jest wystarczająco wszechstronne, by spełnić różne potrzeby:",
+              "users": [
+                {
+                  "type": "Studenci",
+                  "description": "Łącz materiały do nauki, eseje lub prace badawcze w jeden plik, aby łatwiej je oddać."
+                },
+                {
+                  "type": "Profesjonaliści",
+                  "description": "Scalaj umowy, oferty lub raporty dla łatwiejszej komunikacji z klientami."
+                },
+                {
+                  "type": "Freelancerzy",
+                  "description": "Twórz estetyczne portfolio lub łącz faktury dla klientów."
+                },
+                {
+                  "type": "Małe firmy",
+                  "description": "Porządkuj paragony, materiały marketingowe lub dokumenty prawne w jednym PDF-ie."
+                }
+              ],
+              "note": "Niezależnie od tego, kim jesteś, GabungPDF.id ułatwia zarządzanie dokumentami."
+            },
+            "pro_tips": {
+              "title": "Porady, jak łączyć PDF-y jak profesjonalista",
+              "paragraph": "Aby w pełni wykorzystać nasze narzędzie do łączenia PDF, pamiętaj o tych wskazówkach:",
+              "tips": [
+                {
+                  "title": "Zaplanuj kolejność plików",
+                  "description": "Ułóż PDF-y w logicznej kolejności przed scalaniem, aby oszczędzić czas."
+                },
+                {
+                  "title": "Kompresuj duże pliki",
+                  "description": "Zmniejsz rozmiar plików przed przesłaniem, by przyspieszyć proces."
+                },
+                {
+                  "title": "Sprawdź wynik",
+                  "description": "Przejrzyj scalony PDF, aby upewnić się, że spełnia Twoje oczekiwania."
+                },
+                {
+                  "title": "Dodaj GabungPDF.id do zakładek",
+                  "description": "Zapisz naszą stronę, aby mieć do niej szybki dostęp, gdy trzeba połączyć PDF-y."
+                }
+              ]
+            },
+            "why_stand_out": {
+              "title": "Dlaczego GabungPDF.id wyróżnia się wśród narzędzi do łączenia PDF?",
+              "paragraph": "Choć dostępnych jest wiele narzędzi do łączenia PDF-ów, GabungPDF.id wyróżnia się prostotą, szybkością i niezawodnością. W przeciwieństwie do innych narzędzi, nie wymaga rejestracji ani pobierania. Nasze zobowiązanie do bezpieczeństwa oznacza, że Twoje pliki są zawsze chronione. Nie pozwól, aby rozproszone PDF-y Cię spowalniały. Odwiedź https://gabungpdf.id/ i odkryj najłatwiejszy sposób na łączenie PDF-ów."
+            },
+            "conclusion": {
+              "title": "Podsumowanie: Uporządkuj swoje dokumenty z GabungPDF.id",
+              "paragraph": "Zarządzanie wieloma PDF-ami nie musi być trudne. Dzięki GabungPDF.id możesz szybko, bezpiecznie i za darmo łączyć pliki PDF. Nasze przyjazne dla użytkownika narzędzie zostało zaprojektowane, aby zwiększyć Twoją produktywność – niezależnie, czy jesteś studentem, profesjonalistą, czy właścicielem firmy. Pożegnaj chaos dokumentów i przywitaj uporządkowane, profesjonalne PDF-y. Wypróbuj GabungPDF.id już teraz na gabungpdf.id/combine-pdf i przekonaj się, jak szybko możesz łączyć pliki PDF. Uprość swoją pracę już dziś!"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "Najłatwiejszy sposób na połączenie kilku plików PDF w jeden dokument. Szybko, bezpiecznie i całkowicie darmowo w użyciu.",
+    "contact": "Skontaktuj się z nami:",
+    "quickLinks": "Szybkie linki",
+    "privacyPolicy": "Polityka prywatności",
+    "termsOfService": "Warunki usługi",
+    "copyright": "Prawa autorskie © 2024 PDF Composer. Wszelkie prawa zastrzeżone."
+  },
+  "privacy": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Spis Treści",
+        "items": [
+          {
+            "icon": "👁️",
+            "label": "Przegląd",
+            "target": "Overview"
+          },
+          {
+            "icon": "📊",
+            "label": "Informacje, które zbieramy",
+            "target": "information-collection"
+          },
+          {
+            "icon": "🔧",
+            "label": "Jak wykorzystujemy Twoje informacje",
+            "target": "how-we-use"
+          },
+          {
+            "icon": "🗄️",
+            "label": "Przechowywanie i usuwanie danych",
+            "target": "data-retention"
+          },
+          {
+            "icon": "🤝",
+            "label": "Udostępnianie danych",
+            "target": "data-sharing"
+          },
+          {
+            "icon": "🔒",
+            "label": "Bezpieczeństwo danych",
+            "target": "data-security"
+          },
+          {
+            "icon": "🌍",
+            "label": "Międzynarodowy transfer danych",
+            "target": "international-transfers"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Twoje prawa",
+            "target": "your-rights"
+          },
+          {
+            "icon": "🔗",
+            "label": "Linki do stron trzecich",
+            "target": "third-party-links"
+          },
+          {
+            "icon": "👶",
+            "label": "Prywatność dzieci",
+            "target": "children"
+          },
+          {
+            "icon": "🔄",
+            "label": "Zmiany w tej polityce",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Skontaktuj się z nami",
+            "target": "contact"
+          }
+        ]
+      },
+      "privacySummary": {
+        "title": "Podsumowanie prywatności",
+        "points": [
+          "Pliki usuwane w ciągu 1 godziny",
+          "Nie przechowujemy Twoich dokumentów",
+          "Minimalne zbieranie danych",
+          "Szyfrowanie end-to-end"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "Overview",
+        "icon": "👁️",
+        "title": "Przegląd",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Na stronie www.gabungpdf.id (\"Strona\"), obsługiwanej przez Gabung PDF (\"my\", \"nas\" lub \"nasz\"), zobowiązujemy się do ochrony Twojej prywatności. Niniejsza Polityka Prywatności wyjaśnia, w jaki sposób zbieramy, wykorzystujemy i chronimy Twoje informacje, gdy korzystasz z naszej usługi łączenia plików PDF. Korzystając ze Strony, akceptujesz tę Politykę Prywatności."
+          },
+          {
+            "type": "highlight",
+            "title": "Nasza główna zasada:",
+            "text": "Przetwarzamy Twoje pliki wyłącznie w celu świadczenia naszej usługi i automatycznie usuwamy je w ciągu jednej godziny. Nie uzyskujemy dostępu, nie przeglądamy ani nie przechowujemy treści Twoich plików poza niezbędnym okresem przetwarzania."
+          }
+        ]
+      },
+      {
+        "id": "information-collection",
+        "icon": "📊",
+        "title": "Informacje, które zbieramy",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Pliki przesyłane przez użytkownika",
+            "text": "Kiedy korzystasz z naszej usługi, przesyłasz pliki PDF w celu ich połączenia. Te pliki mogą zawierać dane osobowe, ale nie uzyskujemy do nich dostępu, nie przeglądamy ich ani nie przechowujemy ich treści poza okresem niezbędnym do przetwarzania."
+          },
+          {
+            "type": "subsection",
+            "title": "Automatycznie zbierane dane",
+            "text": "Możemy zbierać dane nieosobowe, takie jak:",
+            "list": [
+              "Informacje o urządzeniu (np. typ przeglądarki, system operacyjny, adres IP)",
+              "Dane o użytkowaniu (np. odwiedzone strony, czas spędzony na Stronie, interakcje z usługą)"
+            ]
+          },
+          {
+            "type": "subsection",
+            "title": "Pliki cookie i śledzenie",
+            "text": "Możemy używać plików cookie lub podobnych technologii w celu poprawy komfortu korzystania z serwisu oraz analizy korzystania ze Strony. Możesz zarządzać preferencjami dotyczącymi plików cookie w ustawieniach przeglądarki."
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "icon": "🔧",
+        "title": "Jak wykorzystujemy Twoje informacje",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Świadczenie usługi",
+            "text": "Przetwarzamy przesłane przez Ciebie pliki PDF wyłącznie w celu ich połączenia w jeden plik PDF i udostępnienia linku do pobrania."
+          },
+          {
+            "type": "subsection",
+            "title": "Ulepszanie Strony",
+            "text": "Wykorzystujemy dane nieosobowe (np. statystyki użytkowania), aby analizować i ulepszać funkcjonalność i wydajność Strony."
+          },
+          {
+            "type": "subsection",
+            "title": "Zgodność z prawem",
+            "text": "Możemy wykorzystywać lub ujawniać informacje, jeśli jest to wymagane przez prawo lub w celu ochrony naszych praw, bezpieczeństwa lub mienia."
+          }
+        ]
+      },
+      {
+        "id": "data-retention",
+        "icon": "🗄️",
+        "title": "Przechowywanie i usuwanie danych",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Przesłane pliki",
+            "text": "Wszystkie przesłane pliki PDF oraz utworzony po ich połączeniu plik PDF są automatycznie usuwane z naszych serwerów w ciągu jednej (1) godziny od przetworzenia. Nie przechowujemy kopii Twoich plików."
+          },
+          {
+            "type": "subsection",
+            "title": "Inne dane",
+            "text": "Dane nieosobowe (np. statystyki użytkowania) mogą być przechowywane tak długo, jak to konieczne do ulepszania Strony lub w celu spełnienia obowiązków prawnych."
+          }
+        ]
+      },
+      {
+        "id": "data-sharing",
+        "icon": "🤝",
+        "title": "Udostępnianie danych",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Brak udostępniania stronom trzecim",
+            "text": "Nie sprzedajemy, nie udostępniamy ani nie przekazujemy Twoich przesłanych plików ani danych osobowych stronom trzecim, chyba że jest to wymagane przez prawo lub w celu ochrony naszych praw."
+          },
+          {
+            "type": "subsection",
+            "title": "Dostawcy usług",
+            "text": "Możemy korzystać z usług zewnętrznych dostawców (np. dostawców hostingu lub analityki) do obsługi Strony. Tacy dostawcy są zobowiązani do zachowania poufności i mogą przetwarzać dane wyłącznie w naszym imieniu."
+          }
+        ]
+      },
+      {
+        "id": "data-security",
+        "icon": "🔒",
+        "title": "Bezpieczeństwo danych",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Wdrażamy odpowiednie środki techniczne i organizacyjne, aby chronić Twoje dane przed nieautoryzowanym dostępem, utratą lub niewłaściwym wykorzystaniem. Jednak żadna usługa internetowa nie jest całkowicie bezpieczna, dlatego nie możemy zagwarantować całkowitego bezpieczeństwa."
+          }
+        ]
+      },
+      {
+        "id": "international-transfers",
+        "icon": "🌍",
+        "title": "Międzynarodowy transfer danych",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Jeśli znajdujesz się poza Indonezją, Twoje dane mogą być przesyłane i przetwarzane w Indonezji lub innych krajach, w których znajdują się nasze serwery lub dostawcy usług. Zapewniamy odpowiednie zabezpieczenia takich transferów."
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "icon": "⚖️",
+        "title": "Twoje prawa",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "W zależności od miejsca zamieszkania możesz mieć prawa wynikające z obowiązujących przepisów o ochronie danych, takie jak:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Dostęp do swoich danych lub żądanie ich usunięcia",
+              "Sprzeciw wobec lub ograniczenie niektórych działań związanych z przetwarzaniem danych"
+            ]
+          },
+          {
+            "type": "highlight",
+            "text": "Aby skorzystać z tych praw, skontaktuj się z nami pod adresem admin@gabungpdf.id. Zwróć uwagę, że ponieważ usuwamy pliki w ciągu godziny, możemy nie przechowywać żadnych danych osobowych."
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "icon": "🔗",
+        "title": "Linki do stron trzecich",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Strona może zawierać linki do stron internetowych osób trzecich. Nie ponosimy odpowiedzialności za praktyki prywatności ani zawartość tych stron."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "icon": "👶",
+        "title": "Prywatność dzieci",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Strona nie jest przeznaczona dla użytkowników poniżej 18 roku życia. Nie zbieramy świadomie danych osobowych od dzieci."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Zmiany w tej polityce",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Od czasu do czasu możemy aktualizować niniejszą Politykę Prywatności. Zmiany będą publikowane na tej stronie z uaktualnioną datą \"Ostatnia aktualizacja\"."
+          },
+          {
+            "type": "highlight",
+            "text": "Dalsze korzystanie ze Strony po wprowadzeniu zmian oznacza akceptację zaktualizowanej Polityki Prywatności."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Skontaktuj się z nami",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Jeśli masz pytania dotyczące niniejszej Polityki Prywatności, skontaktuj się z nami pod adresem admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Nasze Zobowiązanie do Prywatności",
+      "desc": "Traktujemy Twoją prywatność poważnie. Oto co sprawia, że nasza usługa jest godna zaufania:",
+      "points": [
+        {
+          "title": "Automatyczne Usuwanie",
+          "desc": "Pliki są automatycznie usuwane w ciągu 1 godziny"
+        },
+        {
+          "title": "Szyfrowany Transfer",
+          "desc": "Wszystkie przesyłane pliki korzystają z bezpiecznego szyfrowania HTTPS"
+        },
+        {
+          "title": "Brak Odczytu Plików",
+          "desc": "Nigdy nie uzyskujemy dostępu ani nie czytamy zawartości Twoich plików"
+        },
+        {
+          "title": "Brak Udostępniania",
+          "desc": "Twoje pliki nigdy nie są udostępniane osobom trzecim"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Masz pytania?",
+      "description": "Jesteśmy tutaj, aby pomóc w przypadku jakichkolwiek pytań lub wątpliwości dotyczących prywatności.",
+      "links": [
+        {
+          "label": "Regulamin",
+          "href": "/terms-of-service",
+          "icon": "📄"
+        },
+        {
+          "label": "Skontaktuj się z naszym zespołem",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Terms": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Spis treści",
+        "items": [
+          {
+            "icon": "✅",
+            "label": "Akceptacja warunków",
+            "target": "acceptance"
+          },
+          {
+            "icon": "🔧",
+            "label": "Korzystanie ze strony",
+            "target": "use-of-site"
+          },
+          {
+            "icon": "📁",
+            "label": "Pliki użytkownika",
+            "target": "user-files"
+          },
+          {
+            "icon": "©️",
+            "label": "Własność intelektualna",
+            "target": "intellectual-property"
+          },
+          {
+            "icon": "⚠️",
+            "label": "Ograniczenie odpowiedzialności",
+            "target": "limitation-liability"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Zabezpieczenie roszczeń",
+            "target": "indemnification"
+          },
+          {
+            "icon": "🚫",
+            "label": "Zakończenie świadczenia usługi",
+            "target": "termination"
+          },
+          {
+            "icon": "🏛️",
+            "label": "Obowiązujące prawo",
+            "target": "governing-law"
+          },
+          {
+            "icon": "🔄",
+            "label": "Zmiany warunków",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Kontakt z nami",
+            "target": "contact"
+          }
+        ]
+      },
+      "termsSummary": {
+        "title": "Podsumowanie warunków",
+        "points": [
+          "Darmowa usługa łączenia PDF",
+          "Musisz mieć ukończone 18 lat",
+          "Pliki usuwane w ciągu 1 godziny",
+          "Tylko do legalnych celów"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "acceptance",
+        "icon": "✅",
+        "title": "Akceptacja warunków",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Witamy na stronie www.gabungpdf.id (\"Strona\"), usłudze świadczonej przez Gabung PDF (\"my,\" \"nas,\" lub \"nasze\"). Niniejsze Warunki korzystania (\"Warunki\") regulują korzystanie ze Strony oraz usługi łączenia plików PDF. Uzyskując dostęp lub korzystając ze Strony, akceptujesz te Warunki."
+          },
+          {
+            "type": "highlight",
+            "title": "Ważna zgoda:",
+            "text": "Jeśli nie akceptujesz tych Warunków, nie korzystaj ze Strony."
+          }
+        ]
+      },
+      {
+        "id": "use-of-site",
+        "icon": "🔧",
+        "title": "Korzystanie ze strony",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Wymogi wiekowe",
+            "text": "Musisz mieć ukończone 18 lat lub posiadać zdolność prawną do zawarcia umowy na podstawie tych Warunków, aby korzystać ze Strony."
+          },
+          {
+            "type": "subsection",
+            "title": "Dozwolone wykorzystanie",
+            "text": "Strona umożliwia przesyłanie plików PDF, łączenie ich w jeden plik PDF i pobranie wyniku. Możesz korzystać ze Strony wyłącznie w celach zgodnych z prawem i zgodnie z niniejszymi Warunkami."
+          },
+          {
+            "type": "subsection",
+            "title": "Zakazane wykorzystanie",
+            "text": "Nie możesz:",
+            "list": [
+              "Przesyłać plików zawierających wirusy, złośliwe oprogramowanie lub inny szkodliwy kod",
+              "Używać Strony w celu naruszenia obowiązujących przepisów prawa, regulacji lub praw osób trzecich",
+              "Próbować zakłócać, ingerować lub odtwarzać działania Strony",
+              "Używać Strony w celach komercyjnych bez naszej uprzedniej pisemnej zgody"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "user-files",
+        "icon": "📁",
+        "title": "Pliki użytkownika",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Tymczasowe przetwarzanie",
+            "text": "Przesłane pliki są przetwarzane w celu połączenia PDF-ów i automatycznie usuwane z naszych serwerów w ciągu jednej (1) godziny po przetworzeniu. Nie przechowujemy Twoich plików po tym okresie."
+          },
+          {
+            "type": "subsection",
+            "title": "Twoja odpowiedzialność",
+            "text": "Jesteś w pełni odpowiedzialny za treść przesyłanych plików. Musisz mieć prawo do przesyłania i przetwarzania tych plików i upewnić się, że nie naruszają one praw osób trzecich (np. praw autorskich, znaków towarowych)."
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "icon": "©️",
+        "title": "Własność intelektualna",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Zawartość strony",
+            "text": "Cała zawartość Strony, w tym teksty, grafiki, logotypy i oprogramowanie, jest naszą własnością lub jest nam licencjonowana i jest chroniona przepisami dotyczącymi własności intelektualnej."
+          },
+          {
+            "type": "subsection",
+            "title": "Treści użytkownika",
+            "text": "Zachowujesz prawo własności do przesyłanych przez Ciebie plików. Przesyłając pliki, udzielasz nam ograniczonej, niewyłącznej, wolnej od opłat licencji na ich przetwarzanie wyłącznie w celu świadczenia usługi łączenia PDF."
+          }
+        ]
+      },
+      {
+        "id": "limitation-liability",
+        "icon": "⚠️",
+        "title": "Ograniczenie odpowiedzialności",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Brak gwarancji",
+            "text": "Strona jest udostępniana \"w stanie, w jakim jest\" bez jakichkolwiek gwarancji, wyraźnych lub dorozumianych, w tym gwarancji przydatności handlowej, przydatności do określonego celu lub nienaruszalności praw."
+          },
+          {
+            "type": "subsection",
+            "title": "Ograniczenie odpowiedzialności",
+            "text": "W maksymalnym zakresie dozwolonym przez prawo nie ponosimy odpowiedzialności za jakiekolwiek pośrednie, przypadkowe, szczególne lub wtórne szkody wynikające z korzystania ze Strony, nawet jeśli zostaliśmy poinformowani o możliwości ich wystąpienia."
+          },
+          {
+            "type": "subsection",
+            "title": "Przerwy w działaniu",
+            "text": "Nie gwarantujemy nieprzerwanego lub wolnego od błędów dostępu do Strony i nie ponosimy odpowiedzialności za opóźnienia, przestoje lub utratę danych."
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "icon": "⚖️",
+        "title": "Zabezpieczenie roszczeń",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Zgadzasz się zabezpieczyć nas i chronić przed wszelkimi roszczeniami, stratami lub szkodami, w tym kosztami obsługi prawnej, wynikającymi z korzystania przez Ciebie ze Strony, przesyłanych plików lub naruszenia niniejszych Warunków."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "icon": "🚫",
+        "title": "Zakończenie świadczenia usługi",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Możemy zawiesić lub zakończyć Twój dostęp do Strony według własnego uznania, bez powiadomienia, jeśli naruszysz te Warunki lub z innego uzasadnionego powodu."
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "icon": "🏛️",
+        "title": "Obowiązujące prawo",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Niniejsze Warunki podlegają prawu Indonezji, z wyłączeniem zasad kolizyjnych. Wszelkie spory wynikające z tych Warunków będą rozstrzygane przez sądy Indonezji."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Zmiany warunków",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Od czasu do czasu możemy aktualizować te Warunki. Zmiany zostaną opublikowane na tej stronie wraz z nową datą \"Ostatniej aktualizacji\"."
+          },
+          {
+            "type": "highlight",
+            "text": "Dalsze korzystanie ze Strony po wprowadzeniu zmian oznacza akceptację zaktualizowanych Warunków."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Kontakt z nami",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Jeśli masz pytania dotyczące tych Warunków, skontaktuj się z nami pod adresem admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Kluczowe Punkty Umowy",
+      "desc": "Zrozum swoje prawa i obowiązki podczas korzystania z naszej usługi.",
+      "points": [
+        {
+          "title": "Uczciwe Korzystanie",
+          "desc": "Korzystaj z naszej usługi odpowiedzialnie i zgodnie z prawem"
+        },
+        {
+          "title": "Twoje Pliki",
+          "desc": "Zachowujesz własność wszystkich przesłanych plików"
+        },
+        {
+          "title": "Brak Nadużyć",
+          "desc": "Zakazane użycie spowoduje zakończenie korzystania z usługi"
+        },
+        {
+          "title": "Ograniczona Odpowiedzialność",
+          "desc": "Usługa jest świadczona \"tak jak jest\" bez gwarancji"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Masz pytania?",
+      "description": "Chętnie pomożemy w kwestiach dotyczących warunków lub usług.",
+      "links": [
+        {
+          "label": "Polityka prywatności",
+          "href": "/privacy-policy",
+          "icon": "🔒"
+        },
+        {
+          "label": "Kontakt z działem prawnym",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Content": {
+    "Policy": {
+      "title": "Polityka prywatności",
+      "desc": "Zobowiązujemy się do ochrony Twojej prywatności i zapewnienia bezpieczeństwa Twoich plików. Dowiedz się, jak zbieramy, wykorzystujemy i chronimy Twoje dane podczas korzystania z naszej usługi łączenia plików PDF.",
+      "Updated": "Ostatnia aktualizacja:",
+      "date": "6 czerwca 2025"
+    },
+    "Terms": {
+      "title": "Warunki korzystania",
+      "desc": "Niniejsze warunki regulują korzystanie z naszej usługi łączenia plików PDF. Prosimy o uważne przeczytanie ich przed korzystaniem z naszej strony.",
+      "Updated": "Ostatnia aktualizacja:",
+      "date": "6 czerwca 2025"
+    }
+  },
+  "MiniFooter": {
+    "heading": "Gotowy, aby bezpiecznie połączyć swoje pliki PDF?",
+    "subheading": "Skorzystaj z naszej usługi łączenia PDF z pełnym poszanowaniem prywatności i spokojem ducha.",
+    "button": "Połącz pliki PDF teraz"
+  },
+  "Seo": {
+    "Home": {
+      "title": "Łączenie PDF Online za Darmo - Scal Pliki PDF Łatwo i Szybko",
+      "description": "Łącz dokumenty PDF online za darmo z GabungPDF.id. Łatwy w użyciu łącznik PDF, bez instalacji, bez rejestracji. Połącz PDF-y już teraz!"
+    },
+    "CombinePdf": {
+      "title": "Łączenie Plików PDF Online za Darmo - Szybki i Łatwy Łącznik PDF",
+      "description": "Scalaj pliki PDF online za darmo z GabungPDF.id. Szybki i prosty w obsłudze łącznik PDF bez potrzeby rejestracji czy instalacji. Połącz PDF-y teraz!"
+    },
+     "Blog": {
+    "title": "Blog łączenia plików PDF: wskazówki i poradniki dotyczące łączenia PDF",
+    "description": "Poznaj blog Gabung PDF, gdzie znajdziesz profesjonalne wskazówki dotyczące łączenia PDF, samouczki i narzędzia ułatwiające pracę z PDF. Przeczytaj teraz!"
+  },
+    "Blog1": {
+      "title": "Najłatwiejszy Sposób na Łączenie Plików PDF | Scalanie PDF",
+      "description": "Odkryj najłatwiejszy sposób na łączenie plików PDF z Gabung PDF. Darmowe, szybkie i przyjazne dla użytkownika narzędzie do płynnego scalania PDF. Wypróbuj teraz!"
+    },
+    "Blog2": {
+      "title": "Najlepsze Narzędzie do Łączenia PDF | Scalanie PDF",
+      "description": "Gabung PDF to najlepsze narzędzie do łączenia plików PDF online. Szybkie, bezpieczne i darmowe. Scalaj PDF-y bez wysiłku już dziś!"
+    },
+    "privacyPolicy": {
+      "title": "Polityka Prywatności Gabung PDF | Bezpieczne Scalanie PDF",
+      "description": "Przeczytaj politykę prywatności Gabung PDF, aby dowiedzieć się, jak chronimy Twoje dane podczas bezpiecznego łączenia plików PDF online. Dowiedz się więcej już teraz."
+    },
+    "TermsAndCondition": {
+      "title": "Regulamin Usługi Gabung PDF | Scalanie PDF",
+      "description": "Zapoznaj się z regulaminem usługi Gabung PDF dotyczącym korzystania z naszego darmowego i bezpiecznego narzędzia do łączenia plików PDF online. Poznaj nasze zasady już dziś."
+    }
+  }
+}

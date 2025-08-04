@@ -1,0 +1,1305 @@
+{
+  "nav": {
+    "home": "首页",
+    "combinePdf": "合并PDF",
+    "blog": "博客",
+    "selectLanguage": "选择语言"
+  },
+  "home": {
+    "title": "在线合并PDF文件 - 免费、快速、安全",
+    "description": "使用GabungPDF.id轻松合并PDF！免费、快速、安全的在线工具，几秒钟内合并PDF文件。无需注册。",
+    "mergeNow": "立即合并PDF",
+    "sec1Para": "在当今快节奏的数字世界中，高效管理文档对个人和专业任务至关重要。一个常见需求是将<strong>PDF文件合并</strong>成一个简化的文档。",
+    "SecH1": "为什么要合并PDF文件？",
+    "SecH1P1": "将多个PDF文件合并成一个文档提供了许多优势。以下是您应该考虑使用PDF合并工具的原因：",
+    "SecH1UlLi1": "<strong>组织和效率：</strong>与其发送多个文件，一个合并的PDF简化了共享和审查。",
+    "SecH1UlLi2": "<strong>减少文件混乱：</strong>合并PDF减少了您需要管理的文件数量。",
+    "SecH1UlLi3": "<strong>专业演示：</strong>统一的PDF看起来精致和专业。",
+    "SecH1UlLi4": "<strong>跨平台兼容性：</strong>PDF具有通用兼容性。",
+    "SecH1EndPara": "使用像<strong>gabungPDF.id</strong>这样的工具，您可以快速合并PDF，无需安装软件或注册账户。",
+    "steps": {
+      "title": "如何免费在线合并PDF文件",
+      "intro": "使用像gabungPDF.id这样的在线工具使PDF合并变得简单易用。",
+      "items": [
+        {
+          "title": "步骤1：访问gabungPDF.id",
+          "desc": "导航到gabungPDF.id，这是一个免费的在线工具，旨在帮助您在几秒钟内<strong>合并PDF文件</strong>。"
+        },
+        {
+          "title": "步骤2：上传您的PDF文件",
+          "desc": "点击\"上传文件\"按钮选择您想要合并的PDF。"
+        },
+        {
+          "title": "步骤3：整理文件",
+          "desc": "上传后，您可以拖放文件以按所需顺序排列它们。"
+        },
+        {
+          "title": "步骤4：合并和下载",
+          "desc": "整理好文件后，点击\"合并\"按钮。工具将<strong>合并PDF文件</strong>成一个文档。"
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "为什么选择gabungPDF.id？",
+      "points": [
+        {
+          "title": "<strong>无需安装：</strong>",
+          "desc": "与桌面软件不同，gabungPDF.id完全在线工作。"
+        },
+        {
+          "title": "<strong>免费且安全：</strong>",
+          "desc": "该工具免费使用，没有隐藏费用。"
+        },
+        {
+          "title": "<strong>跨设备兼容性：</strong>",
+          "desc": "无论您使用Mac、Windows、iOS还是Android。"
+        },
+        {
+          "title": "<strong>多语言支持：</strong>",
+          "desc": "平台支持全球用户。"
+        }
+      ]
+    },
+    "benefits": {
+      "title": "使用在线PDF合并器的好处",
+      "items": [
+        {
+          "title": "<strong>可访问性：</strong>",
+          "desc": "您可以从任何有互联网连接的设备<strong>合并PDF文件</strong>。"
+        },
+        {
+          "title": "<strong>速度：</strong>",
+          "desc": "合并过程只需几秒钟，即使是大文件。"
+        },
+        {
+          "title": "<strong>无成本：</strong>",
+          "desc": "许多在线工具完全免费。"
+        },
+        {
+          "title": "<strong>易于使用：</strong>",
+          "desc": "不需要技术技能。"
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "为SEO优化您的合并PDF",
+      "intro": "如果您为专业或营销目的创建PDF，为搜索引擎优化它们可以增加其可见性。",
+      "items": [
+        {
+          "title": "1. 使用描述性文件名",
+          "desc": "在将PDF上传到gabungPDF.id之前，用富含关键词的描述性名称重命名您的文件。"
+        },
+        {
+          "title": "2. 添加元数据",
+          "desc": "在您的PDF中包含标题、作者和关键词等元数据。"
+        },
+        {
+          "title": "3. 优化文本内容",
+          "desc": "确保您的PDF包含可搜索的文本而不是扫描图像。"
+        },
+        {
+          "title": "4. 包含内部链接",
+          "desc": "如果您的PDF是网站的一部分，请包含相关页面的链接。"
+        },
+        {
+          "title": "5. 使用标题和结构",
+          "desc": "用清晰的标题和逻辑结构组织您的PDF。"
+        },
+        {
+          "title": "6. 压缩以加快加载速度",
+          "desc": "大型PDF可能会减慢加载时间。"
+        },
+        {
+          "title": "7. 为图像添加替代文本",
+          "desc": "如果您的PDF包含图像，请添加替代文本描述。"
+        },
+        {
+          "title": "8. 在您的网站上托管PDF",
+          "desc": "将合并的PDF上传到您的网站并创建专门的着陆页。"
+        },
+        {
+          "title": "9. 跟踪PDF查看",
+          "desc": "使用Google Analytics等工具跟踪用户如何与您的PDF互动。"
+        },
+        {
+          "title": "10. 推广您的PDF",
+          "desc": "在社交媒体、电子邮件通讯和相关在线社区分享您的PDF。"
+        }
+      ]
+    },
+    "useCases": {
+      "title": "合并PDF的常见用例",
+      "items": [
+        {
+          "title": "<strong>商业报告：</strong>",
+          "desc": "将报告的多个部分合并成一个PDF以便于分享。"
+        },
+        {
+          "title": "<strong>学术项目：</strong>",
+          "desc": "学生可以合并研究论文、笔记和参考文献。"
+        },
+        {
+          "title": "<strong>法律文件：</strong>",
+          "desc": "律师经常合并合同、协议和证据。"
+        },
+        {
+          "title": "<strong>营销材料：</strong>",
+          "desc": "通过合并图像和文本文件创建专业小册子。"
+        },
+        {
+          "title": "<strong>个人使用：</strong>",
+          "desc": "合并扫描文档、收据或照片。"
+        }
+      ]
+    },
+    "comparison": {
+      "title": "将gabungPDF.id与其他工具比较",
+      "intro": "虽然gabungPDF.id是合并PDF的首选，但其他工具也提供类似功能。",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id：</strong>",
+          "desc": "免费，无需注册，支持多种文件格式。"
+        },
+        {
+          "title": "<strong>Adobe Acrobat：</strong>",
+          "desc": "提供免费在线合并器，但高级功能需要登录。"
+        },
+        {
+          "title": "<strong>iLovePDF：</strong>",
+          "desc": "具有压缩和转换等附加功能的强大工具。"
+        },
+        {
+          "title": "<strong>PDF2Go：</strong>",
+          "desc": "支持复杂文件和大页数。"
+        }
+      ]
+    },
+    "tips": {
+      "title": "无缝PDF合并体验的技巧",
+      "items": [
+        {
+          "title": "<strong>检查文件兼容性：</strong>",
+          "desc": "确保所有文件都是PDF或支持的格式。"
+        },
+        {
+          "title": "<strong>预览您的文件：</strong>",
+          "desc": "在合并之前查看文件的顺序和内容。"
+        },
+        {
+          "title": "<strong>使用安全平台：</strong>",
+          "desc": "选择像gabungPDF.id这样优先考虑隐私的工具。"
+        },
+        {
+          "title": "<strong>测试输出：</strong>",
+          "desc": "打开合并的PDF以确认布局和内容正确。"
+        }
+      ]
+    },
+    "ConclusionH1": "结论",
+    "conclusion": "合并PDF文件是简化文档管理的简单而强大的方法。无论您是组织报告的专业人士、编译研究的学生，还是归档个人文档的人，像gabungPDF.id这样的工具都能轻松<strong>免费在线合并PDF文件</strong>。今天就开始使用gabungPDF.id来<strong>轻松合并PDF文件</strong>并掌控您的数字文档！"
+  },
+  "combinePdf": {
+    "title": "合并PDF文件",
+    "dragDrop": "将PDF文件拖放到此处",
+    "clickBrowse": "或点击选择文件",
+    "selectFiles": "选择文件",
+    "maxSize": "单个文件最大支持50MB",
+    "combineButton": "合并PDF",
+    "filesCount": "PDF文件数",
+    "S1H1": "PDF合并：如何合并PDF文件—免费技巧",
+    "S1P1": "在现代数字时代，PDF文件（可移植文档格式）已成为分享和存储文档的必备工具。不同于传统的Microsoft Word或Google Docs的DOC文件，PDF能在任何设备和操作系统上保持其格式不变，这使其成为专业和个人使用的理想选择——无论是报告、演示文稿还是表单。",
+    "S1P2": "然而，处理PDF文件有时会很复杂，尤其是在需要合并多个文件时。在本指南中，我们将说明为何需要合并PDF，如何使用我们的免费工具轻松合并，以及如何简化您的文档管理流程。",
+    "S2H1": "PDF文件为何独特且通用",
+    "S2P1": "PDF设计用于确保文档格式在任何设备或软件上都能准确显示。不同于依赖系统设置（如字体或操作系统）的DOC文件，PDF格式固定，保证字体、布局和图像不变，这使其非常适合合同、简历或电子书等专业文档。",
+    "S2P2": "这种稳定性使PDF在互联网文档交换中非常流行。发送商业提案或归档重要数据时，PDF能确保文档显示如同创建时一样。然而，这也使得编辑或合并PDF文件较为困难，需专门软件。幸运的是，我们的免费在线工具简化了这一过程，让您无需安装昂贵软件即可轻松合并PDF。",
+    "combine_pdf_files": {
+      "intro": "为何需要合并PDF文件？",
+      "para": "合并PDF是许多专业人士、学生及其他用户的常见需求。以下是一些适用场景：",
+      "items": [
+        {
+          "title": "制作大型报告：",
+          "desc": "如果您有多个报告或章节分散在不同PDF文件中，可以合并为一个文档，便于分享和查看。"
+        },
+        {
+          "title": "扫描文件归档：",
+          "desc": "扫描的文件如收据或表格，通常需要合并为一个文件以便管理。"
+        },
+        {
+          "title": "简化演示文稿：",
+          "desc": "将来自不同PDF的幻灯片或章节合并，提高演示的专业性。"
+        },
+        {
+          "title": "方便分享：",
+          "desc": "与其发送多个文件，发送一个合并后的PDF即可一次性分享所有内容。"
+        }
+      ],
+      "para2": "与DOC文件不同，从扫描的PDF中复制粘贴文本通常很困难，尤其是没有OCR技术的情况下。我们的免费工具解决了这一问题：您可同时合并最多20个文件，无需付费软件或专业知识。"
+    },
+    "stepbystep": {
+      "intro": "如何合并PDF文件——分步指南",
+      "para": "我们简便的在线工具让PDF合并快捷高效。无论合并2个还是20个文件，都无需安装或注册，按以下步骤操作即可：",
+      "items": [
+        {
+          "title": "步骤1：上传PDF文件",
+          "desc": "在我们平台点击“选择文件”按钮，从设备中选择文件，或者使用拖拽功能一次上传多个文件，方便快捷。"
+        },
+        {
+          "title": "步骤2：调整文件顺序",
+          "desc": "上传后，文件会按合并顺序显示，顶部为第一个文件，依次排列。您可以拖动调整文件顺序。"
+        },
+        {
+          "title": "步骤3：合并并下载",
+          "desc": "确认无误后，点击“合并PDF”，系统会自动生成合并文件并启动下载。快速安全，无需安装任何额外软件。"
+        }
+      ],
+      "intro2": "想合并更多文件？",
+      "para2": "没问题！我们支持批量处理。合并第一批文件后下载结果，然后将其与其他PDF一起上传继续合并，重复操作直到完成所有文件的合并。",
+      "intro3": "重要提示：请在1小时内下载",
+      "para3": "为了保护您的数据安全，合并后的文件只在服务器上保存1小时，之后自动删除，以释放空间并保护隐私。"
+    },
+    "benefits": {
+      "intro": "我们免费PDF合并工具的优势",
+      "para": "我们的服务专注于简单、便捷和高效，以下是为何选择我们的理由：",
+      "items": [
+        {
+          "title": "无需安装：",
+          "desc": "与传统PDF编辑器不同，我们的服务完全在线，支持任何联网设备。"
+        },
+        {
+          "title": "免费且无使用限制：",
+          "desc": "一次最多合并20个PDF文件，完全免费，无需订阅。"
+        },
+        {
+          "title": "操作界面直观：",
+          "desc": "拖拽功能及简洁设计，适合所有用户轻松上手。"
+        },
+        {
+          "title": "快速处理：",
+          "desc": "合并过程仅需几秒，节省您的宝贵时间。"
+        },
+        {
+          "title": "安全保障：",
+          "desc": "您的文件在处理后1小时内自动删除，保障隐私安全。"
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "何时需要合并PDF文件？",
+      "para": "合并PDF在许多场合都很有用，以下是一些典型案例：",
+      "items": [
+        {
+          "title": "专业人士：",
+          "desc": "将发票、合同和提案合并为一个PDF，方便发送给客户或同事。"
+        },
+        {
+          "title": "学生和教师：",
+          "desc": "合并笔记、课程论文或文章，便于学习或提交。"
+        },
+        {
+          "title": "法律及行政文档：",
+          "desc": "合并扫描的表格或合同，便于归档或法律用途。"
+        },
+        {
+          "title": "创意项目：",
+          "desc": "将草图、作品集或分镜表合并为一个文档，方便展示或评审。"
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "PDF使用小贴士",
+      "para": "为了获得最佳合并效果，请注意以下建议：",
+      "items": [
+        {
+          "title": "检查文件顺序：",
+          "desc": "确保文件按正确顺序排列，避免混淆。"
+        },
+        {
+          "title": "优化文件大小：",
+          "desc": "如果PDF包含大量图片或图形，建议先压缩以减少文件大小。"
+        },
+        {
+          "title": "使用清晰的文件名：",
+          "desc": "为文件命名（例如：Bao_cao_Chuong1.pdf）以便识别。"
+        },
+        {
+          "title": "备份原始文件：",
+          "desc": "保留原文件副本，以便需要修改或重新合并时使用。"
+        },
+        {
+          "title": "尝试其他工具：",
+          "desc": "如需编辑、转换或压缩PDF，可试试我们平台上的其他免费服务。"
+        }
+      ]
+    },
+    "why_choose": "为什么选择我们的工具而非付费软件？",
+    "why_choose_para": "付费PDF编辑器如Adobe Acrobat提供更多高级功能，但我们的免费工具已满足大多数用户需求。无需付费或订阅，即可轻松合并文件。Gabung PDF.id适合从小企业到学生的各类用户，提供专业效果且使用简单。",
+    "why_choose_para2": "我们的平台优化了速度与便利性。无论您使用电脑、平板还是手机，都能随时随地无缝合并PDF，兼容性强。对重视速度和可靠性且不愿复杂学习的用户而言，这是理想选择。",
+    "conclusion": "总结",
+    "conclusion_para": "合并PDF文件无需复杂或昂贵。通过我们的免费在线工具，您可以一次合并多达20个文件，轻松调整顺序，并在几秒内下载合成文档。无论是准备报告、归档扫描文件，还是制作演示文稿，我们的服务都能简化流程，无需安装或专业技能。"
+  },
+  "blog": {
+    "title": "PDF技巧、教程和指南",
+    "description": "通过专家指南、实用技巧和逐步教程掌握PDF管理。",
+    "searchPlaceholder": "搜索文章、教程和指南...",
+    "articles": "文章",
+    "readers": "读者",
+    "available": "可用",
+    "featuredArticle": "特色文章",
+    "mostPopular": "本周最受欢迎",
+    "readArticle": "阅读文章",
+    "readFull": "阅读完整文章",
+    "minRead": "分钟阅读",
+    "featureblog": {
+      "title": "本周最受欢迎",
+      "subtitle": "⭐ 精选文章",
+      "featuredArticle": {
+        "date": "2025年7月2日",
+        "author": "管理员",
+        "category": "精选文章",
+        "headline": "GabungPDF.id：最简单的 PDF 合并工具",
+        "excerpt": "使用 GabungPDF.id 轻松合并 PDF 文件，这是一个免费的在线 PDF 合并工具。几秒内安全合并 PDF，无需安装任何软件。立即提升工作效率！",
+        "readTime": "阅读时间：3 分钟",
+        "buttonName": "阅读全文"
+      }
+    },
+    "blogsPage": {
+      "cards": [
+        {
+          "BlogImage": "/Blog1Image.webp",
+          "date": "2025年6月2日",
+          "author": "管理员",
+          "category": null,
+          "headline": "GabungPDF.id：终极PDF合并工具",
+          "headlineLink": "/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "excerpt": "使用GabungPDF.id，轻松合并PDF文件，免费在线，无需安装软件，安全可靠，几秒钟即可完成合并。",
+          "readTime": "3分钟阅读",
+          "readMoreText": "blog.readArticle",
+          "slug": "gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "detail": {
+            "intro": "在GabungPDF.id，我们设计了一个用户友好的网页工具，帮助您轻松合并PDF文件。无论您是技术达人还是初学者，我们的平台适合所有人。以下是GabungPDF.id作为最佳PDF合并工具的几个理由：",
+            "features": [
+              {
+                "title": "免费且易于访问",
+                "description": "无需订阅或隐藏费用——只需上传并合并即可。"
+              },
+              {
+                "title": "无需安装软件",
+                "description": "我们的工具完全在线运行，节省您设备的空间。"
+              },
+              {
+                "title": "快速且安全",
+                "description": "几秒钟内合并PDF，并通过强加密技术保护您的文件。"
+              },
+              {
+                "title": "用户友好界面",
+                "description": "拖放操作，几次点击即可完成合并。"
+              }
+            ],
+            "intro2": "准备好简化您的文档管理了吗？以下是如何使用我们的PDF合并器在几步内完成合并：",
+            "how_to_use": {
+              "title": "如何使用GabungPDF.id合并PDF文件",
+              "paragraph": "使用GabungPDF.id合并PDF文件非常简单。按照以下步骤，轻松创建一个完整的PDF文件：",
+              "steps": [
+                {
+                  "title": "上传您的文件",
+                  "description": "访问 https://gabungpdf.id/，点击“上传”按钮。从您的设备中选择要合并的PDF文件。支持同时上传多个文件。"
+                },
+                {
+                  "title": "调整文件顺序",
+                  "description": "通过拖放操作重新排列文件顺序，确保最终文档逻辑清晰。"
+                },
+                {
+                  "title": "合并并下载",
+                  "description": "点击“合并PDF”按钮，工具将自动合并文件。合并完成后，立即下载新PDF文件。"
+                }
+              ],
+              "note": "就这么简单！无需复杂设置或技术知识。无论是合并2个还是20个文件，GabungPDF.id都能轻松搞定。"
+            },
+            "benefits": {
+              "title": "使用在线PDF合并器的优势",
+              "paragraph": "选择像GabungPDF.id这样的在线PDF合并工具相比传统软件或手动方法有多项优势：",
+              "items": [
+                {
+                  "title": "节省时间",
+                  "description": "使用桌面软件手动合并PDF耗时且昂贵。GabungPDF.id让您可以从任何设备上快速完成合并——笔记本、平板或手机均可。"
+                },
+                {
+                  "title": "文件安全保障",
+                  "description": "担心隐私？我们平台采用先进加密技术，确保文件在合并过程中的安全。下载合并文件后，我们会自动从服务器删除您的原始文件。"
+                },
+                {
+                  "title": "成本效益高",
+                  "description": "无需支付昂贵的PDF编辑软件费用。GabungPDF.id完全免费，非常适合学生、自由职业者和小型企业使用。"
+                },
+                {
+                  "title": "跨平台兼容",
+                  "description": "无论您使用Windows、macOS、iOS还是Android，我们的网页PDF合并工具均能无缝运行。无需担心兼容性问题。"
+                }
+              ]
+            },
+            "optimization_tips": {
+              "title": "合并PDF的优化建议",
+              "paragraph": "为了获得更好的合并效果，请参考以下建议：",
+              "tips": [
+                {
+                  "title": "检查文件顺序",
+                  "description": "合并前，先安排好PDF文件的顺序，避免重复操作。"
+                },
+                {
+                  "title": "优化文件大小",
+                  "description": "如果PDF中包含大量图片，建议先压缩再上传，以减少最终文件大小。"
+                },
+                {
+                  "title": "使用清晰的文件名",
+                  "description": "使用具有描述性的文件名，便于后续查找。"
+                },
+                {
+                  "title": "预览输出文件",
+                  "description": "合并完成后，检查PDF文件内容是否正确。"
+                }
+              ],
+              "paragraph2": "使用GabungPDF.id，您可以放心地合并PDF文件，同时保持质量和文件的条理性。"
+            },
+            "audience": {
+              "title": "谁适合使用GabungPDF.id？",
+              "paragraph": "我们的PDF合并工具适用于广泛的用户群体，包括：",
+              "users": [
+                {
+                  "type": "学生",
+                  "description": "将课堂笔记、作业或研究资料合并为一个文件。"
+                },
+                {
+                  "type": "职场人士",
+                  "description": "合并报告、提案或合同，提升沟通效率。"
+                },
+                {
+                  "type": "小型企业",
+                  "description": "将发票、收据或宣传资料整理为一份文档。"
+                },
+                {
+                  "type": "自由职业者",
+                  "description": "整合作品集、发票或项目交付文档发送给客户。"
+                }
+              ],
+              "paragraph2": "无论您的需求如何，GabungPDF.id都是您处理PDF的可靠助手。"
+            },
+            "why_choose_us": {
+              "title": "为何选择GabungPDF.id？",
+              "paragraph": "市面上有许多PDF合并工具，那GabungPDF.id为何脱颖而出？以下是我们的优势：",
+              "reasons": [
+                {
+                  "title": "快速",
+                  "description": "无需学习成本——上传、合并、下载一步到位。"
+                },
+                {
+                  "title": "稳定可靠",
+                  "description": "性能稳定，不会崩溃或出错。"
+                },
+                {
+                  "title": "全天候可用",
+                  "description": "全球任何时间、任何地点都能访问。"
+                }
+              ],
+              "paragraph2": "无需浪费时间在复杂的软件上，GabungPDF.id让您轻松合并PDF文件，立即体验高效工作流！"
+            },
+            "conclusion": {
+              "title": "结语：用GabungPDF.id简化您的工作流",
+              "paragraph": "合并PDF文件不必再是负担。使用GabungPDF.id，轻松完成PDF合并，节省时间、整理文件。我们免费、安全且操作简单的PDF合并器适用于各种用户，无论是报告、笔记还是合同，都能呈现专业效果。准备好了吗？",
+              "cta": {
+                "text": "访问 gabungpdf.id/combine-pdf",
+                "link": "https://gabungpdf.id/combine-pdf"
+              },
+              "Remaingparagraph": "现在就点击几下，合并您的PDF文件。使用GabungPDF.id，简化您的文件管理流程——这是您理想的PDF合并工具！"
+            }
+          }
+        },
+        {
+          "BlogImage": "/FeatureBlogImage.webp",
+          "date": "2025年7月2日",
+          "author": "管理员",
+          "category": "精选文章",
+          "headline": "GabungPDF.id：最简单的 PDF 文件合并方式",
+          "excerpt": "使用 GabungPDF.id 免费在线 PDF 合并工具，轻松合并 PDF 文件。无需安装软件，几秒内安全合并，立即提升工作效率！",
+          "readTime": "3 分钟阅读",
+          "buttonName": "阅读全文",
+          "slug": "gabungpdfid-the-easiest-way-to-combine-pdf-files",
+          "detail": {
+            "intro": "在这个时间就是金钱的世界里，高效地管理文档至关重要。无论你正在处理多个报告、整理客户合同，还是整合项目文件，一个可靠的 PDF 合并工具都能彻底改变你的工作方式。GabungPDF.id 是一款免费的在线工具，能够快速无缝地合并 PDF 文件。本文将带你了解 GabungPDF.id 如何让你轻松合并 PDF 文件，并为何它是专业人士、学生和企业的终极解决方案。",
+            "why_merge_pdf": {
+              "title": "为什么要合并 PDF 文件？",
+              "paragraph": "PDF 是专业文件共享的首选格式，但多个文件会带来不便。将 PDF 合并成一个文件可以节省时间、减少混乱、提高组织效率。以下是你可能需要合并 PDF 的几个原因：",
+              "reasons": [
+                {
+                  "title": "简化分享",
+                  "description": "发送一个文件代替多个附件，协作更轻松。"
+                },
+                {
+                  "title": "整理文档",
+                  "description": "将发票、表单或笔记合并为一个便于访问的 PDF。"
+                },
+                {
+                  "title": "专业展示",
+                  "description": "合并幻灯片、讲义和笔记为一个完整文档。"
+                },
+                {
+                  "title": "优化归档",
+                  "description": "整合相关文件，便于存储与检索。"
+                }
+              ],
+              "note": "使用 GabungPDF.id，只需几次点击即可合并 PDF，文档管理变得轻松无比。"
+            },
+            "features": {
+              "title": "GabungPDF 的优势",
+              "paragraph": "在 GabungPDF.id，我们打造了一款快速、免费、适用于所有人的工具。无论你在桌面、平板还是手机上操作，我们的 PDF 合并工具都能提供专业结果，完全无烦恼。以下是用户喜爱 GabungPDF.id 的原因：",
+              "items": [
+                {
+                  "title": "完全免费",
+                  "description": "无需订阅，无隐藏费用——立即合并。"
+                },
+                {
+                  "title": "无需安装软件",
+                  "description": "基于网页的工具，即时使用，无需下载。"
+                },
+                {
+                  "title": "安全处理",
+                  "description": "文件使用加密处理，用后即删除，确保安全。"
+                },
+                {
+                  "title": "界面直观",
+                  "description": "简洁易用的界面，所有用户都能轻松使用。"
+                }
+              ],
+              "next": "准备提升工作效率了吗？让我们来看看如何使用我们的 PDF 合并工具，几分钟内完成合并。"
+            },
+            "how_to_use": {
+              "title": "如何使用 GabungPDF.id 合并 PDF 文件",
+              "paragraph": "使用 GabungPDF 合并 PDF 非常简单，无需任何技术知识。只需按照以下步骤操作：",
+              "steps": [
+                {
+                  "title": "上传 PDF 文件",
+                  "description": "访问 https://gabungpdf.id/，选择你要合并的 PDF 文件。你可以一次上传多个文件。"
+                },
+                {
+                  "title": "调整文件顺序",
+                  "description": "使用拖放功能将文件排列成你想要的顺序。"
+                },
+                {
+                  "title": "合并并保存",
+                  "description": "点击“合并 PDF”，我们的工具会将文件合并成一个文档。立即下载你的合并文件。"
+                }
+              ],
+              "note": "就这么简单！无论你合并两个文件还是几十个文件，GabungPDF.id 都能提供流畅、无忧的体验。"
+            },
+            "top_benefits": {
+              "title": "使用 GabungPDF.id 的最大优势",
+              "paragraph": "选择像 GabungPDF.id 这样的在线 PDF 合并工具，可以获得极高的便利性与效率。以下是我们的工具脱颖而出的原因：",
+              "items": [
+                {
+                  "title": "节省时间与精力",
+                  "description": "手动合并 PDF 或使用复杂软件非常繁琐。GabungPDF.id 只需几秒即可完成合并，让你专注更重要的事情。"
+                },
+                {
+                  "title": "增强文件安全性",
+                  "description": "我们重视你的隐私。平台使用安全加密，在合并后自动删除你的文件。"
+                },
+                {
+                  "title": "预算友好",
+                  "description": "无需购买昂贵的 PDF 软件。GabungPDF.id 完全免费，特别适合学生、自由职业者和小型企业。"
+                },
+                {
+                  "title": "跨平台使用",
+                  "description": "只要有浏览器，无论 Windows、macOS、iOS 还是 Android，随时随地都可使用。"
+                }
+              ]
+            },
+            "audience": {
+              "title": "谁适合使用 GabungPDF.id？",
+              "paragraph": "我们的 PDF 合并工具可满足各种用户的不同需求：",
+              "users": [
+                {
+                  "type": "学生",
+                  "description": "合并学习资料、论文或研究文档，便于提交。"
+                },
+                {
+                  "type": "职场专业人士",
+                  "description": "合并合同、提案或报告，便于客户沟通。"
+                },
+                {
+                  "type": "自由职业者",
+                  "description": "创建专业作品集，或合并发票进行客户结算。"
+                },
+                {
+                  "type": "小型企业",
+                  "description": "将收据、市场资料或法律文件整理成一个 PDF。"
+                }
+              ],
+              "note": "无论你从事哪一行业，GabungPDF.id 都能让你的文档管理更加轻松高效。"
+            },
+            "pro_tips": {
+              "title": "合并 PDF 的专业技巧",
+              "paragraph": "想要更高效地使用 PDF 合并工具？请牢记以下技巧：",
+              "tips": [
+                {
+                  "title": "提前规划文件顺序",
+                  "description": "在合并前按逻辑排列文件，节省后期整理时间。"
+                },
+                {
+                  "title": "压缩大文件",
+                  "description": "上传前压缩大文件，加快处理速度。"
+                },
+                {
+                  "title": "检查输出文件",
+                  "description": "预览合并后的 PDF，确保符合需求。"
+                },
+                {
+                  "title": "收藏 GabungPDF.id",
+                  "description": "将我们的网站收藏，随时快速访问并合并文件。"
+                }
+              ]
+            },
+            "why_stand_out": {
+              "title": "为什么 GabungPDF.id 能在众多 PDF 合并工具中脱颖而出？",
+              "paragraph": "市面上有许多 PDF 合并工具，而 GabungPDF.id 凭借其简洁、快速和可靠性脱颖而出。不同于需要注册或下载的软件，我们的平台即开即用。同时，我们对安全的承诺确保你的文件始终处于保护之中。不要让零散的 PDF 拖慢你的效率。立即访问 https://gabungpdf.id/，体验最轻松的 PDF 合并方式。"
+            },
+            "conclusion": {
+              "title": "结语：使用 GabungPDF.id 简化你的文档管理",
+              "paragraph": "处理多个 PDF 不再是难题。使用 GabungPDF.id，你可以快速、安全且免费地合并 PDF 文件。这个用户友好的工具旨在提升你的工作效率，无论你是学生、专业人士还是企业主。告别文档混乱，迎接高效整洁的 PDF 吧！立即访问 gabungpdf.id/combine-pdf，体验最快速的 PDF 合并方式，开启高效工作之路！"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "将多个PDF文件合并成一个文档的最简单方法。快速、安全且完全免费使用。",
+    "contact": "联系我们：",
+    "quickLinks": "快速链接",
+    "privacyPolicy": "隐私政策",
+    "termsOfService": "服务条款",
+    "allRights": "版权所有"
+  },
+  "privacy": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "目录",
+        "items": [
+          {
+            "icon": "👁️",
+            "label": "概述",
+            "target": "Overview"
+          },
+          {
+            "icon": "📊",
+            "label": "我们收集的信息",
+            "target": "information-collection"
+          },
+          {
+            "icon": "🔧",
+            "label": "我们如何使用您的信息",
+            "target": "how-we-use"
+          },
+          {
+            "icon": "🗄️",
+            "label": "数据保留与删除",
+            "target": "data-retention"
+          },
+          {
+            "icon": "🤝",
+            "label": "数据共享",
+            "target": "data-sharing"
+          },
+          {
+            "icon": "🔒",
+            "label": "数据安全",
+            "target": "data-security"
+          },
+          {
+            "icon": "🌍",
+            "label": "国际数据传输",
+            "target": "international-transfers"
+          },
+          {
+            "icon": "⚖️",
+            "label": "您的权利",
+            "target": "your-rights"
+          },
+          {
+            "icon": "🔗",
+            "label": "第三方链接",
+            "target": "third-party-links"
+          },
+          {
+            "icon": "👶",
+            "label": "儿童隐私",
+            "target": "children"
+          },
+          {
+            "icon": "🔄",
+            "label": "本政策的更改",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "联系我们",
+            "target": "contact"
+          }
+        ]
+      },
+      "privacySummary": {
+        "title": "隐私摘要",
+        "points": [
+          "文件在1小时内删除",
+          "我们不存储您的文档",
+          "最小化数据收集",
+          "端到端加密"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "Overview",
+        "icon": "👁️",
+        "title": "概述",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "在 www.gabungpdf.id（以下简称“本网站”）由 Gabung PDF（“我们”）运营，我们致力于保护您的隐私。本隐私政策说明了我们在您使用我们的 PDF 合并服务时如何收集、使用和保护您的信息。使用本网站即表示您同意本隐私政策。"
+          },
+          {
+            "type": "highlight",
+            "title": "我们的核心原则：",
+            "text": "我们仅为提供服务而处理您的文件，并在一小时内自动删除。我们不会在必要的处理时间之外访问、查看或存储您的文件内容。"
+          }
+        ]
+      },
+      {
+        "id": "information-collection",
+        "icon": "📊",
+        "title": "我们收集的信息",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "用户上传的文件",
+            "text": "当您使用我们的服务时，您会上传 PDF 文件以进行合并。这些文件可能包含个人信息，但我们不会在必要的临时处理时间之外访问、查看或存储您的文件内容。"
+          },
+          {
+            "type": "subsection",
+            "title": "自动收集的数据",
+            "text": "我们可能会收集非个人信息，例如：",
+            "list": [
+              "设备信息（如浏览器类型、操作系统、IP地址）",
+              "使用数据（如访问的页面、停留时间以及与服务的交互情况）"
+            ]
+          },
+          {
+            "type": "subsection",
+            "title": "Cookies 与追踪",
+            "text": "我们可能使用 Cookies 或类似技术来改善您的体验并分析网站使用情况。您可以通过浏览器设置管理 Cookie 偏好。"
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "icon": "🔧",
+        "title": "我们如何使用您的信息",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "服务交付",
+            "text": "我们仅为将您上传的 PDF 文件合并为单个 PDF 并提供下载链接而处理这些文件。"
+          },
+          {
+            "type": "subsection",
+            "title": "网站改进",
+            "text": "我们使用非个人数据（如使用统计信息）分析并改进网站的功能与性能。"
+          },
+          {
+            "type": "subsection",
+            "title": "法律合规",
+            "text": "如法律要求或为保护我们的权利、安全或财产，我们可能使用或披露信息。"
+          }
+        ]
+      },
+      {
+        "id": "data-retention",
+        "icon": "🗄️",
+        "title": "数据保留与删除",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "上传的文件",
+            "text": "所有上传的 PDF 文件及生成的合并文件将在处理后一（1）小时内自动从我们的服务器中删除。我们不会保留您的文件副本。"
+          },
+          {
+            "type": "subsection",
+            "title": "其他数据",
+            "text": "非个人数据（如使用统计信息）可在改进网站或符合法律义务所需期间保留。"
+          }
+        ]
+      },
+      {
+        "id": "data-sharing",
+        "icon": "🤝",
+        "title": "数据共享",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "不与第三方共享",
+            "text": "除法律要求或为保护我们的权利外，我们不会出售、共享或转让您上传的文件或个人信息。"
+          },
+          {
+            "type": "subsection",
+            "title": "服务提供商",
+            "text": "我们可能会使用第三方服务提供商（如托管或分析服务）运营本网站。这些提供商受保密义务约束，并仅可代表我们处理数据。"
+          }
+        ]
+      },
+      {
+        "id": "data-security",
+        "icon": "🔒",
+        "title": "数据安全",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "我们采取合理的技术与组织措施保护您的数据免受未经授权的访问、丢失或滥用。然而，任何在线服务都无法保证绝对安全。"
+          }
+        ]
+      },
+      {
+        "id": "international-transfers",
+        "icon": "🌍",
+        "title": "国际数据传输",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "如果您位于印度尼西亚境外，您的数据可能会被传输并在印度尼西亚或我们的服务器或服务提供商所在地的其他国家处理。我们确保对此类传输采取适当的保障措施。"
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "icon": "⚖️",
+        "title": "您的权利",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "根据您的所在地，您可能依据适用数据保护法享有以下权利："
+          },
+          {
+            "type": "list",
+            "items": [
+              "访问或请求删除您的数据",
+              "反对或限制某些数据处理活动"
+            ]
+          },
+          {
+            "type": "highlight",
+            "text": "如需行使上述权利，请通过 admin@gabungpdf.id 与我们联系。请注意，由于我们在一小时内删除文件，可能无法为您提供任何个人数据。"
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "icon": "🔗",
+        "title": "第三方链接",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "本网站可能包含第三方网站的链接。我们不对这些网站的隐私做法或内容负责。"
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "icon": "👶",
+        "title": "儿童隐私",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "本网站不面向18岁以下用户。我们不会有意收集儿童的个人信息。"
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "本政策的更改",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "我们可能不时更新本隐私政策。变更内容将在本页面发布并更新“最后更新时间”。"
+          },
+          {
+            "type": "highlight",
+            "text": "您继续使用本网站即表示接受更新后的隐私政策。"
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "联系我们",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "如果您对本隐私政策有任何疑问，请通过 admin@gabungpdf.id 联系我们。"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "我们的隐私承诺",
+      "desc": "我们非常重视您的隐私。以下是使我们的服务值得信赖的原因：",
+      "points": [
+        {
+          "title": "自动删除",
+          "desc": "文件将在 1 小时内自动删除"
+        },
+        {
+          "title": "加密传输",
+          "desc": "所有上传均使用安全的 HTTPS 加密"
+        },
+        {
+          "title": "不读取文件",
+          "desc": "我们从不访问或读取您的文件内容"
+        },
+        {
+          "title": "不共享",
+          "desc": "您的文件绝不会与第三方共享"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "有问题？",
+      "description": "我们随时为您的隐私问题提供帮助。",
+      "links": [
+        {
+          "label": "服务条款",
+          "href": "/terms-of-service",
+          "icon": "📄"
+        },
+        {
+          "label": "联系我们的团队",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Terms": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "目录",
+        "items": [
+          {
+            "icon": "✅",
+            "label": "条款接受",
+            "target": "acceptance"
+          },
+          {
+            "icon": "🔧",
+            "label": "网站使用",
+            "target": "use-of-site"
+          },
+          {
+            "icon": "📁",
+            "label": "用户文件",
+            "target": "user-files"
+          },
+          {
+            "icon": "©️",
+            "label": "知识产权",
+            "target": "intellectual-property"
+          },
+          {
+            "icon": "⚠️",
+            "label": "责任限制",
+            "target": "limitation-liability"
+          },
+          {
+            "icon": "⚖️",
+            "label": "赔偿责任",
+            "target": "indemnification"
+          },
+          {
+            "icon": "🚫",
+            "label": "终止",
+            "target": "termination"
+          },
+          {
+            "icon": "🏛️",
+            "label": "适用法律",
+            "target": "governing-law"
+          },
+          {
+            "icon": "🔄",
+            "label": "条款变更",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "联系我们",
+            "target": "contact"
+          }
+        ]
+      },
+      "termsSummary": {
+        "title": "条款摘要",
+        "points": [
+          "免费 PDF 合并服务",
+          "使用者必须年满 18 岁",
+          "文件将在 1 小时内删除",
+          "仅限合法用途"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "acceptance",
+        "icon": "✅",
+        "title": "条款接受",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "欢迎访问 www.gabungpdf.id（“本网站”），由 Gabung PDF（“我们”）提供服务。本服务条款（“条款”）规范您对本网站及其 PDF 合并服务的使用。访问或使用本网站，即表示您同意接受本条款的约束。"
+          },
+          {
+            "type": "highlight",
+            "title": "重要协议：",
+            "text": "如果您不同意本条款，请不要使用本网站。"
+          }
+        ]
+      },
+      {
+        "id": "use-of-site",
+        "icon": "🔧",
+        "title": "网站使用",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "资格要求",
+            "text": "您必须年满 18 岁或具备订立本条款的法律能力，方可使用本网站。"
+          },
+          {
+            "type": "subsection",
+            "title": "允许用途",
+            "text": "本网站允许您上传 PDF 文件，将其合并为单个 PDF 并下载结果。您仅可出于合法目的并遵守本条款使用本网站。"
+          },
+          {
+            "type": "subsection",
+            "title": "禁止用途",
+            "text": "您不得：",
+            "list": [
+              "上传含有病毒、恶意软件或其他有害代码的文件",
+              "利用本网站违反任何适用法律、法规或第三方权利",
+              "试图干扰、破坏或逆向工程本网站的功能",
+              "未经我们书面同意，出于商业目的使用本网站"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "user-files",
+        "icon": "📁",
+        "title": "用户文件",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "临时处理",
+            "text": "上传的文件将用于 PDF 合并处理，并在处理后 1 小时内自动从我们的服务器删除。我们不会在此期间之外存储或保留您的文件。"
+          },
+          {
+            "type": "subsection",
+            "title": "您的责任",
+            "text": "您对所上传文件的内容承担全部责任。您必须确保拥有上传和处理这些文件的权利，并且该等文件不侵犯任何第三方权利（例如版权、商标）。"
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "icon": "©️",
+        "title": "知识产权",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "网站内容",
+            "text": "本网站上的所有内容，包括文字、图形、标志和软件，均为我们所有或已获授权，并受知识产权法律保护。"
+          },
+          {
+            "type": "subsection",
+            "title": "用户内容",
+            "text": "您保留所上传文件的所有权利。通过上传文件，您授予我们有限的、非独占的、免版税的许可，仅用于提供 PDF 合并服务。"
+          }
+        ]
+      },
+      {
+        "id": "limitation-liability",
+        "icon": "⚠️",
+        "title": "责任限制",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "无担保",
+            "text": "本网站按“原样”提供，不作任何明示或暗示的保证，包括但不限于适销性、特定用途适用性或不侵权的保证。"
+          },
+          {
+            "type": "subsection",
+            "title": "责任上限",
+            "text": "在法律允许的最大范围内，我们不对因您使用本网站而产生的任何间接、附带、特殊或后果性损失承担责任，即使已被告知可能发生此类损失。"
+          },
+          {
+            "type": "subsection",
+            "title": "服务中断",
+            "text": "我们不保证网站的持续可用性或无错误访问，并不对任何延迟、中断或数据丢失承担责任。"
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "icon": "⚖️",
+        "title": "赔偿责任",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "您同意因您使用本网站、所上传文件或违反本条款而引发的任何索赔、损失或损害（包括法律费用），对我们进行赔偿并使其免受损害。"
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "icon": "🚫",
+        "title": "终止",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "如您违反本条款或出于其他原因，我们可自行决定暂停或终止您对本网站的访问，无需事先通知。"
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "icon": "🏛️",
+        "title": "适用法律",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "本条款受印度尼西亚法律管辖，不考虑法律冲突原则。由本条款引起的任何争议应提交至印度尼西亚法院解决。"
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "条款变更",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "我们可能会不时更新本条款。变更将发布在本页面，并注明“最后更新”日期。"
+          },
+          {
+            "type": "highlight",
+            "text": "您在变更后继续使用本网站，即表示接受已更新的条款。"
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "联系我们",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "如对本条款有任何疑问，请通过 admin@gabungpdf.id 与我们联系。"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "关键协议要点",
+      "desc": "在使用我们的服务时，了解您的权利和责任。",
+      "points": [
+        {
+          "title": "公平使用",
+          "desc": "负责任且合法地使用我们的服务"
+        },
+        {
+          "title": "您的文件",
+          "desc": "您保留所有上传文件的所有权"
+        },
+        {
+          "title": "禁止滥用",
+          "desc": "禁止的使用将导致服务终止"
+        },
+        {
+          "title": "有限责任",
+          "desc": "服务按“原样”提供，不提供任何担保"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "有疑问？",
+      "description": "我们随时为您解答关于条款或服务的疑问。",
+      "links": [
+        {
+          "label": "隐私政策",
+          "href": "/privacy-policy",
+          "icon": "🔒"
+        },
+        {
+          "label": "联系法律团队",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Content": {
+    "Policy": {
+      "title": "隐私政策",
+      "desc": "我们致力于保护您的隐私，确保您的文件安全。了解当您使用我们的PDF合并服务时，我们如何收集、使用和保护您的信息。",
+      "Updated": "最后更新：",
+      "date": "2025年6月6日"
+    },
+    "Terms": {
+      "title": "服务条款",
+      "desc": "这些条款规范您使用我们的PDF合并服务。请在使用本站前仔细阅读。",
+      "Updated": "最后更新：",
+      "date": "2025年6月6日"
+    }
+  },
+  "MiniFooter": {
+    "heading": "准备好安全合并您的PDF了吗？",
+    "subheading": "体验我们注重隐私的PDF合并服务，安心无忧。",
+    "button": "立即合并PDF"
+  },
+  "Seo": {
+    "Home": {
+      "title": "免费在线合并PDF - 轻松快速地合并PDF文件",
+      "description": "使用 GabungPDF.id 免费在线合并PDF文档。易于使用的PDF合并工具，无需安装，无需注册。立即轻松合并PDF！"
+    },
+    "CombinePdf": {
+      "title": "免费在线合并PDF文件 - 快速简便的PDF合并器",
+      "description": "使用 GabungPDF.id 免费在线合并PDF。快速、易用的PDF合并工具，无需注册或安装。立即合并PDF文件！"
+    },
+      "Blog": {
+    "title": "合并PDF博客：PDF合并技巧与指南",
+    "description": "探索Gabung PDF的博客，获取有关合并PDF的专家技巧、教程和简化PDF任务的工具。立即阅读以获取见解！"
+  },
+    "Blog1": {
+      "title": "合并PDF文件最简单的方法 | 合并PDF",
+      "description": "通过 Gabung PDF 发现合并PDF文件最简单的方法。免费、快速、用户友好的无缝PDF合并工具。快来试试！"
+    },
+    "Blog2": {
+      "title": "终极PDF合并工具 | 合并PDF",
+      "description": "Gabung PDF 是在线合并PDF文件的终极工具。快速、安全、免费。今天就轻松合并PDF！"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF隐私政策 | 安全的PDF合并",
+      "description": "阅读 Gabung PDF 的隐私政策，了解我们如何在安全合并PDF文件时保护您的数据。立即了解更多。"
+    },
+    "TermsAndCondition": {
+      "title": "Gabung PDF服务条款 | PDF合并",
+      "description": "查看 Gabung PDF 的服务条款，了解如何使用我们免费、安全的在线PDF合并工具。立即了解我们的政策。"
+    }
+  }
+}

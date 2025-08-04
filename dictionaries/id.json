@@ -1,0 +1,1305 @@
+{
+  "nav": {
+    "home": "Beranda",
+    "combinePdf": "Gabung PDF",
+    "blog": "Blog",
+    "selectLanguage": "Pilih Bahasa"
+  },
+  "home": {
+    "title": "Gabung File PDF Online - Gratis, Cepat dan Aman",
+    "description": "Gabung PDF dengan mudah menggunakan GabungPDF.id! Tool online gratis, cepat, dan aman untuk menggabungkan file PDF dalam hitungan detik. Tidak perlu registrasi.",
+    "mergeNow": "Gabung PDF Sekarang",
+    "sec1Para": "Di dunia digital yang serba cepat saat ini, mengelola dokumen secara efisien sangat penting untuk tugas pribadi dan profesional. Salah satu kebutuhan umum adalah <strong>menggabungkan file PDF</strong> menjadi satu dokumen yang disederhanakan.",
+    "SecH1": "Mengapa Gabung File PDF?",
+    "SecH1P1": "Menggabungkan beberapa file PDF menjadi satu dokumen menawarkan banyak keuntungan. Berikut mengapa Anda harus mempertimbangkan menggunakan tool penggabung PDF:",
+    "SecH1UlLi1": "<strong>Organisasi dan Efisiensi:</strong> Daripada mengirim beberapa file, satu PDF yang digabung menyederhanakan berbagi dan meninjau.",
+    "SecH1UlLi2": "<strong>Mengurangi Kekacauan File:</strong> Menggabungkan PDF mengurangi jumlah file yang perlu Anda kelola.",
+    "SecH1UlLi3": "<strong>Presentasi Profesional:</strong> PDF yang terpadu terlihat rapi dan profesional.",
+    "SecH1UlLi4": "<strong>Kompatibilitas Lintas Platform:</strong> PDF kompatibel secara universal.",
+    "SecH1EndPara": "Dengan tool seperti <strong>gabungPDF.id</strong>, Anda dapat gabung PDF dengan cepat, tanpa perlu menginstal software atau mendaftar akun.",
+    "steps": {
+      "title": "Cara Gabung File PDF Online Gratis",
+      "intro": "Menggunakan tool online seperti gabungPDF.id membuat penggabungan PDF menjadi mudah dan dapat diakses.",
+      "items": [
+        {
+          "title": "Langkah 1: Kunjungi gabungPDF.id",
+          "desc": "Navigasi ke gabungPDF.id, tool online gratis yang dirancang untuk membantu Anda <strong>gabung file PDF</strong> dalam hitungan detik."
+        },
+        {
+          "title": "Langkah 2: Upload File PDF Anda",
+          "desc": "Klik tombol \"Upload File\" untuk memilih PDF yang ingin Anda gabungkan."
+        },
+        {
+          "title": "Langkah 3: Atur File",
+          "desc": "Setelah diupload, Anda dapat drag dan drop file untuk mengaturnya sesuai urutan yang diinginkan."
+        },
+        {
+          "title": "Langkah 4: Gabung dan Download",
+          "desc": "Setelah mengatur file Anda, klik tombol \"Gabung\". Tool akan <strong>gabung file PDF</strong> menjadi satu dokumen."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Mengapa Pilih gabungPDF.id?",
+      "points": [
+        {
+          "title": "<strong>Tidak Perlu Instalasi:</strong>",
+          "desc": "Tidak seperti software desktop, gabungPDF.id bekerja sepenuhnya online."
+        },
+        {
+          "title": "<strong>Gratis dan Aman:</strong>",
+          "desc": "Tool ini gratis digunakan, tanpa biaya tersembunyi."
+        },
+        {
+          "title": "<strong>Kompatibilitas Lintas Perangkat:</strong>",
+          "desc": "Baik Anda menggunakan Mac, Windows, iOS atau Android."
+        },
+        {
+          "title": "<strong>Dukungan Multibahasa:</strong>",
+          "desc": "Platform mendukung pengguna di seluruh dunia."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Manfaat Menggunakan Penggabung PDF Online",
+      "items": [
+        {
+          "title": "<strong>Aksesibilitas:</strong>",
+          "desc": "Anda dapat <strong>gabung file PDF</strong> dari perangkat apa pun dengan koneksi internet."
+        },
+        {
+          "title": "<strong>Kecepatan:</strong>",
+          "desc": "Proses penggabungan memakan waktu detik, bahkan untuk file besar."
+        },
+        {
+          "title": "<strong>Tanpa Biaya:</strong>",
+          "desc": "Banyak tool online yang benar-benar gratis."
+        },
+        {
+          "title": "<strong>Mudah Digunakan:</strong>",
+          "desc": "Tidak diperlukan keterampilan teknis."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Mengoptimalkan PDF Gabungan Anda untuk SEO",
+      "intro": "Jika Anda membuat PDF untuk tujuan profesional atau pemasaran, mengoptimalkannya untuk mesin pencari dapat meningkatkan visibilitasnya.",
+      "items": [
+        {
+          "title": "1. Gunakan Nama File Deskriptif",
+          "desc": "Sebelum mengupload PDF Anda ke gabungPDF.id, ubah nama file Anda dengan nama deskriptif yang kaya kata kunci."
+        },
+        {
+          "title": "2. Tambahkan Metadata",
+          "desc": "Sertakan metadata seperti judul, penulis, dan kata kunci dalam PDF Anda."
+        },
+        {
+          "title": "3. Optimalkan Konten Teks",
+          "desc": "Pastikan PDF Anda berisi teks yang dapat dicari daripada gambar yang dipindai."
+        },
+        {
+          "title": "4. Sertakan Link Internal",
+          "desc": "Jika PDF Anda adalah bagian dari website, sertakan link ke halaman yang relevan."
+        },
+        {
+          "title": "5. Gunakan Heading dan Struktur",
+          "desc": "Organisir PDF Anda dengan heading yang jelas dan struktur yang logis."
+        },
+        {
+          "title": "6. Kompres untuk Loading Lebih Cepat",
+          "desc": "PDF besar dapat memperlambat waktu loading."
+        },
+        {
+          "title": "7. Tambahkan Alt Text ke Gambar",
+          "desc": "Jika PDF Anda menyertakan gambar, tambahkan deskripsi alt text."
+        },
+        {
+          "title": "8. Host PDF di Website Anda",
+          "desc": "Upload PDF gabungan Anda ke website dan buat landing page khusus."
+        },
+        {
+          "title": "9. Lacak Tampilan PDF",
+          "desc": "Gunakan tool seperti Google Analytics untuk melacak bagaimana pengguna berinteraksi dengan PDF Anda."
+        },
+        {
+          "title": "10. Promosikan PDF Anda",
+          "desc": "Bagikan PDF Anda di media sosial, newsletter email, dan komunitas online yang relevan."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Kasus Penggunaan Umum untuk Gabung PDF",
+      "items": [
+        {
+          "title": "<strong>Laporan Bisnis:</strong>",
+          "desc": "Gabungkan beberapa bagian laporan menjadi satu PDF untuk berbagi dengan mudah."
+        },
+        {
+          "title": "<strong>Proyek Akademik:</strong>",
+          "desc": "Mahasiswa dapat gabung makalah penelitian, catatan, dan referensi."
+        },
+        {
+          "title": "<strong>Dokumen Hukum:</strong>",
+          "desc": "Pengacara sering gabung kontrak, perjanjian, dan bukti."
+        },
+        {
+          "title": "<strong>Materi Pemasaran:</strong>",
+          "desc": "Buat brosur profesional dengan menggabungkan gambar dan file teks."
+        },
+        {
+          "title": "<strong>Penggunaan Pribadi:</strong>",
+          "desc": "Gabung dokumen yang dipindai, kwitansi, atau foto."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Membandingkan gabungPDF.id dengan Tool Lain",
+      "intro": "Meskipun gabungPDF.id adalah pilihan utama untuk gabung PDF, tool lain juga menawarkan fungsionalitas serupa.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Gratis, tanpa registrasi, mendukung berbagai format file."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Menawarkan penggabung online gratis tapi memerlukan login untuk fitur lanjutan."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Tool yang kuat dengan fitur tambahan seperti kompresi dan konversi."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Mendukung file kompleks dan jumlah halaman besar."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Tips untuk Pengalaman Gabung PDF yang Lancar",
+      "items": [
+        {
+          "title": "<strong>Periksa Kompatibilitas File:</strong>",
+          "desc": "Pastikan semua file dalam format PDF atau format yang didukung."
+        },
+        {
+          "title": "<strong>Preview File Anda:</strong>",
+          "desc": "Tinjau urutan dan konten file Anda sebelum gabung."
+        },
+        {
+          "title": "<strong>Gunakan Platform Aman:</strong>",
+          "desc": "Pilih tool seperti gabungPDF.id yang mengutamakan privasi."
+        },
+        {
+          "title": "<strong>Test Output:</strong>",
+          "desc": "Buka PDF gabungan untuk memastikan layout dan konten sudah benar."
+        }
+      ]
+    },
+    "ConclusionH1": "Kesimpulan",
+    "conclusion": "Gabung file PDF adalah cara sederhana namun powerful untuk menyederhanakan manajemen dokumen Anda. Baik Anda seorang profesional yang mengorganisir laporan, mahasiswa yang mengompilasi penelitian, atau seseorang yang mengarsipkan dokumen pribadi, tool seperti gabungPDF.id memudahkan untuk <strong>gabung file PDF</strong> online gratis. Mulai gunakan gabungPDF.id hari ini untuk <strong>gabung file PDF</strong> dengan mudah dan ambil kontrol dokumen digital Anda!"
+  },
+  "combinePdf": {
+    "title": "Menggabungkan PDF",
+    "dragDrop": "Seret dan Jatuhkan PDF di sini atau",
+    "clickBrowse": "klik untuk memilih",
+    "selectFiles": "Pilih file",
+    "maxSize": "Ukuran file maksimum: 50 MB",
+    "combineButton": "Gabungkan PDF",
+    "filesCount": "PDF",
+    "S1H1": "Menggabungkan PDF: Cara Menggabungkan PDF - Panduan Menggabungkan PDF secara Gratis",
+    "S1P1": "Dalam dunia digital saat ini, file PDF (Portable Document Format) telah menjadi alat yang tak tergantikan untuk berbagi dan menyimpan dokumen. Berbeda dengan file DOC yang dibuat di Microsoft Word atau Google Docs, PDF mempertahankan format yang sama di semua perangkat dan sistem operasi. Kompatibilitas universal ini menjadikannya ideal untuk penggunaan profesional dan pribadi, baik untuk berbagi laporan, presentasi, atau formulir melalui internet.",
+    "S1P2": "Namun, bekerja dengan file PDF terkadang bisa menjadi tantangan, terutama ketika Anda perlu menggabungkan beberapa file PDF menjadi satu dokumen yang terhubung. Dalam panduan ini, kami akan menjelaskan mengapa penggabungan file PDF penting, bagaimana cara menggabungkannya secara gratis dengan alat sederhana kami, dan manfaat apa yang dapat Anda dapatkan dengan menyederhanakan pengelolaan dokumen.",
+    "S2H1": "Mengapa File PDF Itu Unik dan Serbaguna",
+    "S2P1": "File PDF dirancang untuk mempertahankan tampilan yang tepat dari dokumen apa pun, terlepas dari perangkat atau perangkat lunak yang digunakan untuk melihatnya. Berbeda dengan file DOC, yang bergantung pada pengaturan sistem seperti font yang terinstal atau konfigurasi sistem operasi, file PDF berfungsi seperti gambar statis. Ini memastikan bahwa font, tata letak, dan grafik tetap konsisten, menjadikannya ideal untuk dokumen profesional seperti kontrak, CV, atau e-book.",
+    "S2P2": "Konsistensi ini adalah alasan mengapa file PDF sangat banyak digunakan untuk berbagi dokumen secara online. Baik Anda mengarsipkan laporan bisnis atau catatan penting, file PDF memastikan penerima melihat dokumen dengan cara yang sama seperti yang dimaksudkan. Namun, fitur ini juga menjadikan pengeditan atau penggabungan file PDF lebih rumit dibandingkan dengan bekerja dengan file DOC. Tanpa perangkat lunak khusus, tugas seperti menambahkan halaman atau menggabungkan beberapa file PDF dapat tampak menakutkan. Untungnya, alat online gratis kami menyederhanakan proses ini dan memungkinkan Anda menggabungkan PDF tanpa perangkat lunak tambahan.",
+    "combine_pdf_files": {
+      "intro": "Mengapa Menggabungkan File PDF?",
+      "para": "Menggabungkan file PDF adalah kebutuhan umum bagi profesional, pelajar, dan siapa saja yang mengelola banyak dokumen. Berikut beberapa skenario di mana penggabungan PDF sangat berguna:",
+      "items": [
+        {
+          "title": "Menyusun Laporan Besar",
+          "desc": "Jika Anda memiliki beberapa laporan atau bab PDF, menggabungkannya menjadi satu dokumen memudahkan berbagi dan meninjau."
+        },
+        {
+          "title": "Mengarsipkan Dokumen yang Dipindai",
+          "desc": "File PDF yang dipindai, seperti tagihan atau formulir, sering kali perlu digabungkan menjadi satu file untuk pengarsipan yang lebih mudah."
+        },
+        {
+          "title": "Mengoptimalkan Presentasi",
+          "desc": "Menggabungkan slide atau bagian dari berbagai file PDF ke dalam satu presentasi yang koheren meningkatkan kejelasan dan profesionalisme."
+        },
+        {
+          "title": "Berbagi File Lebih Mudah",
+          "desc": "Alih-alih mengirimkan banyak file, dengan menggabungkan PDF menjadi satu dokumen, Anda mengurangi kebingungannya dan memastikan bahwa semua informasi ada dalam satu file yang mudah diakses."
+        }
+      ],
+      "para2": "Berbeda dengan file DOC, di mana Anda dapat dengan mudah menyalin dan menempelkan isi, file PDF membutuhkan alat khusus untuk menggabungkannya atau mengeditnya. Misalnya, menyalin teks dari file PDF yang dipindai sering kali tidak memungkinkan tanpa perangkat lunak pengenalan karakter optik (OCR). Alat penggabungan PDF gratis kami menghilangkan hambatan ini dan memungkinkan Anda menggabungkan hingga 20 file PDF sekaligus tanpa perlu perangkat lunak mahal atau pengetahuan teknis."
+    },
+    "stepbystep": {
+      "intro": "Cara Menggabungkan PDF Secara Gratis: Langkah demi Langkah",
+      "para": "Alat online sederhana kami membuat penggabungan file PDF cepat dan efisien. Baik Anda menggabungkan dua atau hingga 20 file, prosesnya mudah dan tidak memerlukan instalasi atau langganan. Ikuti langkah-langkah berikut untuk menggabungkan file PDF Anda tanpa hambatan:",
+      "items": [
+        {
+          "title": "Langkah 1: Unggah File PDF Anda",
+          "desc": "Pertama, klik tombol 'PILIH FILE' di antarmuka alat kami. Pilih file PDF yang diinginkan dari perangkat Anda. Anda juga dapat menyeret dan melepaskan file PDF ke area yang ditandai 'Seret file di sini'. Fitur ini sangat berguna saat bekerja dengan beberapa file, karena menghemat waktu dan menyederhanakan proses."
+        },
+        {
+          "title": "Langkah 2: Atur File PDF Anda",
+          "desc": "Setelah mengunggah file, alat kami akan menampilkan urutan file. Urutan file dalam daftar ini akan menentukan struktur file PDF gabungan. File PDF pertama dalam daftar akan muncul di bagian atas dokumen akhir, yang kedua mengikuti, dan seterusnya. Untuk memastikan urutan yang benar, Anda dapat dengan mudah menyeret dan melepaskan file dalam daftar."
+        },
+        {
+          "title": "Langkah 3: Gabungkan dan Unduh",
+          "desc": "Ketika Anda sudah puas dengan urutannya, klik tombol 'GABUNG'. Sistem kami akan segera menggabungkan semua file PDF yang diunggah menjadi satu. Setelah proses selesai, file PDF gabungan akan mulai diunduh ke perangkat Anda secara otomatis. Seluruh proses cepat, aman, dan tidak memerlukan perangkat lunak tambahan."
+        }
+      ],
+      "intro2": "Gabungkan Lebih Banyak File PDF",
+      "para2": "Ingin menggabungkan lebih banyak file PDF? Tidak masalah! Alat kami memungkinkan Anda untuk menggabungkan file dalam beberapa batch. Setelah mengunduh set pertama dari file PDF yang digabungkan, unduh file PDF baru ini bersama file-file lainnya yang ingin Anda tambahkan. Ulangi proses ini dengan mengklik 'GABUNG' untuk membuat dokumen yang lebih besar. Proses ini dapat diulang sebanyak yang Anda inginkan.",
+      "intro3": "Catatan Penting: Unduh dalam Satu Jam",
+      "para3": "Untuk pengalaman yang lancar, pastikan untuk mengunduh file PDF gabungan Anda dalam satu jam setelah dibuat. Jika tidak, sistem akan menghapus file dan Anda perlu mengunggahnya lagi untuk memulai proses dari awal. Fungsionalitas ini membantu menjaga keamanan data dan membebaskan ruang di server untuk pengguna lain."
+    },
+    "benefits": {
+      "intro": "Manfaat Menggunakan Alat Penggabung PDF Gratis Kami",
+      "para": "Alat kami dirancang dengan fokus pada kemudahan penggunaan, aksesibilitas, dan efisiensi. Berikut beberapa alasan mengapa alat kami adalah pilihan terbaik untuk menggabungkan file PDF:",
+      "items": [
+        {
+          "title": "Tidak Perlu Instalasi Perangkat Lunak",
+          "desc": "Berbeda dengan editor PDF tradisional, alat kami sepenuhnya berbasis web, yang memungkinkan Anda mengaksesnya dari perangkat apa pun dengan koneksi internet."
+        },
+        {
+          "title": "Gratis dan Tidak Terbatas dalam Penggunaan",
+          "desc": "Gabungkan hingga 20 file PDF sekaligus secara gratis, tanpa biaya atau langganan. Untuk proyek yang lebih besar, Anda dapat menggabungkan beberapa batch file, seperti yang dijelaskan di atas."
+        },
+        {
+          "title": "Antarmuka Sederhana",
+          "desc": "Fungsionalitas seret dan lepas serta desain intuitif membuat alat kami mudah digunakan oleh pemula maupun profesional."
+        },
+        {
+          "title": "Proses Cepat",
+          "desc": "Alat kami menggabungkan file PDF dalam hitungan detik, menghemat waktu dan tenaga Anda."
+        },
+        {
+          "title": "Aman dan Terpercaya",
+          "desc": "File Anda diproses dengan aman dan akan dihapus dari server kami setelah satu jam, menjaga privasi data Anda."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Kapan Anda Harus Menggabungkan File PDF?",
+      "para": "Menggabungkan file PDF adalah keterampilan yang berguna dalam berbagai situasi. Berikut beberapa kasus umum ketika penggabungan PDF sangat berguna:",
+      "items": [
+        {
+          "title": "Profesional Bisnis",
+          "desc": "Gabungkan faktur, kontrak, atau proposal menjadi satu dokumen untuk dibagikan dengan klien atau rekan kerja."
+        },
+        {
+          "title": "Pelajar dan Pengajar",
+          "desc": "Gabungkan catatan kuliah, tugas riset, atau pekerjaan rumah menjadi satu file untuk presentasi atau materi pembelajaran."
+        },
+        {
+          "title": "Tugas Hukum dan Administrasi",
+          "desc": "Susun dokumen yang dipindai seperti kontrak atau formulir ke dalam satu file PDF untuk arsip atau kebutuhan hukum."
+        },
+        {
+          "title": "Proyek Kreatif",
+          "desc": "Gabungkan sketsa desain, portofolio, atau storyboard ke dalam satu PDF koheren untuk presentasi atau umpan balik dari klien."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Tips untuk Bekerja dengan File PDF",
+      "para": "Untuk memaksimalkan pengalaman menggabungkan PDF Anda, ingatlah beberapa tips berikut:",
+      "items": [
+        {
+          "title": "Periksa Urutan File",
+          "desc": "Selalu periksa urutan file PDF Anda sebelum menggabungkannya untuk menghindari reorganisasi halaman nanti."
+        },
+        {
+          "title": "Optimalkan Ukuran File",
+          "desc": "Jika file PDF Anda berisi gambar besar atau grafik, pertimbangkan untuk mengompresinya sebelum mengunggahnya untuk mengurangi ukuran file akhir."
+        },
+        {
+          "title": "Gunakan Nama File Deskriptif",
+          "desc": "Beri nama file PDF Anda dengan nama yang jelas dan deskriptif (misalnya Laporan_Sektor1.pdf) agar tetap terorganisir saat menggabungkan."
+        },
+        {
+          "title": "Buat Cadangan File Asli",
+          "desc": "Simpan salinan file PDF asli Anda jika Anda perlu membuat perubahan atau menggabungkannya lagi nanti."
+        },
+        {
+          "title": "Eksplorasi Alat Lainnya",
+          "desc": "Jika Anda perlu mengedit, mengonversi, atau mengompres file PDF, coba alat gratis kami di platform untuk pengelolaan dokumen lengkap."
+        }
+      ]
+    },
+    "why_choose": "Mengapa Memilih Alat Kami daripada Alternatif Berbayar?",
+    "why_choose_para": "Sementara editor PDF berbayar seperti Adobe Acrobat menawarkan fitur canggih, alat gratis kami memberikan solusi yang terjangkau bagi kebanyakan pengguna. Anda tidak perlu berinvestasi dalam perangkat lunak mahal atau langganan hanya untuk menggabungkan file PDF. Gabung PDF.id tersedia untuk usaha kecil, pelajar, dan siapa saja yang membutuhkan hasil profesional tanpa kerumitan.",
+    "why_choose_para2": "Lebih lanjut, platform kami dioptimalkan untuk kecepatan dan kemudahan penggunaan. Apakah Anda menggunakan desktop, tablet, atau ponsel pintar, Anda dapat menggabungkan PDF saat dalam perjalanan tanpa masalah kompatibilitas. Fleksibilitas ini membuat alat kami ideal bagi pengguna yang mencari hasil cepat dan andal tanpa kurva pembelajaran yang curam.",
+    "conclusion": "Kesimpulan",
+    "conclusion_para": "Menggabungkan dokumen PDF tidak perlu rumit atau mahal. Dengan alat penggabung PDF online gratis kami, Anda dapat menggabungkan hingga 20 file PDF sekaligus, menyusunnya dengan mudah, dan mengunduh satu dokumen terhubung dalam hitungan detik. Apakah Anda mengorganisir laporan, mengarsipkan dokumen yang dipindai, atau menyiapkan presentasi, alat kami menyederhanakan seluruh proses tanpa memerlukan perangkat lunak tambahan atau keterampilan teknis."
+  },
+  "blog": {
+    "title": "Tips, Tutorial & Panduan PDF",
+    "description": "Kuasai manajemen PDF dengan panduan ahli, tips praktis, dan tutorial langkah demi langkah.",
+    "searchPlaceholder": "Cari artikel, tutorial, dan panduan...",
+    "articles": "Artikel",
+    "readers": "Pembaca",
+    "available": "Tersedia",
+    "featuredArticle": "Artikel Unggulan",
+    "mostPopular": "Paling Populer Minggu Ini",
+    "readArticle": "Baca Artikel",
+    "readFull": "Baca Artikel Lengkap",
+    "minRead": "menit baca",
+    "featureblog": {
+      "title": "Paling Populer Minggu Ini",
+      "subtitle": "⭐ Artikel Unggulan",
+      "featuredArticle": {
+        "date": "2 Juli 2025",
+        "author": "Admin User",
+        "category": "Artikel Unggulan",
+        "headline": "GabungPDF.id: Cara Termudah untuk Menggabungkan File PDF",
+        "excerpt": "Gabungkan file PDF dengan mudah menggunakan GabungPDF.id, alat penggabung PDF online gratis. Gabungkan PDF dengan aman dalam hitungan detik, tanpa perlu perangkat lunak. Tingkatkan produktivitas Anda sekarang!",
+        "readTime": "3 menit baca",
+        "buttonName": "Baca Artikel Lengkap"
+      }
+    },
+    "blogsPage": {
+      "cards": [
+        {
+          "BlogImage": "/Blog1Image.webp",
+          "date": "2 Juni 2025",
+          "author": "Admin User",
+          "category": null,
+          "headline": "GabungPDF.id: Alat Terbaik untuk Menggabungkan File PDF",
+          "headlineLink": "/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "excerpt": "Gabungkan file PDF dengan mudah menggunakan GabungPDF.id, alat penggabung PDF online gratis Anda. Gabungkan PDF secara aman dalam hitungan detik — tanpa perlu software. Coba sekarang!",
+          "readTime": "3 menit baca",
+          "readMoreText": "blog.bacaArtikel",
+          "slug": "gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "detail": {
+            "intro": "Di GabungPDF.id, kami merancang alat berbasis web yang ramah pengguna untuk membantu Anda menggabungkan file PDF tanpa repot. Baik Anda mahir teknologi atau pemula, platform kami dibuat untuk semua orang. Berikut alasan mengapa GabungPDF.id menjadi penggabung PDF terbaik:",
+            "features": [
+              {
+                "title": "Gratis dan mudah diakses",
+                "description": "Tanpa langganan atau biaya tersembunyi — cukup unggah dan gabungkan."
+              },
+              {
+                "title": "Tanpa instalasi perangkat lunak",
+                "description": "Alat kami sepenuhnya berbasis online, menghemat ruang di perangkat Anda."
+              },
+              {
+                "title": "Cepat dan aman",
+                "description": "Gabungkan PDF dalam hitungan detik dengan enkripsi yang kuat untuk melindungi file Anda."
+              },
+              {
+                "title": "Antarmuka ramah pengguna",
+                "description": "Seret, lepas, dan gabungkan file hanya dengan beberapa klik."
+              }
+            ],
+            "intro2": "Siap untuk menyederhanakan manajemen dokumen Anda? Ikuti langkah-langkah berikut untuk menggunakan penggabung PDF kami.",
+            "how_to_use": {
+              "title": "Cara Menggabungkan File PDF dengan GabungPDF.id",
+              "paragraph": "Menggabungkan PDF dengan GabungPDF.id semudah 1-2-3. Ikuti langkah-langkah ini untuk membuat dokumen PDF yang rapi dan terpadu:",
+              "steps": [
+                {
+                  "title": "Unggah File Anda",
+                  "description": "Kunjungi https://gabungpdf.id/ dan klik tombol “Unggah”. Pilih file PDF yang ingin Anda gabungkan dari perangkat Anda. Anda dapat mengunggah beberapa file sekaligus."
+                },
+                {
+                  "title": "Atur Urutan",
+                  "description": "Gunakan fitur seret dan lepas untuk mengatur file sesuai urutan yang Anda inginkan. Ini memastikan dokumen akhir Anda tersusun dengan rapi."
+                },
+                {
+                  "title": "Gabungkan dan Unduh",
+                  "description": "Klik tombol “Gabungkan PDF”, dan alat kami akan menggabungkan file Anda menjadi satu. Setelah selesai, unduh PDF baru Anda secara instan."
+                }
+              ],
+              "note": "Itu saja! Tidak perlu pengaturan rumit atau keahlian teknis. Baik Anda menggabungkan dua file atau dua puluh, GabungPDF.id melakukannya dengan mudah."
+            },
+            "benefits": {
+              "title": "Manfaat Menggunakan Penggabung PDF Online",
+              "paragraph": "Memilih penggabung PDF online seperti GabungPDF.id memberikan banyak keuntungan dibandingkan perangkat lunak tradisional atau metode manual. Berikut alasan alat kami sangat berguna:",
+              "items": [
+                {
+                  "title": "Hemat Waktu dan Praktis",
+                  "description": "Menggabungkan PDF secara manual menggunakan perangkat lunak desktop memakan waktu dan sering kali membutuhkan lisensi mahal. Dengan GabungPDF.id, Anda dapat menggabungkan file PDF dalam hitungan detik dari perangkat apa pun yang terhubung ke internet — baik laptop, tablet, maupun ponsel."
+                },
+                {
+                  "title": "Keamanan File Terjamin",
+                  "description": "Khawatir soal privasi? Platform kami menggunakan enkripsi canggih untuk memastikan file Anda tetap aman selama proses penggabungan. Setelah Anda mengunduh PDF hasil gabungan, file Anda akan dihapus dari server kami."
+                },
+                {
+                  "title": "Solusi Hemat Biaya",
+                  "description": "Mengapa harus membayar perangkat lunak pengedit PDF yang mahal? GabungPDF.id sepenuhnya gratis, ideal bagi pelajar, pekerja lepas, dan bisnis kecil yang ingin menggabungkan file PDF tanpa biaya tambahan."
+                },
+                {
+                  "title": "Kompatibel Lintas Platform",
+                  "description": "Baik Anda menggunakan Windows, macOS, iOS, atau Android, penggabung PDF berbasis web kami berfungsi dengan lancar di semua platform. Tidak perlu khawatir soal kompatibilitas."
+                }
+              ]
+            },
+            "optimization_tips": {
+              "title": "Tips Mengoptimalkan PDF yang Telah Digabung",
+              "paragraph": "Untuk hasil terbaik dari file PDF yang telah Anda gabungkan, pertimbangkan tips berikut:",
+              "tips": [
+                {
+                  "title": "Periksa Urutan File",
+                  "description": "Sebelum menggabungkan, atur PDF Anda dalam urutan yang benar agar tidak perlu mengulang proses."
+                },
+                {
+                  "title": "Optimalkan Ukuran File",
+                  "description": "Jika PDF Anda berisi gambar besar, kompres terlebih dahulu sebelum diunggah untuk mengurangi ukuran file akhir."
+                },
+                {
+                  "title": "Gunakan Nama File yang Jelas",
+                  "description": "Gunakan nama file yang deskriptif agar mudah ditemukan di kemudian hari."
+                },
+                {
+                  "title": "Tinjau Hasil",
+                  "description": "Setelah digabung, tinjau PDF hasil gabungan untuk memastikan semuanya terlihat sempurna."
+                }
+              ],
+              "paragraph2": "Dengan GabungPDF.id, Anda dapat menggabungkan file PDF dengan percaya diri sambil menjaga kualitas dan kerapihan."
+            },
+            "audience": {
+              "title": "Siapa Saja yang Cocok Menggunakan GabungPDF.id?",
+              "paragraph": "Penggabung PDF kami dirancang untuk berbagai kebutuhan, termasuk:",
+              "users": [
+                {
+                  "type": "Pelajar",
+                  "description": "Gabungkan catatan kuliah, tugas, atau makalah penelitian dalam satu file."
+                },
+                {
+                  "type": "Profesional",
+                  "description": "Gabungkan laporan, proposal, atau kontrak untuk komunikasi yang lebih rapi."
+                },
+                {
+                  "type": "Bisnis Kecil",
+                  "description": "Atur faktur, tanda terima, atau materi pemasaran ke dalam satu dokumen."
+                },
+                {
+                  "type": "Freelancer",
+                  "description": "Gabungkan portofolio, faktur, atau hasil proyek untuk klien."
+                }
+              ],
+              "paragraph2": "Apa pun kebutuhan Anda, GabungPDF.id adalah mitra terpercaya Anda untuk semua keperluan PDF."
+            },
+            "why_choose_us": {
+              "title": "Mengapa Memilih GabungPDF.id Dibandingkan Penggabung PDF Lain?",
+              "paragraph": "Dengan begitu banyak alat yang tersedia, apa yang membuat GabungPDF.id pilihan terbaik untuk menggabungkan file PDF? Berikut keunggulan kami:",
+              "reasons": [
+                {
+                  "title": "Cepat",
+                  "description": "Tidak perlu belajar — cukup unggah, gabungkan, dan unduh."
+                },
+                {
+                  "title": "Handal",
+                  "description": "Performa stabil tanpa crash atau error."
+                },
+                {
+                  "title": "Dapat Diakses Kapan Saja",
+                  "description": "Tersedia 24/7 dari mana saja di dunia."
+                }
+              ],
+              "paragraph2": "Jangan buang waktu dengan software yang rumit atau alat yang tidak dapat diandalkan. Cobalah GabungPDF.id hari ini dan rasakan cara paling mudah untuk menggabungkan file PDF."
+            },
+            "conclusion": {
+              "title": "Kesimpulan: Sederhanakan Pekerjaan Anda dengan GabungPDF.id",
+              "paragraph": "Menggabungkan PDF tidak perlu merepotkan. Dengan GabungPDF.id, Anda dapat menggabungkan file PDF dengan mudah, menghemat waktu, dan menjaga dokumen tetap teratur. Penggabung PDF gratis, aman, dan ramah pengguna kami sangat cocok bagi siapa saja yang ingin menyederhanakan alur kerja mereka. Baik Anda menggabungkan laporan, catatan, atau kontrak, alat kami memberikan hasil profesional setiap saat. Siap memulai?",
+              "cta": {
+                "text": "Kunjungi gabungpdf.id/combine-pdf",
+                "link": "https://gabungpdf.id/combine-pdf"
+              },
+              "Remaingparagraph": "Gabungkan file PDF hanya dalam beberapa klik. Sederhanakan manajemen dokumen Anda hari ini dengan GabungPDF.id — alat penggabung PDF terbaik Anda!"
+            }
+          }
+        },
+        {
+          "BlogImage": "/FeatureBlogImage.webp",
+          "date": "2 Juli 2025",
+          "author": "Admin User",
+          "category": "Artikel Unggulan",
+          "headline": "GabungPDF.id: Cara Termudah Menggabungkan File PDF",
+          "excerpt": "Gabungkan file PDF dengan mudah menggunakan GabungPDF.id, alat penggabung PDF online gratis. Gabungkan PDF dengan aman dalam hitungan detik, tanpa perlu software. Tingkatkan produktivitas Anda sekarang!",
+          "readTime": "3 menit baca",
+          "buttonName": "Baca Artikel Lengkap",
+          "slug": "gabungpdfid-the-easiest-way-to-combine-pdf-files",
+          "detail": {
+            "intro": "Di dunia di mana waktu adalah uang, mengelola dokumen secara efisien dapat membuat perbedaan besar. Baik Anda sedang menangani banyak laporan, mengatur kontrak klien, atau mengompilasi file proyek, alat penggabung PDF yang andal dapat mengubah alur kerja Anda. GabungPDF.id hadir sebagai alat gratis berbasis online yang dirancang untuk menggabungkan file PDF dengan cepat dan tanpa hambatan. Dalam artikel ini, kami akan mengulas bagaimana GabungPDF.id membantu Anda menggabungkan file PDF dengan mudah dan mengapa ini adalah solusi terbaik bagi profesional, pelajar, dan bisnis.",
+            "why_merge_pdf": {
+              "title": "Mengapa Perlu Menggabungkan File PDF?",
+              "paragraph": "PDF adalah format utama untuk berbagi dokumen profesional, tetapi menangani banyak file bisa memperlambat pekerjaan. Menggabungkan PDF ke dalam satu dokumen yang teratur akan menghemat waktu, mengurangi kekacauan, dan meningkatkan keteraturan. Berikut beberapa alasan mengapa Anda perlu menggabungkan file PDF:",
+              "reasons": [
+                {
+                  "title": "Mempermudah Berbagi",
+                  "description": "Kirim satu file alih-alih banyak lampiran untuk memudahkan kolaborasi."
+                },
+                {
+                  "title": "Mengatur Dokumen",
+                  "description": "Gabungkan faktur, formulir, atau catatan dalam satu file PDF yang mudah diakses."
+                },
+                {
+                  "title": "Presentasi Profesional",
+                  "description": "Gabungkan slide, handout, dan catatan ke dalam satu dokumen yang rapi."
+                },
+                {
+                  "title": "Menyederhanakan Arsip",
+                  "description": "Gabungkan file terkait untuk penyimpanan dan pengambilan data yang lebih efisien."
+                }
+              ],
+              "note": "Dengan GabungPDF.id, Anda dapat menggabungkan file PDF hanya dengan beberapa klik, membuat pengelolaan dokumen jadi lebih mudah."
+            },
+            "features": {
+              "title": "Apa yang Membuat GabungPDF Menjadi Alat Penggabung PDF Terbaik?",
+              "paragraph": "Di GabungPDF.id, kami menciptakan alat yang cepat, gratis, dan dapat diakses oleh siapa saja. Baik Anda bekerja dari desktop, tablet, atau smartphone, alat kami memberikan hasil profesional tanpa repot. Inilah alasan mengapa pengguna menyukai GabungPDF.id:",
+              "items": [
+                {
+                  "title": "100% Gratis",
+                  "description": "Tanpa langganan, tanpa biaya tersembunyi — cukup gabungkan dan selesai."
+                },
+                {
+                  "title": "Tanpa Perlu Software",
+                  "description": "Alat berbasis web kami bekerja langsung, tanpa perlu unduh aplikasi."
+                },
+                {
+                  "title": "Pemrosesan Aman",
+                  "description": "File Anda dilindungi dengan enkripsi dan dihapus setelah digunakan."
+                },
+                {
+                  "title": "Desain Intuitif",
+                  "description": "Antarmuka sederhana yang memudahkan siapa saja menggabungkan PDF."
+                }
+              ],
+              "next": "Siap meningkatkan produktivitas Anda? Mari kita pelajari cara menggunakan alat kami untuk menggabungkan file PDF dalam hitungan menit."
+            },
+            "how_to_use": {
+              "title": "Cara Menggunakan GabungPDF.id untuk Menggabungkan File PDF",
+              "paragraph": "Menggabungkan PDF dengan GabungPDF sangat mudah dan tidak memerlukan keahlian teknis. Ikuti langkah sederhana berikut:",
+              "steps": [
+                {
+                  "title": "Unggah File PDF Anda",
+                  "description": "Buka https://gabungpdf.id/ dan pilih file PDF yang ingin Anda gabungkan. Anda dapat mengunggah beberapa file sekaligus dari perangkat Anda."
+                },
+                {
+                  "title": "Atur Sesuai Kebutuhan",
+                  "description": "Gunakan fitur drag-and-drop untuk mengatur urutan file sesuai keinginan."
+                },
+                {
+                  "title": "Gabungkan dan Simpan",
+                  "description": "Klik 'Gabungkan PDF', dan alat kami akan menggabungkan file Anda menjadi satu. Unduh file PDF yang telah digabungkan secara instan."
+                }
+              ],
+              "note": "Semudah itu! Baik Anda menggabungkan dua file atau puluhan file, GabungPDF.id memastikan pengalaman yang lancar tanpa repot."
+            },
+            "top_benefits": {
+              "title": "Keuntungan Utama Menggunakan GabungPDF.id",
+              "paragraph": "Memilih alat penggabung PDF online seperti GabungPDF.id memberikan kenyamanan dan efisiensi tak tertandingi. Inilah mengapa alat kami unggul:",
+              "items": [
+                {
+                  "title": "Menghemat Waktu dan Tenaga",
+                  "description": "Menggabungkan PDF secara manual atau dengan software rumit bisa merepotkan. GabungPDF.id memungkinkan Anda menggabungkan file PDF dalam hitungan detik, sehingga Anda dapat fokus pada hal yang lebih penting."
+                },
+                {
+                  "title": "Keamanan Lebih Terjamin",
+                  "description": "Kami mengutamakan privasi Anda. Platform kami menggunakan enkripsi aman untuk melindungi file Anda selama proses penggabungan, dan file akan dihapus setelah selesai."
+                },
+                {
+                  "title": "Hemat Biaya",
+                  "description": "Mengapa harus membeli software PDF mahal? GabungPDF.id 100% gratis, sangat cocok untuk pelajar, freelancer, dan bisnis kecil yang ingin menggabungkan file PDF tanpa biaya tambahan."
+                },
+                {
+                  "title": "Akses Universal",
+                  "description": "Alat kami dapat digunakan di perangkat apa pun dengan browser, baik Windows, macOS, iOS, maupun Android. Gabungkan PDF kapan saja, di mana saja."
+                }
+              ]
+            },
+            "audience": {
+              "title": "Siapa yang Cocok Menggunakan GabungPDF.id?",
+              "paragraph": "Alat penggabung PDF kami cukup fleksibel untuk memenuhi berbagai kebutuhan:",
+              "users": [
+                {
+                  "type": "Pelajar",
+                  "description": "Gabungkan catatan belajar, esai, atau makalah penelitian dalam satu file untuk memudahkan pengumpulan tugas."
+                },
+                {
+                  "type": "Profesional Bisnis",
+                  "description": "Gabungkan kontrak, proposal, atau laporan untuk komunikasi klien yang lebih mudah."
+                },
+                {
+                  "type": "Freelancer",
+                  "description": "Buat portofolio profesional atau gabungkan faktur untuk pengajuan ke klien."
+                },
+                {
+                  "type": "Bisnis Kecil",
+                  "description": "Atur kwitansi, materi pemasaran, atau dokumen hukum dalam satu file PDF."
+                }
+              ],
+              "note": "Apapun peran Anda, GabungPDF.id mempermudah pengelolaan dokumen Anda."
+            },
+            "pro_tips": {
+              "title": "Tips Profesional untuk Menggabungkan PDF Secara Maksimal",
+              "paragraph": "Agar hasil penggabungan PDF Anda maksimal, perhatikan tips berikut:",
+              "tips": [
+                {
+                  "title": "Rencanakan Urutan File",
+                  "description": "Atur PDF secara logis sebelum menggabungkan untuk menghemat waktu."
+                },
+                {
+                  "title": "Kompres File Besar",
+                  "description": "Kecilkan ukuran file sebelum diunggah untuk pemrosesan lebih cepat."
+                },
+                {
+                  "title": "Periksa Hasil Akhir",
+                  "description": "Tinjau hasil PDF yang telah digabungkan untuk memastikan sesuai kebutuhan."
+                },
+                {
+                  "title": "Simpan GabungPDF.id",
+                  "description": "Bookmark situs kami untuk akses cepat kapan pun Anda perlu menggabungkan file PDF."
+                }
+              ]
+            },
+            "why_stand_out": {
+              "title": "Mengapa GabungPDF.id Lebih Unggul di Antara Alat Penggabung PDF",
+              "paragraph": "Dengan banyaknya alat penggabung PDF yang tersedia, GabungPDF.id menonjol berkat kesederhanaan, kecepatan, dan keandalannya. Berbeda dari alat lain yang memerlukan pendaftaran atau unduhan, platform kami siap digunakan kapan saja. Selain itu, komitmen kami terhadap keamanan memastikan file Anda selalu aman. Jangan biarkan file PDF yang tersebar memperlambat Anda. Kunjungi https://gabungpdf.id/ sekarang dan temukan cara termudah menggabungkan file PDF."
+            },
+            "conclusion": {
+              "title": "Kesimpulan: Sederhanakan Dokumen Anda dengan GabungPDF.id",
+              "paragraph": "Mengelola banyak file PDF tidak perlu menjadi beban. Dengan GabungPDF.id, Anda dapat menggabungkan file PDF dengan cepat, aman, dan gratis. Alat penggabung PDF kami yang ramah pengguna dirancang untuk meningkatkan produktivitas Anda, baik Anda pelajar, profesional, maupun pebisnis. Katakan selamat tinggal pada kekacauan dokumen, sambut PDF yang lebih rapi dan profesional. Coba GabungPDF.id sekarang di gabungpdf.id/combine-pdf dan rasakan cara tercepat menggabungkan file PDF. Sederhanakan alur kerja Anda hari ini!"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "Cara termudah untuk gabung beberapa file PDF menjadi satu dokumen. Cepat, aman, dan benar-benar gratis digunakan.",
+    "contact": "Hubungi kami:",
+    "quickLinks": "Link Cepat",
+    "privacyPolicy": "Kebijakan Privasi",
+    "termsOfService": "Syarat Layanan",
+    "allRights": "Semua hak dilindungi"
+  },
+  "privacy": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Daftar Isi",
+        "items": [
+          {
+            "icon": "👁️",
+            "label": "Ringkasan",
+            "target": "Overview"
+          },
+          {
+            "icon": "📊",
+            "label": "Informasi yang Kami Kumpulkan",
+            "target": "information-collection"
+          },
+          {
+            "icon": "🔧",
+            "label": "Bagaimana Kami Menggunakan Informasi Anda",
+            "target": "how-we-use"
+          },
+          {
+            "icon": "🗄️",
+            "label": "Penyimpanan dan Penghapusan Data",
+            "target": "data-retention"
+          },
+          {
+            "icon": "🤝",
+            "label": "Berbagi Data",
+            "target": "data-sharing"
+          },
+          {
+            "icon": "🔒",
+            "label": "Keamanan Data",
+            "target": "data-security"
+          },
+          {
+            "icon": "🌍",
+            "label": "Transfer Data Internasional",
+            "target": "international-transfers"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Hak Anda",
+            "target": "your-rights"
+          },
+          {
+            "icon": "🔗",
+            "label": "Tautan Pihak Ketiga",
+            "target": "third-party-links"
+          },
+          {
+            "icon": "👶",
+            "label": "Privasi Anak",
+            "target": "children"
+          },
+          {
+            "icon": "🔄",
+            "label": "Perubahan Kebijakan Ini",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Hubungi Kami",
+            "target": "contact"
+          }
+        ]
+      },
+      "privacySummary": {
+        "title": "Ringkasan Privasi",
+        "points": [
+          "File dihapus dalam 1 jam",
+          "Kami tidak menyimpan dokumen Anda",
+          "Pengumpulan data minimal",
+          "Enkripsi end-to-end"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "Overview",
+        "icon": "👁️",
+        "title": "Ringkasan",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Di www.gabungpdf.id (\"Situs\"), yang dioperasikan oleh Gabung PDF (\"kami\"), kami berkomitmen untuk melindungi privasi Anda. Kebijakan Privasi ini menjelaskan bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi Anda saat Anda menggunakan layanan penggabungan PDF kami. Dengan menggunakan Situs, Anda menyetujui Kebijakan Privasi ini."
+          },
+          {
+            "type": "highlight",
+            "title": "Prinsip Utama Kami:",
+            "text": "Kami memproses file Anda semata-mata untuk menyediakan layanan kami dan secara otomatis menghapusnya dalam waktu satu jam. Kami tidak mengakses, meninjau, atau menyimpan isi file Anda melebihi periode pemrosesan yang diperlukan."
+          }
+        ]
+      },
+      {
+        "id": "information-collection",
+        "icon": "📊",
+        "title": "Informasi yang Kami Kumpulkan",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "File yang Diupload Pengguna",
+            "text": "Saat Anda menggunakan layanan kami, Anda mengunggah file PDF untuk digabungkan. File ini mungkin berisi informasi pribadi, namun kami tidak mengakses, meninjau, atau menyimpan isi file Anda melebihi periode pemrosesan sementara."
+          },
+          {
+            "type": "subsection",
+            "title": "Data yang Dikumpulkan Secara Otomatis",
+            "text": "Kami dapat mengumpulkan informasi non-pribadi, seperti:",
+            "list": [
+              "Informasi perangkat (misalnya, jenis browser, sistem operasi, alamat IP)",
+              "Data penggunaan (misalnya, halaman yang dikunjungi, waktu yang dihabiskan di Situs, dan interaksi dengan layanan)"
+            ]
+          },
+          {
+            "type": "subsection",
+            "title": "Cookie dan Pelacakan",
+            "text": "Kami dapat menggunakan cookie atau teknologi serupa untuk meningkatkan pengalaman Anda dan menganalisis penggunaan Situs. Anda dapat mengelola preferensi cookie melalui pengaturan browser Anda."
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "icon": "🔧",
+        "title": "Bagaimana Kami Menggunakan Informasi Anda",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Penyediaan Layanan",
+            "text": "Kami memproses file PDF yang Anda unggah semata-mata untuk menggabungkannya menjadi satu file PDF dan menyediakan tautan unduhan."
+          },
+          {
+            "type": "subsection",
+            "title": "Peningkatan Situs",
+            "text": "Kami menggunakan data non-pribadi (misalnya, statistik penggunaan) untuk menganalisis dan meningkatkan fungsionalitas serta kinerja Situs."
+          },
+          {
+            "type": "subsection",
+            "title": "Kepatuhan Hukum",
+            "text": "Kami dapat menggunakan atau mengungkapkan informasi jika diwajibkan oleh hukum atau untuk melindungi hak, keselamatan, atau properti kami."
+          }
+        ]
+      },
+      {
+        "id": "data-retention",
+        "icon": "🗄️",
+        "title": "Penyimpanan dan Penghapusan Data",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "File yang Diupload",
+            "text": "Semua file PDF yang diunggah dan hasil file PDF gabungan akan secara otomatis dihapus dari server kami dalam waktu satu (1) jam setelah diproses. Kami tidak menyimpan salinan file Anda."
+          },
+          {
+            "type": "subsection",
+            "title": "Data Lain",
+            "text": "Data non-pribadi (misalnya, statistik penggunaan) dapat disimpan selama diperlukan untuk meningkatkan Situs atau mematuhi kewajiban hukum."
+          }
+        ]
+      },
+      {
+        "id": "data-sharing",
+        "icon": "🤝",
+        "title": "Berbagi Data",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Tidak Ada Berbagi ke Pihak Ketiga",
+            "text": "Kami tidak menjual, membagikan, atau mentransfer file yang Anda unggah atau informasi pribadi Anda ke pihak ketiga, kecuali jika diwajibkan oleh hukum atau untuk melindungi hak kami."
+          },
+          {
+            "type": "subsection",
+            "title": "Penyedia Layanan",
+            "text": "Kami dapat menggunakan penyedia layanan pihak ketiga (misalnya, penyedia hosting atau analitik) untuk mengoperasikan Situs. Penyedia ini terikat oleh kewajiban kerahasiaan dan hanya dapat memproses data atas nama kami."
+          }
+        ]
+      },
+      {
+        "id": "data-security",
+        "icon": "🔒",
+        "title": "Keamanan Data",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Kami menerapkan langkah-langkah teknis dan organisasi yang wajar untuk melindungi data Anda dari akses, kehilangan, atau penyalahgunaan yang tidak sah. Namun, tidak ada layanan online yang sepenuhnya aman, dan kami tidak dapat menjamin keamanan mutlak."
+          }
+        ]
+      },
+      {
+        "id": "international-transfers",
+        "icon": "🌍",
+        "title": "Transfer Data Internasional",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Jika Anda berada di luar Indonesia, data Anda dapat ditransfer ke dan diproses di Indonesia atau negara lain tempat server atau penyedia layanan kami berada. Kami memastikan adanya perlindungan yang sesuai untuk transfer tersebut."
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "icon": "⚖️",
+        "title": "Hak Anda",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Bergantung pada lokasi Anda, Anda mungkin memiliki hak sesuai undang-undang perlindungan data yang berlaku, seperti:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Mengakses atau meminta penghapusan data Anda",
+              "Menolak atau membatasi pemrosesan data tertentu"
+            ]
+          },
+          {
+            "type": "highlight",
+            "text": "Untuk menggunakan hak ini, hubungi kami di admin@gabungpdf.id. Harap diperhatikan bahwa karena kami menghapus file dalam satu jam, kami mungkin tidak menyimpan data pribadi apapun untuk diberikan."
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "icon": "🔗",
+        "title": "Tautan Pihak Ketiga",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Situs ini mungkin berisi tautan ke situs web pihak ketiga. Kami tidak bertanggung jawab atas praktik privasi atau konten situs tersebut."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "icon": "👶",
+        "title": "Privasi Anak",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Situs ini tidak ditujukan untuk pengguna di bawah usia 18 tahun. Kami tidak secara sengaja mengumpulkan informasi pribadi dari anak-anak."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Perubahan Kebijakan Ini",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami dapat memperbarui Kebijakan Privasi ini dari waktu ke waktu. Perubahan akan diposting di halaman ini dengan tanggal \"Terakhir Diperbarui\" yang diperbarui."
+          },
+          {
+            "type": "highlight",
+            "text": "Penggunaan Situs yang berkelanjutan setelah perubahan berarti Anda menerima Kebijakan Privasi yang diperbarui."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Hubungi Kami",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Jika Anda memiliki pertanyaan tentang Kebijakan Privasi ini, silakan hubungi kami di admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Komitmen Privasi Kami",
+      "desc": "Kami sangat menjaga privasi Anda. Berikut adalah alasan mengapa layanan kami dapat dipercaya",
+      "points": [
+        {
+          "title": "Penghapusan Otomatis",
+          "desc": "File secara otomatis dihapus dalam waktu 1 jam"
+        },
+        {
+          "title": "Transfer Terenkripsi",
+          "desc": "Semua unggahan menggunakan enkripsi HTTPS yang aman"
+        },
+        {
+          "title": "Tanpa Pembacaan File",
+          "desc": "Kami tidak pernah mengakses atau membaca isi file Anda"
+        },
+        {
+          "title": "Tanpa Berbagi",
+          "desc": "File Anda tidak pernah dibagikan dengan pihak ketiga"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Punya Pertanyaan?",
+      "description": "Kami siap membantu Anda dengan pertanyaan atau kekhawatiran terkait privasi.",
+      "links": [
+        {
+          "label": "Syarat Layanan",
+          "href": "/terms-of-service",
+          "icon": "📄"
+        },
+        {
+          "label": "Hubungi Tim Kami",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Terms": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Daftar Isi",
+        "items": [
+          {
+            "icon": "✅",
+            "label": "Penerimaan Syarat",
+            "target": "acceptance"
+          },
+          {
+            "icon": "🔧",
+            "label": "Penggunaan Situs",
+            "target": "use-of-site"
+          },
+          {
+            "icon": "📁",
+            "label": "Berkas Pengguna",
+            "target": "user-files"
+          },
+          {
+            "icon": "©️",
+            "label": "Kekayaan Intelektual",
+            "target": "intellectual-property"
+          },
+          {
+            "icon": "⚠️",
+            "label": "Batasan Tanggung Jawab",
+            "target": "limitation-liability"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Ganti Rugi",
+            "target": "indemnification"
+          },
+          {
+            "icon": "🚫",
+            "label": "Pengakhiran",
+            "target": "termination"
+          },
+          {
+            "icon": "🏛️",
+            "label": "Hukum yang Berlaku",
+            "target": "governing-law"
+          },
+          {
+            "icon": "🔄",
+            "label": "Perubahan Ketentuan",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Hubungi Kami",
+            "target": "contact"
+          }
+        ]
+      },
+      "termsSummary": {
+        "title": "Ringkasan Syarat",
+        "points": [
+          "Layanan penggabungan PDF gratis",
+          "Pengguna harus berusia 18 tahun ke atas",
+          "Berkas akan dihapus dalam 1 jam",
+          "Hanya untuk tujuan yang sah"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "acceptance",
+        "icon": "✅",
+        "title": "Penerimaan Syarat",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Selamat datang di www.gabungpdf.id (\"Situs\"), layanan yang disediakan oleh Gabung PDF (\"kami\"). Syarat Layanan ini (\"Syarat\") mengatur penggunaan Anda atas Situs dan layanan penggabungan PDF-nya. Dengan mengakses atau menggunakan Situs, Anda setuju untuk terikat oleh Syarat ini."
+          },
+          {
+            "type": "highlight",
+            "title": "Perjanjian Penting:",
+            "text": "Jika Anda tidak setuju dengan Syarat ini, mohon jangan gunakan Situs."
+          }
+        ]
+      },
+      {
+        "id": "use-of-site",
+        "icon": "🔧",
+        "title": "Penggunaan Situs",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Kelayakan",
+            "text": "Anda harus berusia minimal 18 tahun atau memiliki kapasitas hukum untuk menyetujui Syarat ini guna menggunakan Situs."
+          },
+          {
+            "type": "subsection",
+            "title": "Penggunaan yang Diizinkan",
+            "text": "Situs ini memungkinkan Anda mengunggah berkas PDF, menggabungkannya menjadi satu PDF, dan mengunduh hasilnya. Anda hanya boleh menggunakan Situs untuk tujuan yang sah sesuai dengan Syarat ini."
+          },
+          {
+            "type": "subsection",
+            "title": "Penggunaan yang Dilarang",
+            "text": "Anda tidak diperbolehkan:",
+            "list": [
+              "Mengunggah berkas yang mengandung virus, malware, atau kode berbahaya lainnya",
+              "Menggunakan Situs untuk melanggar hukum, peraturan, atau hak pihak ketiga",
+              "Mencoba mengganggu, merusak, atau merekayasa balik fungsi Situs",
+              "Menggunakan Situs untuk tujuan komersial tanpa izin tertulis dari kami"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "user-files",
+        "icon": "📁",
+        "title": "Berkas Pengguna",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Pemrosesan Sementara",
+            "text": "Berkas yang diunggah diproses untuk penggabungan PDF dan secara otomatis dihapus dari server kami dalam satu (1) jam setelah diproses. Kami tidak menyimpan atau mempertahankan berkas Anda lebih dari waktu tersebut."
+          },
+          {
+            "type": "subsection",
+            "title": "Tanggung Jawab Anda",
+            "text": "Anda bertanggung jawab penuh atas konten berkas yang Anda unggah. Anda harus memastikan bahwa Anda memiliki hak untuk mengunggah dan memproses berkas tersebut dan bahwa berkas tersebut tidak melanggar hak pihak ketiga (mis. hak cipta, merek dagang)."
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "icon": "©️",
+        "title": "Kekayaan Intelektual",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Konten Situs",
+            "text": "Semua konten di Situs, termasuk teks, grafik, logo, dan perangkat lunak, dimiliki atau dilisensikan oleh kami dan dilindungi oleh undang-undang kekayaan intelektual."
+          },
+          {
+            "type": "subsection",
+            "title": "Konten Pengguna",
+            "text": "Anda tetap memegang hak kepemilikan atas berkas yang Anda unggah. Dengan mengunggah berkas, Anda memberikan kami lisensi terbatas, non-eksklusif, bebas royalti untuk memproses berkas Anda semata-mata guna menyediakan layanan penggabungan PDF."
+          }
+        ]
+      },
+      {
+        "id": "limitation-liability",
+        "icon": "⚠️",
+        "title": "Batasan Tanggung Jawab",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Tanpa Jaminan",
+            "text": "Situs ini disediakan \"sebagaimana adanya\" tanpa jaminan apa pun, baik tersurat maupun tersirat, termasuk jaminan kelayakan untuk diperdagangkan, kesesuaian untuk tujuan tertentu, atau bebas pelanggaran."
+          },
+          {
+            "type": "subsection",
+            "title": "Batas Tanggung Jawab",
+            "text": "Sepanjang diizinkan oleh hukum, kami tidak bertanggung jawab atas kerugian tidak langsung, insidental, khusus, atau konsekuensial yang timbul dari penggunaan Situs oleh Anda, bahkan jika kami telah diberitahu tentang kemungkinan kerugian tersebut."
+          },
+          {
+            "type": "subsection",
+            "title": "Gangguan Layanan",
+            "text": "Kami tidak menjamin akses yang tidak terputus atau bebas dari kesalahan ke Situs dan tidak bertanggung jawab atas keterlambatan, gangguan, atau kehilangan data."
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "icon": "⚖️",
+        "title": "Ganti Rugi",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Anda setuju untuk mengganti rugi dan membebaskan kami dari segala klaim, kerugian, atau kerusakan, termasuk biaya hukum, yang timbul dari penggunaan Anda atas Situs, berkas yang Anda unggah, atau pelanggaran Anda terhadap Syarat ini."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "icon": "🚫",
+        "title": "Pengakhiran",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami dapat menangguhkan atau mengakhiri akses Anda ke Situs atas kebijakan kami sendiri, tanpa pemberitahuan, jika Anda melanggar Syarat ini atau karena alasan lainnya."
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "icon": "🏛️",
+        "title": "Hukum yang Berlaku",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Syarat ini diatur oleh hukum Indonesia tanpa memperhatikan prinsip konflik hukum. Sengketa yang timbul dari Syarat ini akan diselesaikan di pengadilan Indonesia."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Perubahan Ketentuan",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Kami dapat memperbarui Syarat ini dari waktu ke waktu. Perubahan akan dipublikasikan di halaman ini dengan tanggal \"Terakhir Diperbarui\" yang baru."
+          },
+          {
+            "type": "highlight",
+            "text": "Penggunaan Anda yang berkelanjutan atas Situs setelah adanya perubahan berarti Anda menerima Syarat yang diperbarui."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Hubungi Kami",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Jika Anda memiliki pertanyaan tentang Syarat ini, silakan hubungi kami di admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Poin-Poin Utama Perjanjian",
+      "desc": "Memahami hak dan kewajiban Anda saat menggunakan layanan kami.",
+      "points": [
+        {
+          "title": "Penggunaan yang Adil",
+          "desc": "Gunakan layanan kami secara bertanggung jawab dan sah"
+        },
+        {
+          "title": "File Anda",
+          "desc": "Anda mempertahankan kepemilikan atas semua file yang diunggah"
+        },
+        {
+          "title": "Tanpa Penyalahgunaan",
+          "desc": "Penggunaan yang dilarang akan mengakibatkan penghentian layanan"
+        },
+        {
+          "title": "Tanggung Jawab Terbatas",
+          "desc": "Layanan disediakan 'sebagaimana adanya' tanpa jaminan"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Ada Pertanyaan?",
+      "description": "Kami siap membantu jika ada pertanyaan tentang syarat atau layanan.",
+      "links": [
+        {
+          "label": "Kebijakan Privasi",
+          "href": "/privacy-policy",
+          "icon": "🔒"
+        },
+        {
+          "label": "Hubungi Tim Legal",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Content": {
+    "Policy": {
+      "title": "Kebijakan Privasi",
+      "desc": "Kami berkomitmen untuk melindungi privasi Anda dan memastikan keamanan file Anda. Pelajari bagaimana kami mengumpulkan, menggunakan, dan melindungi informasi Anda saat Anda menggunakan layanan penggabungan PDF kami.",
+      "Updated": "Terakhir Diperbarui:",
+      "date": "6 Juni 2025"
+    },
+    "Terms": {
+      "title": "Syarat Layanan",
+      "desc": "Syarat ini mengatur penggunaan layanan penggabungan PDF kami. Harap baca dengan seksama sebelum menggunakan situs kami.",
+      "Updated": "Terakhir Diperbarui:",
+      "date": "6 Juni 2025"
+    }
+  },
+  "MiniFooter": {
+    "heading": "Siap Menggabungkan PDF Anda dengan Aman?",
+    "subheading": "Rasakan layanan penggabungan PDF kami yang fokus pada privasi dengan ketenangan penuh.",
+    "button": "Gabungkan PDF Sekarang"
+  },
+  "Seo": {
+    "Home": {
+      "title": "Gabungkan PDF Online Gratis - Satukan File PDF dengan Mudah & Cepat",
+      "description": "Gabungkan dokumen PDF secara online gratis dengan GabungPDF.id. Penggabung PDF yang mudah digunakan, tanpa instalasi, tanpa registrasi. Gabungkan PDF Anda sekarang!"
+    },
+    "CombinePdf": {
+      "title": "Gabungkan File PDF Online Gratis - Penggabung PDF Cepat & Mudah",
+      "description": "Gabungkan PDF secara online gratis dengan GabungPDF.id. Penggabung PDF yang cepat dan mudah digunakan tanpa registrasi atau instalasi. Gabungkan PDF sekarang!"
+    },
+     "Blog": {
+    "title": "Blog Gabungkan PDF: Tips & Panduan Penggabungan PDF",
+    "description": "Jelajahi blog Gabung PDF untuk tips ahli tentang menggabungkan PDF, tutorial, dan alat untuk menyederhanakan tugas PDF Anda. Baca sekarang untuk wawasan!"
+  },
+    "Blog1": {
+      "title": "Cara Termudah Menggabungkan File PDF | Gabungkan PDF",
+      "description": "Temukan cara termudah untuk menggabungkan file PDF dengan Gabung PDF. Alat gratis, cepat, dan ramah pengguna untuk menggabungkan PDF dengan lancar. Coba sekarang!"
+    },
+    "Blog2": {
+      "title": "Alat Terbaik untuk Menggabungkan PDF | Gabungkan PDF",
+      "description": "Gabung PDF adalah alat terbaik untuk menggabungkan file PDF secara online. Cepat, aman, dan gratis. Gabungkan PDF Anda dengan mudah hari ini!"
+    },
+    "privacyPolicy": {
+      "title": "Kebijakan Privasi Gabung PDF | Penggabungan PDF yang Aman",
+      "description": "Baca kebijakan privasi Gabung PDF untuk memahami bagaimana kami melindungi data Anda saat menggabungkan PDF secara online dengan aman. Pelajari lebih lanjut sekarang!"
+    },
+    "TermsAndCondition": {
+      "title": "Syarat Layanan Gabung PDF | Penggabungan PDF",
+      "description": "Tinjau syarat layanan Gabung PDF untuk menggunakan alat penggabung PDF online kami yang gratis dan aman. Pahami kebijakan kami hari ini!"
+    }
+  }
+}

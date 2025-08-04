@@ -1,0 +1,1304 @@
+{
+  "nav": {
+    "home": "Home",
+    "combinePdf": "PDF samenvoegen",
+    "blog": "Blog",
+    "selectLanguage": "Selecteer taal"
+  },
+  "home": {
+    "title": "PDF-bestanden online samenvoegen - Gratis, snel en veilig",
+    "description": "Voeg PDF's eenvoudig samen met GabungPDF.id! Gratis, snelle, veilige online tool om PDF-bestanden in seconden samen te voegen. Geen registratie vereist.",
+    "mergeNow": "PDF's nu samenvoegen",
+    "sec1Para": "In de snelle digitale wereld van vandaag is het efficiënt beheren van documenten cruciaal voor zowel persoonlijke als professionele taken. Een veelvoorkomende behoefte is het <strong>samenvoegen van PDF-bestanden</strong> tot één gestroomlijnd document.",
+    "SecH1": "Waarom PDF-bestanden samenvoegen?",
+    "SecH1P1": "Het samenvoegen van meerdere PDF-bestanden tot één document biedt talloze voordelen:",
+    "SecH1UlLi1": "<strong>Organisatie en efficiëntie:</strong> Het verzenden van één samengevoegde PDF in plaats van meerdere bestanden vereenvoudigt het delen en beoordelen.",
+    "SecH1UlLi2": "<strong>Vermindering van bestandsrommel:</strong> Het samenvoegen van PDF's vermindert het aantal bestanden dat u moet beheren.",
+    "SecH1UlLi3": "<strong>Professionele presentatie:</strong> Een uniforme PDF ziet er gepolijst en professioneel uit.",
+    "SecH1UlLi4": "<strong>Cross-platform compatibiliteit:</strong> PDF's zijn universeel compatibel.",
+    "steps": {
+      "title": "Hoe PDF-bestanden gratis online samen te voegen",
+      "intro": "Het gebruik van een online tool zoals gabungPDF.id maakt het samenvoegen van PDF's eenvoudig en toegankelijk:",
+      "items": [
+        {
+          "title": "Stap 1: Bezoek gabungPDF.id",
+          "desc": "Navigeer naar gabungPDF.id, een gratis online tool ontworpen om u te helpen <strong>PDF-bestanden samen te voegen</strong> in seconden."
+        },
+        {
+          "title": "Stap 2: Upload uw PDF-bestanden",
+          "desc": "Klik op de knop \"Bestanden uploaden\" om de PDF's te selecteren die u wilt samenvoegen."
+        },
+        {
+          "title": "Stap 3: Rangschik de bestanden",
+          "desc": "Na het uploaden kunt u bestanden slepen en neerzetten om ze in de gewenste volgorde te rangschikken."
+        },
+        {
+          "title": "Stap 4: Voeg samen en download",
+          "desc": "Na het rangschikken van uw bestanden, klik op de knop \"Samenvoegen\"."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Waarom gabungPDF.id kiezen?",
+      "points": [
+        {
+          "title": "<strong>Geen installatie vereist:</strong>",
+          "desc": "In tegenstelling tot desktop software werkt gabungPDF.id volledig online."
+        },
+        {
+          "title": "<strong>Gratis en veilig:</strong>",
+          "desc": "De tool is gratis te gebruiken, zonder verborgen kosten."
+        },
+        {
+          "title": "<strong>Cross-device compatibiliteit:</strong>",
+          "desc": "Of u nu Mac, Windows, iOS of Android gebruikt."
+        },
+        {
+          "title": "<strong>Meertalige ondersteuning:</strong>",
+          "desc": "Het platform ondersteunt gebruikers wereldwijd."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Voordelen van het gebruik van een online PDF-samenvoeger",
+      "items": [
+        {
+          "title": "<strong>Toegankelijkheid:</strong>",
+          "desc": "U kunt <strong>PDF-bestanden samenvoegen</strong> vanaf elk apparaat met een internetverbinding."
+        },
+        {
+          "title": "<strong>Snelheid:</strong>",
+          "desc": "Het samenvoegproces duurt slechts seconden."
+        },
+        {
+          "title": "<strong>Geen kosten:</strong>",
+          "desc": "Veel online tools zijn volledig gratis."
+        },
+        {
+          "title": "<strong>Gebruiksvriendelijk:</strong>",
+          "desc": "Er zijn geen technische vaardigheden vereist."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Optimaliseer uw samengevoegde PDF's voor SEO",
+      "intro": "Als u PDF's maakt voor professionele of marketingdoeleinden, kan het optimaliseren ervan voor zoekmachines hun zichtbaarheid vergroten.",
+      "items": [
+        {
+          "title": "1. Gebruik beschrijvende bestandsnamen",
+          "desc": "Voordat u uw PDF uploadt, hernoem uw bestanden met beschrijvende, trefwoordrijke namen."
+        },
+        {
+          "title": "2. Voeg metadata toe",
+          "desc": "Neem metadata zoals titel, auteur en trefwoorden op in uw PDF."
+        },
+        {
+          "title": "3. Optimaliseer tekstinhoud",
+          "desc": "Zorg ervoor dat uw PDF doorzoekbare tekst bevat in plaats van gescande afbeeldingen."
+        },
+        {
+          "title": "4. Neem interne links op",
+          "desc": "Als uw PDF onderdeel is van een website, neem dan links naar relevante pagina's op."
+        },
+        {
+          "title": "5. Gebruik koppen en structuur",
+          "desc": "Organiseer uw PDF met duidelijke koppen en logische structuur."
+        },
+        {
+          "title": "6. Comprimeer voor sneller laden",
+          "desc": "Grote PDF's kunnen laadtijden vertragen."
+        },
+        {
+          "title": "7. Voeg alt-tekst toe aan afbeeldingen",
+          "desc": "Als uw PDF afbeeldingen bevat, voeg dan alt-tekstbeschrijvingen toe."
+        },
+        {
+          "title": "8. Host PDF's op uw website",
+          "desc": "Upload uw samengevoegde PDF naar uw website."
+        },
+        {
+          "title": "9. Volg PDF-weergaven",
+          "desc": "Gebruik tools zoals Google Analytics om gebruikersinteractie te volgen."
+        },
+        {
+          "title": "10. Promoot uw PDF",
+          "desc": "Deel uw PDF op sociale media en nieuwsbrieven."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Veelvoorkomende gebruikssituaties voor het samenvoegen van PDF's",
+      "items": [
+        {
+          "title": "<strong>Bedrijfsrapporten:</strong>",
+          "desc": "Voeg meerdere secties van een rapport samen in één PDF."
+        },
+        {
+          "title": "<strong>Academische projecten:</strong>",
+          "desc": "Studenten kunnen onderzoekspapers compileren."
+        },
+        {
+          "title": "<strong>Juridische documenten:</strong>",
+          "desc": "Advocaten voegen vaak contracten en bijlagen samen."
+        },
+        {
+          "title": "<strong>Marketingmateriaal:</strong>",
+          "desc": "Maak professionele brochures."
+        },
+        {
+          "title": "<strong>Persoonlijk gebruik:</strong>",
+          "desc": "Voeg gescande documenten of foto's samen."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "gabungPDF.id vergelijken met andere tools",
+      "intro": "Hoewel gabungPDF.id een topkeuze is voor het samenvoegen van PDF's, bieden andere tools ook vergelijkbare functionaliteit.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Gratis, geen registratie, ondersteunt meerdere bestandsformaten."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Biedt een gratis online samenvoeger maar vereist inloggen."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Robuuste tool met extra functies."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Ondersteunt complexe bestanden en grote paginaaantallen."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Tips voor een naadloze PDF-samenvoegervaring",
+      "items": [
+        {
+          "title": "<strong>Controleer bestandscompatibiliteit:</strong>",
+          "desc": "Zorg ervoor dat alle bestanden in PDF of ondersteunde formaten zijn."
+        },
+        {
+          "title": "<strong>Bekijk uw bestanden vooraf:</strong>",
+          "desc": "Controleer de volgorde en inhoud van uw bestanden voor het samenvoegen."
+        },
+        {
+          "title": "<strong>Gebruik veilige platforms:</strong>",
+          "desc": "Kies tools die privacy prioriteren."
+        },
+        {
+          "title": "<strong>Test de uitvoer:</strong>",
+          "desc": "Open de samengevoegde PDF om de lay-out te bevestigen."
+        }
+      ]
+    },
+    "ConclusionH1": "Conclusie",
+    "conclusion": "Het samenvoegen van PDF-bestanden is een eenvoudige maar krachtige manier om uw documentbeheer te stroomlijnen. Of u nu een professional bent die rapporten organiseert, een student die onderzoek compileert, of iemand die persoonlijke documenten archiveert, tools zoals gabungPDF.id maken het gemakkelijk om <strong>PDF-bestanden</strong> gratis online samen te voegen."
+  },
+  "combinePdf": {
+    "title": "PDF-bestanden samenvoegen",
+    "dragDrop": "Sleep en zet hier PDF-bestanden neer",
+    "clickBrowse": "Of klik om te bladeren",
+    "selectFiles": "Selecteer bestanden",
+    "maxSize": "Maximale bestandsgrootte per bestand is 50 MB",
+    "combineButton": "PDF samenvoegen",
+    "filesCount": "PDF's",
+    "S1H1": "PDF samenvoegen: Hoe PDF-bestanden samenvoegen - Gratis PDF samenvoegtips",
+    "S1P1": "In de digitale wereld van vandaag zijn PDF (Portable Document Format) bestanden de standaard geworden voor het delen en opslaan van documenten. In tegenstelling tot traditionele DOC-bestanden die worden gemaakt in Microsoft Word of Google Docs, behouden PDF-bestanden hetzelfde formaat op elk apparaat en elk besturingssysteem. Deze universele compatibiliteit maakt ze ideaal voor zowel zakelijke als persoonlijke toepassingen, of je nu online rapporten, presentaties of formulieren deelt.",
+    "S1P2": "Echter, werken met PDF-bestanden kan soms lastig zijn, vooral als je meerdere PDF-bestanden moet combineren. In deze handleiding laten we zien waarom het belangrijk is om PDF-bestanden samen te voegen, hoe je gratis PDF-bestanden kunt samenvoegen met behulp van onze gebruiksvriendelijke tool en de voordelen van het vereenvoudigen van je documentbeheerproces voor altijd.",
+    "S2H1": "Waarom zijn PDF-bestanden uniek en veelzijdig?",
+    "S2P1": "PDF-bestanden zijn ontworpen om de exacte opmaak van een document te behouden, ongeacht het apparaat of de software waarmee het wordt bekeken. In tegenstelling tot DOC-bestanden, die afhankelijk kunnen zijn van systeeminstellingen zoals lettertypen of besturingssysteemconfiguraties, fungeren PDF-bestanden als een statisch beeld van een document. Dit zorgt ervoor dat de lettertypen, opmaak en afbeeldingen behouden blijven, waardoor PDF's ideaal zijn voor professionele documenten zoals contracten, cv's of e-books.",
+    "S2P2": "Deze stabiliteit is precies waarom PDF-bestanden zo populair zijn voor het delen van documenten op internet. Of je nu een zakelijke aanbieding verstuurt of belangrijke documenten verzamelt, PDF's zorgen ervoor dat de ontvanger het document precies zo ziet zoals het bedoeld is. Toch maakt dezezelfde eigenschap PDF-bestanden soms moeilijker om mee te werken dan andere bestandstypen, zoals DOC-bestanden, waarvoor je eenvoudig inhoud kunt kopiëren en plakken. Zonder de juiste software kan het bewerken of samenvoegen van PDF-bestanden ingewikkeld zijn. Het goede nieuws is dat onze gratis online tool het proces veel eenvoudiger maakt, waardoor je meerdere PDF-bestanden kunt samenvoegen zonder dure software of technische expertise.",
+    "combine_pdf_files": {
+      "intro": "Waarom PDF-bestanden samenvoegen?",
+      "para": "Het samenvoegen van PDF-bestanden is een veel voorkomende vereiste voor professionals, studenten en iedereen die meerdere documenten beheert. Hier zijn enkele gevallen waarin het samenvoegen van PDF-bestanden nuttig kan zijn:",
+      "items": [
+        {
+          "title": "Creëren van uitgebreide rapporten:",
+          "desc": "Als je meerdere PDF-rapporten of hoofdstukken hebt, is het handig om ze samen te voegen in één document, zodat het gemakkelijker wordt om te delen en te beoordelen."
+        },
+        {
+          "title": "Scannen van documenten archiveren:",
+          "desc": "Gescrande PDF-bestanden, zoals kwitanties of formulieren, moeten vaak in één bestand worden samengevoegd zodat ze gemakkelijker te beheren zijn."
+        },
+        {
+          "title": "Eenvoudiger maken van presentaties:",
+          "desc": "Het samenvoegen van dia's of secties uit verschillende PDF's kan de helderheid en professionaliteit van je presentatie verhogen."
+        },
+        {
+          "title": "Bestand delen eenvoudiger maken:",
+          "desc": "In plaats van verschillende bestanden te verzenden, kun je door PDF-bestanden samen te voegen alle informatie in één enkel, gemakkelijk toegankelijk document verzamelen."
+        }
+      ],
+      "para2": "In tegenstelling tot DOC-bestanden, waarbij je eenvoudig inhoud kunt kopiëren en plakken, vereisen PDF-bestanden speciale tools om samen te voegen of te bewerken. Als je bijvoorbeeld tekst uit een gescande PDF wilt kopiëren, is dat vaak onmogelijk, tenzij je optische tekenherkenning (OCR) software hebt. Onze gratis PDF-samenvoeger verwijdert deze obstakels en stelt je in staat om tot 20 PDF-bestanden tegelijkertijd samen te voegen, zonder dat dure software of technische expertise nodig is."
+    },
+    "stepbystep": {
+      "intro": "Hoe PDF-bestanden samen te voegen: Stapsgewijze handleiding",
+      "para": "Onze gebruiksvriendelijke online tool maakt het snel en efficiënt om PDF-bestanden samen te voegen. Of je nu twee bestanden samenvoegt of 20, het proces is eenvoudig en vereist geen installatie of abonnement. Volg gewoon deze eenvoudige stappen om je PDF-bestanden eenvoudig samen te voegen:",
+      "items": [
+        {
+          "title": "Stap 1: Upload je PDF-bestanden",
+          "desc": "Om te beginnen, zoek de knop 'Upload bestanden' in de interface van onze tool. Klik hierop en selecteer het aantal PDF-bestanden van je apparaat. Als alternatief kun je PDF-bestanden ook slepen en neerzetten in het gebied met de tekst 'Sleep je bestanden hier naartoe'. Deze functie is vooral handig wanneer je met meerdere bestanden werkt, omdat het tijd bespaart en het proces eenvoudiger maakt."
+        },
+        {
+          "title": "Stap 2: Combineer je PDF-bestanden",
+          "desc": "Zodra de bestanden zijn geüpload, toont onze tool ze in volgorde. Deze volgorde bepaalt hoe het uiteindelijke samengevoegde PDF-bestand eruit zal zien. De eerste PDF in de lijst wordt bovenaan het uiteindelijke document geplaatst, de tweede volgt erna, enzovoort. Controleer de volgorde van de bestanden en je kunt ze eenvoudig herschikken door ze te slepen."
+        },
+        {
+          "title": "Stap 3: Samenvoegen en downloaden",
+          "desc": "Als je tevreden bent met de volgorde van de bestanden, klik dan op de knop 'Samenvoegen'. Ons systeem zal onmiddellijk alle geüploade PDF-bestanden combineren in één enkel bestand. Zodra het proces is voltooid, wordt het samengevoegde PDF-bestand automatisch gedownload naar je apparaat. Het hele proces is snel, veilig en vereist geen extra software."
+        }
+      ],
+      "intro2": "Meer PDF-bestanden samenvoegen",
+      "para2": "Heb je meer PDF-bestanden die je wilt samenvoegen? Geen probleem! Onze tool laat je meerdere batches van bestanden samenvoegen. Nadat je je eerste batch van PDF's hebt samengevoegd, download je het samengevoegde bestand. Vervolgens kun je het nieuwe samengevoegde bestand opnieuw uploaden, samen met de andere PDF-bestanden. Klik opnieuw op 'Samenvoegen' en maak zo een groter document. Dit proces kan eindeloos herhaald worden totdat je alle gewenste bestanden hebt gecombineerd.",
+      "intro3": "Belangrijke informatie: Download binnen een uur",
+      "para3": "Om een soepele ervaring te garanderen, download je het samengevoegde PDF-bestand binnen een uur. Als je het bestand niet hebt gedownload binnen deze tijd, wordt het bestand automatisch verwijderd van onze servers en moet je de bestanden opnieuw uploaden. Deze functie helpt de beveiliging te waarborgen en ruimte op de servers vrij te maken voor andere gebruikers."
+    },
+    "benefits": {
+      "intro": "Voordelen van onze gratis PDF-samenvoeger",
+      "para": "Onze tool is ontworpen met eenvoud, toegankelijkheid en efficiëntie in gedachten. Hier zijn de redenen waarom het de beste keuze is om PDF-bestanden samen te voegen:",
+      "items": [
+        {
+          "title": "Geen software nodig:",
+          "desc": "In tegenstelling tot traditionele PDF-editors is onze tool volledig webgebaseerd, zodat je toegang hebt tot de tool vanaf elk apparaat met een internetverbinding."
+        },
+        {
+          "title": "Gratis en onbeperkt gebruik:",
+          "desc": "Je kunt tot 20 PDF-bestanden samenvoegen zonder kosten of abonnement. Voor grotere projecten kun je, zoals hierboven beschreven, meerdere batches samenvoegen."
+        },
+        {
+          "title": "Gebruiksvriendelijke interface:",
+          "desc": "Met de drag-and-drop-functionaliteit en een eenvoudige interface is het voor zowel beginners als professionals gemakkelijk te gebruiken."
+        },
+        {
+          "title": "Snel proces:",
+          "desc": "Onze tool voegt PDF-bestanden in enkele seconden samen, wat je tijd en moeite bespaart."
+        },
+        {
+          "title": "Veilig en betrouwbaar:",
+          "desc": "Je bestanden worden veilig verwerkt en worden binnen een uur van onze servers verwijderd, zodat je gegevens privé blijven."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Wanneer moet je PDF's samenvoegen?",
+      "para": "Het samenvoegen van PDF's is een waardevolle tool in verschillende situaties. Hier zijn enkele veelvoorkomende gebruikscases:",
+      "items": [
+        {
+          "title": "Zakelijke professionals:",
+          "desc": "Voeg facturen, contracten of offertes samen in één document, zodat je ze gemakkelijk kunt delen met klanten of collega's."
+        },
+        {
+          "title": "Studenten en docenten:",
+          "desc": "Voeg college-aantekeningen, onderzoeksdocumenten of opdrachten samen in één bestand, zodat ze gemakkelijker verzonden kunnen worden of voor studiegebruik."
+        },
+        {
+          "title": "Juridische en administratieve documenten:",
+          "desc": "Voeg gescande documenten zoals contracten of formulieren samen in één PDF, zodat ze voor archivering of juridische doeleinden kunnen worden gebruikt."
+        },
+        {
+          "title": "Creatieve projecten:",
+          "desc": "Voeg ontwerpschetsen, portfolio's of storyboards samen in één PDF, zodat ze gepresenteerd of beoordeeld kunnen worden door klanten."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Handige tips bij het werken met PDF's",
+      "para": "Om je ervaring met het samenvoegen van PDF's te optimaliseren, houd rekening met de volgende tips:",
+      "items": [
+        {
+          "title": "Controleer de volgorde van de bestanden:",
+          "desc": "Controleer de volgorde van je PDF-bestanden voordat je wijzigingen aanbrengt, zodat je later geen pagina's opnieuw hoeft te ordenen."
+        },
+        {
+          "title": "Optimaliseer de bestandsgrootte:",
+          "desc": "Als je PDF's grote afbeeldingen of grafieken bevatten, probeer deze dan te comprimeren voordat je ze uploadt om de uiteindelijke bestandsgrootte te verkleinen."
+        },
+        {
+          "title": "Gebruik beschrijvende bestandsnamen:",
+          "desc": "Geef je PDF-bestanden duidelijke, beschrijvende namen (bijv. rapport_hoofdstuk1.pdf), zodat je georganiseerd blijft tijdens het samenvoegen."
+        },
+        {
+          "title": "Maak een back-up van je oorspronkelijke bestanden:",
+          "desc": "Zorg ervoor dat je een kopie van je originele PDF-bestanden hebt, voor het geval je ze later opnieuw wilt bewerken."
+        },
+        {
+          "title": "Verken andere tools:",
+          "desc": "Als je PDF's wilt bewerken, converteren of comprimeren, verken dan de andere gratis tools op ons platform om je documentbeheeroplossingen verder te verbeteren."
+        }
+      ]
+    },
+    "why_choose": "Waarom onze tool kiezen in plaats van betaalde opties?",
+    "why_choose_para": "Betaalde PDF-editors zoals Adobe Acrobat bieden geavanceerde functies, maar onze gratis tool biedt een betaalbare oplossing voor de meeste gebruikers. Je hoeft niet te investeren in dure software of abonnementen om PDF's samen te voegen. PDF.id is voor iedereen toegankelijk, van kleine bedrijven tot studenten, en levert professionele resultaten zonder de complexiteit.",
+    "why_choose_para2": "Bovendien is ons platform geoptimaliseerd voor snelheid en gemak. Of je nu op een desktop, tablet of smartphone werkt, je kunt altijd PDF's samenvoegen, ongeacht waar je bent, zonder compatibiliteitsproblemen. Deze flexibiliteit maakt onze tool ideaal voor gebruikers die snel en betrouwbaar resultaten willen zonder technische ingewikkeldheden.",
+    "conclusion": "Conclusie",
+    "conclusion_para": "Het samenvoegen van PDF-bestanden hoeft niet ingewikkeld of duur te zijn. Met behulp van onze gratis, webgebaseerde PDF-samenvoeger kun je tot 20 PDF's tegelijkertijd samenvoegen, gemakkelijk opnieuw beheren en binnen enkele seconden het samengevoegde bestand downloaden. Of je nu rapporten beheert, gescande documenten archiveert of een presentatie voorbereidt, onze tool vereenvoudigt het proces zonder extra software of technische vaardigheden."
+  },
+  "blog": {
+    "title": "PDF tips, tutorials en gidsen",
+    "description": "Beheers PDF-beheer met expertgidsen, praktische tips en stap-voor-stap tutorials.",
+    "searchPlaceholder": "Zoek artikelen, tutorials en gidsen...",
+    "articles": "Artikelen",
+    "readers": "Lezers",
+    "available": "Beschikbaar",
+    "featuredArticle": "Uitgelicht artikel",
+    "mostPopular": "Populairst deze week",
+    "readArticle": "Lees artikel",
+    "readFull": "Lees volledig artikel",
+    "minRead": "min lezen",
+    "featureblog": {
+      "title": "Meest Populair Deze Week",
+      "subtitle": "⭐ Aanbevolen Artikel",
+      "featuredArticle": {
+        "date": "2 juli 2025",
+        "author": "Beheerder",
+        "category": "Aanbevolen Artikel",
+        "headline": "GabungPDF.id: De Eenvoudigste Manier om PDF-bestanden te Combineren",
+        "excerpt": "Combineer PDF-bestanden moeiteloos met GabungPDF.id, de gratis online PDF-combineerder. Combineer PDF's veilig in enkele seconden, zonder software. Verhoog direct uw productiviteit!",
+        "readTime": "Leestijd: 3 minuten",
+        "buttonName": "Lees Volledig Artikel"
+      }
+    },
+    "blogsPage": {
+      "cards": [
+        {
+          "BlogImage": "/Blog1Image.webp",
+          "date": "2 juni 2025",
+          "author": "Admin User",
+          "category": null,
+          "headline": "GabungPDF.id: De Ultieme Tool om PDF-bestanden te Combineren",
+          "headlineLink": "/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "excerpt": "Combineer PDF-bestanden moeiteloos met GabungPDF.id, jouw gratis online PDF-combiner. Combineer PDF's veilig binnen enkele seconden – geen software nodig. Probeer onze gebruiksvriendelijke tool nu.",
+          "readTime": "3 min. leestijd",
+          "readMoreText": "blog.leesArtikel",
+          "slug": "gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "detail": {
+            "intro": "Bij GabungPDF.id hebben we een gebruiksvriendelijke, webgebaseerde tool ontwikkeld om PDF-bestanden zonder gedoe samen te voegen. Of je nu technisch onderlegd bent of een beginner, ons platform is voor iedereen gemaakt. Daarom steekt GabungPDF.id er met kop en schouders bovenuit als de beste PDF-combiner:",
+            "features": [
+              {
+                "title": "Gratis en toegankelijk",
+                "description": "Geen abonnementen of verborgen kosten – gewoon uploaden en combineren."
+              },
+              {
+                "title": "Geen software nodig",
+                "description": "Onze tool werkt volledig online en bespaart ruimte op jouw apparaat."
+              },
+              {
+                "title": "Snel en veilig",
+                "description": "Combineer PDF's in enkele seconden met robuuste versleuteling om jouw bestanden te beschermen."
+              },
+              {
+                "title": "Gebruiksvriendelijke interface",
+                "description": "Sleep bestanden eenvoudig en combineer ze met slechts een paar klikken."
+              }
+            ],
+            "intro2": "Klaar om jouw documentbeheer te vereenvoudigen? Hier is hoe je onze PDF-combiner gebruikt om PDF-bestanden in slechts enkele stappen samen te voegen.",
+            "how_to_use": {
+              "title": "Hoe PDF-bestanden combineren met GabungPDF.id",
+              "paragraph": "PDF-bestanden combineren met GabungPDF.id is net zo eenvoudig als 1-2-3. Volg deze stappen om een enkele, nette PDF te maken:",
+              "steps": [
+                {
+                  "title": "Upload je bestanden",
+                  "description": "Bezoek https://gabungpdf.id/ en klik op de knop ‘Uploaden’. Selecteer de PDF-bestanden die je wilt combineren vanaf je apparaat. Je kunt meerdere bestanden tegelijk uploaden."
+                },
+                {
+                  "title": "Rangschik de volgorde",
+                  "description": "Sleep de bestanden om ze in de gewenste volgorde te plaatsen. Zo weet je zeker dat het eindresultaat logisch is opgebouwd."
+                },
+                {
+                  "title": "Combineren en downloaden",
+                  "description": "Klik op de knop ‘PDF combineren’ en onze tool voegt jouw bestanden samen tot één PDF. Zodra het klaar is, kun je jouw nieuwe PDF direct downloaden."
+                }
+              ],
+              "note": "Dat is alles! Geen ingewikkelde instellingen of technische kennis nodig. Of je nu twee bestanden of twintig samenvoegt, GabungPDF.id regelt het soepel."
+            },
+            "benefits": {
+              "title": "Voordelen van een Online PDF-combiner",
+              "paragraph": "Kiezen voor een online PDF-combiner zoals GabungPDF.id biedt veel voordelen ten opzichte van traditionele software of handmatige methodes. Hier lees je waarom onze tool zo handig is:",
+              "items": [
+                {
+                  "title": "Tijdbesparend gemak",
+                  "description": "Handmatig PDF's combineren met desktopsoftware kost vaak veel tijd en vereist vaak dure licenties. Met GabungPDF.id combineer je bestanden in seconden, vanaf elk apparaat met internet – laptop, tablet of smartphone."
+                },
+                {
+                  "title": "Veilige bestandsverwerking",
+                  "description": "Bezorgd over privacy? Ons platform gebruikt geavanceerde versleuteling om jouw bestanden veilig te houden tijdens het proces. Na het downloaden verwijderen wij je bestanden van onze servers."
+                },
+                {
+                  "title": "Kosteneffectieve oplossing",
+                  "description": "Waarom betalen voor dure PDF-software? GabungPDF.id is volledig gratis en ideaal voor studenten, freelancers en kleine ondernemers die PDF-bestanden willen combineren zonder hoge kosten."
+                },
+                {
+                  "title": "Compatibel met elk platform",
+                  "description": "Of je nu Windows, macOS, iOS of Android gebruikt, onze webtool werkt vlekkeloos op elk apparaat. Geen compatibiliteitsproblemen."
+                }
+              ]
+            },
+            "optimization_tips": {
+              "title": "Tips om je gecombineerde PDF's te optimaliseren",
+              "paragraph": "Haal het maximale uit jouw gecombineerde PDF's met deze tips:",
+              "tips": [
+                {
+                  "title": "Controleer de volgorde van bestanden",
+                  "description": "Zorg dat jouw PDF’s in de juiste volgorde staan voordat je ze samenvoegt. Zo voorkom je dubbel werk."
+                },
+                {
+                  "title": "Optimaliseer bestandsgrootte",
+                  "description": "Bevatten jouw PDF’s grote afbeeldingen? Comprimeer ze voor het uploaden om de uiteindelijke bestandsgrootte te verkleinen."
+                },
+                {
+                  "title": "Geef bestanden duidelijke namen",
+                  "description": "Gebruik duidelijke en beschrijvende bestandsnamen om jouw PDF's later makkelijk terug te vinden."
+                },
+                {
+                  "title": "Voorbeeld controleren",
+                  "description": "Controleer de gecombineerde PDF om te zien of alles naar wens is."
+                }
+              ],
+              "paragraph2": "Met GabungPDF.id kun je vol vertrouwen PDF-bestanden combineren terwijl je de kwaliteit en structuur behoudt."
+            },
+            "audience": {
+              "title": "Wie profiteert van GabungPDF.id?",
+              "paragraph": "Onze PDF-combiner is ontworpen voor een breed scala aan gebruikers, waaronder:",
+              "users": [
+                {
+                  "type": "Studenten",
+                  "description": "Combineer aantekeningen, opdrachten of scripties tot één bestand."
+                },
+                {
+                  "type": "Professionals",
+                  "description": "Voeg rapporten, voorstellen of contracten samen voor duidelijke communicatie."
+                },
+                {
+                  "type": "Kleine bedrijven",
+                  "description": "Organiseer facturen, bonnetjes of marketingmaterialen in één document."
+                },
+                {
+                  "type": "Freelancers",
+                  "description": "Combineer portfolio's, facturen of projectleveringen voor klanten."
+                }
+              ],
+              "paragraph2": "Wat jouw behoefte ook is, GabungPDF.id is jouw betrouwbare partner voor alles rondom PDF."
+            },
+            "why_choose_us": {
+              "title": "Waarom kiezen voor GabungPDF.id boven andere tools?",
+              "paragraph": "Er zijn veel tools, maar wat maakt GabungPDF.id de beste keuze om PDF-bestanden te combineren? Hier is waarom wij opvallen:",
+              "reasons": [
+                {
+                  "title": "Snelheid",
+                  "description": "Geen leercurve – gewoon uploaden, combineren en downloaden."
+                },
+                {
+                  "title": "Betrouwbaarheid",
+                  "description": "Consistente prestaties zonder crashes of fouten."
+                },
+                {
+                  "title": "Toegankelijkheid",
+                  "description": "24/7 beschikbaar, waar ter wereld je ook bent."
+                }
+              ],
+              "paragraph2": "Verspil geen tijd aan ingewikkelde software of onbetrouwbare tools. Probeer GabungPDF.id vandaag en ervaar de makkelijkste manier om PDF-bestanden te combineren."
+            },
+            "conclusion": {
+              "title": "Conclusie: Vereenvoudig je werk met GabungPDF.id",
+              "paragraph": "PDF's samenvoegen hoeft geen lastig karwei te zijn. Met GabungPDF.id combineer je PDF-bestanden moeiteloos, bespaar je tijd en houd je jouw documenten georganiseerd. Onze gratis, veilige en gebruiksvriendelijke tool is perfect voor iedereen die zijn workflow wil vereenvoudigen. Of je nu rapporten, aantekeningen of contracten samenvoegt, onze tool levert elke keer een professioneel resultaat. Klaar om te beginnen?",
+              "cta": {
+                "text": "Bezoek gabungpdf.id/combine-pdf",
+                "link": "https://gabungpdf.id/combine-pdf"
+              },
+              "Remaingparagraph": "Combineer PDF-bestanden nu met slechts een paar klikken. Vereenvoudig vandaag jouw documentbeheer met GabungPDF.id – jouw ultieme PDF-combiner!"
+            }
+          }
+        },
+        {
+          "BlogImage": "/FeatureBlogImage.webp",
+          "date": "2 juli 2025",
+          "author": "Admin Gebruiker",
+          "category": "Aanbevolen Artikel",
+          "headline": "GabungPDF.id: De makkelijkste manier om PDF-bestanden samen te voegen",
+          "excerpt": "Voeg moeiteloos PDF-bestanden samen met GabungPDF.id, de gratis online PDF-combinator. Combineer PDF’s veilig binnen enkele seconden, zonder software. Verhoog nu je productiviteit!",
+          "readTime": "3 min lezen",
+          "buttonName": "Lees Volledig Artikel",
+          "slug": "gabungpdfid-the-easiest-way-to-combine-pdf-files",
+          "detail": {
+            "intro": "In een wereld waar tijd geld is, kan efficiënt documentbeheer het verschil maken. Of je nu meerdere rapporten beheert, klantcontracten organiseert of projectbestanden samenvoegt, een betrouwbare PDF-combinator kan je workflow transformeren. Maak kennis met GabungPDF.id, een gratis online tool om snel en eenvoudig PDF-bestanden samen te voegen. In dit artikel ontdek je hoe GabungPDF.id je helpt om PDF-bestanden moeiteloos samen te voegen en waarom dit de ultieme oplossing is voor professionals, studenten en bedrijven.",
+            "why_merge_pdf": {
+              "title": "Waarom PDF-bestanden samenvoegen?",
+              "paragraph": "PDF’s zijn hét formaat voor het delen van professionele documenten, maar het beheren van meerdere bestanden kan vertragen. Het samenvoegen van PDF’s tot één gestroomlijnd document bespaart tijd, vermindert rommel en verhoogt de organisatie. Hier zijn een paar redenen waarom je PDF-bestanden zou willen combineren:",
+              "reasons": [
+                {
+                  "title": "Eenvoudiger Delen",
+                  "description": "Stuur één bestand in plaats van meerdere bijlagen voor betere samenwerking."
+                },
+                {
+                  "title": "Documenten Organiseren",
+                  "description": "Combineer facturen, formulieren of notities in één gemakkelijk toegankelijk PDF-bestand."
+                },
+                {
+                  "title": "Professionele Presentaties",
+                  "description": "Voeg dia’s, hand-outs en notities samen tot één verzorgd document."
+                },
+                {
+                  "title": "Archiveren Vereenvoudigen",
+                  "description": "Consolideer gerelateerde bestanden voor efficiënte opslag en terugvinden."
+                }
+              ],
+              "note": "Met GabungPDF.id voeg je PDF-bestanden samen in slechts een paar klikken, waardoor documentbeheer moeiteloos wordt."
+            },
+            "features": {
+              "title": "Wat maakt GabungPDF de beste PDF-combinator?",
+              "paragraph": "Bij GabungPDF.id hebben we een tool ontwikkeld die snel, gratis en voor iedereen toegankelijk is. Of je nu werkt vanaf een desktop, tablet of smartphone, onze PDF-combinator levert professionele resultaten zonder gedoe. Daarom houden gebruikers van GabungPDF.id:",
+              "items": [
+                {
+                  "title": "Volledig Gratis",
+                  "description": "Geen abonnementen, geen verborgen kosten—gewoon samenvoegen en doorgaan."
+                },
+                {
+                  "title": "Geen Software Nodig",
+                  "description": "Onze webgebaseerde tool werkt direct, zonder downloads."
+                },
+                {
+                  "title": "Veilige Verwerking",
+                  "description": "Je bestanden zijn beschermd met encryptie en worden na gebruik verwijderd."
+                },
+                {
+                  "title": "Intuïtief Ontwerp",
+                  "description": "Een eenvoudige interface maakt het samenvoegen van PDF’s toegankelijk voor iedereen."
+                }
+              ],
+              "next": "Klaar om je productiviteit te verhogen? Ontdek hoe je onze PDF-combinator gebruikt om binnen enkele minuten PDF-bestanden samen te voegen."
+            },
+            "how_to_use": {
+              "title": "Hoe gebruik je GabungPDF.id om PDF-bestanden samen te voegen?",
+              "paragraph": "PDF’s samenvoegen met GabungPDF is eenvoudig en vereist geen technische kennis. Volg deze simpele stappen:",
+              "steps": [
+                {
+                  "title": "Upload Je PDF’s",
+                  "description": "Ga naar https://gabungpdf.id/ en selecteer de PDF-bestanden die je wilt samenvoegen. Je kunt meerdere bestanden tegelijk uploaden vanaf je apparaat."
+                },
+                {
+                  "title": "Rangschik Naar Wens",
+                  "description": "Gebruik de drag-and-drop functie om je bestanden in de gewenste volgorde te zetten."
+                },
+                {
+                  "title": "Samenvoegen en Opslaan",
+                  "description": "Klik op “PDF Samenvoegen” en onze tool voegt je bestanden samen tot één bestand. Download direct je samengevoegde PDF."
+                }
+              ],
+              "note": "Zo simpel is het! Of je nu twee bestanden samenvoegt of tientallen, GabungPDF.id zorgt voor een soepele, probleemloze ervaring."
+            },
+            "top_benefits": {
+              "title": "Belangrijkste Voordelen van GabungPDF.id",
+              "paragraph": "Kiezen voor een online PDF-combinator zoals GabungPDF.id biedt ongeëvenaarde eenvoud en efficiëntie. Hier is waarom onze tool opvalt:",
+              "items": [
+                {
+                  "title": "Bespaar Tijd en Moeite",
+                  "description": "Handmatig PDF’s samenvoegen of met complexe software is tijdrovend. GabungPDF.id laat je PDF-bestanden in seconden combineren, zodat je tijd overhoudt voor belangrijkere zaken."
+                },
+                {
+                  "title": "Verbeterde Veiligheid",
+                  "description": "Wij geven prioriteit aan jouw privacy. Ons platform gebruikt veilige encryptie om je bestanden tijdens het samenvoegen te beschermen en verwijdert ze na gebruik."
+                },
+                {
+                  "title": "Kostenbesparend",
+                  "description": "Waarom investeren in dure PDF-software? GabungPDF.id is 100% gratis, ideaal voor studenten, freelancers en kleine bedrijven die PDF-bestanden willen samenvoegen zonder extra kosten."
+                },
+                {
+                  "title": "Universele Toegang",
+                  "description": "Onze tool werkt op elk apparaat met een browser, of je nu Windows, macOS, iOS of Android gebruikt. Voeg PDF’s samen altijd en overal."
+                }
+              ]
+            },
+            "audience": {
+              "title": "Voor Wie is GabungPDF.id?",
+              "paragraph": "Onze PDF-combinator is veelzijdig genoeg voor een breed scala aan behoeften:",
+              "users": [
+                {
+                  "type": "Studenten",
+                  "description": "Combineer studiegidsen, essays of onderzoeksrapporten in één bestand voor gemakkelijke inzending."
+                },
+                {
+                  "type": "Zakelijke Professionals",
+                  "description": "Voeg contracten, voorstellen of rapporten samen voor soepele communicatie met klanten."
+                },
+                {
+                  "type": "Freelancers",
+                  "description": "Maak verzorgde portfolio’s of combineer facturen voor klantinzendingen."
+                },
+                {
+                  "type": "Kleine Ondernemingen",
+                  "description": "Organiseer bonnetjes, marketingmateriaal of juridische documenten in één PDF."
+                }
+              ],
+              "note": "Wat je rol ook is, GabungPDF.id vereenvoudigt documentbeheer moeiteloos."
+            },
+            "pro_tips": {
+              "title": "Pro Tips voor het Samenvoegen van PDF’s als een Pro",
+              "paragraph": "Haal het meeste uit je PDF-combinator met deze tips:",
+              "tips": [
+                {
+                  "title": "Plan de Volgorde van Bestanden",
+                  "description": "Rangschik PDF’s logisch voordat je samenvoegt om tijd te besparen."
+                },
+                {
+                  "title": "Comprimeer Grote Bestanden",
+                  "description": "Verklein de bestandsgrootte voor snellere verwerking."
+                },
+                {
+                  "title": "Controleer het Resultaat",
+                  "description": "Bekijk je samengevoegde PDF vooraf om te controleren of het aan je wensen voldoet."
+                },
+                {
+                  "title": "Bookmark GabungPDF.id",
+                  "description": "Sla onze site op voor snelle toegang wanneer je PDF’s wilt samenvoegen."
+                }
+              ]
+            },
+            "why_stand_out": {
+              "title": "Waarom GabungPDF.id Opvalt tussen PDF-Combinators",
+              "paragraph": "Met talloze PDF-combinators beschikbaar, blinkt GabungPDF.id uit door eenvoud, snelheid en betrouwbaarheid. In tegenstelling tot andere tools die registraties of downloads vereisen, is ons platform direct te gebruiken. Bovendien garanderen wij veiligheid voor je bestanden. Laat verspreide PDF’s je niet vertragen. Bezoek vandaag nog https://gabungpdf.id/ en ontdek de makkelijkste manier om PDF-bestanden samen te voegen."
+            },
+            "conclusion": {
+              "title": "Conclusie: Breng Structuur in je Documenten met GabungPDF.id",
+              "paragraph": "Meerdere PDF’s beheren hoeft geen strijd te zijn. Met GabungPDF.id voeg je PDF-bestanden snel, veilig en gratis samen. Onze gebruiksvriendelijke PDF-combinator is ontworpen om je productiviteit te verhogen, of je nu student, professional of ondernemer bent. Zeg vaarwel tegen documentchaos en hallo tegen georganiseerde, professionele PDF’s. Probeer GabungPDF.id nu via gabungpdf.id/combine-pdf en ervaar de snelste manier om PDF’s samen te voegen. Vereenvoudig vandaag nog je workflow!"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "De gemakkelijkste manier om meerdere PDF-bestanden samen te voegen tot één document. Snel, veilig en volledig gratis te gebruiken.",
+    "contact": "Neem contact met ons op:",
+    "quickLinks": "Snelle links",
+    "privacyPolicy": "Privacybeleid",
+    "termsOfService": "Servicevoorwaarden",
+    "allRights": "Alle rechten voorbehouden"
+  },
+  "privacy": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Inhoudsopgave",
+        "items": [
+          {
+            "icon": "👁️",
+            "label": "Overzicht",
+            "target": "Overview"
+          },
+          {
+            "icon": "📊",
+            "label": "Informatie die wij verzamelen",
+            "target": "information-collection"
+          },
+          {
+            "icon": "🔧",
+            "label": "Hoe wij uw informatie gebruiken",
+            "target": "how-we-use"
+          },
+          {
+            "icon": "🗄️",
+            "label": "Bewaren en Verwijderen van Gegevens",
+            "target": "data-retention"
+          },
+          {
+            "icon": "🤝",
+            "label": "Delen van Gegevens",
+            "target": "data-sharing"
+          },
+          {
+            "icon": "🔒",
+            "label": "Gegevensbeveiliging",
+            "target": "data-security"
+          },
+          {
+            "icon": "🌍",
+            "label": "Internationale Gegevensoverdracht",
+            "target": "international-transfers"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Uw Rechten",
+            "target": "your-rights"
+          },
+          {
+            "icon": "🔗",
+            "label": "Links van Derden",
+            "target": "third-party-links"
+          },
+          {
+            "icon": "👶",
+            "label": "Privacy van Kinderen",
+            "target": "children"
+          },
+          {
+            "icon": "🔄",
+            "label": "Wijzigingen in dit Beleid",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Contacteer Ons",
+            "target": "contact"
+          }
+        ]
+      },
+      "privacySummary": {
+        "title": "Privacy Samenvatting",
+        "points": [
+          "Bestanden worden binnen 1 uur verwijderd",
+          "Wij slaan uw documenten niet op",
+          "Minimale gegevensverzameling",
+          "End-to-end encryptie"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "Overview",
+        "icon": "👁️",
+        "title": "Overzicht",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Op www.gabungpdf.id (\"de Site\"), beheerd door Gabung PDF (\"wij\", \"ons\" of \"onze\"), zetten wij ons in voor de bescherming van uw privacy. Dit privacybeleid legt uit hoe wij uw informatie verzamelen, gebruiken en beschermen wanneer u onze PDF-combineerdienst gebruikt. Door gebruik te maken van de Site stemt u in met dit privacybeleid."
+          },
+          {
+            "type": "highlight",
+            "title": "Ons Belangrijkste Principe:",
+            "text": "Wij verwerken uw bestanden uitsluitend om onze service te leveren en verwijderen deze automatisch binnen één uur. Wij openen, controleren of bewaren de inhoud van uw bestanden niet langer dan nodig voor deze verwerking."
+          }
+        ]
+      },
+      {
+        "id": "information-collection",
+        "icon": "📊",
+        "title": "Informatie die wij verzamelen",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Door Gebruikers Geüploade Bestanden",
+            "text": "Wanneer u onze dienst gebruikt, uploadt u PDF-bestanden om deze te combineren. Deze bestanden kunnen persoonlijke informatie bevatten, maar wij openen, bekijken of bewaren de inhoud van uw bestanden niet langer dan nodig voor tijdelijke verwerking."
+          },
+          {
+            "type": "subsection",
+            "title": "Automatisch Verzamelde Gegevens",
+            "text": "Wij kunnen niet-persoonlijke informatie verzamelen, zoals:",
+            "list": [
+              "Apparaatinformatie (bijv. browsertype, besturingssysteem, IP-adres)",
+              "Gebruiksgegevens (bijv. bezochte pagina's, tijd op de Site, en interacties met de service)"
+            ]
+          },
+          {
+            "type": "subsection",
+            "title": "Cookies en Tracking",
+            "text": "Wij kunnen cookies of vergelijkbare technologieën gebruiken om uw ervaring te verbeteren en het gebruik van de Site te analyseren. U kunt uw cookievoorkeuren beheren via uw browserinstellingen."
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "icon": "🔧",
+        "title": "Hoe wij uw informatie gebruiken",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Dienstverlening",
+            "text": "Wij verwerken uw geüploade PDF-bestanden uitsluitend om ze samen te voegen tot één PDF en de downloadlink te leveren."
+          },
+          {
+            "type": "subsection",
+            "title": "Websiteverbetering",
+            "text": "Wij gebruiken niet-persoonlijke gegevens (bijv. gebruiksstatistieken) om de functionaliteit en prestaties van de Site te analyseren en te verbeteren."
+          },
+          {
+            "type": "subsection",
+            "title": "Naleving van Wetgeving",
+            "text": "Wij kunnen informatie gebruiken of vrijgeven indien wettelijk vereist of om onze rechten, veiligheid of eigendom te beschermen."
+          }
+        ]
+      },
+      {
+        "id": "data-retention",
+        "icon": "🗄️",
+        "title": "Bewaren en Verwijderen van Gegevens",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Geüploade Bestanden",
+            "text": "Alle geüploade PDF-bestanden en het gecombineerde PDF-bestand worden automatisch van onze servers verwijderd binnen één (1) uur na verwerking. Wij bewaren geen kopieën van uw bestanden."
+          },
+          {
+            "type": "subsection",
+            "title": "Overige Gegevens",
+            "text": "Niet-persoonlijke gegevens (bijv. gebruiksstatistieken) kunnen worden bewaard zolang als nodig om de Site te verbeteren of aan wettelijke verplichtingen te voldoen."
+          }
+        ]
+      },
+      {
+        "id": "data-sharing",
+        "icon": "🤝",
+        "title": "Delen van Gegevens",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Geen Delen met Derden",
+            "text": "Wij verkopen, delen of dragen uw geüploade bestanden of persoonlijke informatie niet over aan derden, behalve indien wettelijk verplicht of ter bescherming van onze rechten."
+          },
+          {
+            "type": "subsection",
+            "title": "Dienstverleners",
+            "text": "Wij kunnen gebruik maken van derde dienstverleners (bijv. hosting of analysetools) om de Site te beheren. Deze aanbieders zijn gebonden aan geheimhoudingsplichten en mogen gegevens alleen namens ons verwerken."
+          }
+        ]
+      },
+      {
+        "id": "data-security",
+        "icon": "🔒",
+        "title": "Gegevensbeveiliging",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Wij nemen redelijke technische en organisatorische maatregelen om uw gegevens te beschermen tegen onbevoegde toegang, verlies of misbruik. Geen enkele online dienst is echter volledig veilig en wij kunnen absolute veiligheid niet garanderen."
+          }
+        ]
+      },
+      {
+        "id": "international-transfers",
+        "icon": "🌍",
+        "title": "Internationale Gegevensoverdracht",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Indien u zich buiten Indonesië bevindt, kunnen uw gegevens worden overgedragen naar en verwerkt in Indonesië of andere landen waar onze servers of dienstverleners zich bevinden. Wij zorgen voor passende waarborgen bij dergelijke overdrachten."
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "icon": "⚖️",
+        "title": "Uw Rechten",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Afhankelijk van uw locatie kunt u rechten hebben onder toepasselijke gegevensbeschermingswetten, zoals:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Toegang tot of verzoek tot verwijdering van uw gegevens",
+              "Bezwaar maken tegen of beperking van bepaalde gegevensverwerkingen"
+            ]
+          },
+          {
+            "type": "highlight",
+            "text": "Om deze rechten uit te oefenen, kunt u contact opnemen via admin@gabungpdf.id. Houd er rekening mee dat wij bestanden binnen één uur verwijderen en mogelijk geen persoonlijke gegevens bewaren."
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "icon": "🔗",
+        "title": "Links van Derden",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "De Site kan links bevatten naar websites van derden. Wij zijn niet verantwoordelijk voor het privacybeleid of de inhoud van die websites."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "icon": "👶",
+        "title": "Privacy van Kinderen",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "De Site is niet bedoeld voor gebruikers jonger dan 18 jaar. Wij verzamelen niet bewust persoonlijke informatie van kinderen."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Wijzigingen in dit Beleid",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Wij kunnen dit privacybeleid van tijd tot tijd bijwerken. Wijzigingen worden op deze pagina geplaatst met een bijgewerkte \"Laatst Bijgewerkt\"-datum."
+          },
+          {
+            "type": "highlight",
+            "text": "Uw voortgezet gebruik van de Site na wijzigingen betekent dat u akkoord gaat met het bijgewerkte privacybeleid."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Contacteer Ons",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Als u vragen heeft over dit privacybeleid, kunt u contact met ons opnemen via admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Onze Privacybelofte",
+      "desc": "We nemen je privacy serieus. Dit maakt onze dienst betrouwbaar:",
+      "points": [
+        {
+          "title": "Automatisch Verwijderen",
+          "desc": "Bestanden worden binnen 1 uur automatisch verwijderd"
+        },
+        {
+          "title": "Versleutelde Overdracht",
+          "desc": "Alle uploads gebruiken veilige HTTPS-versleuteling"
+        },
+        {
+          "title": "Geen Bestandslezing",
+          "desc": "We hebben nooit toegang tot of lezen de inhoud van je bestanden"
+        },
+        {
+          "title": "Geen Delen",
+          "desc": "Je bestanden worden nooit gedeeld met derden"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Vragen?",
+      "description": "Wij helpen u graag met privacy-gerelateerde vragen of opmerkingen.",
+      "links": [
+        {
+          "label": "Gebruiksvoorwaarden",
+          "href": "/terms-of-service",
+          "icon": "📄"
+        },
+        {
+          "label": "Neem contact op met ons team",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Terms": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Inhoudsopgave",
+        "items": [
+          {
+            "icon": "✅",
+            "label": "Aanvaarding van de Voorwaarden",
+            "target": "acceptance"
+          },
+          {
+            "icon": "🔧",
+            "label": "Gebruik van de Website",
+            "target": "use-of-site"
+          },
+          {
+            "icon": "📁",
+            "label": "Gebruikersbestanden",
+            "target": "user-files"
+          },
+          {
+            "icon": "©️",
+            "label": "Intellectueel Eigendom",
+            "target": "intellectual-property"
+          },
+          {
+            "icon": "⚠️",
+            "label": "Beperking van Aansprakelijkheid",
+            "target": "limitation-liability"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Schadeloosstelling",
+            "target": "indemnification"
+          },
+          {
+            "icon": "🚫",
+            "label": "Beëindiging",
+            "target": "termination"
+          },
+          {
+            "icon": "🏛️",
+            "label": "Toepasselijk Recht",
+            "target": "governing-law"
+          },
+          {
+            "icon": "🔄",
+            "label": "Wijzigingen in de Voorwaarden",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Neem Contact op",
+            "target": "contact"
+          }
+        ]
+      },
+      "termsSummary": {
+        "title": "Samenvatting van de Voorwaarden",
+        "points": [
+          "Gratis PDF-combineerservice",
+          "Minimaal 18 jaar oud om te gebruiken",
+          "Bestanden worden binnen 1 uur verwijderd",
+          "Alleen voor legitiem gebruik"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "acceptance",
+        "icon": "✅",
+        "title": "Aanvaarding van de Voorwaarden",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Welkom bij www.gabungpdf.id (\"de Website\"), een dienst aangeboden door Gabung PDF (\"wij,\" \"ons\" of \"onze\"). Deze Gebruiksvoorwaarden (\"Voorwaarden\") regelen uw gebruik van de Website en de PDF-combineerservices. Door toegang te krijgen tot of gebruik te maken van de Website, stemt u in met deze Voorwaarden."
+          },
+          {
+            "type": "highlight",
+            "title": "Belangrijke Overeenkomst:",
+            "text": "Als u niet akkoord gaat met deze Voorwaarden, maak dan geen gebruik van de Website."
+          }
+        ]
+      },
+      {
+        "id": "use-of-site",
+        "icon": "🔧",
+        "title": "Gebruik van de Website",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Geschiktheid",
+            "text": "U moet minstens 18 jaar oud zijn of wettelijk bevoegd zijn om deze Voorwaarden aan te gaan om de Website te gebruiken."
+          },
+          {
+            "type": "subsection",
+            "title": "Toegestaan Gebruik",
+            "text": "De Website stelt u in staat om PDF-bestanden te uploaden, ze te combineren tot één PDF en het resultaat te downloaden. U mag de Website alleen gebruiken voor legitieme doeleinden en in overeenstemming met deze Voorwaarden."
+          },
+          {
+            "type": "subsection",
+            "title": "Verboden Gebruik",
+            "text": "U mag niet:",
+            "list": [
+              "Bestanden uploaden met virussen, malware of andere schadelijke code",
+              "De Website gebruiken om wetten, voorschriften of rechten van derden te schenden",
+              "Proberen de werking van de Website te verstoren, saboteren of reverse-engineeren",
+              "De Website voor commerciële doeleinden gebruiken zonder onze schriftelijke toestemming"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "user-files",
+        "icon": "📁",
+        "title": "Gebruikersbestanden",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Tijdelijke Verwerking",
+            "text": "Geüploade bestanden worden verwerkt om PDF's te combineren en worden automatisch binnen één (1) uur van onze servers verwijderd. We bewaren uw bestanden niet langer dan deze periode."
+          },
+          {
+            "type": "subsection",
+            "title": "Uw Verantwoordelijkheid",
+            "text": "U bent als enige verantwoordelijk voor de inhoud van de bestanden die u uploadt. U dient te waarborgen dat u het recht hebt om deze bestanden te uploaden en te verwerken, en dat deze geen inbreuk maken op rechten van derden (zoals auteursrechten of handelsmerken)."
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "icon": "©️",
+        "title": "Intellectueel Eigendom",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Website-inhoud",
+            "text": "Alle inhoud op de Website, inclusief teksten, grafieken, logo’s en software, is ons eigendom of in licentie gegeven en wordt beschermd door intellectuele eigendomswetten."
+          },
+          {
+            "type": "subsection",
+            "title": "Gebruikersinhoud",
+            "text": "U blijft eigenaar van de bestanden die u uploadt. Door bestanden te uploaden verleent u ons een beperkt, niet-exclusief, royaltyvrij recht om uw bestanden uitsluitend te verwerken voor het leveren van de PDF-combineerservice."
+          }
+        ]
+      },
+      {
+        "id": "limitation-liability",
+        "icon": "⚠️",
+        "title": "Beperking van Aansprakelijkheid",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Geen Garantie",
+            "text": "De Website wordt aangeboden 'zoals deze is' zonder enige garantie, expliciet of impliciet, inclusief garanties van verkoopbaarheid, geschiktheid voor een bepaald doel of niet-inbreuk."
+          },
+          {
+            "type": "subsection",
+            "title": "Aansprakelijkheidsbeperking",
+            "text": "Voor zover toegestaan door de wet zijn wij niet aansprakelijk voor enige indirecte, incidentele, bijzondere of gevolgschade voortvloeiend uit uw gebruik van de Website, zelfs als wij zijn gewaarschuwd voor de mogelijkheid van dergelijke schade."
+          },
+          {
+            "type": "subsection",
+            "title": "Onderbrekingen in de Dienst",
+            "text": "Wij garanderen geen ononderbroken of foutloze toegang tot de Website en zijn niet aansprakelijk voor vertragingen, uitval of verlies van gegevens."
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "icon": "⚖️",
+        "title": "Schadeloosstelling",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "U stemt ermee in ons te vrijwaren van en te beschermen tegen eventuele claims, verliezen of schade, inclusief juridische kosten, die voortvloeien uit uw gebruik van de Website, uw geüploade bestanden of uw schending van deze Voorwaarden."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "icon": "🚫",
+        "title": "Beëindiging",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Wij kunnen naar eigen goeddunken uw toegang tot de Website opschorten of beëindigen zonder voorafgaande kennisgeving, indien u deze Voorwaarden schendt of om welke andere reden dan ook."
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "icon": "🏛️",
+        "title": "Toepasselijk Recht",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Deze Voorwaarden worden beheerst door het recht van Indonesië, zonder rekening te houden met conflicten van rechtsprincipes. Eventuele geschillen die voortvloeien uit deze Voorwaarden worden beslecht door de rechtbanken in Indonesië."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Wijzigingen in de Voorwaarden",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Wij kunnen deze Voorwaarden van tijd tot tijd bijwerken. Wijzigingen worden op deze pagina gepubliceerd met een bijgewerkte 'Laatst bijgewerkt' datum."
+          },
+          {
+            "type": "highlight",
+            "text": "Uw voortgezet gebruik van de Website na wijzigingen betekent dat u de bijgewerkte Voorwaarden accepteert."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Neem Contact op",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Als u vragen hebt over deze Voorwaarden, neem dan contact met ons op via admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Belangrijke Overeenkomstoppunten",
+      "desc": "Begrijp je rechten en verantwoordelijkheden bij het gebruik van onze dienst.",
+      "points": [
+        {
+          "title": "Eerlijk Gebruik",
+          "desc": "Gebruik onze dienst verantwoord en wettelijk"
+        },
+        {
+          "title": "Jouw Bestanden",
+          "desc": "Je behoudt het eigendom van alle geüploade bestanden"
+        },
+        {
+          "title": "Geen Misbruik",
+          "desc": "Verboden gebruik leidt tot beëindiging"
+        },
+        {
+          "title": "Beperkte Aansprakelijkheid",
+          "desc": "De dienst wordt geleverd \"zoals het is\" zonder garanties"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Vragen?",
+      "description": "Wij staan klaar om te helpen bij vragen over onze voorwaarden of diensten.",
+      "links": [
+        {
+          "label": "Privacybeleid",
+          "href": "/privacy-policy",
+          "icon": "🔒"
+        },
+        {
+          "label": "Neem contact op met het juridische team",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Content": {
+    "Policy": {
+      "title": "Privacybeleid",
+      "desc": "Wij zetten ons in om uw privacy te beschermen en de veiligheid van uw bestanden te waarborgen. Ontdek hoe wij uw gegevens verzamelen, gebruiken en beschermen wanneer u onze PDF samenvoegservice gebruikt.",
+      "Updated": "Laatst bijgewerkt:",
+      "date": "6 juni 2025"
+    },
+    "Terms": {
+      "title": "Servicevoorwaarden",
+      "desc": "Deze voorwaarden regelen uw gebruik van onze PDF samenvoegservice. Lees ze zorgvuldig door voordat u onze site gebruikt.",
+      "Updated": "Laatst bijgewerkt:",
+      "date": "6 juni 2025"
+    }
+  },
+  "MiniFooter": {
+    "heading": "Klaar om uw PDF's veilig samen te voegen?",
+    "subheading": "Ervaar onze privacygerichte PDF samenvoegservice met volledige gemoedsrust.",
+    "button": "PDF's nu samenvoegen"
+  },
+  "Seo": {
+    "Home": {
+      "title": "Combineer PDF Online Gratis - PDF-bestanden Snel & Eenvoudig Samenvoegen",
+      "description": "Combineer PDF-documenten gratis online met GabungPDF.id. Gebruiksvriendelijke PDF-combineerder, geen installatie of registratie nodig. Voeg nu eenvoudig je PDF's samen!"
+    },
+    "CombinePdf": {
+      "title": "Combineer PDF-bestanden Online Gratis - Snelle & Eenvoudige PDF-samenvoeging",
+      "description": "Combineer PDF’s online gratis met GabungPDF.id. Snelle en gebruiksvriendelijke PDF-combineerder zonder registratie of installatie. Voeg nu je PDF’s samen!"
+    },
+    "Blog": {
+    "title": "Combineer PDF's Blog: Tips & Gidsen voor PDF Samenvoegen",
+    "description": "Ontdek de blog van Gabung PDF voor deskundige tips over het samenvoegen van PDF's, tutorials en tools om uw PDF-taken te vereenvoudigen. Lees nu voor inzichten!"
+  },
+    "Blog1": {
+      "title": "De Eenvoudigste Manier om PDF-bestanden te Combineren | PDF’s Samenvoegen",
+      "description": "Ontdek de eenvoudigste manier om PDF-bestanden te combineren met Gabung PDF. Gratis, snel en gebruiksvriendelijk hulpmiddel voor moeiteloos PDF’s samenvoegen. Probeer het nu!"
+    },
+    "Blog2": {
+      "title": "Het Ultieme Hulpmiddel om PDF’s te Combineren | PDF’s Samenvoegen",
+      "description": "Gabung PDF is het ultieme hulpmiddel om PDF-bestanden online samen te voegen. Snel, veilig en gratis. Combineer vandaag nog moeiteloos je PDF’s!"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF Privacybeleid | Veilige PDF-samenvoeging",
+      "description": "Lees het privacybeleid van Gabung PDF om te begrijpen hoe wij jouw gegevens beschermen tijdens het veilig samenvoegen van PDF’s online. Lees nu meer."
+    },
+    "TermsAndCondition": {
+      "title": "Gabung PDF Gebruiksvoorwaarden | PDF-samenvoeging",
+      "description": "Bekijk de gebruiksvoorwaarden van Gabung PDF voor het gebruik van onze gratis, veilige online PDF-samenvoegtool. Begrijp vandaag nog ons beleid."
+    }
+  }
+}

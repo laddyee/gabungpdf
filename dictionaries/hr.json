@@ -1,0 +1,1304 @@
+{
+  "nav": {
+    "home": "Početna",
+    "combinePdf": "Spoji PDF",
+    "blog": "Blog",
+    "selectLanguage": "Odaberite jezik"
+  },
+  "home": {
+    "title": "Spojite PDF datoteke online - Besplatno, brzo i sigurno",
+    "description": "Spojite PDF-ove lako s GabungPDF.id! Besplatan, brz, siguran online alat za spajanje PDF datoteka u sekundama. Registracija nije potrebna.",
+    "mergeNow": "Spojite PDF-ove sada",
+    "sec1Para": "U današnjem brzom digitalnom svijetu, učinkovito upravljanje dokumentima ključno je za osobne i profesionalne zadatke. Jedna uobičajena potreba je <strong>spojiti PDF datoteke</strong> u jedan pojednostavljeni dokument.",
+    "SecH1": "Zašto spojiti PDF datoteke?",
+    "SecH1P1": "Spajanje više PDF datoteka u jedan dokument nudi brojne prednosti:",
+    "SecH1UlLi1": "<strong>Organizacija i učinkovitost:</strong> Slanje jednog spojenog PDF-a umjesto više datoteka pojednostavljuje dijeljenje i pregled.",
+    "SecH1UlLi2": "<strong>Smanjenje nereda datoteka:</strong> Spajanje PDF-ova smanjuje broj datoteka kojima morate upravljati.",
+    "SecH1UlLi3": "<strong>Profesionalna prezentacija:</strong> Ujedinjeni PDF izgleda uglađeno i profesionalno.",
+    "SecH1UlLi4": "<strong>Kompatibilnost između platformi:</strong> PDF-ovi su univerzalno kompatibilni.",
+    "steps": {
+      "title": "Kako spojiti PDF datoteke online besplatno",
+      "intro": "Korištenje online alata poput gabungPDF.id čini spajanje PDF-ova jednostavnim i dostupnim:",
+      "items": [
+        {
+          "title": "Korak 1: Posjetite gabungPDF.id",
+          "desc": "Idite na gabungPDF.id, besplatan online alat dizajniran da vam pomogne <strong>spojiti PDF datoteke</strong> u sekundama."
+        },
+        {
+          "title": "Korak 2: Učitajte svoje PDF datoteke",
+          "desc": "Kliknite gumb \"Učitaj datoteke\" da odaberete PDF-ove koje želite spojiti."
+        },
+        {
+          "title": "Korak 3: Poredajte datoteke",
+          "desc": "Nakon učitavanja, možete povući i ispustiti datoteke da ih poredite željenim redoslijedom."
+        },
+        {
+          "title": "Korak 4: Spojite i preuzmite",
+          "desc": "Nakon poredanja datoteka, kliknite gumb \"Spoji\"."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Zašto odabrati gabungPDF.id?",
+      "points": [
+        {
+          "title": "<strong>Nije potrebna instalacija:</strong>",
+          "desc": "Za razliku od desktop softvera, gabungPDF.id radi potpuno online."
+        },
+        {
+          "title": "<strong>Besplatno i sigurno:</strong>",
+          "desc": "Alat je besplatan za korištenje, bez skrivenih naknada."
+        },
+        {
+          "title": "<strong>Kompatibilnost između uređaja:</strong>",
+          "desc": "Bez obzira koristite li Mac, Windows, iOS ili Android."
+        },
+        {
+          "title": "<strong>Višejezična podrška:</strong>",
+          "desc": "Platforma podržava korisnike diljem svijeta."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Prednosti korištenja online PDF spajača",
+      "items": [
+        {
+          "title": "<strong>Dostupnost:</strong>",
+          "desc": "Možete <strong>spojiti PDF datoteke</strong> s bilo kojeg uređaja s internetskom vezom."
+        },
+        {
+          "title": "<strong>Brzina:</strong>",
+          "desc": "Proces spajanja traje samo sekunde."
+        },
+        {
+          "title": "<strong>Bez troškova:</strong>",
+          "desc": "Mnogi online alati su potpuno besplatni."
+        },
+        {
+          "title": "<strong>Jednostavan za korištenje:</strong>",
+          "desc": "Nisu potrebne tehničke vještine."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "Optimizirajte svoje spojene PDF-ove za SEO",
+      "intro": "Ako stvarate PDF-ove u profesionalne ili marketinške svrhe, njihova optimizacija za tražilice može povećati njihovu vidljivost.",
+      "items": [
+        {
+          "title": "1. Koristite opisna imena datoteka",
+          "desc": "Prije učitavanja PDF-a, preimenujte datoteke opisnim imenima bogatim ključnim riječima."
+        },
+        {
+          "title": "2. Dodajte metapodatke",
+          "desc": "Uključite metapodatke poput naslova, autora i ključnih riječi u svoj PDF."
+        },
+        {
+          "title": "3. Optimizirajte tekstualni sadržaj",
+          "desc": "Osigurajte da vaš PDF sadrži tekst koji se može pretraživati umjesto skeniranih slika."
+        },
+        {
+          "title": "4. Uključite unutarnje veze",
+          "desc": "Ako je vaš PDF dio web stranice, uključite veze na relevantne stranice."
+        },
+        {
+          "title": "5. Koristite zaglavlja i strukturu",
+          "desc": "Organizirajte svoj PDF jasnim zaglavljima i logičnom strukturom."
+        },
+        {
+          "title": "6. Komprimirajte za brže učitavanje",
+          "desc": "Veliki PDF-ovi mogu usporavati vrijeme učitavanja."
+        },
+        {
+          "title": "7. Dodajte alternativni tekst slikama",
+          "desc": "Ako vaš PDF uključuje slike, dodajte opise alternativnog teksta."
+        },
+        {
+          "title": "8. Hostajte PDF-ove na svojoj web stranici",
+          "desc": "Učitajte svoj spojeni PDF na svoju web stranicu."
+        },
+        {
+          "title": "9. Pratite preglede PDF-a",
+          "desc": "Koristite alate poput Google Analytics za praćenje korisničke interakcije."
+        },
+        {
+          "title": "10. Promovirajte svoj PDF",
+          "desc": "Podijelite svoj PDF na društvenim mrežama i u biltenima."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Uobičajeni slučajevi korištenja za spajanje PDF-ova",
+      "items": [
+        {
+          "title": "<strong>Poslovni izvještaji:</strong>",
+          "desc": "Spojite više odjeljaka izvještaja u jedan PDF."
+        },
+        {
+          "title": "<strong>Akademski projekti:</strong>",
+          "desc": "Studenti mogu kompajlirati istraživačke radove."
+        },
+        {
+          "title": "<strong>Pravni dokumenti:</strong>",
+          "desc": "Odvjetnici često spajaju ugovore i priloge."
+        },
+        {
+          "title": "<strong>Marketinški materijali:</strong>",
+          "desc": "Stvorite profesionalne brošure."
+        },
+        {
+          "title": "<strong>Osobna uporaba:</strong>",
+          "desc": "Spojite skenirane dokumente ili fotografije."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Usporedba gabungPDF.id s drugim alatima",
+      "intro": "Iako je gabungPDF.id odličan izbor za spajanje PDF-ova, drugi alati također nude sličnu funkcionalnost.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Besplatno, bez registracije, podržava više formata datoteka."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Nudi besplatan online spajač, ali zahtijeva prijavu."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Robustan alat s dodatnim značajkama."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Podržava složene datoteke i veliki broj stranica."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Savjeti za besprijekorno iskustvo spajanja PDF-a",
+      "items": [
+        {
+          "title": "<strong>Provjerite kompatibilnost datoteka:</strong>",
+          "desc": "Osigurajte da su sve datoteke u PDF ili podržanim formatima."
+        },
+        {
+          "title": "<strong>Pregledajte svoje datoteke:</strong>",
+          "desc": "Pregledajte redoslijed i sadržaj svojih datoteka prije spajanja."
+        },
+        {
+          "title": "<strong>Koristite sigurne platforme:</strong>",
+          "desc": "Odaberite alate koji daju prioritet privatnosti."
+        },
+        {
+          "title": "<strong>Testirajte izlaz:</strong>",
+          "desc": "Otvorite spojeni PDF da potvrdite raspored."
+        }
+      ]
+    },
+    "ConclusionH1": "Zaključak",
+    "conclusion": "Spajanje PDF datoteka jednostavan je, ali moćan način racionalizacije upravljanja dokumentima. Bez obzira jeste li profesionalac koji organizira izvještaje, student koji kompajlira istraživanja ili netko tko arhivira osobne dokumente, alati poput gabungPDF.id čine lako <strong>spajanje PDF datoteka</strong> online besplatno."
+  },
+  "combinePdf": {
+    "title": "Spajanje PDF datoteka",
+    "dragDrop": "Povucite PDF datoteke ovdje ili",
+    "clickBrowse": "kliknite za odabir",
+    "selectFiles": "Odaberite datoteke",
+    "maxSize": "Maksimalna veličina datoteke: 50 MB",
+    "combineButton": "Spoji PDF-ove",
+    "filesCount": "PDF-ovi",
+    "S1H1": "Spajanje PDF datoteka: Kako spojiti PDF datoteke - Savjet za besplatno spajanje PDF-ova",
+    "S1P1": "U današnjem digitalnom svijetu, PDF datoteke (Portable Document Format) postale su neizostavan alat za dijeljenje i pohranu dokumenata. Za razliku od DOC datoteka koje se stvaraju u Microsoft Wordu ili Google Docs-u, PDF-ovi zadržavaju svoj format na svim uređajima i operativnim sustavima. Ova univerzalna kompatibilnost čini ih idealnima za profesionalnu i osobnu upotrebu, bilo za dijeljenje izvještaja, prezentacija ili obrazaca na internetu.",
+    "S1P2": "Međutim, rad s PDF datotekama može ponekad biti izazovan, osobito kada morate spojiti više PDF datoteka u jedan povezani dokument. U ovom vodiču objasnit ćemo zašto je važno spajanje PDF datoteka, kako ih besplatno spojiti pomoću našeg jednostavnog alata i koje prednosti ima pojednostavljenje upravljanja dokumentima.",
+    "S2H1": "Zašto su PDF datoteke jedinstvene i svestrane",
+    "S2P1": "PDF datoteke dizajnirane su da zadrže točan izgled dokumenta bez obzira na uređaj ili softver koji se koristi za prikazivanje. Za razliku od DOC datoteka, koje ovise o postavkama sustava poput instaliranih fontova ili konfiguracije operativnog sustava, PDF-ovi djeluju poput statičnih slika. To jamči da fontovi, raspored i grafika ostaju dosljedni, čineći ih idealnima za profesionalne dokumente poput ugovora, životopisa ili e-knjiga.",
+    "S2P2": "Ova dosljednost razlog je zašto su PDF datoteke široko korištene za dijeljenje dokumenata putem interneta. Bilo da arhivirate poslovni izvještaj ili važne evidencije, PDF-ovi osiguravaju da primatelj vidi dokument točno onako kako je zamišljeno. Međutim, ova značajka otežava uređivanje ili spajanje PDF-ova u usporedbi s radom s DOC datotekama. Bez specijaliziranog softvera, zadaci poput dodavanja stranica ili spajanja više PDF datoteka mogu izgledati zastrašujuće. Na sreću, naš besplatni online alat pojednostavljuje ovaj postupak i omogućuje vam da lako spojite PDF-ove bez potrebe za dodatnim softverom.",
+    "combine_pdf_files": {
+      "intro": "Zašto spajati PDF datoteke?",
+      "para": "Spajanje PDF datoteka česta je potreba za profesionalce, studente i sve koji upravljaju s više dokumenata. Evo nekoliko scenarija kada je korisno spajanje PDF-ova:",
+      "items": [
+        {
+          "title": "Izrada opsežnih izvještaja:",
+          "desc": "Ako imate više PDF izvještaja ili poglavlja, njihovo spajanje u jedan dokument olakšava dijeljenje i pregled."
+        },
+        {
+          "title": "Arhiviranje skeniranih dokumenata:",
+          "desc": "Skenirani PDF-ovi, poput računa ili obrazaca, često se moraju spojiti u jedan dokument radi boljeg organiziranja."
+        },
+        {
+          "title": "Optimizacija prezentacija:",
+          "desc": "Spajanje slajdova ili dijelova iz različitih PDF-ova u jednu koherentnu prezentaciju poboljšava jasnoću i profesionalnost."
+        },
+        {
+          "title": "Jednostavnije dijeljenje datoteka:",
+          "desc": "Umjesto da šaljete više datoteka, spajanjem PDF-ova u jedan dokument smanjujete zabunu i osiguravate da su sve informacije sadržane u jednom, lako dostupnom dokumentu."
+        }
+      ],
+      "para2": "Za razliku od DOC datoteka, gdje možete jednostavno kopirati i zalijepiti sadržaj, PDF-ovi zahtijevaju specifične alate za njihovo spajanje ili uređivanje. Na primjer, kopiranje teksta iz skenirane PDF datoteke često je nemoguće bez softvera za optičko prepoznavanje znakova (OCR). Naš besplatni alat za spajanje PDF-ova uklanja ove prepreke i omogućuje vam da spojite do 20 PDF-ova odjednom bez potrebe za skupim softverom ili tehničkim znanjem."
+    },
+    "stepbystep": {
+      "intro": "Kako besplatno spojiti PDF datoteke: Upute korak po korak",
+      "para": "Naš jednostavan online alat čini spajanje PDF-ova brzim i učinkovitima. Bilo da spajate dvije ili do 20 datoteka, postupak je jednostavan i ne zahtijeva nikakvu instalaciju niti pretplatu. Slijedite ove korake kako biste besprijekorno spojili svoje PDF datoteke:",
+      "items": [
+        {
+          "title": "Korak 1: Prenesite svoje PDF datoteke",
+          "desc": "Za početak, kliknite na gumb 'PREUZMI DATOTEKE' u sučelju našeg alata. Odaberite željene PDF datoteke sa svog uređaja. Također možete povući i ispustiti svoje PDF datoteke u označeni prostor 'Povucite datoteke ovdje'. Ova funkcija je osobito korisna kada radite s više datoteka, jer štedi vrijeme i pojednostavljuje proces."
+        },
+        {
+          "title": "Korak 2: Organizirajte svoje PDF datoteke",
+          "desc": "Nakon što prenesete datoteke, naš alat će vam prikazati redoslijed datoteka. Redoslijed datoteka u ovom popisu određuje strukturu kombinirane PDF datoteke. Prva PDF datoteka na popisu bit će na vrhu konačnog dokumenta, a druga slijedi, i tako dalje. Da biste osigurali ispravan redoslijed, možete jednostavno povući i premjestiti datoteke unutar popisa."
+        },
+        {
+          "title": "Korak 3: Spojite i preuzmite",
+          "desc": "Kada ste zadovoljni redoslijedom, kliknite na gumb 'SPOJI'. Naš sustav odmah spaja sve prenesene PDF datoteke u jednu. Nakon završetka procesa, kombinirana PDF datoteka automatski će započeti preuzimanje na vaš uređaj. Cijeli proces je brz, siguran i ne zahtijeva dodatni softver."
+        }
+      ],
+      "intro2": "Spojite više PDF datoteka",
+      "para2": "Želite spojiti još PDF datoteka? Nema problema! Naš alat omogućuje spajanje datoteka u serijama. Nakon što preuzmete prvi skup spojenih PDF datoteka, preuzmite ovaj novi PDF zajedno sa svim ostalim datotekama koje želite dodati. Ponovite postupak klikom na 'SPOJI' kako biste stvorili još veći dokument. Ovaj proces možete ponoviti koliko god puta želite.",
+      "intro3": "Važna napomena: Preuzmite unutar jednog sata",
+      "para3": "Kako biste osigurali nesmetano iskustvo, preuzmite svoju kombiniranu PDF datoteku unutar jednog sata od njezine izrade. Ako to ne učinite, sustav će izbrisati datoteke i morat ćete ih ponovno prenijeti da biste započeli postupak iznova. Ova funkcionalnost pomaže u održavanju sigurnosti podataka i oslobađanju prostora na poslužitelju za druge korisnike."
+    },
+    "benefits": {
+      "intro": "Prednosti korištenja našeg besplatnog PDF spojitelja",
+      "para": "Naš alat razvijen je s naglaskom na jednostavnost, dostupnost i učinkovitost. Evo nekoliko razloga zašto je naš alat najbolji izbor za spajanje PDF datoteka:",
+      "items": [
+        {
+          "title": "Nema potrebe za instalacijom softvera:",
+          "desc": "Za razliku od tradicionalnih PDF urednika, naš alat je potpuno temeljen na internetu, što vam omogućuje pristup s bilo kojeg uređaja s internetskom vezom."
+        },
+        {
+          "title": "Besplatan i neograničen u upotrebi:",
+          "desc": "Spojite do 20 PDF datoteka odjednom besplatno, bez ikakvih troškova ili pretplata. Za veće projekte možete spojiti više serija datoteka, kao što je gore opisano."
+        },
+        {
+          "title": "Jednostavno sučelje:",
+          "desc": "Funkcionalnost povuci i ispusti te intuitivni dizajn čine naš alat jednostavnim za korištenje i za početnike i za profesionalce."
+        },
+        {
+          "title": "Brza obrada:",
+          "desc": "Naš alat spaja PDF datoteke u nekoliko sekundi, štedeći vam vrijeme i trud."
+        },
+        {
+          "title": "Sigurno i pouzdano:",
+          "desc": "Vaše datoteke obrađuju se sigurno i bit će izbrisane s naših poslužitelja nakon sat vremena, čime se čuva privatnost vaših podataka."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Kada biste trebali spajati PDF datoteke?",
+      "para": "Spajanje PDF datoteka je korisna vještina u različitim situacijama. Evo nekoliko uobičajenih slučajeva kada je spajanje PDF-ova korisno:",
+      "items": [
+        {
+          "title": "Poslovni profesionalci:",
+          "desc": "Spojite račune, ugovore ili ponude u jedan dokument kako biste ih jednostavno dijelili s klijentima ili kolegama."
+        },
+        {
+          "title": "Studenti i nastavnici:",
+          "desc": "Spojite bilješke s predavanja, istraživačke radove ili zadatke u jedan dokument kako biste ih pojednostavili za prezentacije ili materijale za učenje."
+        },
+        {
+          "title": "Pravne i administrativne zadatke:",
+          "desc": "Organizirajte skenirane dokumente poput ugovora ili obrazaca u jednu PDF datoteku za arhiviranje ili pravne potrebe."
+        },
+        {
+          "title": "Kreativni projekti:",
+          "desc": "Spojite dizajnerske skice, portfelje ili storyboarde u jedan koherentan PDF za prezentacije ili povratne informacije od klijenata."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Savjeti za rad s PDF datotekama",
+      "para": "Kako biste maksimalno iskoristili svoje iskustvo spajanja PDF-ova, imajte na umu sljedeće savjete:",
+      "items": [
+        {
+          "title": "Provjerite redoslijed datoteka:",
+          "desc": "Uvijek provjerite redoslijed svojih PDF datoteka prije nego ih spojite kako biste izbjegli kasniju reorganizaciju stranica."
+        },
+        {
+          "title": "Optimizirajte veličinu datoteka:",
+          "desc": "Ako vaše PDF datoteke sadrže velike slike ili grafike, razmislite o njihovoj kompresiji prije nego ih prenesete kako biste smanjili konačnu veličinu datoteke."
+        },
+        {
+          "title": "Koristite opisne nazive datoteka:",
+          "desc": "Nazovite svoje PDF datoteke jasnim, opisnim nazivima (npr. Izvještaj_Sektor1.pdf) kako biste ostali organizirani tijekom spajanja."
+        },
+        {
+          "title": "Izradite sigurnosne kopije originalnih datoteka:",
+          "desc": "Spremite kopije svojih originalnih PDF datoteka za slučaj da kasnije trebate napraviti promjene ili ih ponovo spojiti."
+        },
+        {
+          "title": "Istražite druge alate:",
+          "desc": "Ako trebate uređivati, pretvarati ili komprimirati PDF datoteke, isprobajte naše besplatne alate na platformi za potpuni upravljanje dokumentima."
+        }
+      ]
+    },
+    "why_choose": "Zašto odabrati naš alat umjesto plaćenih alternativa?",
+    "why_choose_para": "Dok plaćeni PDF urednici poput Adobe Acrobata nude napredne značajke, naš besplatni alat pruža pristupačno rješenje za većinu korisnika. Ne morate ulagati u skupi softver ili pretplatu za spajanje PDF datoteka. Gabung PDF.id dostupan je malim tvrtkama, studentima i svima koji trebaju profesionalne rezultate bez kompliciranja.",
+    "why_choose_para2": "Nadalje, naša platforma optimizirana je za brzinu i jednostavnost korištenja. Bilo da koristite stolno računalo, tablet ili pametan telefon, možete spajati PDF-ove u pokretu bez problema s kompatibilnošću. Ova fleksibilnost čini naš alat idealnim za korisnike koji traže brze, pouzdane rezultate bez strme krivulje učenja.",
+    "conclusion": "Zaključak",
+    "conclusion_para": "Spajanje PDF dokumenata ne mora biti komplicirano niti skupo. S našim besplatnim online PDF spajateljem možete spojiti do 20 PDF datoteka odjednom, lako ih reorganizirati i preuzeti jedan povezani dokument u nekoliko sekundi. Bilo da organizirate izvještaje, arhivirate skenirane dokumente ili pripremate prezentacije, naš alat pojednostavljuje cijeli postupak bez potrebe za dodatnim softverom ili tehničkim vještinama."
+  },
+  "blog": {
+    "title": "PDF savjeti, vodiči i upute",
+    "description": "Ovladajte upravljanjem PDF-om s stručnim vodičima, praktičnim savjetima i korak-po-korak vodičima.",
+    "searchPlaceholder": "Pretražite članke, vodiče i upute...",
+    "articles": "Članci",
+    "readers": "Čitatelji",
+    "available": "Dostupno",
+    "featuredArticle": "Istaknuti članak",
+    "mostPopular": "Najpopularnije ovaj tjedan",
+    "readArticle": "Pročitajte članak",
+    "readFull": "Pročitajte cijeli članak",
+    "minRead": "min čitanja",
+    "featureblog": {
+      "title": "Najpopularnije ovog tjedna",
+      "subtitle": "⭐ Istaknuti članak",
+      "featuredArticle": {
+        "date": "2. srpnja 2025.",
+        "author": "Admin Korisnik",
+        "category": "Istaknuti članak",
+        "headline": "GabungPDF.id: Najlakši način za spajanje PDF datoteka",
+        "excerpt": "Jednostavno spojite PDF datoteke s GabungPDF.id, besplatnim online alatom za spajanje PDF-ova. Spojite PDF-ove sigurno u nekoliko sekundi, bez potrebe za softverom. Povećajte produktivnost već sada!",
+        "readTime": "3 minute čitanja",
+        "buttonName": "Pročitaj cijeli članak"
+      }
+    },
+    "blogsPage": {
+      "cards": [
+        {
+          "BlogImage": "/Blog1Image.webp",
+          "date": "2. lipnja 2025.",
+          "author": "Administrator",
+          "category": null,
+          "headline": "GabungPDF.id: Najbolji alat za spajanje PDF datoteka",
+          "headlineLink": "/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "excerpt": "Jednostavno spojite PDF datoteke uz GabungPDF.id – besplatan online alat za spajanje PDF-a. Sigurno spojite PDF-ove u nekoliko sekundi — bez instalacije softvera. Isprobajte naš alat sada!",
+          "readTime": "3 min čitanja",
+          "readMoreText": "blog.pročitajČlanak",
+          "slug": "gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "detail": {
+            "intro": "Na GabungPDF.id dizajnirali smo jednostavan, web-bazirani alat koji vam omogućuje spajanje PDF datoteka bez komplikacija. Bez obzira jeste li tehnički potkovani ili početnik, naša platforma je napravljena za sve. Evo zašto GabungPDF.id ističe kao najbolji alat za spajanje PDF-a:",
+            "features": [
+              {
+                "title": "Besplatan i dostupan svima",
+                "description": "Nema pretplata ni skrivenih troškova – samo prenesite i spojite."
+              },
+              {
+                "title": "Bez instalacije softvera",
+                "description": "Naš alat radi potpuno online i štedi prostor na vašem uređaju."
+              },
+              {
+                "title": "Brz i siguran",
+                "description": "Spojite PDF-ove u nekoliko sekundi uz snažno šifriranje koje štiti vaše datoteke."
+              },
+              {
+                "title": "Jednostavno sučelje",
+                "description": "Povucite, ispustite i spojite datoteke u nekoliko klikova."
+              }
+            ],
+            "intro2": "Spremni ste pojednostaviti upravljanje dokumentima? Pogledajmo kako koristiti naš alat za spajanje PDF-a u samo nekoliko koraka.",
+            "how_to_use": {
+              "title": "Kako spojiti PDF datoteke pomoću GabungPDF.id",
+              "paragraph": "Spajanje PDF-a s GabungPDF.id je jednostavno kao 1-2-3. Slijedite ove korake kako biste stvorili jedan, sređen PDF dokument:",
+              "steps": [
+                {
+                  "title": "Prenesite svoje datoteke",
+                  "description": "Posjetite https://gabungpdf.id/ i kliknite gumb “Upload”. Odaberite PDF datoteke koje želite spojiti sa svog uređaja. Možete prenijeti više datoteka odjednom."
+                },
+                {
+                  "title": "Rasporedite redoslijed",
+                  "description": "Povucite i ispustite datoteke kako biste ih rasporedili po željenom redoslijedu. To osigurava logičan tijek konačnog dokumenta."
+                },
+                {
+                  "title": "Spoji i preuzmi",
+                  "description": "Kliknite gumb “Spoji PDF” i naš alat će spojiti vaše datoteke u jednu. Po završetku, odmah preuzmite svoj novi PDF."
+                }
+              ],
+              "note": "To je to! Nema složenih postavki niti tehničkog znanja. Bilo da spajate dvije ili dvadeset datoteka, GabungPDF.id to čini bez problema."
+            },
+            "benefits": {
+              "title": "Prednosti korištenja online alata za spajanje PDF-a",
+              "paragraph": "Odabir online alata poput GabungPDF.id nudi brojne prednosti u odnosu na tradicionalni softver ili ručne metode. Evo zašto je naš alat revolucionaran:",
+              "items": [
+                {
+                  "title": "Ušteda vremena",
+                  "description": "Ručno spajanje PDF-ova uz pomoć desktop softvera može biti dugotrajno i često zahtijeva skupe licence. Uz GabungPDF.id možete spojiti PDF-ove u nekoliko sekundi s bilo kojeg uređaja povezanog na internet — bilo da se radi o prijenosnom računalu, tabletu ili pametnom telefonu."
+                },
+                {
+                  "title": "Sigurna obrada datoteka",
+                  "description": "Brinete o privatnosti? Naša platforma koristi napredno šifriranje kako bi vaši podaci ostali sigurni tijekom procesa spajanja. Nakon preuzimanja spojenog PDF-a, vaše datoteke brišemo sa servera."
+                },
+                {
+                  "title": "Isplativo rješenje",
+                  "description": "Zašto plaćati skupi softver za uređivanje PDF-a? GabungPDF.id je potpuno besplatan, što ga čini idealnim za studente, freelancere i mala poduzeća koja žele spojiti PDF-ove bez dodatnih troškova."
+                },
+                {
+                  "title": "Kompatibilnost s više platformi",
+                  "description": "Bilo da koristite Windows, macOS, iOS ili Android, naš web alat za spajanje PDF-a radi besprijekorno na svim platformama. Nema brige oko kompatibilnosti."
+                }
+              ]
+            },
+            "optimization_tips": {
+              "title": "Savjeti za optimizaciju spojenih PDF-ova",
+              "paragraph": "Kako biste izvukli maksimum iz spojenih PDF-ova, razmislite o ovim savjetima:",
+              "tips": [
+                {
+                  "title": "Provjerite redoslijed datoteka",
+                  "description": "Prije spajanja, rasporedite PDF-ove željenim redoslijedom kako biste izbjegli potrebu za ponovnim radom."
+                },
+                {
+                  "title": "Optimizirajte veličinu datoteka",
+                  "description": "Ako vaši PDF-ovi sadrže velike slike, komprimirajte ih prije prijenosa kako biste smanjili konačnu veličinu datoteke."
+                },
+                {
+                  "title": "Jasno imenovanje datoteka",
+                  "description": "Koristite opisna imena kako biste PDF-ove lakše kasnije prepoznali."
+                },
+                {
+                  "title": "Pregledajte rezultat",
+                  "description": "Nakon spajanja, pregledajte spojeni PDF kako biste se uvjerili da sve izgleda savršeno."
+                }
+              ],
+              "paragraph2": "Uz GabungPDF.id možete s povjerenjem spajati PDF datoteke zadržavajući kvalitetu i organizaciju."
+            },
+            "audience": {
+              "title": "Tko sve može imati koristi od GabungPDF.id?",
+              "paragraph": "Naš alat za spajanje PDF-ova osmišljen je za širok raspon korisnika, uključujući:",
+              "users": [
+                {
+                  "type": "Studenti",
+                  "description": "Spojite bilješke s predavanja, zadatke ili seminarske radove u jednu datoteku."
+                },
+                {
+                  "type": "Profesionalci",
+                  "description": "Spojite izvješća, prijedloge ili ugovore za učinkovitiju komunikaciju."
+                },
+                {
+                  "type": "Mala poduzeća",
+                  "description": "Organizirajte račune, potvrde ili marketinške materijale u jedan dokument."
+                },
+                {
+                  "type": "Freelanceri",
+                  "description": "Spojite portfelje, račune ili isporuke projekata za klijente."
+                }
+              ],
+              "paragraph2": "Bez obzira na vaše potrebe, GabungPDF.id je vaš pouzdani partner za sve vezano uz PDF-ove."
+            },
+            "why_choose_us": {
+              "title": "Zašto odabrati GabungPDF.id umjesto drugih alata?",
+              "paragraph": "Uz toliko dostupnih alata, što GabungPDF.id čini najboljim izborom za spajanje PDF-ova? Evo što nas izdvaja:",
+              "reasons": [
+                {
+                  "title": "Brzina",
+                  "description": "Bez potrebe za učenjem — samo prenesite, spojite i preuzmite."
+                },
+                {
+                  "title": "Pouzdanost",
+                  "description": "Dosljedne performanse bez rušenja ili grešaka."
+                },
+                {
+                  "title": "Dostupnost",
+                  "description": "Dostupno 24/7, bilo gdje u svijetu."
+                }
+              ],
+              "paragraph2": "Ne gubite vrijeme na složeni softver ili nepouzdane alate. Isprobajte GabungPDF.id danas i doživite najlakši način spajanja PDF datoteka."
+            },
+            "conclusion": {
+              "title": "Zaključak: Pojednostavite svoj radni tok uz GabungPDF.id",
+              "paragraph": "Spajanje PDF-ova ne mora biti naporno. Uz GabungPDF.id možete jednostavno spojiti datoteke, uštedjeti vrijeme i održavati organiziranost dokumenata. Naš besplatan, siguran i jednostavan alat savršen je za svakoga tko želi optimizirati svoj rad. Bilo da spajate izvješća, bilješke ili ugovore, naš alat uvijek daje profesionalne rezultate. Spremni za početak?",
+              "cta": {
+                "text": "Posjetite gabungpdf.id/combine-pdf",
+                "link": "https://gabungpdf.id/combine-pdf"
+              },
+              "Remaingparagraph": "Spojite PDF datoteke u samo nekoliko klikova. Pojednostavite upravljanje dokumentima danas s GabungPDF.id – vašim najboljim alatom za PDF-ove!"
+            }
+          }
+        },
+        {
+          "BlogImage": "/FeatureBlogImage.webp",
+          "date": "2. srpnja 2025.",
+          "author": "Admin User",
+          "category": "Istaknuti članak",
+          "headline": "GabungPDF.id: Najlakši način za spajanje PDF datoteka",
+          "excerpt": "Jednostavno spojite PDF datoteke pomoću GabungPDF.id, besplatnog online alata za spajanje PDF-ova. Spojite PDF-ove sigurno u nekoliko sekundi, bez potrebe za softverom. Povećajte produktivnost odmah!",
+          "readTime": "3 minute čitanja",
+          "buttonName": "Pročitaj cijeli članak",
+          "slug": "gabungpdfid-the-easiest-way-to-combine-pdf-files",
+          "detail": {
+            "intro": "U svijetu gdje je vrijeme novac, učinkovito upravljanje dokumentima može napraviti veliku razliku. Bilo da balansirate više izvještaja, organizirate ugovore s klijentima ili sastavljate projektne datoteke, pouzdan alat za spajanje PDF-ova može unaprijediti vaš tijek rada. Predstavljamo GabungPDF.id, besplatan online alat dizajniran za brzo i jednostavno spajanje PDF datoteka. U ovom članku istražit ćemo kako vam GabungPDF.id pomaže bez napora spojiti PDF-ove i zašto je to najbolje rješenje za profesionalce, studente i poduzetnike.",
+            "why_merge_pdf": {
+              "title": "Zašto spajati PDF datoteke?",
+              "paragraph": "PDF je standardni format za dijeljenje profesionalnih dokumenata, ali upravljanje s više datoteka može vas usporiti. Spajanjem PDF-ova u jedan, pregledan dokument štedite vrijeme, smanjujete nered i poboljšavate organizaciju. Evo nekoliko razloga zašto biste trebali spojiti PDF-ove:",
+              "reasons": [
+                {
+                  "title": "Jednostavnije dijeljenje",
+                  "description": "Pošaljite jednu datoteku umjesto više privitaka radi lakše suradnje."
+                },
+                {
+                  "title": "Organizacija dokumenata",
+                  "description": "Spojite račune, obrasce ili bilješke u jedan lako dostupan PDF."
+                },
+                {
+                  "title": "Profesionalne prezentacije",
+                  "description": "Spojite slajdove, materijale i bilješke u jedan dotjerani dokument."
+                },
+                {
+                  "title": "Jednostavnije arhiviranje",
+                  "description": "Konsolidirajte povezane datoteke radi učinkovitijeg pohranjivanja i pretraživanja."
+                }
+              ],
+              "note": "Uz GabungPDF.id, PDF-ove možete spojiti u samo nekoliko klikova, čineći upravljanje dokumentima jednostavnim."
+            },
+            "features": {
+              "title": "Zašto je GabungPDF najbolji alat za spajanje PDF-ova?",
+              "paragraph": "Na GabungPDF.id stvorili smo alat koji je brz, besplatan i dostupan svima. Bilo da radite na računalu, tabletu ili pametnom telefonu, naš alat za spajanje PDF-ova pruža profesionalne rezultate bez komplikacija. Evo zašto korisnici vole GabungPDF.id:",
+              "items": [
+                {
+                  "title": "Potpuno besplatno",
+                  "description": "Bez pretplata, bez skrivenih troškova – samo spojite i nastavite."
+                },
+                {
+                  "title": "Nema potrebe za softverom",
+                  "description": "Naš alat temeljen na webu radi odmah, bez preuzimanja."
+                },
+                {
+                  "title": "Sigurna obrada",
+                  "description": "Vaše datoteke su zaštićene enkripcijom i brišu se nakon korištenja."
+                },
+                {
+                  "title": "Intuitivan dizajn",
+                  "description": "Jednostavno sučelje čini spajanje PDF-ova dostupnim svim korisnicima."
+                }
+              ],
+              "next": "Spremni za povećanje produktivnosti? Pogledajmo kako koristiti naš alat za brzo spajanje PDF datoteka."
+            },
+            "how_to_use": {
+              "title": "Kako koristiti GabungPDF.id za spajanje PDF datoteka",
+              "paragraph": "Spajanje PDF-ova s GabungPDF je jednostavno i ne zahtijeva tehničko znanje. Slijedite ove korake:",
+              "steps": [
+                {
+                  "title": "Učitajte svoje PDF-ove",
+                  "description": "Posjetite https://gabungpdf.id/ i odaberite PDF datoteke koje želite spojiti. Možete učitati više datoteka odjednom sa svog uređaja."
+                },
+                {
+                  "title": "Rasporedite po želji",
+                  "description": "Koristite funkciju povuci-i-ispusti kako biste datoteke organizirali redoslijedom koji želite."
+                },
+                {
+                  "title": "Spoji i preuzmi",
+                  "description": "Kliknite \"Spoji PDF\", a naš alat će spojiti vaše datoteke u jednu. Preuzmite svoj spojeni PDF odmah."
+                }
+              ],
+              "note": "Tako je jednostavno! Bez obzira spajate li dvije ili desetke datoteka, GabungPDF.id osigurava glatko i jednostavno iskustvo."
+            },
+            "top_benefits": {
+              "title": "Glavne prednosti korištenja GabungPDF.id",
+              "paragraph": "Odabir online alata za spajanje PDF-ova poput GabungPDF.id nudi neusporedivu praktičnost i učinkovitost. Evo zašto naš alat odskače:",
+              "items": [
+                {
+                  "title": "Ušteda vremena i truda",
+                  "description": "Ručnim spajanjem PDF-ova ili složenim softverom gubite vrijeme. GabungPDF.id vam omogućuje spajanje PDF-ova u nekoliko sekundi, oslobađajući vas za važnije zadatke."
+                },
+                {
+                  "title": "Poboljšana sigurnost",
+                  "description": "Vaša privatnost nam je prioritet. Naša platforma koristi sigurnu enkripciju za zaštitu vaših datoteka tijekom spajanja, a nakon toga ih brišemo s poslužitelja."
+                },
+                {
+                  "title": "Proračunski prijateljski",
+                  "description": "Zašto ulagati u skupi softver? GabungPDF.id je 100% besplatan, savršen za studente, freelancere i male tvrtke koje žele spojiti PDF-ove bez dodatnih troškova."
+                },
+                {
+                  "title": "Univerzalna dostupnost",
+                  "description": "Naš alat radi na svakom uređaju s preglednikom, bilo da koristite Windows, macOS, iOS ili Android. Spojite PDF-ove bilo kad, bilo gdje."
+                }
+              ]
+            },
+            "audience": {
+              "title": "Tko bi trebao koristiti GabungPDF.id?",
+              "paragraph": "Naš alat za spajanje PDF-ova dovoljno je svestran da zadovolji širok raspon potreba:",
+              "users": [
+                {
+                  "type": "Studenti",
+                  "description": "Spojite skripte, eseje ili istraživačke radove u jednu datoteku za jednostavno predavanje."
+                },
+                {
+                  "type": "Poslovni profesionalci",
+                  "description": "Spojite ugovore, ponude ili izvješća radi jednostavnije komunikacije s klijentima."
+                },
+                {
+                  "type": "Freelanceri",
+                  "description": "Izradite dotjerane portfelje ili spojite račune za slanje klijentima."
+                },
+                {
+                  "type": "Mala poduzeća",
+                  "description": "Organizirajte račune, marketinške materijale ili pravne dokumente u jedan PDF."
+                }
+              ],
+              "note": "Bez obzira na vašu ulogu, GabungPDF.id pojednostavljuje upravljanje dokumentima."
+            },
+            "pro_tips": {
+              "title": "Savjeti za spajanje PDF-ova kao profesionalac",
+              "paragraph": "Kako biste maksimalno iskoristili alat za spajanje PDF-ova, imajte na umu ove savjete:",
+              "tips": [
+                {
+                  "title": "Planirajte redoslijed datoteka",
+                  "description": "Organizirajte PDF-ove logičnim redoslijedom prije spajanja kako biste uštedjeli vrijeme."
+                },
+                {
+                  "title": "Kompresirajte velike datoteke",
+                  "description": "Smanjite veličinu datoteka prije učitavanja radi brže obrade."
+                },
+                {
+                  "title": "Dvostruko provjerite rezultat",
+                  "description": "Pregledajte svoj spojeni PDF kako biste bili sigurni da odgovara vašim potrebama."
+                },
+                {
+                  "title": "Spremite GabungPDF.id",
+                  "description": "Spremite našu stranicu za brzi pristup kad god trebate spojiti PDF datoteke."
+                }
+              ]
+            },
+            "why_stand_out": {
+              "title": "Zašto GabungPDF.id odskače među alatima za spajanje PDF-ova",
+              "paragraph": "Uz bezbroj dostupnih alata za spajanje PDF-ova, GabungPDF.id se ističe jednostavnošću, brzinom i pouzdanošću. Za razliku od drugih alata koji zahtijevaju registraciju ili preuzimanje, naša platforma je odmah spremna za korištenje. Osim toga, naša predanost sigurnosti jamči da su vaše datoteke uvijek sigurne. Ne dopustite da vas raštrkani PDF-ovi uspore. Posjetite https://gabungpdf.id/ danas i otkrijte najlakši način za spajanje PDF datoteka."
+            },
+            "conclusion": {
+              "title": "Zaključak: Pojednostavite svoje dokumente uz GabungPDF.id",
+              "paragraph": "Upravljanje s više PDF-ova ne mora biti muka. Uz GabungPDF.id, PDF datoteke možete spojiti brzo, sigurno i besplatno. Naš jednostavan alat za spajanje PDF-ova osmišljen je kako bi povećao vašu produktivnost, bilo da ste student, profesionalac ili poduzetnik. Recite zbogom kaosu u dokumentima i pozdravite organizirane, profesionalne PDF-ove. Isprobajte GabungPDF.id sada na gabungpdf.id/combine-pdf i iskusite najbrži način za spajanje PDF datoteka. Pojednostavite svoj rad već danas!"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "Najlakši način spajanja više PDF datoteka u jedan dokument. Brzo, sigurno i potpuno besplatno za korištenje.",
+    "contact": "Kontaktirajte nas:",
+    "quickLinks": "Brze veze",
+    "privacyPolicy": "Pravila privatnosti",
+    "termsOfService": "Uvjeti korištenja",
+    "allRights": "Sva prava pridržana"
+  },
+  "privacy": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Sadržaj",
+        "items": [
+          {
+            "icon": "👁️",
+            "label": "Pregled",
+            "target": "Overview"
+          },
+          {
+            "icon": "📊",
+            "label": "Informacije koje prikupljamo",
+            "target": "information-collection"
+          },
+          {
+            "icon": "🔧",
+            "label": "Kako koristimo vaše podatke",
+            "target": "how-we-use"
+          },
+          {
+            "icon": "🗄️",
+            "label": "Zadržavanje i brisanje podataka",
+            "target": "data-retention"
+          },
+          {
+            "icon": "🤝",
+            "label": "Dijeljenje podataka",
+            "target": "data-sharing"
+          },
+          {
+            "icon": "🔒",
+            "label": "Sigurnost podataka",
+            "target": "data-security"
+          },
+          {
+            "icon": "🌍",
+            "label": "Međunarodni prijenosi podataka",
+            "target": "international-transfers"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Vaša prava",
+            "target": "your-rights"
+          },
+          {
+            "icon": "🔗",
+            "label": "Veze trećih strana",
+            "target": "third-party-links"
+          },
+          {
+            "icon": "👶",
+            "label": "Privatnost djece",
+            "target": "children"
+          },
+          {
+            "icon": "🔄",
+            "label": "Promjene ove politike",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Kontaktirajte nas",
+            "target": "contact"
+          }
+        ]
+      },
+      "privacySummary": {
+        "title": "Sažetak privatnosti",
+        "points": [
+          "Datoteke se brišu unutar 1 sata",
+          "Ne pohranjujemo vaše dokumente",
+          "Minimalno prikupljanje podataka",
+          "End-to-end enkripcija"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "Overview",
+        "icon": "👁️",
+        "title": "Pregled",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Na www.gabungpdf.id (\"Stranica\"), kojom upravlja Gabung PDF (\"mi\"), predani smo zaštiti vaše privatnosti. Ova Pravila privatnosti objašnjavaju kako prikupljamo, koristimo i štitimo vaše podatke kada koristite našu uslugu spajanja PDF-ova. Korištenjem Stranice prihvaćate ova Pravila privatnosti."
+          },
+          {
+            "type": "highlight",
+            "title": "Načelo koje slijedimo:",
+            "text": "Vaše datoteke obrađujemo isključivo radi pružanja usluge i automatski ih brišemo unutar jednog sata. Ne pristupamo, ne pregledavamo niti pohranjujemo sadržaj vaših datoteka izvan tog nužnog razdoblja obrade."
+          }
+        ]
+      },
+      {
+        "id": "information-collection",
+        "icon": "📊",
+        "title": "Informacije koje prikupljamo",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Datoteke koje učitava korisnik",
+            "text": "Kada koristite našu uslugu, učitavate PDF datoteke za spajanje. Te datoteke mogu sadržavati osobne podatke, ali mi ne pristupamo, ne pregledavamo niti pohranjujemo njihov sadržaj izvan razdoblja nužnog za obradu."
+          },
+          {
+            "type": "subsection",
+            "title": "Automatski prikupljeni podaci",
+            "text": "Možemo prikupljati neosobne informacije kao što su:",
+            "list": [
+              "Podaci o uređaju (npr. vrsta preglednika, operativni sustav, IP adresa)",
+              "Podaci o korištenju (npr. posjećene stranice, vrijeme provedeno na stranici, interakcije s uslugom)"
+            ]
+          },
+          {
+            "type": "subsection",
+            "title": "Kolačići i praćenje",
+            "text": "Možemo koristiti kolačiće ili slične tehnologije radi poboljšanja vašeg iskustva i analize korištenja stranice. Postavke kolačića možete prilagoditi putem svog preglednika."
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "icon": "🔧",
+        "title": "Kako koristimo vaše podatke",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Pružanje usluge",
+            "text": "Vaše učitane PDF datoteke obrađujemo isključivo za njihovo spajanje u jedan PDF i pružanje poveznice za preuzimanje."
+          },
+          {
+            "type": "subsection",
+            "title": "Unaprjeđenje stranice",
+            "text": "Neosobne podatke (npr. statistike korištenja) koristimo za analizu i poboljšanje funkcionalnosti i performansi stranice."
+          },
+          {
+            "type": "subsection",
+            "title": "Zakonska obveza",
+            "text": "Možemo koristiti ili otkriti podatke ako to zahtijeva zakon ili radi zaštite naših prava, sigurnosti ili imovine."
+          }
+        ]
+      },
+      {
+        "id": "data-retention",
+        "icon": "🗄️",
+        "title": "Zadržavanje i brisanje podataka",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Učitane datoteke",
+            "text": "Sve učitane PDF datoteke i spojene PDF datoteke automatski se brišu s naših poslužitelja unutar jednog (1) sata od obrade. Ne zadržavamo kopije vaših datoteka."
+          },
+          {
+            "type": "subsection",
+            "title": "Ostali podaci",
+            "text": "Neosobni podaci (npr. statistike korištenja) mogu se zadržati onoliko dugo koliko je potrebno radi poboljšanja stranice ili ispunjavanja zakonskih obveza."
+          }
+        ]
+      },
+      {
+        "id": "data-sharing",
+        "icon": "🤝",
+        "title": "Dijeljenje podataka",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Nema dijeljenja s trećim stranama",
+            "text": "Ne prodajemo, ne dijelimo niti prenosimo vaše učitane datoteke ili osobne podatke trećim stranama, osim ako to zahtijeva zakon ili radi zaštite naših prava."
+          },
+          {
+            "type": "subsection",
+            "title": "Pružatelji usluga",
+            "text": "Možemo koristiti pružatelje usluga trećih strana (npr. hosting ili analitiku) za rad stranice. Ove strane su obvezane čuvati povjerljivost i mogu obrađivati podatke samo u naše ime."
+          }
+        ]
+      },
+      {
+        "id": "data-security",
+        "icon": "🔒",
+        "title": "Sigurnost podataka",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Primjenjujemo razumne tehničke i organizacijske mjere za zaštitu vaših podataka od neovlaštenog pristupa, gubitka ili zloupotrebe. Međutim, nijedna online usluga nije potpuno sigurna i ne možemo jamčiti potpunu sigurnost."
+          }
+        ]
+      },
+      {
+        "id": "international-transfers",
+        "icon": "🌍",
+        "title": "Međunarodni prijenosi podataka",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Ako ste izvan Indonezije, vaši podaci mogu biti preneseni i obrađivani u Indoneziji ili drugim zemljama gdje se nalaze naši poslužitelji ili pružatelji usluga. Osiguravamo odgovarajuće mjere zaštite za takve prijenose."
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "icon": "⚖️",
+        "title": "Vaša prava",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ovisno o vašoj lokaciji, možda imate određena prava prema važećim zakonima o zaštiti podataka, kao što su:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Pristup ili zahtjev za brisanje vaših podataka",
+              "Prigovor ili ograničenje određene obrade podataka"
+            ]
+          },
+          {
+            "type": "highlight",
+            "text": "Za ostvarivanje ovih prava kontaktirajte nas na admin@gabungpdf.id. Imajte na umu da zbog brisanja datoteka unutar jednog sata možda nećemo imati vaše osobne podatke."
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "icon": "🔗",
+        "title": "Veze trećih strana",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Stranica može sadržavati veze na web stranice trećih strana. Ne odgovaramo za praksu privatnosti ili sadržaj tih stranica."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "icon": "👶",
+        "title": "Privatnost djece",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Stranica nije namijenjena korisnicima mlađima od 18 godina. Ne prikupljamo svjesno osobne podatke od djece."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Promjene ove politike",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ova Pravila privatnosti možemo povremeno ažurirati. Promjene će biti objavljene na ovoj stranici s ažuriranim datumom \"Zadnje ažuriranje\"."
+          },
+          {
+            "type": "highlight",
+            "text": "Vaše daljnje korištenje stranice nakon promjena smatra se prihvaćanjem ažuriranih Pravila privatnosti."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Kontaktirajte nas",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Ako imate pitanja o ovim Pravilima privatnosti, kontaktirajte nas na admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Naša posvećenost privatnosti",
+      "desc": "Ozbiljno shvaćamo vašu privatnost. Ovo su razlozi zbog kojih je naša usluga pouzdana",
+      "points": [
+        {
+          "title": "Automatsko brisanje",
+          "desc": "Datoteke se automatski brišu unutar 1 sata"
+        },
+        {
+          "title": "Šifrirani prijenos",
+          "desc": "Svi prijenosi koriste sigurnu HTTPS šifru"
+        },
+        {
+          "title": "Bez čitanja datoteka",
+          "desc": "Nikada ne pristupamo niti čitamo sadržaj vaših datoteka"
+        },
+        {
+          "title": "Bez dijeljenja",
+          "desc": "Vaše datoteke nikada se ne dijele s trećim stranama"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Imate pitanja?",
+      "description": "Tu smo da pomognemo s bilo kakvim pitanjima ili zabrinutostima oko privatnosti.",
+      "links": [
+        {
+          "label": "Uvjeti korištenja",
+          "href": "/terms-of-service",
+          "icon": "📄"
+        },
+        {
+          "label": "Kontaktirajte naš tim",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Terms": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Sadržaj",
+        "items": [
+          {
+            "icon": "✅",
+            "label": "Prihvaćanje uvjeta",
+            "target": "acceptance"
+          },
+          {
+            "icon": "🔧",
+            "label": "Korištenje stranice",
+            "target": "use-of-site"
+          },
+          {
+            "icon": "📁",
+            "label": "Korisničke datoteke",
+            "target": "user-files"
+          },
+          {
+            "icon": "©️",
+            "label": "Intelektualno vlasništvo",
+            "target": "intellectual-property"
+          },
+          {
+            "icon": "⚠️",
+            "label": "Ograničenje odgovornosti",
+            "target": "limitation-liability"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Naknada štete",
+            "target": "indemnification"
+          },
+          {
+            "icon": "🚫",
+            "label": "Raskid",
+            "target": "termination"
+          },
+          {
+            "icon": "🏛️",
+            "label": "Mjerodavno pravo",
+            "target": "governing-law"
+          },
+          {
+            "icon": "🔄",
+            "label": "Promjene uvjeta",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Kontaktirajte nas",
+            "target": "contact"
+          }
+        ]
+      },
+      "termsSummary": {
+        "title": "Sažetak uvjeta",
+        "points": [
+          "Besplatna usluga spajanja PDF-ova",
+          "Korisnici moraju imati 18+ godina",
+          "Datoteke se brišu unutar 1 sata",
+          "Korištenje isključivo u zakonite svrhe"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "acceptance",
+        "icon": "✅",
+        "title": "Prihvaćanje uvjeta",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Dobrodošli na www.gabungpdf.id (\"Stranica\"), uslugu koju pruža Gabung PDF (\"mi\", \"nas\" ili \"naš\"). Ovi Uvjeti korištenja (\"Uvjeti\") uređuju vaše korištenje Stranice i njenih usluga spajanja PDF-ova. Pristupanjem ili korištenjem Stranice, pristajete na ove Uvjete."
+          },
+          {
+            "type": "highlight",
+            "title": "Važan dogovor:",
+            "text": "Ako se ne slažete s ovim Uvjetima, nemojte koristiti ovu Stranicu."
+          }
+        ]
+      },
+      {
+        "id": "use-of-site",
+        "icon": "🔧",
+        "title": "Korištenje stranice",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Pravo korištenja",
+            "text": "Morate imati najmanje 18 godina ili pravnu sposobnost da prihvatite ove Uvjete za korištenje Stranice."
+          },
+          {
+            "type": "subsection",
+            "title": "Dopuštena upotreba",
+            "text": "Stranica vam omogućuje prijenos PDF datoteka, njihovo spajanje u jedan PDF i preuzimanje rezultata. Stranicu smijete koristiti samo u zakonite svrhe i u skladu s ovim Uvjetima."
+          },
+          {
+            "type": "subsection",
+            "title": "Zabranjena upotreba",
+            "text": "Ne smijete:",
+            "list": [
+              "Prenositi datoteke koje sadrže viruse, zlonamjerni softver ili drugi štetni kod",
+              "Koristiti Stranicu na način koji krši zakone, propise ili prava trećih strana",
+              "Pokušavati ometati, narušavati ili obrnuto inženjerirati funkcionalnost Stranice",
+              "Koristiti Stranicu u komercijalne svrhe bez našeg prethodnog pismenog pristanka"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "user-files",
+        "icon": "📁",
+        "title": "Korisničke datoteke",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Privremena obrada",
+            "text": "Prenesene datoteke se obrađuju radi spajanja PDF-ova i automatski se brišu s naših servera unutar jednog (1) sata od obrade. Vaše datoteke ne pohranjujemo niti zadržavamo nakon toga."
+          },
+          {
+            "type": "subsection",
+            "title": "Vaša odgovornost",
+            "text": "Vi ste isključivo odgovorni za sadržaj datoteka koje prenosite. Morate osigurati da imate pravo prenositi i obrađivati te datoteke te da ne krše prava trećih strana (npr. autorska prava, žigove)."
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "icon": "©️",
+        "title": "Intelektualno vlasništvo",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Sadržaj stranice",
+            "text": "Sav sadržaj na Stranici, uključujući tekst, grafiku, logotipe i softver, u našem je vlasništvu ili licenciran i zaštićen je zakonima o intelektualnom vlasništvu."
+          },
+          {
+            "type": "subsection",
+            "title": "Korisnički sadržaj",
+            "text": "Zadržavate vlasništvo nad datotekama koje prenosite. Prijenosom datoteka dajete nam ograničenu, neisključivu, besplatnu licencu za obradu vaših datoteka isključivo radi pružanja usluge spajanja PDF-ova."
+          }
+        ]
+      },
+      {
+        "id": "limitation-liability",
+        "icon": "⚠️",
+        "title": "Ograničenje odgovornosti",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Bez jamstava",
+            "text": "Stranica se pruža \"kakva jest\" bez ikakvih jamstava, izričitih ili impliciranih, uključujući jamstva prikladnosti za određenu svrhu ili nekršenja prava."
+          },
+          {
+            "type": "subsection",
+            "title": "Ograničenje odgovornosti",
+            "text": "U najvećoj mjeri dopuštenoj zakonom, ne odgovaramo za bilo kakve neizravne, slučajne, posebne ili posljedične štete koje proizlaze iz vašeg korištenja Stranice, čak i ako smo upozoreni na mogućnost takvih šteta."
+          },
+          {
+            "type": "subsection",
+            "title": "Prekidi usluge",
+            "text": "Ne jamčimo neprekidan ili bezgrešan pristup Stranici te ne odgovaramo za kašnjenja, nedostupnost ili gubitak podataka."
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "icon": "⚖️",
+        "title": "Naknada štete",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Slažete se da ćete nas obeštetiti i zaštititi od bilo kakvih potraživanja, gubitaka ili šteta, uključujući pravne troškove, koji proizlaze iz vašeg korištenja Stranice, vaših prenesenih datoteka ili kršenja ovih Uvjeta."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "icon": "🚫",
+        "title": "Raskid",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Možemo obustaviti ili ukinuti vaš pristup Stranici prema vlastitom nahođenju, bez prethodne obavijesti, ako prekršite ove Uvjete ili iz bilo kojeg drugog razloga."
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "icon": "🏛️",
+        "title": "Mjerodavno pravo",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ove Uvjete uređuju zakoni Indonezije, bez obzira na pravila o sukobu zakona. Svi sporovi koji proizlaze iz ovih Uvjeta rješavat će se na sudovima u Indoneziji."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Promjene uvjeta",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Povremeno možemo ažurirati ove Uvjete. Promjene će biti objavljene na ovoj stranici s ažuriranim datumom \"Posljednje ažuriranje\"."
+          },
+          {
+            "type": "highlight",
+            "text": "Vaše daljnje korištenje Stranice nakon promjena smatra se prihvaćanjem ažuriranih Uvjeta."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Kontaktirajte nas",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Ako imate pitanja o ovim Uvjetima, kontaktirajte nas na admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Ključne točke ugovora",
+      "desc": "Razumijevanje vaših prava i odgovornosti pri korištenju naše usluge.",
+      "points": [
+        {
+          "title": "Poštena uporaba",
+          "desc": "Koristite našu uslugu odgovorno i zakonito"
+        },
+        {
+          "title": "Vaše datoteke",
+          "desc": "Zadržavate vlasništvo nad svim prenesenim datotekama"
+        },
+        {
+          "title": "Bez zloupotrebe",
+          "desc": "Zabranjena uporaba rezultirat će ukidanjem usluge"
+        },
+        {
+          "title": "Ograničena odgovornost",
+          "desc": "Usluga se pruža \"kako jest\" bez jamstava"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "Imate pitanja?",
+      "description": "Rado ćemo vam pomoći oko bilo kakvih pitanja o uvjetima ili usluzi.",
+      "links": [
+        {
+          "label": "Pravila privatnosti",
+          "href": "/privacy-policy",
+          "icon": "🔒"
+        },
+        {
+          "label": "Kontaktirajte pravni tim",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Content": {
+    "Policy": {
+      "title": "Politika privatnosti",
+      "desc": "Obvezujemo se zaštititi vašu privatnost i osigurati sigurnost vaših datoteka. Saznajte kako prikupljamo, koristimo i štitimo vaše informacije kada koristite našu uslugu spajanja PDF datoteka.",
+      "Updated": "Zadnja izmjena:",
+      "date": "6. lipnja 2025."
+    },
+    "Terms": {
+      "title": "Uvjeti korištenja",
+      "desc": "Ovi uvjeti uređuju vaše korištenje naše usluge spajanja PDF datoteka. Molimo pažljivo ih pročitajte prije korištenja naše stranice.",
+      "Updated": "Zadnja izmjena:",
+      "date": "6. lipnja 2025."
+    }
+  },
+  "MiniFooter": {
+    "heading": "Spremni za sigurno spajanje vaših PDF-ova?",
+    "subheading": "Iskusite našu uslugu spajanja PDF datoteka s naglaskom na privatnost i potpunim mirom.",
+    "button": "Spoji PDF sada"
+  },
+  "Seo": {
+    "Home": {
+      "title": "Kombiniraj PDF Online Besplatno - Jednostavno i Brzo Spajanje PDF Datoteka",
+      "description": "Kombinirajte PDF dokumente besplatno online s GabungPDF.id. Jednostavan za korištenje, bez instalacije i registracije. Spojite PDF-ove odmah!"
+    },
+    "CombinePdf": {
+      "title": "Spoji PDF Datoteke Online Besplatno - Brz i Jednostavan PDF Spajač",
+      "description": "Kombinirajte PDF-ove besplatno online s GabungPDF.id. Brz i jednostavan alat za spajanje PDF-ova, bez potrebe za registracijom ili instalacijom. Spojite PDF-ove sada!"
+    },
+     "Blog": {
+    "title": "Blog za spajanje PDF-ova: Savjeti i vodiči za spajanje PDF-ova",
+    "description": "Istražite blog Gabung PDF za stručne savjete o spajanju PDF-ova, tutorijale i alate za pojednostavljenje vaših PDF zadataka. Pročitajte sada!"
+  },
+    "Blog1": {
+      "title": "Najlakši Način za Spajanje PDF Datoteka | Spoji PDF-ove",
+      "description": "Otkrijte najlakši način za spajanje PDF datoteka uz Gabung PDF. Besplatan, brz i jednostavan alat za besprijekorno spajanje PDF-ova. Isprobajte sada!"
+    },
+    "Blog2": {
+      "title": "Vrhovni Alat za Spajanje PDF-ova | Spoji PDF-ove",
+      "description": "Gabung PDF je vrhovni alat za spajanje PDF datoteka online. Brz, siguran i besplatan. Spojite PDF-ove bez napora danas!"
+    },
+    "privacyPolicy": {
+      "title": "Gabung PDF Pravila Privatnosti | Sigurno Spajanje PDF-ova",
+      "description": "Pročitajte pravila privatnosti Gabung PDF-a kako biste razumjeli kako štitimo vaše podatke tijekom sigurnog online spajanja PDF-ova. Saznajte više sada."
+    },
+    "TermsAndCondition": {
+      "title": "Gabung PDF Uvjeti Usluge | Spajanje PDF-ova",
+      "description": "Pregledajte Gabung PDF uvjete korištenja za naš besplatan i siguran alat za online spajanje PDF-ova. Upoznajte se s našim pravilima danas."
+    }
+  }
+}

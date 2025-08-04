@@ -1,0 +1,91 @@
+/* Instructions.css */
+.instructions {
+  margin-left: auto;
+  margin-right: auto;
+  font-size: 1.125rem; 
+  line-height: 2rem; 
+  /* color: #4b5563;  */
+  font-family: 'Figtree', sans-serif; 
+}
+
+.instructions p {
+  /* color: #4b5563;  */
+  margin-bottom: 1.25em;
+}
+
+.instructions strong {
+  /* color: #111827; */
+  font-weight: 600;
+  font-size: 1.25rem;
+}
+
+.instructions a {
+  /* color: #2563eb;  */
+  text-decoration: underline;
+}
+
+.instructions h2 {
+  /* color: #111827; */
+  font-weight: 600;
+  font-size: 1.95rem;
+  margin-top: 2em;
+  margin-bottom: 1em;
+}
+
+.instructions h3 {
+  /* color: #111827; */
+  font-weight: 600;
+  font-size: 1.50rem;
+  margin-top: 1.5em;
+  margin-bottom: 0.75em;
+}
+
+
+.instructions ul {
+  list-style-type: disc;
+  list-style-position: outside;  
+  /* /* color: #4b5563;/  */
+  margin-left: 1.25em;
+  margin-bottom: 1.5em;
+}
+
+
+.instructions ul > li::marker {
+  color: var(--tw-prose-bullets, #d1d5db); 
+}
+
+.instructions ol {
+  list-style-type: decimal;
+  list-style-position: inside;
+  color: #4b5563;
+  margin-left: 1.25em;
+  margin-bottom: 1.5em;
+}
+
+
+.instructions li {
+  margin-bottom: 0.75em;
+}
+
+@media (prefers-color-scheme: dark) {
+  .instructions {
+    color: #d1d5db; 
+  }
+  .instructions p {
+    color: #d1d5db;
+  }
+  .instructions strong {
+    color: #f9fafb; /* prose-strong:text-white */
+  }
+  .instructions a {
+    color: #60a5fa; /* prose-a:text-blue-400 */
+  }
+  .instructions h2,
+  .instructions h3 {
+    color: #f9fafb;
+  }
+  .instructions ul,
+  .instructions ol {
+    color: #d1d5db;
+  }
+}

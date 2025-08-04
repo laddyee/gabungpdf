@@ -1,0 +1,1305 @@
+{
+  "nav": {
+    "home": "Home",
+    "combinePdf": "Pagsamahin ang PDF",
+    "blog": "Blog",
+    "selectLanguage": "Pumili ng Wika"
+  },
+  "home": {
+    "title": "Pagsamahin ang mga PDF file online - Libre, mabilis at secure",
+    "description": "Pagsamahin ang mga PDF nang madali gamit ang GabungPDF.id! Libreng, mabilis, secure na online tool para sa pagsasama ng mga PDF file sa loob ng ilang segundo. Walang registration na kailangan.",
+    "mergeNow": "Pagsamahin ang mga PDF ngayon",
+    "sec1Para": "Sa mabilis na digital na mundo ngayon, ang epektibong pamamahala ng mga dokumento ay mahalaga para sa personal at propesyonal na mga gawain. Isang karaniwang pangangailangan ay ang <strong>pagsasama ng mga PDF file</strong> sa isang pinag-isang dokumento.",
+    "SecH1": "Bakit pagsamahin ang mga PDF file?",
+    "SecH1P1": "Ang pagsasama ng maraming PDF file sa isang dokumento ay nag-aalok ng maraming benepisyo:",
+    "SecH1UlLi1": "<strong>Organisasyon at kahusayan:</strong> Ang pagpapadala ng isang pinagsama na PDF sa halip na maraming file ay nagpapasimple ng pagbabahagi at pagsusuri.",
+    "SecH1UlLi2": "<strong>Pagbabawas ng kaguluhan sa file:</strong> Ang pagsasama ng mga PDF ay binabawasan ang bilang ng mga file na kailangan mong pamahalaan.",
+    "SecH1UlLi3": "<strong>Propesyonal na presentasyon:</strong> Ang pinag-isang PDF ay mukhang pulido at propesyonal.",
+    "SecH1UlLi4": "<strong>Cross-platform compatibility:</strong> Ang mga PDF ay universal na compatible.",
+    "steps": {
+      "title": "Paano pagsamahin ang mga PDF file online nang libre",
+      "intro": "Ang paggamit ng online tool tulad ng gabungPDF.id ay ginagawang simple at accessible ang pagsasama ng mga PDF:",
+      "items": [
+        {
+          "title": "Hakbang 1: Bisitahin ang gabungPDF.id",
+          "desc": "Mag-navigate sa gabungPDF.id, isang libreng online tool na dinisenyo upang tulungan kayong <strong>pagsamahin ang mga PDF file</strong> sa loob ng ilang segundo."
+        },
+        {
+          "title": "Hakbang 2: I-upload ang inyong mga PDF file",
+          "desc": "I-click ang \"Upload Files\" button upang piliin ang mga PDF na gusto ninyong pagsamahin."
+        },
+        {
+          "title": "Hakbang 3: Ayusin ang mga file",
+          "desc": "Pagkatapos mag-upload, maaari ninyong i-drag at i-drop ang mga file upang ayusin sila sa gustong pagkakasunod-sunod."
+        },
+        {
+          "title": "Hakbang 4: Pagsamahin at i-download",
+          "desc": "Pagkatapos ayusin ang inyong mga file, i-click ang \"Combine\" button."
+        }
+      ]
+    },
+    "whyChoose": {
+      "title": "Bakit piliin ang gabungPDF.id?",
+      "points": [
+        {
+          "title": "<strong>Walang installation na kailangan:</strong>",
+          "desc": "Hindi tulad ng desktop software, ang gabungPDF.id ay gumagana nang buo online."
+        },
+        {
+          "title": "<strong>Libre at secure:</strong>",
+          "desc": "Ang tool ay libre gamitin, walang nakatagong bayad."
+        },
+        {
+          "title": "<strong>Cross-device compatibility:</strong>",
+          "desc": "Kahit gumagamit kayo ng Mac, Windows, iOS o Android."
+        },
+        {
+          "title": "<strong>Multilingual support:</strong>",
+          "desc": "Ang platform ay sumusuporta sa mga user sa buong mundo."
+        }
+      ]
+    },
+    "benefits": {
+      "title": "Mga benepisyo ng paggamit ng online PDF merger",
+      "items": [
+        {
+          "title": "<strong>Accessibility:</strong>",
+          "desc": "Maaari ninyong <strong>pagsamahin ang mga PDF file</strong> mula sa anumang device na may internet connection."
+        },
+        {
+          "title": "<strong>Bilis:</strong>",
+          "desc": "Ang proseso ng pagsasama ay tumatagal lang ng ilang segundo."
+        },
+        {
+          "title": "<strong>Walang gastos:</strong>",
+          "desc": "Maraming online tool ang lubos na libre."
+        },
+        {
+          "title": "<strong>User-friendly:</strong>",
+          "desc": "Walang technical skills na kailangan."
+        }
+      ]
+    },
+    "seoTips": {
+      "title": "I-optimize ang inyong merged PDF para sa SEO",
+      "intro": "Kung gumagawa kayo ng mga PDF para sa propesyonal o marketing na layunin, ang pag-optimize sa kanila para sa mga search engine ay maaaring magpataas ng kanilang visibility.",
+      "items": [
+        {
+          "title": "1. Gumamit ng descriptive file names",
+          "desc": "Bago i-upload ang inyong PDF, i-rename ang mga file gamit ang descriptive, keyword-rich na mga pangalan."
+        },
+        {
+          "title": "2. Magdagdag ng metadata",
+          "desc": "Isama ang metadata tulad ng title, author, at keywords sa inyong PDF."
+        },
+        {
+          "title": "3. I-optimize ang text content",
+          "desc": "Siguraduhin na ang inyong PDF ay naglalaman ng searchable text sa halip na scanned images."
+        },
+        {
+          "title": "4. Isama ang internal links",
+          "desc": "Kung ang inyong PDF ay bahagi ng website, isama ang mga link sa relevant pages."
+        },
+        {
+          "title": "5. Gumamit ng headings at structure",
+          "desc": "I-organize ang inyong PDF gamit ang malinaw na headings at logical structure."
+        },
+        {
+          "title": "6. I-compress para sa mas mabilis na loading",
+          "desc": "Ang malalaking PDF ay maaaring magpabagal ng loading times."
+        },
+        {
+          "title": "7. Magdagdag ng alt text sa mga larawan",
+          "desc": "Kung ang inyong PDF ay may mga larawan, magdagdag ng alt text descriptions."
+        },
+        {
+          "title": "8. I-host ang mga PDF sa inyong website",
+          "desc": "I-upload ang inyong merged PDF sa inyong website."
+        },
+        {
+          "title": "9. I-track ang PDF views",
+          "desc": "Gumamit ng mga tool tulad ng Google Analytics upang i-track ang user interaction."
+        },
+        {
+          "title": "10. I-promote ang inyong PDF",
+          "desc": "I-share ang inyong PDF sa social media at newsletters."
+        }
+      ]
+    },
+    "useCases": {
+      "title": "Mga karaniwang use case para sa pagsasama ng mga PDF",
+      "items": [
+        {
+          "title": "<strong>Business reports:</strong>",
+          "desc": "Pagsamahin ang maraming section ng report sa isang PDF."
+        },
+        {
+          "title": "<strong>Academic projects:</strong>",
+          "desc": "Maaaring mag-compile ang mga estudyante ng research papers."
+        },
+        {
+          "title": "<strong>Legal documents:</strong>",
+          "desc": "Madalas na pinagsasama ng mga abogado ang mga kontrata at attachments."
+        },
+        {
+          "title": "<strong>Marketing materials:</strong>",
+          "desc": "Gumawa ng mga propesyonal na brochure."
+        },
+        {
+          "title": "<strong>Personal use:</strong>",
+          "desc": "Pagsamahin ang mga scanned documents o larawan."
+        }
+      ]
+    },
+    "comparison": {
+      "title": "Paghahambing ng gabungPDF.id sa ibang mga tool",
+      "intro": "Bagaman ang gabungPDF.id ay isang mahusay na pagpipilian para sa pagsasama ng mga PDF, ang ibang mga tool ay nag-aalok din ng katulad na functionality.",
+      "items": [
+        {
+          "title": "<strong>gabungPDF.id:</strong>",
+          "desc": "Libre, walang registration, sumusuporta sa maraming file format."
+        },
+        {
+          "title": "<strong>Adobe Acrobat:</strong>",
+          "desc": "Nag-aalok ng libreng online merger pero nangangailangan ng sign in."
+        },
+        {
+          "title": "<strong>iLovePDF:</strong>",
+          "desc": "Malakas na tool na may mga karagdagang feature."
+        },
+        {
+          "title": "<strong>PDF2Go:</strong>",
+          "desc": "Sumusuporta sa mga complex file at malaking page count."
+        }
+      ]
+    },
+    "tips": {
+      "title": "Mga tip para sa seamless na PDF merging experience",
+      "items": [
+        {
+          "title": "<strong>I-check ang file compatibility:</strong>",
+          "desc": "Siguraduhin na lahat ng file ay nasa PDF o supported formats."
+        },
+        {
+          "title": "<strong>I-preview ang inyong mga file:</strong>",
+          "desc": "I-review ang order at content ng inyong mga file bago mag-merge."
+        },
+        {
+          "title": "<strong>Gumamit ng secure platforms:</strong>",
+          "desc": "Piliin ang mga tool na nag-prioritize sa privacy."
+        },
+        {
+          "title": "<strong>I-test ang output:</strong>",
+          "desc": "Buksan ang merged PDF upang i-confirm ang layout."
+        }
+      ]
+    },
+    "ConclusionH1": "Konklusyon",
+    "conclusion": "Ang pagsasama ng mga PDF file ay isang simpleng ngunit malakas na paraan upang ma-streamline ang inyong document management. Kahit kayo ay isang propesyonal na nag-oorganisa ng mga report, estudyante na nag-compile ng research, o isang taong nag-aarchive ng personal documents, ang mga tool tulad ng gabungPDF.id ay ginagawang madali ang <strong>pagsasama ng mga PDF file</strong> online nang libre."
+  },
+  "combinePdf": {
+    "title": "Pagsamahin ang mga PDF file",
+    "dragDrop": "I-drag at i-drop ang mga PDF file dito",
+    "clickBrowse": "o i-click upang pumili",
+    "selectFiles": "Pumili ng mga file",
+    "maxSize": "Pinakamataas na laki ng bawat file: 50 MB",
+    "combineButton": "Pagsamahin ang PDF",
+    "filesCount": "PDF",
+    "S1H1": "Pagsasama ng PDF: Paano pagsamahin ang mga PDF file – Libreng mga tip",
+    "S1P1": "Sa makabagong digital na mundo, ang mga PDF file (Portable Document Format) ay naging mahalaga para sa pagpapalitan at pagtatago ng mga dokumento. Hindi tulad ng tradisyunal na mga DOC file mula sa Microsoft Word o Google Docs, pinapanatili ng PDF ang kanilang disenyo sa kahit anong device at operating system, kaya't perpekto ito para sa propesyonal at personal na gamit — maging ito man ay mga ulat, presentasyon, o mga form.",
+    "S1P2": "Gayunpaman, maaaring maging komplikado ang pagtatrabaho sa PDF, lalo na kapag kailangang pagsamahin ang maraming file. Sa gabay na ito, ipapakita namin kung bakit mahalaga ang pagsasama ng PDF, paano ito gawin nang libre gamit ang aming madaling gamitin na tool, at paano gawing mas madali ang iyong proseso sa pamamahala ng dokumento magpakailanman.",
+    "S2H1": "Bakit natatangi at unibersal ang mga PDF file",
+    "S2P1": "Ang mga PDF file ay ginawa upang tumpak na mapanatili ang disenyo ng dokumento kahit saang device o software ito buksan. Hindi tulad ng mga DOC file na umaasa sa mga setting ng system tulad ng font o operating system, ang PDF ay may nakapirming format. Tinitiyak nito ang hindi pagbago ng font, layout, at graphics, kaya't ang PDF ay mainam para sa mga propesyonal na dokumento gaya ng kontrata, resume, o mga e-book.",
+    "S2P2": "Ang katatagan na ito ang dahilan kung bakit popular ang PDF para sa pagpapalitan ng mga dokumento sa internet. Kapag nagpapadala ng mga business proposal o nag-aarchive ng mahahalagang datos, tiniyak ng PDF na ipapakita ang dokumento nang eksakto gaya ng pagkakagawa nito. Gayunpaman, ito rin ang dahilan kung bakit mahirap i-edit o pagsamahin ang PDF nang walang espesyal na software. Mabuti na lang, pinadadali ng aming libreng online tool ang gawain, na nagpapahintulot na pagsamahin ang PDF nang madali at walang kailangang software na mamahalin.",
+    "combine_pdf_files": {
+      "intro": "Bakit kailangang pagsamahin ang mga PDF file?",
+      "para": "Ang pagsasama ng PDF ay isang karaniwang pangangailangan para sa mga propesyonal, estudyante, at lahat ng may maraming dokumento. Narito ang mga halimbawa kung kailan ito kapaki-pakinabang:",
+      "items": [
+        {
+          "title": "Pagbuo ng malalaking ulat:",
+          "desc": "Mayroon ka bang ilang ulat o kabanata sa hiwalay na mga PDF file? Pagsamahin ang mga ito sa isang dokumento para sa madaling pagbabahagi at pagbasa."
+        },
+        {
+          "title": "Pag-aarchive ng mga na-scan na dokumento:",
+          "desc": "Ang mga na-scan na dokumento tulad ng mga resibo o form ay kadalasang kailangang pagsamahin sa isang file para sa kaginhawahan."
+        },
+        {
+          "title": "Pagpapadali ng mga presentasyon:",
+          "desc": "Ang pagsasama ng mga slide o seksyon mula sa iba't ibang PDF ay nagpapabuti sa presentasyon at ginagawang mas propesyonal ito."
+        },
+        {
+          "title": "Ginhawa sa pagbabahagi:",
+          "desc": "Sa halip na magpadala ng maraming file, isang pinagsamang PDF file lang ang kailangan para maipadala ang lahat ng impormasyon."
+        }
+      ],
+      "para2": "Hindi tulad ng mga DOC file, mahirap kopyahin at i-paste sa PDF — madalas hindi maaaring kopyahin ang teksto mula sa na-scan na dokumento nang walang OCR. Pinapalaya ka ng aming libreng tool mula sa mga problemang ito: maaari kang magsama ng hanggang 20 file nang sabay-sabay — walang bayad na software o espesyal na kaalaman."
+    },
+    "stepbystep": {
+      "intro": "Paano pagsamahin ang mga PDF file – hakbang-hakbang na gabay",
+      "para": "Ginagawa ng aming madaling online tool ang pagsasama ng PDF na mabilis at epektibo. Magsama ng dalawa o dalawampu t file: madali lang, walang kailangang i-install o irehistro. Sundin ang mga hakbang na ito:",
+      "items": [
+        {
+          "title": "Hakbang 1: Mag-upload ng mga PDF file",
+          "desc": "Hanapin ang button na \"Mag-upload ng mga file\" sa aming platform. I-click ito at piliin ang mga file mula sa iyong device o gamitin ang drag-and-drop function — maginhawa kapag nagtatrabaho sa maraming dokumento."
+        },
+        {
+          "title": "Hakbang 2: Ayusin ang pagkakasunod-sunod ng mga file",
+          "desc": "Pagkatapos ma-upload, ipapakita ang mga file ayon sa pagkakasunod-sunod ng pagsasama. Ang unang file ay nasa itaas, kasunod ang iba pa. Maaari mong i-drag ang mga ito upang baguhin ang pagkakasunod-sunod."
+        },
+        {
+          "title": "Hakbang 3: Pagsamahin at i-download",
+          "desc": "Kapag handa na, i-click ang \"Pagsamahin ang PDF\". Iipunin ng sistema ang mga file at awtomatikong magsisimula ang pag-download ng panghuling dokumento. Mabilis, ligtas, at walang kinakailangang third-party software."
+        }
+      ],
+      "intro2": "Gusto mo pa bang pagsamahin ang iba pang mga file?",
+      "para2": "Walang problema! Sinusuportahan ng aming tool ang batch processing. Pagkatapos pagsamahin ang unang grupo, i-download ang resulta at i-upload ito kasama ang iba pang mga PDF file. Ulitin ito hanggang sa pagsamahin mo ang lahat ng kailangang dokumento.",
+      "intro3": "Mahalaga: I-download ang file sa loob ng 1 oras",
+      "para3": "Para sa iyong kaligtasan, ang pinagsamang file ay magagamit lamang sa loob ng isang oras. Pagkatapos nito, ito ay tatanggalin mula sa server. Nakakatulong ito upang maprotektahan ang iyong data at magbigay ng espasyo para sa ibang mga gumagamit."
+    },
+    "benefits": {
+      "intro": "Mga benepisyo ng aming libreng tool sa pagsasama ng PDF",
+      "para": "Ang aming serbisyo ay ginawa upang maging simple, accessible, at epektibo. Narito kung bakit ito ang pinakamahusay na pagpipilian:",
+      "items": [
+        {
+          "title": "Walang installation:",
+          "desc": "Hindi tulad ng mga tradisyunal na PDF editor, ang aming serbisyo ay ganap na online — gumagana sa anumang device na may internet."
+        },
+        {
+          "title": "Libre at walang limitasyon:",
+          "desc": "Magsama ng hanggang 20 PDF file nang sabay-sabay — libre, walang subscription."
+        },
+        {
+          "title": "Madaling gamitin na interface:",
+          "desc": "Ang drag-and-drop feature at compact na disenyo ay nagpapadali ng trabaho para sa lahat ng user."
+        },
+        {
+          "title": "Mabilis na proseso:",
+          "desc": "Ang pagsasama ay tumatagal lamang ng ilang segundo, nakakatipid ng oras mo."
+        },
+        {
+          "title": "Seguridad:",
+          "desc": "Ang iyong mga file ay ligtas na pinoproseso at tinatanggal pagkatapos ng isang oras — pinoprotektahan ang iyong privacy."
+        }
+      ]
+    },
+    "should_you": {
+      "intro": "Kailan dapat pagsamahin ang mga PDF file?",
+      "para": "Kapaki-pakinabang ang pagsasama ng PDF sa iba't ibang sitwasyon. Narito ang mga halimbawa:",
+      "items": [
+        {
+          "title": "Para sa mga propesyonal:",
+          "desc": "Pagsamahin ang mga invoice, kontrata, at mga proposal sa isang PDF para madali itong ipadala sa mga kliyente o katrabaho."
+        },
+        {
+          "title": "Para sa mga estudyante at guro:",
+          "desc": "Pagsamahin ang mga tala, research paper, o artikulo sa isang file para sa kaginhawahan sa pag-aaral o pagsusumite."
+        },
+        {
+          "title": "Para sa legal at administratibong dokumento:",
+          "desc": "Pagsamahin ang mga na-scan na form o kontrata sa isang PDF para sa archival o legal na paggamit."
+        },
+        {
+          "title": "Para sa mga malikhaing proyekto:",
+          "desc": "Pagsamahin ang mga sketch, portfolio, o storyboard sa isang dokumento para sa presentasyon o pagsusuri."
+        }
+      ]
+    },
+    "Tips": {
+      "intro": "Mga tip sa pagtatrabaho sa PDF",
+      "para": "Para makuha ang pinakamahusay na resulta kapag nagsasama ng PDF, isaalang-alang ang mga sumusunod na rekomendasyon:",
+      "items": [
+        {
+          "title": "Suriin ang pagkakasunod-sunod ng mga file:",
+          "desc": "Siguraduhing nakaayos ang mga file ayon sa tamang pagkakasunod-sunod upang maiwasan ang kalituhan."
+        },
+        {
+          "title": "I-optimize ang laki:",
+          "desc": "Kung ang PDF ay may malalaking larawan o graphics, i-compress muna ang mga ito para mabawasan ang kabuuang laki."
+        },
+        {
+          "title": "Gumamit ng malinaw na mga pangalan:",
+          "desc": "Palitan ang pangalan ng mga file (halimbawa: Ulat_Kabanata1.pdf) para madaling makilala."
+        },
+        {
+          "title": "Gumawa ng backup ng orihinal:",
+          "desc": "Itago ang mga kopya ng orihinal na PDF sakaling kailanganin mong baguhin o pagsamahin muli."
+        },
+        {
+          "title": "Subukan ang ibang mga tool:",
+          "desc": "Kung kailangan ng pag-edit, conversion, o compression ng PDF, subukan din ang iba pang libreng serbisyo sa aming platform."
+        }
+      ]
+    },
+    "why_choose": "Bakit piliin ang aming tool kaysa sa mga bayad na?",
+    "why_choose_para": "Ang mga bayad na PDF editor tulad ng Adobe Acrobat ay may advanced na features. Gayunpaman, ang aming libreng serbisyo ay sapat na para sa karamihan ng mga user. Walang bayad o subscription, madali kang makakapagsama ng mga dokumento. Ang Gabung PDF.id ay bukas para sa lahat — mula sa maliliit na negosyo hanggang sa mga estudyante — na nagbibigay ng propesyonal na resulta nang walang kahirap-hirap.",
+    "why_choose_para2": "Ang aming platform ay optimized para sa bilis at kaginhawaan. Kahit anong device man ang gamit mo—computer, tablet, o smartphone—maaari kang magsama ng PDF kahit saan nang walang problema sa compatibility. Ginagawa nitong ideal ang aming tool para sa mga taong nagpapahalaga sa bilis at pagiging maaasahan nang walang kailangang matutunan.",
+    "conclusion": "Konklusyon",
+    "conclusion_para": "Ang pagsasama ng mga PDF file ay hindi kailangang maging mahirap o magastos. Sa aming libreng online tool, maaari kang magsama ng hanggang 20 file nang sabay-sabay, madaling ayusin ang pagkakasunod-sunod, at i-download ang kumpletong PDF sa loob ng ilang segundo. Kahit nagpe-prepare ka man ng mga ulat, nag-aarchive ng mga na-scan na dokumento, o gumagawa ng presentasyon, pinapadali ng aming serbisyo ang proseso nang walang kailangang i-install o espesyal na kaalaman."
+  },
+  "blog": {
+    "title": "Mga PDF tip, tutorial at gabay",
+    "description": "Maging dalubhasa sa PDF management gamit ang mga expert guide, practical tips, at step-by-step tutorials.",
+    "searchPlaceholder": "Maghanap ng mga artikulo, tutorial, at gabay...",
+    "articles": "Mga Artikulo",
+    "readers": "Mga Mambabasa",
+    "available": "Available",
+    "featuredArticle": "Featured na Artikulo",
+    "mostPopular": "Pinakasikat ngayong linggo",
+    "readArticle": "Basahin ang Artikulo",
+    "readFull": "Basahin ang Buong Artikulo",
+    "minRead": "min na pagbabasa",
+    "featureblog": {
+      "title": "Pinakasikat Ngayong Linggo",
+      "subtitle": "⭐ Itinatampok na Artikulo",
+      "featuredArticle": {
+        "date": "Hulyo 2, 2025",
+        "author": "Admin User",
+        "category": "Itinatampok na Artikulo",
+        "headline": "GabungPDF.id: Ang Pinakamadaling Paraan para Pagsamahin ang mga PDF File",
+        "excerpt": "Madaling pagsamahin ang mga PDF file gamit ang GabungPDF.id, ang libreng online PDF combiner. Pagsamahin ang mga PDF nang ligtas sa loob lamang ng ilang segundo — walang kinakailangang software. Palakasin ang iyong produktibidad ngayon!",
+        "readTime": "3 minutong pagbabasa",
+        "buttonName": "Basahin ang Buong Artikulo"
+      }
+    },
+    "blogsPage": {
+      "cards": [
+        {
+          "BlogImage": "/Blog1Image.webp",
+          "date": "Hun 2, 2025",
+          "author": "Admin User",
+          "category": null,
+          "headline": "GabungPDF.id: Ang Pinakamagandang Tool para Pagsamahin ang PDF Files",
+          "headlineLink": "/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "excerpt": "Pagsamahin ang PDF files nang madali gamit ang GabungPDF.id, ang iyong libreng online PDF combiner. Pagsamahin ang PDFs nang ligtas sa loob ng ilang segundo—walang kailangang software. Subukan na ngayon—",
+          "readTime": "3 minutong pagbabasa",
+          "readMoreText": "blog.readArticle",
+          "slug": "gabungpdfid-the-ultimate-tool-to-combine-pdf-files",
+          "detail": {
+            "intro": "Sa GabungPDF.id, idinisenyo namin ang isang madaling-gamitin na web-based tool upang matulungan kang pagsamahin ang PDF files nang walang abala. Baguhan ka man o sanay na sa teknolohiya, ang aming platform ay ginawa para sa lahat. Narito kung bakit namumukod-tangi ang GabungPDF.id bilang pinakamahusay na PDF merger:",
+            "features": [
+              {
+                "title": "Libre at madaling gamitin",
+                "description": "Walang bayad o nakatagong singil—i-upload lang at pagsamahin."
+              },
+              {
+                "title": "Walang kailangang i-install na software",
+                "description": "Gumagana ang aming tool nang buo online, nakakatipid ng espasyo sa iyong device."
+              },
+              {
+                "title": "Mabilis at ligtas",
+                "description": "Pagsamahin ang PDFs sa ilang segundo gamit ang matibay na encryption para maprotektahan ang iyong files."
+              },
+              {
+                "title": "Madaling gamitin na interface",
+                "description": "I-drag, i-drop, at pagsamahin ang mga files sa ilang click lamang."
+              }
+            ],
+            "intro2": "Handa ka na bang gawing mas madali ang iyong document management? Narito ang step-by-step kung paano gamitin ang aming PDF combiner:",
+            "how_to_use": {
+              "title": "Paano Pagsamahin ang PDF Files gamit ang GabungPDF.id",
+              "paragraph": "Napakadaling gamitin ng GabungPDF.id. Sundan ang mga hakbang na ito para makalikha ng isang maayos na PDF document:",
+              "steps": [
+                {
+                  "title": "I-upload ang Iyong Files",
+                  "description": "Bisitahin ang https://gabungpdf.id/ at i-click ang “Upload” button. Piliin ang mga PDF files mula sa iyong device. Puwede kang mag-upload ng maraming files nang sabay-sabay."
+                },
+                {
+                  "title": "Ayusin ang Pagkakasunod-sunod",
+                  "description": "I-drag at i-drop ang mga files ayon sa gusto mong pagkakasunod-sunod. Tiyakin na maayos ang daloy ng iyong final document."
+                },
+                {
+                  "title": "Pagsamahin at I-download",
+                  "description": "I-click ang “Merge PDF” button, at pagsasamahin ng aming tool ang iyong mga files. Pagkatapos, i-download agad ang iyong bagong PDF."
+                }
+              ],
+              "note": "Iyan lang! Walang komplikadong settings o teknikal na kaalaman na kailangan. Dalawa man o dalawampung files, kayang-kaya ito ng GabungPDF.id."
+            },
+            "benefits": {
+              "title": "Mga Benepisyo ng Paggamit ng Online PDF Combiner",
+              "paragraph": "Ang paggamit ng online PDF merger gaya ng GabungPDF.id ay maraming kalamangan kumpara sa tradisyunal na software o manual na paraan. Narito kung bakit ito napaka-kapaki-pakinabang:",
+              "items": [
+                {
+                  "title": "Tipid sa Oras",
+                  "description": "Ang manual na pagsasama ng PDFs gamit ang desktop software ay matagal at madalas may bayad. Sa GabungPDF.id, maaari kang magsama ng PDF files sa ilang segundo mula sa kahit anong device na may internet—laptop, tablet, o smartphone."
+                },
+                {
+                  "title": "Ligtas ang Files",
+                  "description": "Nag-aalala ba sa privacy? Gumagamit ang aming platform ng advanced encryption upang mapanatiling ligtas ang iyong files. Pagkatapos mong i-download ang iyong merged PDF, awtomatikong binubura namin ang iyong files mula sa aming server."
+                },
+                {
+                  "title": "Walang Gastos",
+                  "description": "Bakit ka pa gagastos para sa mahal na PDF editing software? Ang GabungPDF.id ay 100% libre—perfect para sa mga estudyante, freelancers, at maliliit na negosyo."
+                },
+                {
+                  "title": "Compatible sa Lahat ng Platform",
+                  "description": "Windows, macOS, iOS, o Android—gagana ang aming web-based PDF combiner kahit saan. Wala nang compatibility issues."
+                }
+              ]
+            },
+            "optimization_tips": {
+              "title": "Tips para sa Mas Magandang PDF Output",
+              "paragraph": "Para masulit mo ang iyong merged PDFs, isaalang-alang ang mga sumusunod:",
+              "tips": [
+                {
+                  "title": "Suriin ang Pagkakasunod-sunod",
+                  "description": "Ayusin muna ang iyong mga files bago pagsamahin upang hindi na ulitin ang proseso."
+                },
+                {
+                  "title": "I-optimize ang File Size",
+                  "description": "Kung malalaki ang images sa iyong PDFs, i-compress muna para lumiit ang final file size."
+                },
+                {
+                  "title": "Gumamit ng Malinaw na Pangalan",
+                  "description": "Gumamit ng malinaw at descriptive na pangalan sa files para madaling mahanap."
+                },
+                {
+                  "title": "I-preview ang Output",
+                  "description": "Pagkatapos pagsamahin, i-review muna ang PDF kung maayos ang lahat."
+                }
+              ],
+              "paragraph2": "Sa GabungPDF.id, makakasiguro kang maayos at mataas ang kalidad ng iyong PDF files."
+            },
+            "audience": {
+              "title": "Sino ang Makikinabang sa GabungPDF.id?",
+              "paragraph": "Ang aming PDF merger ay para sa iba’t ibang tao:",
+              "users": [
+                {
+                  "type": "Mga Estudyante",
+                  "description": "Pagsamahin ang notes, assignments, o research papers sa isang file."
+                },
+                {
+                  "type": "Mga Propesyonal",
+                  "description": "Pagsamahin ang reports, proposals, o contracts para mas maayos ang komunikasyon."
+                },
+                {
+                  "type": "Maliliit na Negosyo",
+                  "description": "Ayusin ang invoices, resibo, o marketing materials sa isang dokumento."
+                },
+                {
+                  "type": "Freelancers",
+                  "description": "Pagsamahin ang portfolios, invoices, o project deliverables para sa kliyente."
+                }
+              ],
+              "paragraph2": "Anuman ang iyong pangangailangan, GabungPDF.id ang maaasahan mo pagdating sa PDFs."
+            },
+            "why_choose_us": {
+              "title": "Bakit Pumili ng GabungPDF.id Kaysa sa Iba?",
+              "paragraph": "Maraming tools ang available, pero ito ang dahilan kung bakit GabungPDF.id ang pinakamahusay:",
+              "reasons": [
+                {
+                  "title": "Bilis",
+                  "description": "Walang learning curve—i-upload, pagsamahin, at i-download."
+                },
+                {
+                  "title": "Tiwala",
+                  "description": "Laging maaasahan—walang aberya o errors."
+                },
+                {
+                  "title": "Accessible",
+                  "description": "Available 24/7 kahit saan sa mundo."
+                }
+              ],
+              "paragraph2": "Huwag aksayahin ang oras sa komplikadong software. Subukan ang GabungPDF.id ngayon at maranasan ang pinakamadaling paraan para pagsamahin ang PDF files."
+            },
+            "conclusion": {
+              "title": "Konklusyon: Pasimplehin ang Iyong Workflow gamit ang GabungPDF.id",
+              "paragraph": "Hindi kailangang maging abala ang pagsasama ng PDFs. Sa GabungPDF.id, madali mong mapagsasama ang PDF files, makatipid ng oras, at maayos ang iyong mga dokumento. Ang aming libre, ligtas, at user-friendly na PDF combiner ay perfect para sa kahit sino na gustong gawing mas madali ang kanilang trabaho. Reports, notes, o contracts man, siguradong propesyonal ang resulta. Handa ka na ba?",
+              "cta": {
+                "text": "Bisitahin ang gabungpdf.id/combine-pdf",
+                "link": "https://gabungpdf.id/combine-pdf"
+              },
+              "Remaingparagraph": "Ngayon na at pagsamahin ang PDF files sa ilang click lang. Pasimplehin ang iyong document management gamit ang GabungPDF.id—ang iyong ultimate PDF combiner!"
+            }
+          }
+        },
+        {
+          "BlogImage": "/FeatureBlogImage.webp",
+          "date": "Hulyo 2, 2025",
+          "author": "Admin User",
+          "category": "Tampok na Artikulo",
+          "headline": "GabungPDF.id: Ang Pinakamadaling Paraan Para Pagsamahin ang mga PDF File",
+          "excerpt": "Madaling pagsamahin ang mga PDF file gamit ang GabungPDF.id, ang libreng online PDF combiner. Pagsamahin ang mga PDF nang ligtas sa loob ng ilang segundo, walang kailangang software. Dagdagan ang iyong pagiging produktibo ngayon!",
+          "readTime": "3 minutong pagbabasa",
+          "buttonName": "Basahin ang Buong Artikulo",
+          "slug": "gabungpdfid-the-easiest-way-to-combine-pdf-files",
+          "detail": {
+            "intro": "Sa mundo kung saan ang oras ay pera, ang mahusay na pamamahala ng dokumento ay maaaring magbigay ng malaking pagbabago. Kung ikaw ay humahawak ng maraming ulat, nag-aayos ng mga kontrata ng kliyente, o pinagsasama-sama ang mga file ng proyekto, ang maaasahang PDF combiner ay makapagpapabago ng iyong daloy ng trabaho. Ipinapakilala ang GabungPDF.id, isang libreng online na tool na idinisenyo para pagsamahin ang mga PDF file nang mabilis at madali. Sa artikulong ito, tatalakayin natin kung paano ka matutulungan ng GabungPDF.id na pagsamahin ang mga PDF file nang walang kahirap-hirap at bakit ito ang pinakamahusay na solusyon para sa mga propesyonal, estudyante, at negosyo.",
+            "why_merge_pdf": {
+              "title": "Bakit Kailangang Pagsamahin ang mga PDF File?",
+              "paragraph": "Ang PDF ang pangunahing format para sa pagbabahagi ng mga propesyonal na dokumento, ngunit ang paghawak ng maraming file ay maaaring magpabagal sa iyo. Ang pagsasama ng mga PDF sa isang dokumento lamang ay nakakatipid ng oras, nagpapabawas ng kalat, at nagpapahusay ng organisasyon. Narito ang ilang dahilan kung bakit mo kailangang pagsamahin ang mga PDF file:",
+              "reasons": [
+                {
+                  "title": "Mas Pinadaling Pagbabahagi",
+                  "description": "Magpadala ng isang file lamang sa halip na maraming attachment para mas madaling makipagtulungan."
+                },
+                {
+                  "title": "Ayusin ang mga Dokumento",
+                  "description": "Pagsamahin ang mga resibo, form, o tala sa isang madaling ma-access na PDF."
+                },
+                {
+                  "title": "Propesyonal na Presentasyon",
+                  "description": "Pagsamahin ang mga slides, handouts, at notes sa isang maayos na dokumento."
+                },
+                {
+                  "title": "Mas Magandang Pag-archive",
+                  "description": "Pagsamahin ang mga magkakaugnay na file para sa mas episyenteng pag-iimbak at paghahanap."
+                }
+              ],
+              "note": "Sa GabungPDF.id, maaari kang pagsamahin ng mga PDF file sa ilang simpleng click, ginagawang madali ang pamamahala ng dokumento."
+            },
+            "features": {
+              "title": "Bakit Ang GabungPDF ang Pinakamagandang PDF Combiner?",
+              "paragraph": "Sa GabungPDF.id, lumikha kami ng isang tool na mabilis, libre, at madaling gamitin ng lahat. Kung ikaw man ay nagtatrabaho gamit ang desktop, tablet, o smartphone, ang aming PDF combiner ay nagbibigay ng propesyonal na resulta nang walang abala. Narito kung bakit mahal ng mga user ang GabungPDF.id:",
+              "items": [
+                {
+                  "title": "Libre Nang Buo",
+                  "description": "Walang subscription, walang nakatagong bayad—pagsamahin at tapos!"
+                },
+                {
+                  "title": "Walang Kailangang Software",
+                  "description": "Ang aming web-based na tool ay gumagana kaagad, walang kailangang i-download."
+                },
+                {
+                  "title": "Ligtas na Proseso",
+                  "description": "Ang iyong mga file ay protektado gamit ang encryption at awtomatikong binubura pagkatapos gamitin."
+                },
+                {
+                  "title": "Madaling Gamitin",
+                  "description": "Isang simple at madaling interface para sa lahat ng user."
+                }
+              ],
+              "next": "Handa ka na bang pataasin ang iyong pagiging produktibo? Alamin kung paano gamitin ang aming PDF merger sa loob lamang ng ilang minuto."
+            },
+            "how_to_use": {
+              "title": "Paano Gamitin ang GabungPDF.id Para Pagsamahin ang mga PDF File",
+              "paragraph": "Napakadaling gamitin ang GabungPDF para pagsamahin ang mga PDF at hindi nangangailangan ng teknikal na kaalaman. Sundan lamang ang mga simpleng hakbang na ito:",
+              "steps": [
+                {
+                  "title": "I-upload ang Iyong mga PDF",
+                  "description": "Pumunta sa https://gabungpdf.id/ at piliin ang mga PDF file na gusto mong pagsamahin. Maaari kang mag-upload ng maramihang file mula sa iyong device."
+                },
+                {
+                  "title": "Ayusin Ayon sa Kagustuhan",
+                  "description": "Gamitin ang drag-and-drop feature para ayusin ang pagkakasunod-sunod ng iyong mga file."
+                },
+                {
+                  "title": "Pagsamahin at I-save",
+                  "description": "I-click ang “Merge PDF,” at ang aming tool ay pagsasamahin ang iyong mga file. I-download ang pinagsamang PDF kaagad."
+                }
+              ],
+              "note": "Ganun lang kadali! Kahit dalawa o dose-dosenang file, tinitiyak ng GabungPDF.id ang isang maayos at walang abalang karanasan."
+            },
+            "top_benefits": {
+              "title": "Pangunahing Benepisyo ng Paggamit ng GabungPDF.id",
+              "paragraph": "Ang pagpili ng online PDF combiner tulad ng GabungPDF.id ay nag-aalok ng walang kapantay na kaginhawahan at kahusayan. Narito kung bakit namumukod-tangi ang aming tool:",
+              "items": [
+                {
+                  "title": "Tipid sa Oras at Pagsisikap",
+                  "description": "Ang mano-manong pagsasama ng PDF o paggamit ng kumplikadong software ay pwedeng magdulot ng abala. Sa GabungPDF.id, maaari mong pagsamahin ang mga PDF file sa loob lamang ng ilang segundo, at magkaroon ng mas maraming oras para sa mahahalagang gawain."
+                },
+                {
+                  "title": "Mas Pinahusay na Seguridad",
+                  "description": "Pinahahalagahan namin ang iyong privacy. Gumagamit ang aming platform ng secure encryption para protektahan ang iyong mga file habang pinoproseso, at binubura ito pagkatapos mong matapos."
+                },
+                {
+                  "title": "Walang Gastos",
+                  "description": "Bakit mag-invest sa mahal na PDF software? Libre ang GabungPDF.id—perpekto para sa mga estudyante, freelancer, at maliliit na negosyo."
+                },
+                {
+                  "title": "Maaaring Gamitin Kahit Saan",
+                  "description": "Ang aming tool ay gumagana sa anumang device na may browser, maging Windows, macOS, iOS, o Android. Pagsamahin ang mga PDF kahit kailan, saanman."
+                }
+              ]
+            },
+            "audience": {
+              "title": "Sino ang Dapat Gamit ng GabungPDF.id?",
+              "paragraph": "Ang aming PDF combiner ay sapat na flexible para matugunan ang iba't ibang pangangailangan:",
+              "users": [
+                {
+                  "type": "Mga Estudyante",
+                  "description": "Pagsamahin ang study guides, essays, o research papers sa isang file para sa madaling pagsusumite."
+                },
+                {
+                  "type": "Mga Propesyonal sa Negosyo",
+                  "description": "Pagsamahin ang mga kontrata, proposal, o ulat para sa mas maayos na komunikasyon sa kliyente."
+                },
+                {
+                  "type": "Mga Freelancer",
+                  "description": "Gumawa ng maganda at maayos na portfolio o pagsamahin ang mga invoice para sa kliyente."
+                },
+                {
+                  "type": "Maliliit na Negosyo",
+                  "description": "Ayusin ang mga resibo, marketing materials, o legal na dokumento sa isang PDF."
+                }
+              ],
+              "note": "Anuman ang iyong tungkulin, pinapasimple ng GabungPDF.id ang pamamahala ng dokumento."
+            },
+            "pro_tips": {
+              "title": "Mga Tip Para Gamitin ang PDF Merger na Parang Eksperto",
+              "paragraph": "Para masulit ang iyong PDF merger, tandaan ang mga tip na ito:",
+              "tips": [
+                {
+                  "title": "Planuhin ang Pagkakasunod ng File",
+                  "description": "Ayusin ang mga PDF nang maayos bago pagsamahin para makatipid ng oras."
+                },
+                {
+                  "title": "I-compress ang Malalaking File",
+                  "description": "Bawasan ang laki ng file bago i-upload para mas mabilis ang proseso."
+                },
+                {
+                  "title": "I-double Check ang Output",
+                  "description": "I-preview ang iyong pinagsamang PDF upang matiyak na ito ay tama ayon sa iyong pangangailangan."
+                },
+                {
+                  "title": "I-bookmark ang GabungPDF.id",
+                  "description": "I-save ang aming site para sa mabilis na access tuwing kailangan mo ng PDF merger."
+                }
+              ]
+            },
+            "why_stand_out": {
+              "title": "Bakit Namumukod-Tangi ang GabungPDF.id sa Iba Pang PDF Mergers",
+              "paragraph": "Sa napakaraming PDF combiner na available, namumukod-tangi ang GabungPDF.id dahil sa pagiging simple, bilis, at pagiging maaasahan. Hindi tulad ng ibang tool na nangangailangan ng sign-up o download, handa nang gamitin agad ang aming platform. Dagdag pa rito, sinisiguro namin ang seguridad ng iyong mga file. Huwag hayaang magpatagal ang mga hiwa-hiwalay na PDF file. Bisitahin ang https://gabungpdf.id/ ngayon at tuklasin ang pinakamadaling paraan para pagsamahin ang mga PDF."
+            },
+            "conclusion": {
+              "title": "Konklusyon: Ayusin ang Iyong mga Dokumento sa GabungPDF.id",
+              "paragraph": "Ang pamamahala ng maraming PDF file ay hindi kailangang maging mahirap. Sa GabungPDF.id, maaari kang magpagsama ng mga PDF nang mabilis, ligtas, at libre. Ang aming user-friendly PDF combiner ay dinisenyo upang pataasin ang iyong pagiging produktibo, kung ikaw man ay estudyante, propesyonal, o negosyante. Paalam sa magulong dokumento at hello sa maayos at propesyonal na mga PDF. Subukan ang GabungPDF.id ngayon sa gabungpdf.id/combine-pdf at maranasan ang pinakamabilis na paraan ng pagsasama ng PDF. Pasimplehin ang iyong trabaho ngayon!"
+            }
+          }
+        }
+      ]
+    }
+  },
+  "footer": {
+    "description": "Ang pinakamadaling paraan upang pagsamahin ang maraming PDF file sa isang dokumento. Mabilis, secure, at lubos na libre gamitin.",
+    "contact": "Makipag-ugnayan sa amin:",
+    "quickLinks": "Mabibilis na Link",
+    "privacyPolicy": "Privacy Policy",
+    "termsOfService": "Terms of Service",
+    "allRights": "Lahat ng karapatan ay nakalaan"
+  },
+  "privacy": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Talaan ng Nilalaman",
+        "items": [
+          {
+            "icon": "👁️",
+            "label": "Pangkalahatang-ideya",
+            "target": "Overview"
+          },
+          {
+            "icon": "📊",
+            "label": "Impormasyon na Ating Kinokolekta",
+            "target": "information-collection"
+          },
+          {
+            "icon": "🔧",
+            "label": "Paano Namin Ginagamit ang Iyong Impormasyon",
+            "target": "how-we-use"
+          },
+          {
+            "icon": "🗄️",
+            "label": "Pagpapanatili at Pagbura ng Data",
+            "target": "data-retention"
+          },
+          {
+            "icon": "🤝",
+            "label": "Pagbabahagi ng Data",
+            "target": "data-sharing"
+          },
+          {
+            "icon": "🔒",
+            "label": "Seguridad ng Data",
+            "target": "data-security"
+          },
+          {
+            "icon": "🌍",
+            "label": "Paglipat ng Data Internasyonal",
+            "target": "international-transfers"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Ang Iyong Mga Karapatan",
+            "target": "your-rights"
+          },
+          {
+            "icon": "🔗",
+            "label": "Mga Link ng Third-Party",
+            "target": "third-party-links"
+          },
+          {
+            "icon": "👶",
+            "label": "Privacy ng Mga Bata",
+            "target": "children"
+          },
+          {
+            "icon": "🔄",
+            "label": "Mga Pagbabago sa Patakaran na Ito",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Makipag-ugnayan sa Amin",
+            "target": "contact"
+          }
+        ]
+      },
+      "privacySummary": {
+        "title": "Buod ng Privacy",
+        "points": [
+          "Awtomatikong binubura ang mga file sa loob ng 1 oras",
+          "Hindi namin iniimbak ang iyong mga dokumento",
+          "Minimal na pagkolekta ng data",
+          "End-to-end na encryption"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "Overview",
+        "icon": "👁️",
+        "title": "Pangkalahatang-ideya",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Sa www.gabungpdf.id (\"ang Site\"), pinapatakbo ng Gabung PDF (\"kami,\" \"atin,\" o \"namin\"), kami ay nakatuon sa pagprotekta ng iyong privacy. Ipinapaliwanag ng Patakaran sa Privacy na ito kung paano namin kinokolekta, ginagamit, at pinoprotektahan ang iyong impormasyon kapag ginamit mo ang aming serbisyo sa pagsasama ng PDF. Sa paggamit ng Site, sumasang-ayon ka sa Patakaran sa Privacy na ito."
+          },
+          {
+            "type": "highlight",
+            "title": "Ang Aming Pangunahing Prinsipyo:",
+            "text": "Pinoproseso lamang namin ang iyong mga file upang maibigay ang aming serbisyo at awtomatikong binubura ang mga ito sa loob ng isang oras. Hindi namin ina-access, sinusuri, o iniimbak ang nilalaman ng iyong mga file lampas sa kinakailangang panahon ng pagproseso."
+          }
+        ]
+      },
+      {
+        "id": "information-collection",
+        "icon": "📊",
+        "title": "Impormasyon na Ating Kinokolekta",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Mga File na In-upload ng User",
+            "text": "Kapag ginamit mo ang aming serbisyo, nag-u-upload ka ng mga PDF file upang pagsamahin ang mga ito. Maaaring maglaman ang mga file na ito ng personal na impormasyon, ngunit hindi namin ina-access, sinusuri, o iniimbak ang nilalaman ng iyong mga file lampas sa kinakailangang panahon ng pansamantalang pagproseso."
+          },
+          {
+            "type": "subsection",
+            "title": "Awtomatikong Kinokolektang Data",
+            "text": "Maaari kaming mangolekta ng hindi personal na impormasyon tulad ng:",
+            "list": [
+              "Impormasyon ng device (hal., uri ng browser, operating system, IP address)",
+              "Data ng paggamit (hal., mga binisitang pahina, oras ng paggamit sa Site, at pakikipag-ugnayan sa serbisyo)"
+            ]
+          },
+          {
+            "type": "subsection",
+            "title": "Cookies at Pagsubaybay",
+            "text": "Maaari kaming gumamit ng cookies o katulad na teknolohiya upang mapabuti ang iyong karanasan at pag-aralan ang paggamit ng Site. Maaari mong pamahalaan ang mga kagustuhan sa cookies sa pamamagitan ng iyong mga setting sa browser."
+          }
+        ]
+      },
+      {
+        "id": "how-we-use",
+        "icon": "🔧",
+        "title": "Paano Namin Ginagamit ang Iyong Impormasyon",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Pagbibigay ng Serbisyo",
+            "text": "Pinoproseso namin ang iyong na-upload na PDF file upang pagsamahin ang mga ito sa isang solong PDF at ibigay ang link para sa pag-download."
+          },
+          {
+            "type": "subsection",
+            "title": "Pagpapabuti ng Site",
+            "text": "Ginagamit namin ang hindi personal na data (hal., estadistika ng paggamit) upang suriin at pagbutihin ang pagganap at functionality ng Site."
+          },
+          {
+            "type": "subsection",
+            "title": "Pagsunod sa Batas",
+            "text": "Maaari naming gamitin o ibunyag ang impormasyon kung kinakailangan ng batas o upang protektahan ang aming mga karapatan, kaligtasan, o ari-arian."
+          }
+        ]
+      },
+      {
+        "id": "data-retention",
+        "icon": "🗄️",
+        "title": "Pagpapanatili at Pagbura ng Data",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Mga Na-upload na File",
+            "text": "Lahat ng na-upload na PDF file at ang nabuo nitong pinagsamang PDF ay awtomatikong binubura mula sa aming mga server sa loob ng isang (1) oras ng pagproseso. Hindi namin pinananatili ang anumang kopya ng iyong mga file."
+          },
+          {
+            "type": "subsection",
+            "title": "Ibang Data",
+            "text": "Ang hindi personal na data (hal., estadistika ng paggamit) ay maaaring panatilihin hangga't kinakailangan upang mapabuti ang Site o sumunod sa mga legal na obligasyon."
+          }
+        ]
+      },
+      {
+        "id": "data-sharing",
+        "icon": "🤝",
+        "title": "Pagbabahagi ng Data",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Walang Pagbabahagi sa Ibang Partido",
+            "text": "Hindi namin ibinebenta, ibinabahagi, o inililipat ang iyong mga na-upload na file o personal na impormasyon sa ibang partido, maliban kung hinihiling ng batas o upang protektahan ang aming mga karapatan."
+          },
+          {
+            "type": "subsection",
+            "title": "Mga Tagapagbigay ng Serbisyo",
+            "text": "Maaari kaming gumamit ng third-party na tagapagbigay ng serbisyo (hal., hosting o analytics provider) upang patakbuhin ang Site. May mga obligasyong panatilihin ang pagiging kumpidensyal ang mga tagapagbigay na ito at maaari lamang silang magproseso ng data sa aming ngalan."
+          }
+        ]
+      },
+      {
+        "id": "data-security",
+        "icon": "🔒",
+        "title": "Seguridad ng Data",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Nagpapatupad kami ng makatwirang teknikal at pang-organisasyong hakbang upang protektahan ang iyong data mula sa hindi awtorisadong pag-access, pagkawala, o maling paggamit. Gayunpaman, walang online na serbisyo ang ganap na ligtas, at hindi namin magagarantiya ang ganap na seguridad."
+          }
+        ]
+      },
+      {
+        "id": "international-transfers",
+        "icon": "🌍",
+        "title": "Paglipat ng Data Internasyonal",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Kung ikaw ay nasa labas ng Indonesia, maaaring ilipat at iproseso ang iyong data sa Indonesia o sa ibang bansa kung saan matatagpuan ang aming mga server o tagapagbigay ng serbisyo. Tinitiyak naming may naaangkop na mga pananggalang para sa mga paglipat na ito."
+          }
+        ]
+      },
+      {
+        "id": "your-rights",
+        "icon": "⚖️",
+        "title": "Ang Iyong Mga Karapatan",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Depende sa iyong lokasyon, maaari kang magkaroon ng mga karapatan sa ilalim ng naaangkop na mga batas sa proteksyon ng data, tulad ng:"
+          },
+          {
+            "type": "list",
+            "items": [
+              "Humiling ng access o pagbura ng iyong data",
+              "Tutulan o limitahan ang ilang uri ng pagproseso ng data"
+            ]
+          },
+          {
+            "type": "highlight",
+            "text": "Upang gamitin ang mga karapatang ito, makipag-ugnayan sa amin sa admin@gabungpdf.id. Tandaan na dahil binubura namin ang mga file sa loob ng isang oras, maaaring wala kaming personal na data na maibibigay."
+          }
+        ]
+      },
+      {
+        "id": "third-party-links",
+        "icon": "🔗",
+        "title": "Mga Link ng Third-Party",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Maaaring maglaman ang Site ng mga link sa mga website ng third-party. Hindi kami responsable para sa mga gawi sa privacy o nilalaman ng mga site na iyon."
+          }
+        ]
+      },
+      {
+        "id": "children",
+        "icon": "👶",
+        "title": "Privacy ng Mga Bata",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Ang Site na ito ay hindi inilaan para sa mga gumagamit na wala pang 18 taong gulang. Hindi kami sinasadyang nangongolekta ng personal na impormasyon mula sa mga bata."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Mga Pagbabago sa Patakaran na Ito",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Maaari naming i-update ang Patakaran sa Privacy na ito paminsan-minsan. Ang mga pagbabago ay ipo-post sa pahinang ito kasama ang na-update na \"Huling Na-update\" na petsa."
+          },
+          {
+            "type": "highlight",
+            "text": "Ang iyong patuloy na paggamit ng Site pagkatapos ng mga pagbabago ay ituturing na pagtanggap sa na-update na Patakaran sa Privacy."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Makipag-ugnayan sa Amin",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Kung mayroon kang mga tanong tungkol sa Patakaran sa Privacy na ito, mangyaring makipag-ugnayan sa amin sa admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Ang Aming Pangako sa Pagkapribado",
+      "desc": "Seriyoso kami sa iyong pagkapribado. Narito kung bakit mapagkakatiwalaan ang aming serbisyo",
+      "points": [
+        {
+          "title": "Awtomatikong Pagtanggal",
+          "desc": "Ang mga file ay awtomatikong tinatanggal sa loob ng 1 oras"
+        },
+        {
+          "title": "Encrypted na Paglipat",
+          "desc": "Lahat ng mga upload ay gumagamit ng secure na HTTPS encryption"
+        },
+        {
+          "title": "Walang Pagbasa ng File",
+          "desc": "Hindi namin kailanman ina-access o binabasa ang nilalaman ng iyong mga file"
+        },
+        {
+          "title": "Walang Pagbabahagi",
+          "desc": "Ang iyong mga file ay hindi kailanman ibinabahagi sa mga third party"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "May Mga Tanong Ka Ba?",
+      "description": "Narito kami upang tumulong sa anumang alalahanin o tanong tungkol sa privacy.",
+      "links": [
+        {
+          "label": "Mga Tuntunin ng Serbisyo",
+          "href": "/terms-of-service",
+          "icon": "📄"
+        },
+        {
+          "label": "Makipag-ugnayan sa Aming Koponan",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Terms": {
+    "UpperSec": {
+      "tableOfContents": {
+        "title": "Talaan ng Nilalaman",
+        "items": [
+          {
+            "icon": "✅",
+            "label": "Pagtanggap sa mga Tuntunin",
+            "target": "acceptance"
+          },
+          {
+            "icon": "🔧",
+            "label": "Paggamit ng Website",
+            "target": "use-of-site"
+          },
+          {
+            "icon": "📁",
+            "label": "Mga File ng Gumagamit",
+            "target": "user-files"
+          },
+          {
+            "icon": "©️",
+            "label": "Karantaduhang Ari-arian",
+            "target": "intellectual-property"
+          },
+          {
+            "icon": "⚠️",
+            "label": "Limitasyon ng Pananagutan",
+            "target": "limitation-liability"
+          },
+          {
+            "icon": "⚖️",
+            "label": "Bayad-Pinsala",
+            "target": "indemnification"
+          },
+          {
+            "icon": "🚫",
+            "label": "Pagwawakas",
+            "target": "termination"
+          },
+          {
+            "icon": "🏛️",
+            "label": "Namamahalang Batas",
+            "target": "governing-law"
+          },
+          {
+            "icon": "🔄",
+            "label": "Mga Pagbabago sa Tuntunin",
+            "target": "changes"
+          },
+          {
+            "icon": "📧",
+            "label": "Makipag-ugnayan sa Amin",
+            "target": "contact"
+          }
+        ]
+      },
+      "termsSummary": {
+        "title": "Buod ng mga Tuntunin",
+        "points": [
+          "Libreng serbisyo sa pagsasama ng PDF",
+          "Dapat 18+ taong gulang para magamit",
+          "Mga file ay binubura sa loob ng 1 oras",
+          "Gamitin lamang para sa legal na layunin"
+        ]
+      }
+    },
+    "sections": [
+      {
+        "id": "acceptance",
+        "icon": "✅",
+        "title": "Pagtanggap sa mga Tuntunin",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Maligayang pagdating sa www.gabungpdf.id (\"ang Website\"), isang serbisyo mula sa Gabung PDF (\"kami\"). Ang Mga Tuntunin ng Serbisyo (\"Mga Tuntunin\") na ito ang namamahala sa iyong paggamit ng Website at ng mga serbisyo sa pagsasama ng PDF. Sa pamamagitan ng paggamit ng Website, ikaw ay sumasang-ayon sa mga tuntuning ito."
+          },
+          {
+            "type": "highlight",
+            "title": "Mahalagang Kasunduan:",
+            "text": "Kung hindi ka sumasang-ayon sa mga Tuntunin na ito, huwag gamitin ang Website."
+          }
+        ]
+      },
+      {
+        "id": "use-of-site",
+        "icon": "🔧",
+        "title": "Paggamit ng Website",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Karapat-dapat Gumamit",
+            "text": "Dapat ikaw ay hindi bababa sa 18 taong gulang o may legal na kapasidad na pumasok sa kasunduang ito upang gamitin ang Website."
+          },
+          {
+            "type": "subsection",
+            "title": "Pinapayagang Paggamit",
+            "text": "Pinapayagan ka ng Website na mag-upload ng mga PDF file, pagsamahin ang mga ito sa isang PDF, at i-download ang resulta. Maaari mo lamang gamitin ang Website para sa mga legal na layunin at ayon sa mga Tuntunin na ito."
+          },
+          {
+            "type": "subsection",
+            "title": "Ipinagbabawal na Paggamit",
+            "text": "Hindi ka pinapayagan na:",
+            "list": [
+              "Mag-upload ng mga file na may virus, malware, o iba pang mapanganib na code",
+              "Gamitin ang Website upang lumabag sa anumang batas, regulasyon, o karapatan ng ikatlong partido",
+              "Subukang gambalain, sirain, o i-reverse-engineer ang functionality ng Website",
+              "Gamitin ang Website para sa komersyal na layunin nang walang nakasulat naming pahintulot"
+            ]
+          }
+        ]
+      },
+      {
+        "id": "user-files",
+        "icon": "📁",
+        "title": "Mga File ng Gumagamit",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Pansamantalang Pagpoproseso",
+            "text": "Ang mga file na iyong ina-upload ay ipoproseso upang pagsamahin ang PDF at awtomatikong mabubura mula sa aming mga server sa loob ng isang (1) oras pagkatapos ng proseso. Hindi namin itinatago o pinapanatili ang iyong mga file lampas sa panahong ito."
+          },
+          {
+            "type": "subsection",
+            "title": "Iyong Pananagutan",
+            "text": "Ikaw lamang ang responsable sa nilalaman ng mga file na iyong ina-upload. Dapat mong tiyakin na may karapatan kang i-upload at iproseso ang mga file na ito at hindi sila lumalabag sa anumang karapatan ng iba (hal. copyright, trademark)."
+          }
+        ]
+      },
+      {
+        "id": "intellectual-property",
+        "icon": "©️",
+        "title": "Karantaduhang Ari-arian",
+        "content": [
+          {
+            "type": "subsection",
+            "title": "Nilalaman ng Website",
+            "text": "Ang lahat ng nilalaman sa Website, kabilang ang mga teksto, grapiko, logo, at software, ay pag-aari namin o aming mga lisensyado at protektado sa ilalim ng mga batas sa karapatang-ari."
+          },
+          {
+            "type": "subsection",
+            "title": "Nilalaman ng Gumagamit",
+            "text": "Ikaw pa rin ang may-ari ng mga file na iyong ina-upload. Sa pag-upload, binibigyan mo kami ng limitadong, hindi eksklusibo, walang bayad na lisensya upang iproseso ang iyong mga file para lamang magbigay ng serbisyo sa pagsasama ng PDF."
+          }
+        ]
+      },
+      {
+        "id": "limitation-liability",
+        "icon": "⚠️",
+        "title": "Limitasyon ng Pananagutan",
+        "content": [
+          {
+            "type": "highlight",
+            "title": "Walang Warranty",
+            "text": "Ang Website ay ibinibigay \"as is\" nang walang anumang warranty, tahasan man o ipinahiwatig, kabilang ang pagiging akma sa kalakalan, pagiging akma para sa partikular na layunin, o hindi paglabag."
+          },
+          {
+            "type": "subsection",
+            "title": "Hangganan ng Pananagutan",
+            "text": "Sa pinakamalawak na pinapahintulutan ng batas, hindi kami mananagot para sa anumang hindi tuwiran, insidental, espesyal, o kahinatnang pinsala na dulot ng paggamit mo ng Website, kahit kami ay naabisuhan na ng posibilidad ng mga pinsalang ito."
+          },
+          {
+            "type": "subsection",
+            "title": "Pagkagambala ng Serbisyo",
+            "text": "Hindi namin ginagarantiyahan ang tuluy-tuloy o walang pagkakamaling access sa Website at hindi kami mananagot sa anumang pagkaantala, downtime, o pagkawala ng data."
+          }
+        ]
+      },
+      {
+        "id": "indemnification",
+        "icon": "⚖️",
+        "title": "Bayad-Pinsala",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Sumasang-ayon kang bayaran at ipagtanggol kami mula sa anumang mga paghahabol, pagkawala, o pinsala, kabilang ang mga legal na bayarin, na dulot ng iyong paggamit ng Website, iyong mga na-upload na file, o paglabag mo sa mga Tuntunin na ito."
+          }
+        ]
+      },
+      {
+        "id": "termination",
+        "icon": "🚫",
+        "title": "Pagwawakas",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Maari naming suspindihin o wakasan ang iyong access sa Website sa aming sariling pagpapasya, nang walang abiso, kung nilabag mo ang mga Tuntunin na ito o sa anumang iba pang dahilan."
+          }
+        ]
+      },
+      {
+        "id": "governing-law",
+        "icon": "🏛️",
+        "title": "Namamahalang Batas",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Ang mga Tuntunin na ito ay pinamamahalaan ng batas ng Indonesia, nang walang pagsasaalang-alang sa mga prinsipyo ng banggaan ng batas. Ang anumang pagtatalo na magmumula rito ay lulutasin sa mga korte ng Indonesia."
+          }
+        ]
+      },
+      {
+        "id": "changes",
+        "icon": "🔄",
+        "title": "Mga Pagbabago sa Tuntunin",
+        "content": [
+          {
+            "type": "paragraph",
+            "text": "Maaring i-update namin paminsan-minsan ang mga Tuntunin na ito. Ang mga pagbabago ay ipo-post sa pahinang ito na may bagong \"Huling Nai-update\" na petsa."
+          },
+          {
+            "type": "highlight",
+            "text": "Ang patuloy mong paggamit ng Website pagkatapos ng mga pagbabago ay ituturing bilang pagtanggap sa na-update na mga Tuntunin."
+          }
+        ]
+      },
+      {
+        "id": "contact",
+        "icon": "📧",
+        "title": "Makipag-ugnayan sa Amin",
+        "content": [
+          {
+            "type": "highlight",
+            "text": "Kung mayroon kang mga katanungan tungkol sa mga Tuntunin na ito, makipag-ugnayan sa amin sa admin@gabungpdf.id"
+          }
+        ]
+      }
+    ],
+    "sections2": {
+      "title": "Mga Pangunahing Punto ng Kasunduan",
+      "desc": "Unawain ang iyong mga karapatan at responsibilidad kapag ginagamit ang aming serbisyo.",
+      "points": [
+        {
+          "title": "Makatarungang Paggamit",
+          "desc": "Gamitin ang aming serbisyo nang responsable at ayon sa batas"
+        },
+        {
+          "title": "Iyong Mga File",
+          "desc": "Ikaw ang may-ari ng lahat ng mga na-upload na file"
+        },
+        {
+          "title": "Walang Pang-aabuso",
+          "desc": "Ang ipinagbabawal na paggamit ay magreresulta sa pagtigil ng serbisyo"
+        },
+        {
+          "title": "Limitadong Pananagutan",
+          "desc": "Ang serbisyo ay ibinibigay 'as is' nang walang mga garantiya"
+        }
+      ]
+    },
+    "footer": {
+      "heading": "May mga Katanungan?",
+      "description": "Narito kami upang tumulong sa anumang katanungan tungkol sa serbisyo o tuntunin.",
+      "links": [
+        {
+          "label": "Patakaran sa Privacy",
+          "href": "/privacy-policy",
+          "icon": "🔒"
+        },
+        {
+          "label": "Makipag-ugnayan sa Legal na Koponan",
+          "href": "mailto:admin@gabungpdf.id",
+          "icon": "✉️"
+        }
+      ]
+    }
+  },
+  "Content": {
+    "Policy": {
+      "title": "Patakaran sa Privacy",
+      "desc": "Kami ay nakatuon sa pagprotekta sa iyong privacy at pagtiyak ng seguridad ng iyong mga file. Alamin kung paano namin kinokolekta, ginagamit, at pinoprotektahan ang iyong impormasyon kapag ginamit mo ang aming serbisyo sa pagsasama ng PDF.",
+      "Updated": "Huling Na-update:",
+      "date": "Hunyo 6, 2025"
+    },
+    "Terms": {
+      "title": "Mga Tuntunin ng Serbisyo",
+      "desc": "Ang mga tuntuning ito ang namamahala sa paggamit mo ng aming serbisyo sa pagsasama ng PDF. Mangyaring basahin nang mabuti bago gamitin ang aming site.",
+      "Updated": "Huling Na-update:",
+      "date": "Hunyo 6, 2025"
+    }
+  },
+  "MiniFooter": {
+    "heading": "Handa ka na bang ligtas na pagsamahin ang iyong mga PDF?",
+    "subheading": "Mararanasan mo ang aming serbisyo sa pagsasama ng PDF na nakatuon sa privacy nang may ganap na kapanatagan ng loob.",
+    "button": "Pagsamahin ang mga PDF Ngayon"
+  },
+  "Seo": {
+    "Home": {
+      "title": "Pagsamahin ang PDF Online nang Libre - Madali at Mabilis na Pagsasama ng PDF",
+      "description": "Pagsamahin ang mga dokumentong PDF online nang libre gamit ang GabungPDF.id. Madaling gamitin na tagapagsama ng PDF, walang kailangang i-install, walang rehistrasyon. Pagsamahin agad ang mga PDF!"
+    },
+    "CombinePdf": {
+      "title": "Pagsamahin ang mga PDF Online nang Libre - Mabilis at Madaling Tagapagsama ng PDF",
+      "description": "Pagsamahin ang mga PDF online nang libre gamit ang GabungPDF.id. Mabilis at madaling gamitin na tagapagsama ng PDF na walang kailangang rehistro o pag-install. Pagsamahin ang mga PDF ngayon!"
+    },
+    "Blog": {
+    "title": "Combine PDFs Blog: Mga Tip at Gabay sa Pagsasama ng PDF",
+    "description": "Tuklasin ang blog ng Gabung PDF para sa mga ekspertong tip sa pagsasama ng PDF, mga tutorial, at mga tool upang mapadali ang iyong mga gawain sa PDF. Basahin ngayon para sa mga kaalaman!"
+  },
+
+    "Blog1": {
+      "title": "Pinakamadaling Paraan para Pagsamahin ang mga PDF | Pagsamahin ang PDF",
+      "description": "Alamin ang pinakamadaling paraan para pagsamahin ang mga PDF gamit ang Gabung PDF. Libre, mabilis, at user-friendly na tool para sa tuluy-tuloy na pagsasama ng PDF. Subukan na!"
+    },
+    "Blog2": {
+      "title": "Pinakamahusay na Tool para Pagsamahin ang mga PDF | Pagsamahin ang PDF",
+      "description": "Ang Gabung PDF ang pinakamahusay na tool para pagsamahin ang mga PDF online. Mabilis, ligtas, at libre. Pagsamahin ang mga PDF nang madali ngayon!"
+    },
+    "privacyPolicy": {
+      "title": "Patakaran sa Privacy ng Gabung PDF | Ligtas na Pagsasama ng PDF",
+      "description": "Basahin ang patakaran sa privacy ng Gabung PDF upang maunawaan kung paano namin pinoprotektahan ang iyong data habang ligtas na pinagsasama ang mga PDF online. Alamin pa ngayon."
+    },
+    "TermsAndCondition": {
+      "title": "Mga Tuntunin ng Serbisyo ng Gabung PDF | Pagsasama ng PDF",
+      "description": "Suriin ang mga tuntunin ng serbisyo ng Gabung PDF para sa paggamit ng aming libreng, ligtas na online na tool sa pagsasama ng PDF. Unawain ang aming mga patakaran ngayon."
+    }
+  }
+}
