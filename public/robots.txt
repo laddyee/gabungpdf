@@ -1,0 +1,9 @@
+# *
+User-agent: *
+Allow: /
+
+# Host
+Host: https://www.gabungpdf.id
+
+# Sitemaps
+Sitemap: https://www.gabungpdf.id/sitemap.xml
