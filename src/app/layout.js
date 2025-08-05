@@ -20,6 +20,14 @@ export default function RootLayout({ children }) {
 
   return (
     <html lang="en" className={figtree.variable} suppressHydrationWarning>
+    <head>
+            {/* Canonical URL dynamic */}
+            <link
+              rel="canonical"
+              href={`https://www.gabungpdf.id`}
+              key="canonical"
+            />
+          </head>
       <body suppressHydrationWarning>
         <ThemeProvider defaultTheme="light">
           <LanguageProvider>

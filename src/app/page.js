@@ -4,7 +4,7 @@ import { usePathname } from "next/navigation";
 import { useLanguage } from "../../lib/languageContext";
 import HeroSection from "@/Components/Home/HeroSection/HeroSection";
 import Instructions from "@/Components/Home/Instruction/Instructions";
-import Head from 'next/head';
+
 
 
 export default function Home() {
@@ -45,14 +45,6 @@ export default function Home() {
   }
   return (
     <>
-      <Head>
-        {/* Canonical URL dynamic */}
-        <link
-          rel="canonical"
-          href={`https://www.gabungpdf.id`}
-          key="canonical"
-        />
-      </Head>
     <section className="min-h-screen bg-background text-foreground">
       <HeroSection lang={currentLang} dict={dict} />
       <Instructions lang={currentLang} dict={dict} />
