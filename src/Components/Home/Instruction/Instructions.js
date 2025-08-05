@@ -22,13 +22,13 @@ const Instructions = ({ dict }) => {
           ))}
         </ul>
 
-        <p>
+        {/* <p>
           With a tool like{" "}
           <Link target="_blank" rel="noopener noreferrer nofollow" href="/combine-pdf">
             gabungPDF.id
           </Link>
           , you can <strong>gabung PDF</strong> (merge PDF in Indonesian) quickly…
-        </p>
+        </p> */}
 
         <h2>{dict.home.steps.title}</h2>
         {html(dict.home.steps.intro)}
