@@ -20,6 +20,9 @@ export async function generateMetadata({ params }) {
         description: isBlog1
             ? dict.Seo.Blog1?.description || "Default description"
             : dict.Seo.Blog2?.description || "Default description",
+         alternates: {
+      canonical: `https://www.gabungpdf.id/${lang}/blog/${params.slug}`,
+    },
     };
 }
 

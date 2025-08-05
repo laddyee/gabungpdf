@@ -14,20 +14,22 @@ export const metadata = {
   title: "Combine PDF Files Online - Free, Fast and Secure - GABUNG PDF",
   description:
     "Combine PDFs easily with GabungPDF.id! Free, fast, secure online tool to merge PDF files in seconds. No registration needed.",
+   alternates: {
+      canonical: `https://www.gabungpdf.id`,
+    },
 };
 
 export default function RootLayout({ children }) {
 
   return (
     <html lang="en" className={figtree.variable} suppressHydrationWarning>
-    <head>
-            {/* Canonical URL dynamic */}
+    {/* <head>
             <link
               rel="canonical"
               href={`https://www.gabungpdf.id`}
               key="canonical"
             />
-          </head>
+          </head> */}
       <body suppressHydrationWarning>
         <ThemeProvider defaultTheme="light">
           <LanguageProvider>

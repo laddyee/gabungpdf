@@ -10,6 +10,9 @@ export async function generateMetadata({ params }) {
   return {
     title: dict.Seo.TermsAndCondition?.title  || "Default Title",
     description: dict.Seo.TermsAndCondition?.description || "Default description",
+     alternates: {
+      canonical: `https://www.gabungpdf.id/${lang}/terms-of-service`,
+    },
   };
 }
 

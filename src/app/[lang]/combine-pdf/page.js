@@ -10,6 +10,9 @@ export async function generateMetadata({ params }) {
   return {
     title: dict.Seo.CombinePdf?.title || "Default Title",
     description: dict.Seo.CombinePdf?.description || "Default description",
+     alternates: {
+      canonical: `https://www.gabungpdf.id/${lang}/combine-pdf`,
+    },
   };
 }
 

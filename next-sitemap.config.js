@@ -51,7 +51,7 @@ module.exports = {
 
   // ✅ Optional SEO values
   changefreq: 'daily',
-  priority: 0.7,
+  priority: 0.8,
 
   // ✅ Add dynamic pages manually
   additionalPaths: async () => {
@@ -61,6 +61,8 @@ module.exports = {
       '/privacy-policy',
       '/terms-of-service',
       '/blog',
+      '/blog/gabungpdfid-the-easiest-way-to-combine-pdf-files',
+      '/blog/gabungpdfid-the-ultimate-tool-to-combine-pdf-files'
     ];
 
     const paths = [];
@@ -70,7 +72,7 @@ module.exports = {
         paths.push({
           loc: `/${lang}${path === '/' ? '' : path}`,
           changefreq: 'daily',
-          priority: 0.7,
+          priority: 0.8,
           lastmod: new Date().toISOString(),
         });
       }

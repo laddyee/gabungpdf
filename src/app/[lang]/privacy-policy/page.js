@@ -10,6 +10,9 @@ export async function generateMetadata({ params }) {
   return {
     title: dict.Seo.privacyPolicy?.title  || "Default Title",
     description: dict.Seo.privacyPolicy?.description || "Default description",
+     alternates: {
+      canonical: `https://www.gabungpdf.id/${lang}/privacy-policy`,
+    },
   };
 }
 
