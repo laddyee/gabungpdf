@@ -357,7 +357,7 @@ const CombinePdfForm = ({dict}) => {
               <div className="mb-6 ">
                 <div className="flex justify-between items-center mb-3">
                   <h3 className="text-lg font-semibold text-gray-900 dark:text-white">
-                    Selected Files ({files.length})
+                    {dict.DownlaodModal.SelectedFiles} ({files.length})
                   </h3>
                   <button
                     onClick={clearFiles}
@@ -365,7 +365,7 @@ const CombinePdfForm = ({dict}) => {
                     type="button"
                     className="text-sm text-red-600 dark:text-red-400 hover:text-red-800 dark:hover:text-red-300"
                   >
-                    Clear All
+                   {dict.DownlaodModal.Clear}
                   </button>
                 </div>
                 <div className="overflow-y-auto  space-y-2 max-h-60">
@@ -513,33 +513,33 @@ const CombinePdfForm = ({dict}) => {
                 ></path>
               </svg>
               <h3 className="text-lg font-semibold !text-green-800 dark:text-green-300">
-                PDFs Combined Successfully!
+                {dict.DownlaodModal.PDFCombinedSuccessfully}!
               </h3>
             </div>
             <div className="mb-4 space-y-2 text-sm !text-green-700 dark:text-green-300">
               <p className="!text-green-700">
-                <strong className="!text-green-700">Files merged:</strong>{" "}
+                <strong className="!text-green-700">{dict.DownlaodModal.FilesMerged}:</strong>{" "}
                 {result.fileCount}
               </p>
               <p className="!text-green-700">
-                <strong className="!text-green-700">Total pages:</strong>{" "}
+                <strong className="!text-green-700">{dict.DownlaodModal.TotalPages}:</strong>{" "}
                 {result.totalPages}
               </p>
               {result.encryptedFilesProcessed > 0 && (
                 <p className="!text-green-700">
                   <strong className="!text-green-700">
-                    Encrypted files processed:
+                    {dict.DownlaodModal.EncryptedFiles}:
                   </strong>{" "}
                   {result.encryptedFilesProcessed}
                 </p>
               )}
 
               <p className="!text-green-700">
-                <strong className="!text-green-700">Filename:</strong>{" "}
+                <strong className="!text-green-700">{dict.DownlaodModal.Filename}:</strong>{" "}
                 {result.filename}
               </p>
               <p className="!text-green-700">
-                <strong className="!text-green-700">Size:</strong> (
+                <strong className="!text-green-700">{dict.DownlaodModal.Size}:</strong> (
                 {formatFileSize(result.size)})
               </p>
             </div>
@@ -560,7 +560,7 @@ const CombinePdfForm = ({dict}) => {
                   d="M12 10v6m0 0l-4-4m4 4l4-4m-4-4V3"
                 ></path>
               </svg>
-              Download Merged PDF
+              {dict.DownlaodModal.DownloadMergedPDF}
             </button>
           </div>
         )}

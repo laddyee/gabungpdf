@@ -1306,5 +1306,17 @@
       "description": "Review Gabung PDF’s terms of service for using our free, secure online PDF merging tool. Understand our policies today."
     }
  
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully" : "PDFs Combined Successfully",
+    "FilesMerged": "Files merged",
+    "TotalPages" : "Total pages",
+    "Filename": "Filename",
+    "Size": "Size",
+    "EncryptedFiles" : "Encrypted files processed",
+    "DownloadMergedPDF" : "Download Merged PDF",
+    "SelectedFiles" : "Selected Files",
+    "Clear" : "Clear All"
   }
+ 
 }
