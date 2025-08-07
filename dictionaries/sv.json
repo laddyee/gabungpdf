@@ -1280,10 +1280,10 @@
       "title": "Kombinera PDF-filer Online Gratis - Snabb och Enkel PDF-sammanslagning",
       "description": "Kombinera PDF-filer online gratis med GabungPDF.id. Snabb och lättanvänd PDF-sammanslagare utan registrering eller installation. Slå ihop PDF:er nu!"
     },
-     "Blog": {
-    "title": "Blogg om att kombinera PDF-filer: Tips & guider för PDF-sammanslagning",
-    "description": "Utforska Gabung PDFs blogg för expert tips om att slå ihop PDF-filer, tutorials och verktyg för att förenkla dina PDF-uppgifter. Läs nu för insikter!"
-  },
+    "Blog": {
+      "title": "Blogg om att kombinera PDF-filer: Tips & guider för PDF-sammanslagning",
+      "description": "Utforska Gabung PDFs blogg för expert tips om att slå ihop PDF-filer, tutorials och verktyg för att förenkla dina PDF-uppgifter. Läs nu för insikter!"
+    },
     "Blog1": {
       "title": "Det Enklaste Sättet att Kombinera PDF-filer | Slå ihop PDF:er",
       "description": "Upptäck det enklaste sättet att kombinera PDF-filer med Gabung PDF. Gratis, snabbt och användarvänligt verktyg för smidig PDF-sammanslagning. Prova nu!"
@@ -1300,5 +1300,16 @@
       "title": "Gabung PDF Användarvillkor | PDF-sammanslagning",
       "description": "Granska Gabung PDFs användarvillkor för att använda vårt kostnadsfria och säkra PDF-sammanslagningsverktyg online. Förstå våra riktlinjer idag."
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "PDF-filer kombinerades framgångsrikt",
+    "FilesMerged": "Filer sammanslagna",
+    "TotalPages": "Totalt antal sidor",
+    "Filename": "Filnamn",
+    "Size": "Storlek",
+    "EncryptedFiles": "Behandlade krypterade filer",
+    "DownloadMergedPDF": "Ladda ner sammanfogat PDF",
+    "SelectedFiles": "Valda filer",
+    "Clear": "Rensa alla"
   }
 }

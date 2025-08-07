@@ -1281,9 +1281,9 @@
       "description": "Combina fitxers PDF en línia de manera gratuïta amb GabungPDF.id. Combinador de PDF ràpid i fàcil d'utilitzar, sense necessitat de registre ni instal·lació. Fusiona els teus PDFs ara!"
     },
     "Blog": {
-    "title": "Bloc de combinació de PDFs: Consells i guies per fusionar PDFs",
-    "description": "Explora el blog de Gabung PDF per obtenir consells d'experts sobre la fusió de PDFs, tutorials i eines per simplificar les teves tasques amb PDFs. Llegeix ara per obtenir informació!"
-  },
+      "title": "Bloc de combinació de PDFs: Consells i guies per fusionar PDFs",
+      "description": "Explora el blog de Gabung PDF per obtenir consells d'experts sobre la fusió de PDFs, tutorials i eines per simplificar les teves tasques amb PDFs. Llegeix ara per obtenir informació!"
+    },
     "Blog1": {
       "title": "La manera més fàcil de combinar fitxers PDF | Uneix PDFs",
       "description": "Descobreix la manera més fàcil de combinar fitxers PDF amb Gabung PDF. Eina gratuïta, ràpida i fàcil d'utilitzar per a una fusió fluida de PDFs. Prova-ho ara!"
@@ -1300,5 +1300,16 @@
       "title": "Condicions del servei de Gabung PDF | Fusió de PDFs",
       "description": "Revisa les condicions del servei de Gabung PDF per utilitzar la nostra eina gratuïta i segura per combinar PDFs en línia. Entén les nostres polítiques avui mateix."
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "PDF combinats amb èxit",
+    "FilesMerged": "Fitxers combinats",
+    "TotalPages": "Pàgines totals",
+    "Filename": "Nom de fitxer",
+    "Size": "Mida",
+    "EncryptedFiles": "Fitxers xifrats processats",
+    "DownloadMergedPDF": "Descarregar PDF combinat",
+    "SelectedFiles": "Fitxers seleccionats",
+    "Clear": "Esborrar tot"
   }
 }

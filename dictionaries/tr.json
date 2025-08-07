@@ -1281,9 +1281,9 @@
       "description": "GabungPDF.id ile PDF dosyalarını çevrimiçi olarak ücretsiz birleştirin. Kayıt veya kurulum gerektirmeyen hızlı ve kolay PDF birleştirici. Hemen PDF'leri birleştirin!"
     },
     "Blog": {
-    "title": "PDF Birleştirme Blogu: PDF Birleştirme İpuçları ve Kılavuzları",
-    "description": "Gabung PDF blogunu keşfedin; PDF birleştirme uzman ipuçları, eğitimler ve PDF görevlerinizi basitleştiren araçlar. Şimdi okuyun!"
-  },
+      "title": "PDF Birleştirme Blogu: PDF Birleştirme İpuçları ve Kılavuzları",
+      "description": "Gabung PDF blogunu keşfedin; PDF birleştirme uzman ipuçları, eğitimler ve PDF görevlerinizi basitleştiren araçlar. Şimdi okuyun!"
+    },
     "Blog1": {
       "title": "PDF Dosyalarını Birleştirmenin En Kolay Yolu | PDF Birleştir",
       "description": "Gabung PDF ile PDF dosyalarını birleştirmenin en kolay yolunu keşfedin. Ücretsiz, hızlı ve kullanıcı dostu araç ile sorunsuz PDF birleştirme. Hemen deneyin!"
@@ -1300,5 +1300,16 @@
       "title": "Gabung PDF Hizmet Şartları | PDF Birleştirme",
       "description": "Ücretsiz ve güvenli çevrimiçi PDF birleştirme aracımızı kullanmadan önce Gabung PDF’in hizmet şartlarını inceleyin. Politikalarımızı şimdi anlayın."
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "PDF'ler başarıyla birleştirildi",
+    "FilesMerged": "Dosyalar birleştirildi",
+    "TotalPages": "Toplam sayfa",
+    "Filename": "Dosya adı",
+    "Size": "Boyut",
+    "EncryptedFiles": "Şifreli dosyalar işlendi",
+    "DownloadMergedPDF": "Birleştirilmiş PDF'i indir",
+    "SelectedFiles": "Seçili dosyalar",
+    "Clear": "Tümünü temizle"
   }
 }

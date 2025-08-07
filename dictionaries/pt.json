@@ -1282,9 +1282,9 @@
       "description": "Combine PDFs online gratuitamente com o GabungPDF.id. Ferramenta rápida e fácil de usar, sem necessidade de registro ou instalação. Una seus PDFs agora!"
     },
     "Blog": {
-    "title": "Blog Combine PDFs: Dicas e Guias para Mesclar PDFs",
-    "description": "Explore o blog do Gabung PDF para obter dicas de especialistas sobre mesclagem de PDFs, tutoriais e ferramentas para simplificar suas tarefas com PDF. Leia agora para obter insights!"
-  },
+      "title": "Blog Combine PDFs: Dicas e Guias para Mesclar PDFs",
+      "description": "Explore o blog do Gabung PDF para obter dicas de especialistas sobre mesclagem de PDFs, tutoriais e ferramentas para simplificar suas tarefas com PDF. Leia agora para obter insights!"
+    },
     "Blog1": {
       "title": "A Maneira Mais Fácil de Combinar Arquivos PDF | Unir PDFs",
       "description": "Descubra a maneira mais fácil de combinar arquivos PDF com o Gabung PDF. Ferramenta gratuita, rápida e amigável para uma fusão de PDF sem complicações. Experimente!"
@@ -1301,5 +1301,16 @@
       "title": "Termos de Serviço do Gabung PDF | Combinação de PDFs",
       "description": "Consulte os termos de serviço do Gabung PDF para utilizar nossa ferramenta gratuita e segura de combinação de PDFs online. Entenda nossas políticas hoje mesmo."
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "PDFs combinados com sucesso",
+    "FilesMerged": "Arquivos mesclados",
+    "TotalPages": "Páginas totais",
+    "Filename": "Nome do arquivo",
+    "Size": "Tamanho",
+    "EncryptedFiles": "Arquivos criptografados processados",
+    "DownloadMergedPDF": "Baixar PDF mesclado",
+    "SelectedFiles": "Arquivos selecionados",
+    "Clear": "Limpar tudo"
   }
 }

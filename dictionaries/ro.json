@@ -1282,10 +1282,9 @@
       "description": "Combină PDF-uri online gratuit cu GabungPDF.id. Combinație de PDF rapidă și ușor de utilizat, fără înregistrare sau instalare. Începe să unești PDF-uri acum!"
     },
     "Blog": {
-    "title": "Blog despre combinarea PDF-urilor: Sfaturi și ghiduri pentru unirea PDF-urilor",
-    "description": "Explorați blogul Gabung PDF pentru sfaturi de experți despre combinarea PDF-urilor, tutoriale și instrumente care vă simplifică sarcinile cu PDF. Citiți acum pentru informații utile!"
-  },
-
+      "title": "Blog despre combinarea PDF-urilor: Sfaturi și ghiduri pentru unirea PDF-urilor",
+      "description": "Explorați blogul Gabung PDF pentru sfaturi de experți despre combinarea PDF-urilor, tutoriale și instrumente care vă simplifică sarcinile cu PDF. Citiți acum pentru informații utile!"
+    },
     "Blog1": {
       "title": "Cea Mai Ușoară Metodă de a Combina Fișiere PDF | Unește PDF-uri",
       "description": "Descoperă cea mai ușoară modalitate de a combina fișiere PDF cu Gabung PDF. Instrument gratuit, rapid și ușor de utilizat pentru îmbinarea PDF-urilor. Încearcă acum!"
@@ -1302,5 +1301,16 @@
       "title": "Termeni și Condiții Gabung PDF | Îmbinare PDF",
       "description": "Consultă termenii și condițiile de utilizare a instrumentului nostru online gratuit și sigur pentru combinarea fișierelor PDF. Înțelege politicile noastre astăzi."
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "PDF-urile au fost combinate cu succes",
+    "FilesMerged": "Fișierele au fost combinate",
+    "TotalPages": "Număr total de pagini",
+    "Filename": "Nume fișier",
+    "Size": "Dimensiune",
+    "EncryptedFiles": "Fișiere criptate procesate",
+    "DownloadMergedPDF": "Descarcă PDF-ul combinat",
+    "SelectedFiles": "Fișiere selectate",
+    "Clear": "Șterge tot"
   }
 }

@@ -1280,10 +1280,10 @@
       "title": "Spoji PDF Datoteke Online Besplatno - Brz i Jednostavan PDF Spajač",
       "description": "Kombinirajte PDF-ove besplatno online s GabungPDF.id. Brz i jednostavan alat za spajanje PDF-ova, bez potrebe za registracijom ili instalacijom. Spojite PDF-ove sada!"
     },
-     "Blog": {
-    "title": "Blog za spajanje PDF-ova: Savjeti i vodiči za spajanje PDF-ova",
-    "description": "Istražite blog Gabung PDF za stručne savjete o spajanju PDF-ova, tutorijale i alate za pojednostavljenje vaših PDF zadataka. Pročitajte sada!"
-  },
+    "Blog": {
+      "title": "Blog za spajanje PDF-ova: Savjeti i vodiči za spajanje PDF-ova",
+      "description": "Istražite blog Gabung PDF za stručne savjete o spajanju PDF-ova, tutorijale i alate za pojednostavljenje vaših PDF zadataka. Pročitajte sada!"
+    },
     "Blog1": {
       "title": "Najlakši Način za Spajanje PDF Datoteka | Spoji PDF-ove",
       "description": "Otkrijte najlakši način za spajanje PDF datoteka uz Gabung PDF. Besplatan, brz i jednostavan alat za besprijekorno spajanje PDF-ova. Isprobajte sada!"
@@ -1300,5 +1300,16 @@
       "title": "Gabung PDF Uvjeti Usluge | Spajanje PDF-ova",
       "description": "Pregledajte Gabung PDF uvjete korištenja za naš besplatan i siguran alat za online spajanje PDF-ova. Upoznajte se s našim pravilima danas."
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "PDF‑ovi su uspješno spojeni",
+    "FilesMerged": "Datoteke su spojene",
+    "TotalPages": "Ukupan broj stranica",
+    "Filename": "Naziv datoteke",
+    "Size": "Veličina",
+    "EncryptedFiles": "Šifrirane datoteke obrađene",
+    "DownloadMergedPDF": "Preuzmi spojeni PDF",
+    "SelectedFiles": "Odabrane datoteke",
+    "Clear": "Očisti sve"
   }
 }

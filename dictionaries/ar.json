@@ -1301,5 +1301,16 @@
       "title": "شروط الخدمة لـ Gabung PDF | دمج ملفات PDF",
       "description": "اطّلع على شروط الخدمة الخاصة بـ Gabung PDF لاستخدام أداتنا المجانية والآمنة لدمج ملفات PDF عبر الإنترنت. افهم سياساتنا اليوم."
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "تم دمج ملفات PDF بنجاح",
+    "FilesMerged": "تم دمج الملفات",
+    "TotalPages": "إجمالي الصفحات",
+    "Filename": "اسم الملف",
+    "Size": "الحجم",
+    "EncryptedFiles": "تمت معالجة الملفات المشفرة",
+    "DownloadMergedPDF": "تحميل ملف PDF المدمج",
+    "SelectedFiles": "الملفات المحددة",
+    "Clear": "مسح الكل"
   }
 }

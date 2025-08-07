@@ -1281,9 +1281,9 @@
       "description": "PDF-ek egyesítése ingyenesen online a GabungPDF.id segítségével. Gyors és egyszerűen használható PDF egyesítő, regisztráció vagy telepítés nélkül. Egyesítse most PDF-jeit!"
     },
     "Blog": {
-    "title": "PDF Egyesítő Blog: PDF Egyesítési Tippek és Útmutatók",
-    "description": "Fedezze fel a Gabung PDF blogját szakértői tippekért a PDF egyesítésről, oktatóanyagokat és eszközöket, amelyek megkönnyítik a PDF feladatokat. Olvassa el most!"
-  },
+      "title": "PDF Egyesítő Blog: PDF Egyesítési Tippek és Útmutatók",
+      "description": "Fedezze fel a Gabung PDF blogját szakértői tippekért a PDF egyesítésről, oktatóanyagokat és eszközöket, amelyek megkönnyítik a PDF feladatokat. Olvassa el most!"
+    },
     "Blog1": {
       "title": "A Legkönnyebb Mód PDF Fájlok Egyesítésére | PDF Összefűzés",
       "description": "Fedezze fel a legegyszerűbb módját a PDF fájlok egyesítésének a Gabung PDF segítségével. Ingyenes, gyors és felhasználóbarát eszköz a zökkenőmentes PDF egyesítéshez. Próbálja ki!"
@@ -1300,5 +1300,16 @@
       "title": "Gabung PDF Felhasználási Feltételek | PDF Egyesítés",
       "description": "Tekintse át a Gabung PDF felhasználási feltételeit, hogy megismerje ingyenes és biztonságos PDF egyesítő eszközünk szabályait. Ismerje meg szabályzatainkat még ma!"
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "PDF-ek sikeresen összevonva",
+    "FilesMerged": "Fájlok összevonva",
+    "TotalPages": "Összes oldal",
+    "Filename": "Fájlnév",
+    "Size": "Méret",
+    "EncryptedFiles": "Titkosított fájlok feldolgozva",
+    "DownloadMergedPDF": "Összevont PDF letöltése",
+    "SelectedFiles": "Kiválasztott fájlok",
+    "Clear": "Mind törlése"
   }
 }

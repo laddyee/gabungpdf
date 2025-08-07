@@ -1280,10 +1280,10 @@
       "title": "Spojte soubory PDF online zdarma – Rychlý a snadný slučovač PDF",
       "description": "Spojte PDF online zdarma s GabungPDF.id. Rychlý a snadný slučovač PDF bez nutnosti registrace nebo instalace. Sloučte PDF hned!"
     },
-     "Blog": {
-    "title": "Blog o slučování PDF: Tipy a návody na slučování PDF",
-    "description": "Prozkoumejte blog Gabung PDF pro odborné tipy na slučování PDF, návody a nástroje ke zjednodušení vašich PDF úkolů. Přečtěte si nyní!"
-  },
+    "Blog": {
+      "title": "Blog o slučování PDF: Tipy a návody na slučování PDF",
+      "description": "Prozkoumejte blog Gabung PDF pro odborné tipy na slučování PDF, návody a nástroje ke zjednodušení vašich PDF úkolů. Přečtěte si nyní!"
+    },
     "Blog1": {
       "title": "Nejjednodušší způsob, jak sloučit soubory PDF | Sloučit PDF",
       "description": "Objevte nejjednodušší způsob, jak sloučit soubory PDF s Gabung PDF. Zdarma, rychlý a uživatelsky přívětivý nástroj pro bezproblémové slučování PDF. Vyzkoušejte to!"
@@ -1300,5 +1300,16 @@
       "title": "Podmínky služby Gabung PDF | Slučování PDF",
       "description": "Přečtěte si podmínky služby Gabung PDF pro použití našeho bezplatného a bezpečného online nástroje pro slučování PDF. Seznamte se s našimi zásadami ještě dnes."
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "PDF byly úspěšně sloučeny",
+    "FilesMerged": "Soubory sloučeny",
+    "TotalPages": "Celkový počet stran",
+    "Filename": "Název souboru",
+    "Size": "Velikost",
+    "EncryptedFiles": "Zpracované šifrované soubory",
+    "DownloadMergedPDF": "Stáhnout sloučený PDF",
+    "SelectedFiles": "Vybrané soubory",
+    "Clear": "Vymazat vše"
   }
 }

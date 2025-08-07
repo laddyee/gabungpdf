@@ -1272,10 +1272,10 @@
       "title": "Łączenie Plików PDF Online za Darmo - Szybki i Łatwy Łącznik PDF",
       "description": "Scalaj pliki PDF online za darmo z GabungPDF.id. Szybki i prosty w obsłudze łącznik PDF bez potrzeby rejestracji czy instalacji. Połącz PDF-y teraz!"
     },
-     "Blog": {
-    "title": "Blog łączenia plików PDF: wskazówki i poradniki dotyczące łączenia PDF",
-    "description": "Poznaj blog Gabung PDF, gdzie znajdziesz profesjonalne wskazówki dotyczące łączenia PDF, samouczki i narzędzia ułatwiające pracę z PDF. Przeczytaj teraz!"
-  },
+    "Blog": {
+      "title": "Blog łączenia plików PDF: wskazówki i poradniki dotyczące łączenia PDF",
+      "description": "Poznaj blog Gabung PDF, gdzie znajdziesz profesjonalne wskazówki dotyczące łączenia PDF, samouczki i narzędzia ułatwiające pracę z PDF. Przeczytaj teraz!"
+    },
     "Blog1": {
       "title": "Najłatwiejszy Sposób na Łączenie Plików PDF | Scalanie PDF",
       "description": "Odkryj najłatwiejszy sposób na łączenie plików PDF z Gabung PDF. Darmowe, szybkie i przyjazne dla użytkownika narzędzie do płynnego scalania PDF. Wypróbuj teraz!"
@@ -1292,5 +1292,16 @@
       "title": "Regulamin Usługi Gabung PDF | Scalanie PDF",
       "description": "Zapoznaj się z regulaminem usługi Gabung PDF dotyczącym korzystania z naszego darmowego i bezpiecznego narzędzia do łączenia plików PDF online. Poznaj nasze zasady już dziś."
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "PDF-y zostały pomyślnie połączone",
+    "FilesMerged": "Pliki połączone",
+    "TotalPages": "Całkowita liczba stron",
+    "Filename": "Nazwa pliku",
+    "Size": "Rozmiar",
+    "EncryptedFiles": "Przetworzone zaszyfrowane pliki",
+    "DownloadMergedPDF": "Pobierz połączony PDF",
+    "SelectedFiles": "Wybrane pliki",
+    "Clear": "Wyczyść wszystko"
   }
 }

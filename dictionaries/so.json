@@ -1280,10 +1280,10 @@
       "title": "Isku Biiri PDF Bilaash Online - Isku-dar Degdeg ah oo Fudud",
       "description": "Isku biiri PDF-yada online bilaash adigoo isticmaalaya GabungPDF.id. Isku-dar PDF oo degdeg ah, fudud in la isticmaalo, mana ubaahna isdiiwaan gelin ama rakibid. Ku biiri PDF-yada hadda!"
     },
-     "Blog": {
-    "title": "Blog-ka Isku Darka PDF-yada: Talooyin & Tilmaamo Isku Darka PDF",
-    "description": "Soo hel blog-ga Gabung PDF si aad u hesho talooyin khubaro oo ku saabsan isku darka PDF, casharro, iyo qalab si aad u fududeyso hawshaada PDF. Akhri hadda si aad u hesho aragtiyo!"
-  },
+    "Blog": {
+      "title": "Blog-ka Isku Darka PDF-yada: Talooyin & Tilmaamo Isku Darka PDF",
+      "description": "Soo hel blog-ga Gabung PDF si aad u hesho talooyin khubaro oo ku saabsan isku darka PDF, casharro, iyo qalab si aad u fududeyso hawshaada PDF. Akhri hadda si aad u hesho aragtiyo!"
+    },
     "Blog1": {
       "title": "Habka Ugu Fudud ee Loo Isku Daro PDF | Ku Biir PDF",
       "description": "Ka ogow habka ugu fudud ee lagu isku daro PDF-yada adigoo isticmaalaya Gabung PDF. Bilaash, degdeg ah, una sahlan dadka isticmaala. Isku day hadda!"
@@ -1300,5 +1300,16 @@
       "title": "Shuruudaha Adeegga Gabung PDF | Isku-darka PDF",
       "description": "Dib u eeg shuruudaha adeegga ee Gabung PDF si aad u fahanto sida loo isticmaalo qalabkayaga isku-darka PDF ee online-ka ah, bilaashka ah, oo ammaan ah. Faham siyaasaddayada maanta."
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "PDFs si guulaystay ayaa la isku daray",
+    "FilesMerged": "Faylashii la isku daray",
+    "TotalPages": "Wadar ahaan bogag",
+    "Filename": "Magaca faylka",
+    "Size": "Cabbirka",
+    "EncryptedFiles": "Faylal sir ah oo la farsameeyay",
+    "DownloadMergedPDF": "Soo dejiso PDF la isku daray",
+    "SelectedFiles": "Faylal la xushay",
+    "Clear": "Nadiifi dhammaan"
   }
 }

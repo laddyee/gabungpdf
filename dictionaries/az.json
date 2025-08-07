@@ -1301,5 +1301,16 @@
       "title": "Gabung PDF Xidmət Şərtləri | PDF Birləşdirmə",
       "description": "Pulsuz və təhlükəsiz PDF birləşdirmə vasitəmizdən istifadə qaydalarını öyrənmək üçün Gabung PDF-in xidmət şərtlərini nəzərdən keçirin. Siyasətimizi bu gün anlayın."
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "PDF faylları uğurla birləşdirildi",
+    "FilesMerged": "Fayllar birləşdirildi",
+    "TotalPages": "Ümumi səhifələr",
+    "Filename": "Faylın adı",
+    "Size": "Ölçü",
+    "EncryptedFiles": "Şifrəli fayllar işlənib",
+    "DownloadMergedPDF": "Birləşdirilmiş PDF‑i yüklə",
+    "SelectedFiles": "Seçilmiş fayllar",
+    "Clear": "Hamısını təmizlə"
   }
 }

@@ -1282,9 +1282,9 @@
       "description": "Kombinieren Sie PDFs online kostenlos mit GabungPDF.id. Schnelles und benutzerfreundliches Tool ohne Registrierung oder Installation. PDFs jetzt zusammenführen!"
     },
     "Blog": {
-    "title": "PDFs Zusammenführen Blog: Tipps & Anleitungen",
-    "description": "Entdecken Sie den Gabung PDF-Blog für Expertentipps zum PDF-Merging, Tutorials und Tools zur Vereinfachung Ihrer PDF-Aufgaben. Lesen Sie jetzt für wertvolle Einblicke!"
-  },
+      "title": "PDFs Zusammenführen Blog: Tipps & Anleitungen",
+      "description": "Entdecken Sie den Gabung PDF-Blog für Expertentipps zum PDF-Merging, Tutorials und Tools zur Vereinfachung Ihrer PDF-Aufgaben. Lesen Sie jetzt für wertvolle Einblicke!"
+    },
     "Blog1": {
       "title": "Der einfachste Weg, PDF-Dateien zu kombinieren | PDFs zusammenführen",
       "description": "Entdecken Sie den einfachsten Weg, PDF-Dateien mit Gabung PDF zu kombinieren. Kostenloses, schnelles und benutzerfreundliches Tool für nahtloses PDF-Zusammenführen. Jetzt ausprobieren!"
@@ -1301,5 +1301,16 @@
       "title": "Gabung PDF Nutzungsbedingungen | PDF-Zusammenführung",
       "description": "Lesen Sie die Nutzungsbedingungen von Gabung PDF für die Nutzung unseres kostenlosen, sicheren Online-Tools zur PDF-Zusammenführung. Verstehen Sie noch heute unsere Richtlinien."
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "PDFs erfolgreich kombiniert",
+    "FilesMerged": "Dateien zusammengeführt",
+    "TotalPages": "Gesamtseiten",
+    "Filename": "Dateiname",
+    "Size": "Größe",
+    "EncryptedFiles": "Verarbeitete verschlüsselte Dateien",
+    "DownloadMergedPDF": "Zusammengeführtes PDF herunterladen",
+    "SelectedFiles": "Ausgewählte Dateien",
+    "Clear": "Alles löschen"
   }
 }

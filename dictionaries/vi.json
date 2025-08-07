@@ -1301,5 +1301,16 @@
       "title": "Điều Khoản Dịch Vụ Gabung PDF | Kết hợp PDF",
       "description": "Xem điều khoản dịch vụ của Gabung PDF để sử dụng công cụ kết hợp PDF trực tuyến miễn phí và an toàn của chúng tôi. Hiểu rõ chính sách của chúng tôi ngay hôm nay."
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "Các PDF đã được kết hợp thành công",
+    "FilesMerged": "Các tập tin đã được ghép",
+    "TotalPages": "Tổng số trang",
+    "Filename": "Tên tập tin",
+    "Size": "Kích thước",
+    "EncryptedFiles": "Các tập tin đã mã hóa được xử lý",
+    "DownloadMergedPDF": "Tải xuống PDF đã ghép",
+    "SelectedFiles": "Các tập tin được chọn",
+    "Clear": "Xóa tất cả"
   }
 }

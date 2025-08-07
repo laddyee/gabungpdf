@@ -1280,9 +1280,9 @@
       "description": "GabungPDF.idでPDFを無料でオンライン結合。登録やインストール不要の、迅速で使いやすいPDF結合ツールです。今すぐPDFをマージしよう！"
     },
     "Blog": {
-    "title": "PDF結合ブログ：PDF結合のヒントとガイド",
-    "description": "Gabung PDFのブログをチェックして、PDF結合の専門的なヒント、チュートリアル、PDF作業を簡素化するツールを見つけましょう。今すぐ読んで洞察を得てください！"
-  },
+      "title": "PDF結合ブログ：PDF結合のヒントとガイド",
+      "description": "Gabung PDFのブログをチェックして、PDF結合の専門的なヒント、チュートリアル、PDF作業を簡素化するツールを見つけましょう。今すぐ読んで洞察を得てください！"
+    },
     "Blog1": {
       "title": "PDFファイルを結合する最も簡単な方法｜PDFマージ",
       "description": "Gabung PDFでPDFファイルを結合する最も簡単な方法をご紹介。無料、迅速、そしてユーザーフレンドリーなPDF結合ツールをお試しください！"
@@ -1299,5 +1299,16 @@
       "title": "Gabung PDF利用規約｜PDF結合",
       "description": "Gabung PDFの無料で安全なPDF結合ツールをご利用いただくための利用規約をご確認ください。今すぐ当社のポリシーをご理解ください。"
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "PDF の結合に成功しました",
+    "FilesMerged": "ファイルを結合しました",
+    "TotalPages": "総ページ数",
+    "Filename": "ファイル名",
+    "Size": "サイズ",
+    "EncryptedFiles": "暗号化されたファイルを処理しました",
+    "DownloadMergedPDF": "結合された PDF をダウンロード",
+    "SelectedFiles": "選択されたファイル",
+    "Clear": "すべてクリア"
   }
 }

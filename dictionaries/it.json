@@ -1279,10 +1279,10 @@
       "title": "Unisci File PDF Online Gratis - Fusione PDF Veloce e Facile",
       "description": "Unisci PDF online gratuitamente con GabungPDF.id. Strumento veloce e facile da usare, senza bisogno di registrazione o installazione. Unisci i tuoi PDF ora!"
     },
-     "Blog": {
-    "title": "Blog Unisci PDF: Consigli e Guide per Unire PDF",
-    "description": "Esplora il blog di Gabung PDF per consigli esperti sull’unione di PDF, tutorial e strumenti per semplificare i tuoi compiti con i PDF. Leggi ora per approfondimenti!"
-  },
+    "Blog": {
+      "title": "Blog Unisci PDF: Consigli e Guide per Unire PDF",
+      "description": "Esplora il blog di Gabung PDF per consigli esperti sull’unione di PDF, tutorial e strumenti per semplificare i tuoi compiti con i PDF. Leggi ora per approfondimenti!"
+    },
     "Blog1": {
       "title": "Il Modo Più Facile per Unire File PDF | Unisci PDF",
       "description": "Scopri il modo più semplice per unire file PDF con Gabung PDF. Strumento gratuito, veloce e facile da usare per unire PDF senza sforzi. Provalo!"
@@ -1299,5 +1299,16 @@
       "title": "Termini di Servizio di Gabung PDF | Unione PDF",
       "description": "Consulta i termini di servizio di Gabung PDF per utilizzare il nostro strumento gratuito e sicuro per unire PDF online. Comprendi le nostre politiche oggi."
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "PDF uniti con successo",
+    "FilesMerged": "File uniti",
+    "TotalPages": "Pagine totali",
+    "Filename": "Nome file",
+    "Size": "Dimensione",
+    "EncryptedFiles": "File crittografati elaborati",
+    "DownloadMergedPDF": "Scarica PDF unito",
+    "SelectedFiles": "File selezionati",
+    "Clear": "Cancella tutto"
   }
 }

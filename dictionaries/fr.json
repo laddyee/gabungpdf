@@ -1282,9 +1282,9 @@
       "description": "Combinez vos fichiers PDF en ligne gratuitement avec GabungPDF.id. Un outil de fusion rapide et facile à utiliser, sans inscription ni installation requise. Fusionnez vos PDF maintenant !"
     },
     "Blog": {
-    "title": "Blog Combiner PDFs : Astuces et Guides de Fusion",
-    "description": "Découvrez le blog de Gabung PDF pour des conseils d’experts sur la fusion de PDFs, des tutoriels et des outils pour simplifier vos tâches PDF. Lisez maintenant pour des idées utiles !"
-  },
+      "title": "Blog Combiner PDFs : Astuces et Guides de Fusion",
+      "description": "Découvrez le blog de Gabung PDF pour des conseils d’experts sur la fusion de PDFs, des tutoriels et des outils pour simplifier vos tâches PDF. Lisez maintenant pour des idées utiles !"
+    },
     "Blog1": {
       "title": "La Façon la Plus Simple de Combiner des Fichiers PDF | Fusion de PDF",
       "description": "Découvrez la manière la plus simple de combiner des fichiers PDF avec Gabung PDF. Un outil gratuit, rapide et convivial pour une fusion de PDF fluide. Essayez-le !"
@@ -1301,5 +1301,16 @@
       "title": "Conditions d'Utilisation de Gabung PDF | Fusion de PDF",
       "description": "Consultez les conditions d'utilisation de Gabung PDF pour utiliser notre outil de fusion de PDF en ligne, gratuit et sécurisé. Comprenez nos politiques dès aujourd'hui."
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "PDF fusionnés avec succès",
+    "FilesMerged": "Fichiers fusionnés",
+    "TotalPages": "Pages totales",
+    "Filename": "Nom de fichier",
+    "Size": "Taille",
+    "EncryptedFiles": "Fichiers chiffrés traités",
+    "DownloadMergedPDF": "Télécharger le PDF fusionné",
+    "SelectedFiles": "Fichiers sélectionnés",
+    "Clear": "Tout effacer"
   }
 }

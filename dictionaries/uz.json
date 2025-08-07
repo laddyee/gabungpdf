@@ -1282,10 +1282,10 @@
       "title": "PDF fayllarni bepul onlayn birlashtiring - Tez va oson PDF birlashtirgich",
       "description": "GabungPDF.id bilan PDF fayllarni onlayn bepul birlashtiring. Ro‘yxatdan o‘tmasdan va dastur o‘rnatmasdan foydalanish uchun tez va qulay PDF birlashtirgich. Endi birlashtiring!"
     },
-     "Blog": {
-    "title": "PDFlarni birlashtirish blogi: PDF birlashtirish bo‘yicha maslahatlar va qo‘llanmalar",
-    "description": "Gabung PDF blogini o‘rganing va PDFlarni birlashtirish bo‘yicha mutaxassis maslahatlari, darsliklar va PDF vazifalaringizni soddalashtiruvchi vositalarni toping. Hozir o‘qing!"
-  },
+    "Blog": {
+      "title": "PDFlarni birlashtirish blogi: PDF birlashtirish bo‘yicha maslahatlar va qo‘llanmalar",
+      "description": "Gabung PDF blogini o‘rganing va PDFlarni birlashtirish bo‘yicha mutaxassis maslahatlari, darsliklar va PDF vazifalaringizni soddalashtiruvchi vositalarni toping. Hozir o‘qing!"
+    },
     "Blog1": {
       "title": "PDF fayllarni birlashtirishning eng oson yo‘li | PDF birlashtiring",
       "description": "Gabung PDF bilan PDF fayllarni birlashtirishning eng oson usulini kashf eting. Bepul, tez va foydalanuvchi uchun qulay vosita. Sinab ko‘ring!"
@@ -1302,5 +1302,16 @@
       "title": "Gabung PDF Xizmat Ko‘rsatish Shartlari | PDF birlashtirish",
       "description": "Bizning bepul va xavfsiz onlayn PDF birlashtirish vositamizdan foydalanish uchun Gabung PDF xizmat ko‘rsatish shartlarini ko‘rib chiqing. Siyosatlarimizni bugunoq tushuning."
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "PDF fayllari muvaffaqiyatli birlashtirildi",
+    "FilesMerged": "Fayllar birlashtirildi",
+    "TotalPages": "Jami sahifalar",
+    "Filename": "Fayl nomi",
+    "Size": "Hajmi",
+    "EncryptedFiles": "Shifrlangan fayllar qayta ishlanmoqda",
+    "DownloadMergedPDF": "Birlashgan PDF-ni yuklab olish",
+    "SelectedFiles": "Tanlangan fayllar",
+    "Clear": "Hammasini tozalash"
   }
 }

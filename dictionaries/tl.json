@@ -1281,10 +1281,9 @@
       "description": "Pagsamahin ang mga PDF online nang libre gamit ang GabungPDF.id. Mabilis at madaling gamitin na tagapagsama ng PDF na walang kailangang rehistro o pag-install. Pagsamahin ang mga PDF ngayon!"
     },
     "Blog": {
-    "title": "Combine PDFs Blog: Mga Tip at Gabay sa Pagsasama ng PDF",
-    "description": "Tuklasin ang blog ng Gabung PDF para sa mga ekspertong tip sa pagsasama ng PDF, mga tutorial, at mga tool upang mapadali ang iyong mga gawain sa PDF. Basahin ngayon para sa mga kaalaman!"
-  },
-
+      "title": "Combine PDFs Blog: Mga Tip at Gabay sa Pagsasama ng PDF",
+      "description": "Tuklasin ang blog ng Gabung PDF para sa mga ekspertong tip sa pagsasama ng PDF, mga tutorial, at mga tool upang mapadali ang iyong mga gawain sa PDF. Basahin ngayon para sa mga kaalaman!"
+    },
     "Blog1": {
       "title": "Pinakamadaling Paraan para Pagsamahin ang mga PDF | Pagsamahin ang PDF",
       "description": "Alamin ang pinakamadaling paraan para pagsamahin ang mga PDF gamit ang Gabung PDF. Libre, mabilis, at user-friendly na tool para sa tuluy-tuloy na pagsasama ng PDF. Subukan na!"
@@ -1301,5 +1300,16 @@
       "title": "Mga Tuntunin ng Serbisyo ng Gabung PDF | Pagsasama ng PDF",
       "description": "Suriin ang mga tuntunin ng serbisyo ng Gabung PDF para sa paggamit ng aming libreng, ligtas na online na tool sa pagsasama ng PDF. Unawain ang aming mga patakaran ngayon."
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "Matagumpay na napag-sama ang mga PDF",
+    "FilesMerged": "Mga na‑merge na file",
+    "TotalPages": "Kabuuang pahina",
+    "Filename": "Pangalan ng file",
+    "Size": "Laki",
+    "EncryptedFiles": "Na‑proseso ang mga naka‑encrypt na file",
+    "DownloadMergedPDF": "I-download ang pinagsamang PDF",
+    "SelectedFiles": "Napiling mga file",
+    "Clear": "Burahin lahat"
   }
 }

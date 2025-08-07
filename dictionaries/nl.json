@@ -1281,9 +1281,9 @@
       "description": "Combineer PDF’s online gratis met GabungPDF.id. Snelle en gebruiksvriendelijke PDF-combineerder zonder registratie of installatie. Voeg nu je PDF’s samen!"
     },
     "Blog": {
-    "title": "Combineer PDF's Blog: Tips & Gidsen voor PDF Samenvoegen",
-    "description": "Ontdek de blog van Gabung PDF voor deskundige tips over het samenvoegen van PDF's, tutorials en tools om uw PDF-taken te vereenvoudigen. Lees nu voor inzichten!"
-  },
+      "title": "Combineer PDF's Blog: Tips & Gidsen voor PDF Samenvoegen",
+      "description": "Ontdek de blog van Gabung PDF voor deskundige tips over het samenvoegen van PDF's, tutorials en tools om uw PDF-taken te vereenvoudigen. Lees nu voor inzichten!"
+    },
     "Blog1": {
       "title": "De Eenvoudigste Manier om PDF-bestanden te Combineren | PDF’s Samenvoegen",
       "description": "Ontdek de eenvoudigste manier om PDF-bestanden te combineren met Gabung PDF. Gratis, snel en gebruiksvriendelijk hulpmiddel voor moeiteloos PDF’s samenvoegen. Probeer het nu!"
@@ -1300,5 +1300,16 @@
       "title": "Gabung PDF Gebruiksvoorwaarden | PDF-samenvoeging",
       "description": "Bekijk de gebruiksvoorwaarden van Gabung PDF voor het gebruik van onze gratis, veilige online PDF-samenvoegtool. Begrijp vandaag nog ons beleid."
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "PDF's succesvol samengevoegd",
+    "FilesMerged": "Bestanden samengevoegd",
+    "TotalPages": "Totaal aantal pagina's",
+    "Filename": "Bestandsnaam",
+    "Size": "Grootte",
+    "EncryptedFiles": "Verwerkte versleutelde bestanden",
+    "DownloadMergedPDF": "Download samengevoegd PDF",
+    "SelectedFiles": "Geselecteerde bestanden",
+    "Clear": "Alles wissen"
   }
 }

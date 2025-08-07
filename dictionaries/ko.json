@@ -1283,10 +1283,10 @@
       "title": "PDF 파일 온라인 무료 병합 - 빠르고 쉬운 PDF 병합 도구",
       "description": "GabungPDF.id에서 PDF를 무료로 온라인 병합하세요. 설치나 가입이 필요 없는 빠르고 사용하기 쉬운 PDF 병합기입니다. 지금 PDF를 병합해보세요!"
     },
-     "Blog": {
-    "title": "PDF 합치기 블로그: PDF 병합 팁 및 가이드",
-    "description": "Gabung PDF 블로그에서 PDF 병합에 대한 전문가 팁, 튜토리얼 및 PDF 작업을 간소화하는 도구를 확인하세요. 지금 읽고 인사이트를 얻으세요!"
-  },
+    "Blog": {
+      "title": "PDF 합치기 블로그: PDF 병합 팁 및 가이드",
+      "description": "Gabung PDF 블로그에서 PDF 병합에 대한 전문가 팁, 튜토리얼 및 PDF 작업을 간소화하는 도구를 확인하세요. 지금 읽고 인사이트를 얻으세요!"
+    },
     "Blog1": {
       "title": "PDF 파일을 병합하는 가장 쉬운 방법 | PDF 병합",
       "description": "Gabung PDF로 PDF 파일을 병합하는 가장 쉬운 방법을 확인해보세요. 무료, 빠르고 사용자 친화적인 도구로 간편하게 PDF를 병합해보세요!"
@@ -1303,5 +1303,16 @@
       "title": "Gabung PDF 이용약관 | PDF 병합",
       "description": "Gabung PDF의 무료이면서도 안전한 온라인 PDF 병합 도구를 사용할 때의 이용약관을 확인하세요. 지금 당사의 정책을 이해해보세요."
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "PDF가 성공적으로 결합되었습니다",
+    "FilesMerged": "파일이 병합되었습니다",
+    "TotalPages": "전체 페이지 수",
+    "Filename": "파일 이름",
+    "Size": "크기",
+    "EncryptedFiles": "암호화된 파일 처리됨",
+    "DownloadMergedPDF": "병합된 PDF 다운로드",
+    "SelectedFiles": "선택된 파일",
+    "Clear": "모두 지우기"
   }
 }

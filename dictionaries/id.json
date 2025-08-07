@@ -1281,10 +1281,10 @@
       "title": "Gabungkan File PDF Online Gratis - Penggabung PDF Cepat & Mudah",
       "description": "Gabungkan PDF secara online gratis dengan GabungPDF.id. Penggabung PDF yang cepat dan mudah digunakan tanpa registrasi atau instalasi. Gabungkan PDF sekarang!"
     },
-     "Blog": {
-    "title": "Blog Gabungkan PDF: Tips & Panduan Penggabungan PDF",
-    "description": "Jelajahi blog Gabung PDF untuk tips ahli tentang menggabungkan PDF, tutorial, dan alat untuk menyederhanakan tugas PDF Anda. Baca sekarang untuk wawasan!"
-  },
+    "Blog": {
+      "title": "Blog Gabungkan PDF: Tips & Panduan Penggabungan PDF",
+      "description": "Jelajahi blog Gabung PDF untuk tips ahli tentang menggabungkan PDF, tutorial, dan alat untuk menyederhanakan tugas PDF Anda. Baca sekarang untuk wawasan!"
+    },
     "Blog1": {
       "title": "Cara Termudah Menggabungkan File PDF | Gabungkan PDF",
       "description": "Temukan cara termudah untuk menggabungkan file PDF dengan Gabung PDF. Alat gratis, cepat, dan ramah pengguna untuk menggabungkan PDF dengan lancar. Coba sekarang!"
@@ -1301,5 +1301,16 @@
       "title": "Syarat Layanan Gabung PDF | Penggabungan PDF",
       "description": "Tinjau syarat layanan Gabung PDF untuk menggunakan alat penggabung PDF online kami yang gratis dan aman. Pahami kebijakan kami hari ini!"
     }
+  },
+  "DownlaodModal": {
+    "PDFCombinedSuccessfully": "PDF berhasil digabungkan",
+    "FilesMerged": "File digabungkan",
+    "TotalPages": "Total halaman",
+    "Filename": "Nama file",
+    "Size": "Ukuran",
+    "EncryptedFiles": "File terenkripsi diproses",
+    "DownloadMergedPDF": "Unduh PDF gabungan",
+    "SelectedFiles": "File terpilih",
+    "Clear": "Kosongkan semua"
   }
 }
