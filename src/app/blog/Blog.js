@@ -18,7 +18,10 @@ const BlogPage = () => {
       </div>
     )
   }else{
+        if(currentLang!=='en')
+    {
     redirect(`/${currentLang}/blog`)
+    }
   }
 
   return (

@@ -7,9 +7,8 @@ import React from "react";
 import { useLanguage } from "../../../lib/languageContext";
 import { redirect } from "next/navigation";
 
-
 const TermOfServices = () => {
-  const {currentLang , dict, loading } = useLanguage();
+  const { currentLang, dict, loading } = useLanguage();
 
   if (loading || !dict) {
     return (
@@ -20,8 +19,10 @@ const TermOfServices = () => {
         </div>
       </div>
     );
-  }else{
-    redirect(`/${currentLang}/terms-of-service`)
+  } else {
+    if (currentLang !== "en") {
+      redirect(`/${currentLang}/terms-of-service`);
+    }
   }
 
   const scrollToSection = (id) => {
@@ -210,7 +211,7 @@ const TermOfServices = () => {
       </div>
 
       <Policy
-         Points={dict.Terms.sections2.points}
+        Points={dict.Terms.sections2.points}
         title={dict.Terms.sections2.title}
         desc={dict.Terms.sections2.desc}
       ></Policy>

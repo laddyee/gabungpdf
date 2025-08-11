@@ -1,16 +1,13 @@
-"use client"
-import CombinePdfForm from "@/Components/CombinePdfPage/CombinePdfForm/CombinePdfForm"
-import CombinePdfInstructions from "@/Components/CombinePdfPage/CombinePdfInstructions/CombinePdfInstructions"
-import { useLanguage } from "../../../lib/languageContext"
-import { redirect } from "next/navigation"
-
+"use client";
+import CombinePdfForm from "@/Components/CombinePdfPage/CombinePdfForm/CombinePdfForm";
+import CombinePdfInstructions from "@/Components/CombinePdfPage/CombinePdfInstructions/CombinePdfInstructions";
+import { useLanguage } from "../../../lib/languageContext";
+import { redirect } from "next/navigation";
 
 const CombinePdfPage = () => {
-  const { currentLang, dict, loading } = useLanguage()
+  const { currentLang, dict, loading } = useLanguage();
 
   console.log(currentLang);
-  
-  
 
   if (loading || !dict) {
     return (
@@ -20,12 +17,12 @@ const CombinePdfPage = () => {
           <p className="text-gray-600">Loading...</p>
         </div>
       </div>
-    )
-  }else{
-    redirect(`/${currentLang}/combine-pdf`)
+    );
+  } else {
+    if (currentLang !== "en") {
+      redirect(`/${currentLang}/combine-pdf`);
+    }
   }
-
-
 
   return (
     <>
@@ -34,7 +31,7 @@ const CombinePdfPage = () => {
         <CombinePdfInstructions lang={currentLang} dict={dict} />
       </section>
     </>
-  )
-}
+  );
+};
 
-export default CombinePdfPage
+export default CombinePdfPage;

@@ -149,7 +149,11 @@ const Privacy = () => {
       </div>
     );
   } else {
-    redirect(`/${currentLang}/privacy-policy`)
+    if(currentLang!=='en')
+    {
+
+      redirect(`/${currentLang}/privacy-policy`)
+    }
   }
 
   const data = dict.privacy.UpperSec.tableOfContents;
