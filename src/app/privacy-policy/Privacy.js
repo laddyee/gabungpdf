@@ -137,9 +137,7 @@ const Privacy = () => {
   };
   console.log(dict);
 
-  const data = dict.privacy.UpperSec.tableOfContents;
-  const sections = dict.privacy.sections;
-  const footer = dict.privacy.footer;
+
 
   if (loading || !dict) {
     return (
@@ -153,6 +151,10 @@ const Privacy = () => {
   } else {
     redirect(`/${currentLang}/privacy-policy`)
   }
+
+  const data = dict.privacy.UpperSec.tableOfContents;
+  const sections = dict.privacy.sections;
+  const footer = dict.privacy.footer;
 
   return (
     <>
