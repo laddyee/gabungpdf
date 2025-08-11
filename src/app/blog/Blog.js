@@ -23,7 +23,6 @@ const BlogPage = () => {
     redirect(`/${currentLang}/blog`)
     }
   }
-
   return (
     <>
       <div className="flex-1">
