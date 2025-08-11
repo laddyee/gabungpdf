@@ -1,62 +1,34 @@
 const languages = [
-  "ar",
-  "az",
-  "be",
-  "bn",
-  "bg",
-  "ca",
-  "zhCN",
-  "zhTW",
-  "hr",
-  "cs",
-  "nl",
-  "en",
-  "tl",
-  "fr",
-  "de",
-  "el",
-  "hi",
-  "hu",
-  "id",
-  "it",
-  "ja",
-  "ko",
-  "ms",
-  "my",
-  "ne",
-  "pl",
-  "pt",
-  "pa",
-  "ro",
-  "ru",
-  "si",
-  "so",
-  "es",
-  "sv",
-  "th",
-  "tr",
-  "uk",
-  "ur",
-  "uz",
-  "vi",
-]; // 🌐 Use your actual languages
+  "ar","az","be","bn","bg","ca","zhCN","zhTW","hr","cs","nl","en","tl","fr",
+  "de","el","hi","hu","id","it","ja","ko","ms","my","ne","pl","pt","pa","ro",
+  "ru","si","so","es","sv","th","tr","uk","ur","uz","vi",
+];
 
 module.exports = {
   siteUrl: 'https://www.gabungpdf.id',
   generateRobotsTxt: true,
 
-  // ✅ Force single sitemap file
+  // ✅ Single sitemap file
   generateIndexSitemap: false,
   sitemapSize: 10000,
 
-  // ✅ Optional SEO values
   changefreq: 'daily',
   priority: 0.8,
 
-  // ✅ Add dynamic pages manually
+  // ✅ Remove default static paths
+  exclude: [
+    '/',
+    '/combine-pdf',
+    '/privacy-policy',
+    '/terms-of-service',
+    '/blog',
+    '/blog/*',
+  ],
+
+  // ✅ Manually add language-prefixed versions
   additionalPaths: async () => {
     const staticPaths = [
-      '/',
+      '/', // homepage
       '/combine-pdf',
       '/privacy-policy',
       '/terms-of-service',
