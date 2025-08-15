@@ -4,6 +4,8 @@ import CombinePdfInstructions from "@/Components/CombinePdfPage/CombinePdfInstru
 import { useLanguage } from "../../../lib/languageContext";
 import { redirect } from "next/navigation";
 
+
+
 const CombinePdfPage = () => {
   const { currentLang, dict, loading } = useLanguage();
 
@@ -33,5 +35,6 @@ const CombinePdfPage = () => {
     </>
   );
 };
+
 
 export default CombinePdfPage;
