@@ -4,6 +4,7 @@ import { ThemeProvider } from "@/Components/ThemeProvider/theme-provider";
 import { LanguageProvider, useLanguage } from "../../lib/languageContext";
 import { Navbar } from "@/Components/Navbar/Navbar";
 import Footer from "@/Components/Footer/Footer";
+import Script from 'next/script'
 
 const figtree = Figtree({
   subsets: ["latin"],
@@ -22,13 +23,23 @@ export default function RootLayout({ children }) {
 
   return (
     <html lang="en" className={figtree.variable} suppressHydrationWarning>
-    {/* <head>
-            <link
-              rel="canonical"
-              href={`https://www.gabungpdf.id`}
-              key="canonical"
-            />
-          </head> */}
+    <head>
+{/* Google Analytics */}
+        <Script
+          async
+          src="https://www.googletagmanager.com/gtag/js?id=G-BPR6QQ37L4"
+        />
+        <Script id="google-analytics">
+          {`
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+            gtag('config', 'G-BPR6QQ37L4', {
+              page_path: window.location.pathname,
+            });
+          `}
+        </Script>
+          </head>
       <body suppressHydrationWarning>
         <ThemeProvider defaultTheme="light">
           <LanguageProvider>
