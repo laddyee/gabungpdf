@@ -42,7 +42,7 @@ const languages = [
 
 module.exports = {
   siteUrl: "https://www.gabungpdf.id",
-  generateRobotsTxt: true,
+  // generateRobotsTxt: true,
 
   // ✅ Force single sitemap file
   generateIndexSitemap: false,
