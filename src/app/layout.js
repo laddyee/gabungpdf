@@ -24,6 +24,10 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" className={figtree.variable} suppressHydrationWarning>
     <head>
+      <meta
+          name="google-site-verification"
+          content="t138eMpYM3qAs_tf6sDhfG7R1Nr1BFSXzjr9r441oY4"
+        />
 {/* Google Analytics */}
         <Script
           async
