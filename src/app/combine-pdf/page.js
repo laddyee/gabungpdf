@@ -1,9 +1,9 @@
 import React from 'react'
 import CombinePdfPage from './CombinePdf'
 export const metadata = {
-  title: "Combine PDF Files Online Free - Fast & Easy PDFs Merger",
+  title: "Online PDF Combiner | Merge PDFs Securely with GabungPDF.id",
   description:
-    "Combine PDFs online for free with GabungPDF.id. Fast and easy to use PDF combiner with no registration or installation needed. Merge PDFs now!",
+    "Combine PDF files instantly with GabungPDF.id. Our online PDF merger is fast, secure, and works on all devices – no registration or installation needed.",
    alternates: {
       canonical: `https://www.gabungpdf.id/combine-pdf`,
     },

@@ -12,8 +12,8 @@ const figtree = Figtree({
 });
 
 export const metadata = {
-  title: "Combine PDF Online Free - Merge PDF Files Easily & Quickly",
-  description: "Combine PDF documents online for free with GabungPDF.id. Easy-to-use PDF combiner, no installation, no registration. Easily merge PDFs now!",
+  title: "Gabung PDFs | Combine PDF Files Online for Free – Merge PDF Fast",
+  description: "Gabung PDFs | Combine PDFs easily with GabungPDF.id! Free, fast, secure online tool to merge PDF files in seconds. No registration needed. Try PDF combiner!",
    alternates: {
       canonical: `https://www.gabungpdf.id`,
     },
